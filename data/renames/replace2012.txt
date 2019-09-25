@@ -1,0 +1,182 @@
+MH Changes and deletes. 2012 MeSH. September 1, 2011
+
+Total replaced     = 42
+Total deleted      = 15
+
+# = delete
+
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)
+
+* = old term in a different record than the new term
+
+
+MH OLD = Acute Toxicity Tests [P]
+MH NEW = Toxicity Tests, Acute
+
+MH OLD = Autocrine Motility Factor # [N]
+MH NEW = Glucose-6-Phosphate Isomerase
+
+MH OLD = Biological Products [P]
+MH NEW = Biological Agents
+
+MH OLD = Capillarity [P]
+MH NEW = Capillary Action
+
+MH OLD = Chemiluminescent Measurements # [N]
+MH NEW = Luminescent Measurements
+
+MH OLD = Colony-Stimulating Factors, Recombinant # []
+MH NEW = Colony-Stimulating Factors
+
+MH OLD = Community Health Aides [P]
+MH NEW = Community Health Workers
+
+MH OLD = Education of Mentally Retarded [P]
+MH NEW = Education of Intellectually Disabled
+
+MH OLD = Effect Modifiers (Epidemiology) []
+MH NEW = Effect Modifier, Epidemiologic
+
+MH OLD = Enterobacter sakazakii [P]
+MH NEW = Cronobacter sakazakii
+
+MH OLD = Epoetin Alfa # []
+MH NEW = Erythropoietin
+
+MH OLD = Erythropoietin, Recombinant # []
+MH NEW = Erythropoietin
+
+MH OLD = Ferrosoferric Oxide [P]
+MH NEW = Ferumoxytol
+
+MH OLD = Filgrastim # [C]
+MH NEW = Granulocyte Colony-Stimulating Factor
+
+MH OLD = Flexibacteraceae [N]
+MH NEW = Cytophagaceae
+
+MH OLD = Flexibacteraceae Infections [N]
+MH NEW = Cytophagaceae Infections
+
+MH OLD = Gestational Trophoblastic Neoplasms [P]
+MH NEW = Gestational Trophoblastic Disease
+
+MH OLD = Granulocyte Colony Stimulating Factor, Recombinant # []
+MH NEW = Granulocyte Colony-Stimulating Factor
+
+MH OLD = Granulocyte Macrophage Colony-Stimulating Factors, Recombinant # []
+MH NEW = Granulocyte-Macrophage Colony-Stimulating Factor
+
+MH OLD = Indigotindisulfonate Sodium [P]
+MH NEW = Indigo Carmine
+
+MH OLD = Insulin, NPH [P]
+MH NEW = Insulin, Isophane
+
+MH OLD = Interferon Alfa-2a # []
+MH NEW = Interferon-alpha
+
+MH OLD = Interferon Alfa-2b # []
+MH NEW = Interferon-alpha
+
+MH OLD = Interferon Alfa-2c # []
+MH NEW = Interferon-alpha
+
+MH OLD = Interferon Type I, Recombinant # []
+MH NEW = Interferon Type I
+
+MH OLD = Interferon-gamma, Recombinant # []
+MH NEW = Interferon-gamma
+
+MH OLD = Intervertebral Disk [P]
+MH NEW = Intervertebral Disc
+
+MH OLD = Intervertebral Disk Chemolysis [P]
+MH NEW = Intervertebral Disc Chemolysis
+
+MH OLD = Intervertebral Disk Degeneration [P]
+MH NEW = Intervertebral Disc Degeneration
+
+MH OLD = Intervertebral Disk Displacement [P]
+MH NEW = Intervertebral Disc Displacement
+
+MH OLD = Kangai-1 Protein [P]
+MH NEW = Antigens, CD82
+
+MH OLD = Laboratory Personnel [M*]
+MH NEW = Medical Laboratory Personnel
+
+MH OLD = Laboratory Techniques and Procedures # []
+MH NEW = Clinical Laboratory Techniques
+
+MH OLD = LDL-Receptor Related Protein 1 [P]
+MH NEW = Low Density Lipoprotein Receptor-Related Protein-1
+
+MH OLD = LDL-Receptor Related Protein 2 [P]
+MH NEW = Low Density Lipoprotein Receptor-Related Protein-2
+
+MH OLD = Legg-Perthes Disease [P]
+MH NEW = Legg-Calve-Perthes Disease
+
+MH OLD = Mental Retardation [P]
+MH NEW = Intellectual Disability
+
+MH OLD = Microfilaments [P]
+MH NEW = Actin Cytoskeleton
+
+MH OLD = Mycobacteria, Atypical [P]
+MH NEW = Nontuberculous Mycobacteria
+
+MH OLD = Mycobacterium Infections, Atypical [P]
+MH NEW = Mycobacterium Infections, Nontuberculous
+
+MH OLD = NADP Transhydrogenase [P]
+MH NEW = NADP Transhydrogenases
+
+MH OLD = Neuroleukin # [N]
+MH NEW = Glucose-6-Phosphate Isomerase
+
+MH OLD = Physical Therapy (Specialty) []
+MH NEW = Physical Therapy Specialty
+
+MH OLD = Plaque Assay []
+MH NEW = Viral Plaque Assay
+
+MH OLD = Regurgitation, Gastric [P]
+MH NEW = Laryngopharyngeal Reflux
+
+MH OLD = Rhizobium radiobacter [P]
+MH NEW = Agrobacterium tumefaciens
+
+MH OLD = Sarcoma, Ewing's [P]
+MH NEW = Sarcoma, Ewing
+
+MH OLD = Scopolamine [P]
+MH NEW = Scopolamine Hydrobromide
+
+MH OLD = Technology, Medical []
+MH NEW = Medical Laboratory Science
+
+MH OLD = Temporomandibular Joint Disk [P]
+MH NEW = Temporomandibular Joint Disc
+
+MH OLD = Tiapride [P]
+MH NEW = Tiapamil Hydrochloride
+
+MH OLD = Translational Research [P]
+MH NEW = Translational Medical Research
+
+MH OLD = Trenbolone [P]
+MH NEW = Trenbolone Acetate
+
+MH OLD = Triptorelin [P]
+MH NEW = Triptorelin Pamoate
+
+MH OLD = Vibrio fischeri [P]
+MH NEW = Aliivibrio fischeri
+
+MH OLD = Vibrio salmonicida [P]
+MH NEW = Aliivibrio salmonicida
+
+MH OLD = Yersinia rucker [P]
+MH NEW = Yersinia ruckeri

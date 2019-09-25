@@ -1,0 +1,2376 @@
+﻿NEW (2013) MESH HEADINGS WITH SCOPE NOTES (UNIT RECORD FORMAT; 12/14/2012)
+
+TOTAL 2013 NEW DESCRIPTORS = 302
+
+MH  - 2',3'-Cyclic Nucleotide 3'-Phosphodiesterase
+UI  - D063309
+MN  - D8.811.277.352.640.160.500
+MN  - D12.776.641.580.124
+MS  - A phosphodiesterase that specifically cleaves the 3'-phosphate linkage of 2',3'-cyclic nucleotides. It is found at high level in the cytoplasm of cells that form the MYELIN SHEATH.
+HN  - 2013
+BX  - 2',3'-Cyclic Nucleotide 3'-Phosphodiesterases
+
+MH  - Abdominoplasty
+UI  - D061645
+MN  - E2.218.42
+MN  - E4.680.25
+MS  - Surgical removal of excess abdominal skin and fat and tightening of the ABDOMINAL WALL. Abdominoplasty may include LIPECTOMY of INTRA-ABDOMINAL FAT, tightening of the ABDOMINAL MUSCLES, and re-creation of the UMBILICUS.
+HN  - 2013
+
+MH  - Acanthocheilonema
+UI  - D063486
+MN  - B1.50.500.500.294.700.750.700.300.43
+MS  - A common genus of tropical filarial worms parasitic in humans and monkeys.
+AN  - infection = ACANTHOCHEILONEMIASIS but infection with ACANTHOCHEILONEMA PERSTANS = ACANTHOCHEILONEMA PERSTANS INFECTION see MANSONELLIASIS; coordinate with specific helminth term (ANTIGENS, HELMINTH, etc) if pertinent
+HN  - 2013; use Dipetalonema 1986-2012
+
+MH  - Acanthocheilonemiasis
+UI  - D063485
+MN  - C3.335.508.700.750.361.137
+MS  - A tropical infectious disease found mainly in Africa that is caused by the filarial parasite ACANTHOCHEILONEMA PERSTANS. Symptoms include skin rashes, abdominal, chest, muscle, and joint pains, neurologic disorders, skin lumps, and elevated levels of white blood cells. The parasite is transmitted through the bite of small flies.
+AN  - infection with ACANTHOCHEILONEMA PERSTANS = ACANTHOCHEILONEMIASIS PERSTANS INFECTION see MANSONELLIASIS
+HN  - 2013
+
+MH  - Accelerometry
+UI  - D061725
+MN  - E5.03
+MS  - Qualitative and quantitative measurement of MOVEMENT patterns.
+HN  - 2013
+
+MH  - Acellular Dermis
+UI  - D062088
+MN  - A17.815.180.40
+MN  - E7.945.750.40
+MS  - Remaining tissue from normal DERMIS tissue after the cells are removed.
+AN  - coordinate with SKIN TRANSPLANTATION if appropriate
+HN  - 2013
+
+MH  - Acid Sensing Ion Channel Blockers
+UI  - D062646
+MN  - D27.505.519.562.750.100
+MS  - A subclass of sodium channel blockers that are specific for ACID-SENSING SODIUM CHANNELS.
+HN  - 2013
+BX  - Proton-Gated Sodium Channel Blockers
+
+MH  - Acid Sensing Ion Channels
+UI  - D062565
+MN  - D12.776.157.530.400.875.50
+MN  - D12.776.543.550.425.875.50
+MN  - D12.776.543.585.400.875.50
+MN  - D12.776.641.24
+MS  - A family of proton-gated sodium channels that are primarily expressed in neuronal tissue. They are AMILORIDE-sensitive and are implicated in the signaling of a variety of neurological stimuli, most notably that of pain in response to acidic conditions.
+HN  - 2013
+BX  - Proton-Gated Sodium Channels
+
+MH  - Adenomyosis
+UI  - D062788
+MN  - C13.351.500.852.113
+MS  - The extension of endometrial tissue (ENDOMETRIUM) into the MYOMETRIUM. It usually occurs in women in their reproductive years and may result in a diffusely enlarged uterus with ectopic and benign endometrial glands and stroma.
+HN  - 2013; use ENDOMETRITIS 1975-2012
+
+MH  - Administration, Intravenous
+UI  - D061605
+MN  - E2.319.267.82
+MS  - Delivery of substances through VENIPUNCTURE into the VEINS.
+HN  - 2013
+
+MH  - Advanced Oxidation Protein Products
+UI  - D062107
+MN  - D12.776.643.249
+MS  - A class of dityrosine-containing protein-derived molecules formed by OXIDATIVE STRESS. Their accumulation in plasma is associated with certain pathological conditions.
+HN  - 2013
+
+MH  - Advanced Trauma Life Support Care
+UI  - D061906
+MN  - E2.365.152
+MN  - E2.760.440.40
+MN  - N2.421.297.28
+MN  - N2.421.585.440.40
+MS  - The initial life support care of the severely injured patient.
+HN  - 2013
+BX  - Advanced Trauma Life Support
+FX  - Traumatology
+
+MH  - Adventitia
+UI  - D063194
+MN  - A10.165.189
+MS  - The outermost covering of organs, blood vessels, and other such structures in the body.
+HN  - 2013; use CONNECTIVE TISSUE 2005-2012
+
+MH  - Ageism
+UI  - D063506
+MN  - F1.145.813.550.249
+MN  - F1.145.813.629.500
+MN  - F1.829.595.249
+MS  - Biased behaviors or attitudes, differential treatment, unequal access to social participation or opportunities based on age.
+HN  - 2013; use PREJUDICE 1995-2012
+
+MH  - Air Filters
+UI  - D061808
+MN  - E5.196.454.201
+MN  - E7.39
+MS  - Barriers used to separate and remove PARTICULATE MATTER from air.
+HN  - 2013
+BX  - Air Filter
+
+MH  - Alice in Wonderland Syndrome
+UI  - D062026
+MN  - C10.228.140.546.399.750.124
+MN  - C10.597.606.762.150
+MN  - C10.597.751.941.36
+MN  - C23.888.592.604.764.150
+MN  - C23.888.592.763.941.36
+MN  - F1.700.750.150
+MS  - Neurological condition characterized by disturbances in VISUAL PERCEPTION, most often of BODY SCHEMA, TIME PERCEPTION and HALLUCINATIONS. It is associated with MIGRAINE, infections (e.g., INFECTIOUS MONONUCLEOSIS), FEVER, EPILEPSY, and other neurological and psychiatric disorders.
+HN  - 2013
+
+MH  - Aminobenzoates
+UI  - D062365
+MN  - D2.241.223.100.50
+MN  - D2.455.426.559.389.127.20
+MS  - Derivatives of BENZOIC ACID that contain one or more amino groups attached to the benzene ring structure. Included under this heading are a broad variety of acid forms, salts, esters, and amides that include the aminobenzoate structure.
+HN  - 2013
+
+MH  - Anatomic Variation
+UI  - D063405
+MN  - H1.158.100.45
+MS  - Peculiarities associated with the internal structure, form, topology, or architecture of organisms that distinguishes them from others of the same species or group.
+HN  - 2013
+
+MH  - Animal Distribution
+UI  - D063147
+MN  - F1.145.113.69
+MN  - G16.49
+MS  - A process by which animals in various forms and stages of development are physically distributed through time and space.
+HN  - 2013
+BX  - Animal Dispersal
+
+MH  - Antioxidant Response Elements
+UI  - D061745
+MN  - G2.111.570.80.689.675.700.40
+MN  - G5.360.80.689.675.700.40
+MN  - G5.360.340.24.340.137.750.680.765.40
+MS  - Nucleotide sequences that are found in the PROMOTER REGIONS of the genes of stress-responsive and cytoprotective proteins, such as those encoding antioxidant and PHASE II DETOXIFICATION enzymes. NF-E2-RELATED FACTOR 2 containing transcription factors bind to these elements during induction of these genes.
+HN  - 2013
+FX  - Metabolic Detoxication, Phase II
+FX  - NF-E2-Related Factor 2
+
+MH  - Arterial Pressure
+UI  - D062186
+MN  - G9.330.380.76.347
+MS  - The blood pressure in the ARTERIES. It is commonly measured with a SPHYGMOMANOMETER on the upper arm which represents the arterial pressure in the BRACHIAL ARTERY.
+HN  - 2013
+
+MH  - Atrial Pressure
+UI  - D062185
+MN  - G9.330.190.75.600
+MN  - G9.330.380.37
+MS  - The pressure within the CARDIAC ATRIUM. It can be measured directly by using a pressure catheter (see HEART CATHETERIZATION). It can be also estimated using various imaging techniques or other pressure readings such as PULMONARY CAPILLARY WEDGE PRESSURE (an estimate of left atrial pressure) and CENTRAL VENOUS PRESSURE (an estimate of right atrial pressure).
+HN  - 2013
+
+MH  - AU Rich Elements
+UI  - D063307
+MN  - G2.111.570.80.689.687.61
+MN  - G5.360.80.689.687.61
+MN  - G5.360.340.24.220.880.880.500
+MN  - G5.360.340.24.340.137.910.880.500
+MS  - RNA sequences composed of ADENINE NUCLEOTIDES and URACIL NUCLEOTIDES, that are located in the 3'UNTRANSLATED REGIONS of MESSENGER RNA molecules that are rapidly degraded. They are also known as AREs.
+HN  - 2013
+
+MH  - Balkan Peninsula
+UI  - D063368
+MN  - Z1.542.101
+MS  - A peninsula in Southeast EUROPE between the Adriatic and Ionian seas on the West and Aegean and Black Seas on the East. (from www.merriam-webster.com/dictionary/balkan%20peninsula)
+HN  - 2013
+
+MH  - Balloon Embolectomy
+UI  - D063125
+MN  - E2.148.93
+MN  - E4.100.814.445.500
+MS  - The use of balloon CATHETERS to remove emboli by retraction of the balloon that is inflated behind the EMBOLUS.
+HN  - 2013
+BX  - Fogarty Balloon Catheterization
+
+MH  - Balloon Valvuloplasty
+UI  - D063126
+MN  - E2.148.108
+MS  - Widening of a stenosed HEART VALVE by the insertion of a balloon CATHETER into the valve and inflation of the balloon.
+HN  - 2013
+BX  - Balloon Valvotomy
+
+MH  - Binge Drinking
+UI  - D063425
+MN  - C25.100.437
+MN  - F1.145.317.269.500
+MN  - F3.900.100.550
+MS  - Drinking an excessive amount of ALCOHOLIC BEVERAGES in a short period of time.
+HN  - 2013
+
+MH  - Bioprinting
+UI  - D062028
+MN  - E5.111
+MN  - J1.293.69.124
+MS  - A material transfer technique used for assembling biological material or cells into a prescribed organization to create functional structures such as MICROCHIP ANALYTICAL DEVICES, cell microarrays, or three dimensional anatomical structures.
+HN  - 2013
+FX  - Guided Tissue Regeneration
+
+MH  - Biopsy, Large-Core Needle
+UI  - D062005
+MN  - E1.370.225.500.384.100.119.750
+MN  - E1.370.225.998.54.119.750
+MN  - E1.370.388.100.100.750
+MN  - E4.74.119.750
+MN  - E4.665.100.750
+MN  - E5.200.500.384.100.119.750
+MN  - E5.200.998.54.119.750
+MN  - E5.242.384.100.119.750
+MS  - The use of needles usually larger than 14-gauge to remove tissue samples large enough to retain cellular architecture for pathology examination.
+AN  - usually NIM with specific organ/pathol (IM) + disease /pathol (IM)
+HN  - 2013
+
+MH  - Brain-Computer Interfaces
+UI  - D062207
+MN  - E7.305.76
+MS  - Instrumentation consisting of hardware and software that communicates with the BRAIN. The hardware component of the interface records brain signals, while the software component analyzes the signals and converts them into a command that controls a device or sends a feedback signal to the brain.
+HN  - 2013
+FX  - User-Computer Interface
+
+MH  - Breakfast
+UI  - D062408
+MN  - F1.145.407.432.500.100
+MN  - F1.145.466.349.500.100
+MN  - J2.500.590.120
+MS  - The first meal of the day.
+HN  - 2013
+
+MH  - Breath Holding
+UI  - D062485
+MN  - G9.772.770.755.349
+MS  - An involuntary or voluntary pause in breathing, sometimes accompanied by loss of consciousness.
+HN  - 2013
+
+MH  - Brown Recluse Spider
+UI  - D063287
+MN  - B1.50.500.131.166.803.600
+MS  - A spider of the genus Loxosceles, found in the midwestern and other parts of the United States, which carries a hemolytic venom that produces local necrosis or ulceration.
+AN  - bite: coordinate IM with ARACHNIDISM (IM)
+HN  - 2013
+
+MH  - Buschke-Lowenstein Tumor
+UI  - D062688
+MN  - C2.256.650.810.217.500
+MN  - C2.800.801.220.500
+MN  - C2.825.810.110.500
+MN  - C2.928.914.217.500
+MN  - C4.557.470.200.450.500
+MN  - C4.557.470.700.450.500
+MN  - C17.800.838.790.810.110.500
+MS  - Exophytic tumor of the anogenital region associated with HPV infections. It becomes a large cauliflower-like, hyperkeratotic, verrucous mass that is locally destructive with little atypical cells. Histologically, tumor cells are broad rete peg structures that tend to invade deeper than CONDYLOMATA ACUMINATA.
+AN  - coordinate IM with precoordinated organ/neoplasm term (IM)
+HN  - 2013
+BX  - Buschke-Löwenstein Tumor
+
+MH  - Cannabinoid Receptor Agonists
+UI  - D063386
+MN  - D27.505.519.625.85.500
+MN  - D27.505.696.399.472.188.500
+MS  - Compounds that interact with and stimulate the activity of CANNABINOID RECEPTORS.
+HN  - 2013
+FX  - Cannabinoids
+FX  - Endocannabinoids
+FX  - Receptors, Cannabinoid
+
+MH  - Cannabinoid Receptor Antagonists
+UI  - D063387
+MN  - D27.505.519.625.85.750
+MN  - D27.505.696.399.472.188.750
+MS  - Compounds that inhibit or block the activity of CANNABINOID RECEPTORS.
+HN  - 2013
+
+MH  - Cannabinoid Receptor Modulators
+UI  - D063385
+MN  - D27.505.519.625.85
+MN  - D27.505.696.399.472.188
+MS  - Compounds that interact with and modulate the activity of CANNABINOID RECEPTORS.
+HN  - 2013
+
+MH  - Carbonated Water
+UI  - D061545
+MN  - D1.455.900.600.500
+MN  - D1.650.550.925.600.500
+MN  - J2.200.300.500
+MN  - J2.200.418.500
+MS  - Water naturally or artificially infused with CARBON DIOXIDE.
+HN  - 2013
+
+MH  - Cardiac Catheters
+UI  - D062906
+MN  - E7.132.750.249
+MS  - Catheters inserted into various locations within the heart for diagnostic or therapeutic purposes.
+HN  - 2013
+FX  - Cardiac Catheterization
+
+MH  - Caspase Inhibitors
+UI  - D061945
+MN  - D27.505.519.389.745.325.500
+MS  - Endogenous and exogenous compounds and that either inhibit CASPASES or prevent their activation.
+HN  - 2013
+
+MH  - Catheter Obstruction
+UI  - D061807
+MN  - E5.325.95
+MN  - E7.132.249
+MS  - A hindrance to the passage of fluids through a CATHETER.
+AN  - coordinate with specific type of catheterization
+HN  - 2013
+FX  - Catheter-Related Infections
+
+MH  - Cell Surface Display Techniques
+UI  - D061505
+MN  - E5.393.220.250.500
+MN  - E5.393.420.601.292
+MS  - Techniques utilizing cells that express RECOMBINANT FUSION PROTEINS engineered to translocate through the CELL MEMBRANE and remain attached to the outside of the cell.
+HN  - 2013
+FX  - Peptide Library
+
+MH  - Central Pattern Generators
+UI  - D063226
+MN  - A8.511.500
+MS  - Networks of nerve cells that control the firing patterns of MOTOR NEURONS to produce rhythmic movements such as MASTICATION; WALKING; SWIMMING; RESPIRATION; and PERISTALSIS.
+HN  - 2013
+BX  - Central Pattern Generator Neurons
+
+MH  - Central Venous Catheters
+UI  - D062905
+MN  - E7.132.750.500
+MS  - Catheters that are inserted into a large central vein such as a SUBCLAVIAN VEIN or FEMORAL VEIN.
+HN  - 2013
+FX  - Catheterization, Central Venous
+
+MH  - Chemical Safety
+UI  - D062067
+MN  - N6.850.135.60.75.199
+MS  - Risk or hazard associated with the handling and use of chemicals.
+HN  - 2013
+
+MH  - Chloroacetates
+UI  - D062845
+MN  - D2.241.81.18.214
+MN  - D2.455.526.439.196
+MS  - ACETIC ACID or acetic acid esters substituted with one or more CHLORINE atoms.
+HN  - 2013
+
+MH  - Chromophore-Assisted Light Inactivation
+UI  - D061885
+MN  - E5.198
+MS  - A technique for causing a targeted loss of molecular function from REACTIVE OXYGEN SPECIES that are formed by the illumination of dyes placed in the immediate vicinity of the target molecule.
+HN  - 2013
+
+MH  - Claudin-1
+UI  - D062445
+MN  - D12.776.543.984.200.100
+MS  - An integral membrane protein that is localized to TIGHT JUNCTIONS, where it plays a role in controlling the paracellular permeability of polarized cells. Mutations in the gene for claudin-1 are associated with Neonatal Ichthyosis-Sclerosing Cholangitis (NISCH) Syndrome.
+HN  - 2013
+
+MH  - Claudin-2
+UI  - D062446
+MN  - D12.776.543.984.200.200
+MS  - A claudin subtype that is associated with the formation of cation-selective channels and increased epithelial permeability. It is localized to the TIGHT JUNCTIONS of the PROXIMAL KIDNEY TUBULE and INTESTINAL EPITHELIUM.
+HN  - 2013
+
+MH  - Claudin-3
+UI  - D062465
+MN  - D12.776.543.984.200.300
+MS  - A ubiquitously-expressed claudin subtype that acts as a general barrier-forming protein in TIGHT JUNCTIONS. Elevated expression of claudin-3 is found in a variety of tumor cell types, suggesting its role as a therapeutic target for specific ANTINEOPLASTIC AGENTS.
+HN  - 2013
+
+MH  - Claudin-4
+UI  - D062506
+MN  - D12.776.543.984.200.400
+MS  - A claudin subtype that takes part in maintaining the barrier-forming property of TIGHT JUNCTIONS. Claudin-4 is found associated with CLAUDIN-8 in the KIDNEY COLLECTING DUCT where it may play a role in paracellular chloride ion reabsorption.
+HN  - 2013
+BX  - Claudin4
+
+MH  - Claudin-5
+UI  - D062507
+MN  - D12.776.543.984.200.500
+MS  - A claudin subtype that is found localized to TIGHT JUNCTIONS in VASCULAR ENDOTHELIAL CELLS. The protein was initially identified as one of several proteins which are deleted in VELOCARDIOFACIAL SYNDROME and may play an important role in maintaining the integrity of the BLOOD-BRAIN BARRIER.
+HN  - 2013
+FX  - DiGeorge Syndrome
+
+MH  - Community Integration
+UI  - D062309
+MN  - I1.880.787.354
+MS  - Policies and programs which ensure that DISPLACED PERSONS and chronic illnesses receive the support and SOCIAL SERVICES needed to live in their communities.
+HN  - 2013
+
+MH  - Connectome
+UI  - D063132
+MN  - E1.370.350.578.875.500.249
+MN  - E1.370.376.537.625.500.249
+MS  - A comprehensive map of the physical interconnections of an organism's neural networks. This modular organization of neuronal architecture is believed to underlie disease mechanisms and the biological development of the CENTRAL NERVOUS SYSTEM.
+HN  - 2013
+BX  - Brain Connectomics
+BX  - Connectome Mapping
+BX  - Connectomics
+
+MH  - Controlled Substances
+UI  - D061891
+MN  - D26.49
+MS  - Drugs or chemical agents whose manufacture, possession, or use are regulated by government. This may include narcotics and prescription medications.
+HN  - 2013
+
+MH  - Conversion to Open Surgery
+UI  - D061887
+MN  - E4.800.250.155
+MS  - Changing an operative procedure from an endoscopic surgical procedure to an open approach during the INTRAOPERATIVE PERIOD.
+HN  - 2013
+
+MH  - Corneal Pachymetry
+UI  - D063171
+MN  - E1.370.380.112
+MS  - Measurement of the thickness of the CORNEA.
+HN  - 2013
+
+MH  - Coxsackie and Adenovirus Receptor-Like Membrane Protein
+UI  - D062727
+MN  - D12.776.395.550.200.537.500
+MN  - D12.776.543.550.200.537.500
+MN  - D12.776.543.750.925.124
+MN  - D12.776.543.984.600.500
+MN  - D23.50.301.350.537.500
+MS  - An Ig superfamily transmembrane protein that localizes to junctional complexes that occur between ENDOTHELIAL CELLS and EPTHELIAL CELLS. The protein may play a role in cell-cell adhesion and is the primary site for the attachment of ADENOVIRUSES during infection.
+HN  - 2013
+
+MH  - Craniospinal Irradiation
+UI  - D061888
+MN  - E2.815.230
+MS  - A comprehensive radiation treatment of the entire CENTRAL NERVOUS SYSTEM.
+HN  - 2013
+
+MH  - Crowdsourcing
+UI  - D063045
+MN  - L1.280.179
+MS  - Social media model for enabling public involvement and recruitment in participation. Use of social media to collect feedback and recruit volunteer subjects.
+HN  - 2013
+
+MH  - Cyclic GMP-Dependent Protein Kinase Type I
+UI  - D062965
+MN  - D8.811.913.696.620.682.700.150.150.500
+MN  - D12.644.360.200.150.500
+MN  - D12.776.476.200.150.500
+MS  - A cyclic GMP-dependent protein kinase subtype that is expressed in SMOOTH MUSCLE tissues and plays a role in regulation of smooth muscle contraction. Two isoforms, PKGIalpha and PKGIbeta, of the type I protein kinase exist due to alternative splicing of its mRNA.
+HN  - 2013
+
+MH  - Cyclic GMP-Dependent Protein Kinase Type II
+UI  - D062967
+MN  - D8.811.913.696.620.682.700.150.150.750
+MN  - D12.644.360.200.150.750
+MN  - D12.776.476.200.150.750
+MS  - A cyclic GMP-dependent protein kinase subtype that is expressed predominantly in INTESTINES, BRAIN, and KIDNEY. The protein is myristoylated on its N-terminus which may play a role its membrane localization.
+HN  - 2013
+
+MH  - Cycloaddition Reaction
+UI  - D061565
+MN  - E5.916.39.406
+MN  - G2.607.750.155.374
+MN  - J1.897.836.249.374
+MS  - Synthetic organic reactions that use reactions between unsaturated molecules to form cyclical products.
+HN  - 2013
+BX  - Cycloaddition
+
+MH  - Cystadenofibroma
+UI  - D062625
+MN  - C4.557.450.565.590.595.50.500
+MN  - C4.557.470.590.482
+MN  - C4.557.470.625.50.500
+MS  - Benign or borderline malignant neoplasm of the ovary and surrounding tissues. It is characterized by tumor(s) with cystic glands which are lined by cuboidal EPITHELIAL CELLS with clear cytoplasm, resembling ENDOMETRIUM cells. The glands are separated by fibroblastic STROMAL CELLS.
+AN  - coordinate IM with probably OVARIAN NEOPLASMS (IM)
+HN  - 2013
+FX  - Adenocarcinoma, Clear Cell
+
+MH  - Databases, Chemical
+UI  - D062126
+MN  - L1.470.750.750.300
+MN  - L1.700.508.300.188.400.300
+MS  - Databases devoted to knowledge about specific chemicals.
+HN  - 2013
+BX  - Databases, Molecular
+
+MH  - Databases, Pharmaceutical
+UI  - D062313
+MN  - L1.470.750.750.400
+MN  - L1.700.508.300.188.400.400
+MS  - Databases devoted to knowledge about PHARMACEUTICAL PRODUCTS.
+HN  - 2013
+BX  - Databases, Drug
+FX  - Dictionaries, Pharmaceutic
+
+MH  - Degenerin Sodium Channels
+UI  - D062626
+MN  - D12.776.157.530.400.875.100
+MN  - D12.776.543.550.425.875.100
+MN  - D12.776.543.585.400.875.100
+MS  - A family of mechanosensitive sodium channels found primarily in NEMATODES where they play a role in CELLULAR MECHANOTRANSDUCTION. Degenerin sodium channels are structurally-related to EPITHELIAL SODIUM CHANNELS and are named after the fact that loss of their activity results in cellular degeneration.
+HN  - 2013
+BX  - Degenerin Ion Channels
+
+MH  - Dentofacial Deformities
+UI  - D063169
+MN  - C5.660.207.540.229
+MN  - C7.650.500.229
+MN  - C16.131.621.207.540.315
+MN  - C16.131.850.500.229
+MS  - An abnormality of the jaws or teeth affecting the contour of the face. Such abnormality could be acquired or congenital.
+HN  - 2013
+
+MH  - Dermatologic Surgical Procedures
+UI  - D062109
+MN  - E4.680.275
+MS  - Operative procedures performed on the SKIN.
+HN  - 2013
+FX  - Cosmetic Techniques
+FX  - Surgery, Plastic
+
+MH  - Dimensional Measurement Accuracy
+UI  - D061827
+MN  - E5.318.780.725.500
+MN  - E5.337.851.500
+MN  - N5.715.360.780.685.500
+MN  - N6.850.520.445.725.500
+MS  - The closeness of a determined value of a physical dimension to the actual value.
+HN  - 2013
+
+MH  - Diuretics, Potassium Sparing
+UI  - D062865
+MN  - D27.505.696.560.500.726
+MS  - A subclass of diuretics that limits the secretion of POTASSIUM into the URINE.
+HN  - 2013; use SODIUM CHANNEL BLOCKERS 2002-2012
+BX  - Potassium Sparing Diuretics
+
+MH  - Drug Overdose
+UI  - D062787
+MN  - C25.341
+MN  - C25.723.276.531
+MN  - E2.319.754.500
+MS  - Accidental or deliberate use of a medication or street drug in excess of normal dosage.
+HN  - 2013
+
+MH  - Dual MEDICAID MEDICARE Eligibility
+UI  - D063026
+MN  - N3.109
+MS  - Coordination of coverage eligibility of those individuals who are entitled to MEDICAID and MEDICARE.
+HN  - 2013
+
+MH  - Electronic Nose
+UI  - D062609
+MN  - E7.230.210
+MN  - E7.305.296
+MS  - A device that detects odors or flavors.
+HN  - 2013
+
+MH  - Endocannabinoids
+UI  - D063388
+MN  - D10.251.265
+MS  - Fatty acid derivatives that have specificity for CANNABINOID RECEPTORS. They are structurally distinct from CANNABINOIDS and were originally discovered as a group of endogenous CANNABINOID RECEPTOR AGONISTS.
+HN  - 2013(2004)
+
+MH  - Endoreduplication
+UI  - D062951
+MN  - G5.355.200.820
+MS  - A type of nuclear polyploidization in which multiple cycles of DNA REPLICATION occur in the absence of CELL DIVISION and result in a POLYPLOID CELL.
+HN  - 2013
+FX  - Polytene Chromosomes
+
+MH  - Endoscopic Ultrasound-Guided Fine Needle Aspiration
+UI  - D061765
+MN  - E1.370.225.500.384.100.119.500.500
+MN  - E1.370.225.500.384.100.370.500
+MN  - E1.370.225.998.54.119.500.500
+MN  - E1.370.225.998.54.370.500
+MN  - E1.370.350.850.855.500
+MN  - E1.370.388.100.100.500.500
+MN  - E1.370.388.100.370.500
+MN  - E4.74.119.500.500
+MN  - E4.74.370.500
+MN  - E4.800.890.500
+MN  - E5.200.500.384.100.119.500.500
+MN  - E5.200.500.384.100.370.500
+MN  - E5.200.998.54.119.500.500
+MN  - E5.200.998.54.370.500
+MN  - E5.242.384.100.119.500.500
+MN  - E5.242.384.100.370.500
+MS  - Conducting a fine needle biopsy with the aid of ENDOSCOPIC ULTRASONOGRAPHY.
+HN  - 2013
+
+MH  - Epidemiological Monitoring
+UI  - D062665
+MN  - E5.318.375
+MN  - N6.850.520.460
+MS  - Collection, analysis, and interpretation of data about the frequency, distribution, and consequences of disease or health conditions, for use in the planning, implementing, and evaluating public health programs.
+AN  - do not confuse with ENVIRONMENTAL MONITORING
+HN  - 2013 (1986)
+
+MH  - Epigenetic Repression
+UI  - D063185
+MN  - G5.355.315.203.311
+MS  - The turning off of GENETIC TRANSCRIPTION in certain regions of CHROMATIN without changes in the DNA sequence. Typically epigenetic repression is a way that developmental changes are programmed at the cellular level.
+HN  - 2013
+
+MH  - Epithelial Sodium Channel Agonists
+UI  - D062708
+MN  - D27.505.519.562.625.249
+MS  - Compounds that either stimulate the opening or prevent closure of EPITHELIAL SODIUM ION CHANNELS.
+HN  - 2013
+
+MH  - Epithelial Sodium Channel Blockers
+UI  - D062686
+MN  - D27.505.519.562.750.374
+MN  - D27.505.696.560.500.726.100
+MS  - A subclass of sodium channel blockers that are specific for EPITHELIAL SODIUM CHANNELS.
+HN  - 2013
+BX  - Epithelial Sodium Ion Channel Blockers
+
+MH  - Esomeprazole Sodium
+UI  - D064098
+MN  - D2.886.640.74.500.500
+MN  - D3.383.725.24.500.500
+MN  - D3.438.103.34.500.500
+MS  - The S-isomer of omeprazole.
+HN  - 2013; use OMEPRAZOLE 2003-2012
+BX  - Esomeprazole
+
+MH  - Estuaries
+UI  - D063366
+MN  - G1.311.625.540
+MS  - A partially enclosed body of water, and its surrounding coastal habitats, where saltwater from the ocean mixes with fresh water from rivers or streams. The resulting mixture of seawater and fresh water is called brackish water and its salinity can range from 0.5 to 35 ppt. (accessed http://oceanservice.noaa.gov/education/kits/estuaries/estuaries01_whatis.html)
+HN  - 2013
+
+MH  - Exosome Multienzyme Ribonuclease Complex
+UI  - D063326
+MN  - D5.500.562.405
+MN  - D8.811.277.352.700.687
+MN  - D8.811.600.283
+MS  - An intracellular ribonucleolytic protein complex that participates in POSTRANSCRIPTIONAL RNA PROCESSING and RNA DEGRADATION.
+AN  - do not confuse with EXOSOMES
+HN  - 2013
+FX  - Exosomes
+
+MH  - External Debt
+UI  - D061895
+MN  - N3.219.416
+MS  - Money owed to creditors outside of a country.
+HN  - 2013
+
+MH  - Fibrin Clot Lysis Time
+UI  - D063285
+MN  - E1.370.225.625.265
+MN  - E5.200.625.265
+MN  - G9.188.315
+MS  - A measurement of the time needed for FIBRINOLYSIS to occur.
+HN  - 2013
+FX  - Fibrinolysis
+
+MH  - Field Hospitals
+UI  - D062208
+MN  - N2.278.421.473.500
+MS  - Mobile, self-contained, self-sufficient health care facilities capable of rapid deployment and expansion or contraction to meet immediate emergency requirements for a specified period of time.
+HN  - 2013
+
+MH  - Food Assistance
+UI  - D063105
+MN  - I1.880.787.839.500
+MN  - N3.219.521.346.506.281
+MS  - Food or financial assistance for food given to those in need.
+AN  - do not confuse with FOOD SERVICES
+HN  - 2013
+
+MH  - Food Quality
+UI  - D063427
+MN  - J1.576.423.850.730
+MN  - N6.850.601
+MS  - Ratings of the characteristics of food including flavor, appearance, nutritional content, and the amount of microbial and chemical contamination.
+HN  - 2013
+FX  - Food Analysis
+FX  - Food Handling
+FX  - Food Labeling
+
+MH  - Foot Orthoses
+UI  - D061826
+MN  - E7.858.442.743.659
+MS  - Devices used to support or align the foot structure, or to prevent or correct foot deformities.
+HN  - 2013
+
+MH  - Fukushima Nuclear Accident
+UI  - D062406
+MN  - K1.400.504.984.186
+MN  - N6.850.135.848.750
+MS  - Nuclear power accident that occurred following the Tohoku-Kanto earthquake of March 11, 2011 in the northern region of Japan.
+HN  - 2013
+
+MH  - Fungal Capsules
+UI  - D062607
+MN  - A19.530
+MS  - An extracellular layer outside the cell wall of a fungus composed of polysaccharides. It may serve a protective role amongst others.
+HN  - 2013
+
+MH  - Fungal Polysaccharides
+UI  - D062610
+MN  - D9.698.357
+MN  - D23.50.202.283
+MS  - Cell wall components constituting a polysaccharide core found in fungi. They may act as antigens or structural substrates.
+HN  - 2013
+
+MH  - Genioplasty
+UI  - D063172
+MN  - E6.645.562.249
+MS  - A surgical procedure done largely for cosmetic reasons to correct receding chins, chin misalignment, or chin excess.
+HN  - 2013
+
+MH  - Genocide
+UI  - D063365
+MN  - I1.198.240.903.149
+MN  - I1.880.735.944.903.149
+MS  - The deliberate annihilation of a national, ethnic, or religious group, in part or in whole.
+HN  - 2013; use Homocide 2000-2012
+
+MH  - Geographic Mapping
+UI  - D062305
+MN  - E5.318.389
+MN  - E5.318.740.933.249
+MN  - N5.715.360.750.746.249
+MN  - N6.850.520.830.933.249
+MS  - Creating a representation of areas of the earth or other celestial bodies, for the purpose of visualizing spatial distributions of various information.
+HN  - 2013
+FX  - Geographic Information Systems
+FX  - Maps as Topic
+FX  - Topography, Medical
+
+MH  - Geography, Medical
+UI  - D062306
+MN  - H1.277.500.97
+MN  - H2.403.352
+MS  - The area of medicine concerned with the effects on health and disease due to geographic factors such as CLIMATE, environmental conditions, and geographic location.
+AN  - IM as the discipline (education, history, etc); NIM with no qualifiers as a coordinate
+HN  - 2013
+BX  - Medical Geography
+
+MH  - Hand Hygiene
+UI  - D063373
+MN  - N6.850.780.200.412
+MS  - Practices involved in preventing the transmission of diseases by hand.
+HN  - 2013
+
+MH  - Health Impact Assessment
+UI  - D062489
+MN  - E5.318.308.237
+MN  - N3.349.380.210.500
+MS  - Combination of procedures, methods, and tools by which a policy, program, or project may be judged as to its potential effects on the health of a population, and the distribution of those effects within the population.
+HN  - 2013
+
+MH  - Health Information Management
+UI  - D063025
+MN  - L1.399.500
+MS  - Management of the acquisition, organization, retrieval, and dissemination of health information.
+HN  - 2013
+
+MH  - Health Information Systems
+UI  - D063005
+MN  - L1.700.508.300.361
+MS  - A system for the collection and/or processing of data from various sources, and using the information for policy making and management of health services. It could be paper-based or electronic. (From http://web.worldbank.org/WBSITE/EXTERNAL/TOPICS/EXTHEALTHNUTRITIONANDPOPULATION/EXTHSD/0,,contentMDK:22239824~menuPK:376799~pagePK:148956~piPK:216618~theSitePK:376793,00.html. http://www.who.int/healthinfo/systems/en/)
+HN  - 2013
+
+MH  - Health Insurance Exchanges
+UI  - D062265
+MN  - N3.219.521.576.343.918.500
+MS  - State-provided health insurance marketplaces established under the PATIENT PROTECTION AND AFFORDABLE CARE ACT.
+HN  - 2013
+
+MH  - Health Services for Transgendered Persons
+UI  - D062985
+MN  - N2.421.325
+MS  - Access to specialized care for transgendered populations. Health systems organized to take account of the special healthcare needs of marginalized groups who may face barriers in accessing health services. (http://www.who.int/reproductivehealth/topics/linkages/guidance_package.pdf)
+HN  - 2013
+FX  - Transgendered Persons
+
+MH  - Healthcare Financing
+UI  - D061889
+MN  - N3.219.483.359
+MS  - Methods of generating, allocating, and using financial resources in healthcare systems.
+HN  - 2013
+BX  - Health Financing
+
+MH  - Heavy Ion Radiotherapy
+UI  - D063193
+MN  - E2.815.250
+MS  - The use of a heavy ion particle beam for radiotherapy, such as the HEAVY IONS of CARBON.
+HN  - 2013
+
+MH  - Hemiarthroplasty
+UI  - D062785
+MN  - E4.555.110.110.482
+MN  - E4.650.110.482
+MS  - A partial joint replacement in which only one surface of the joint is replaced with a PROSTHESIS.
+HN  - 2013
+
+MH  - Hemorrhoidectomy
+UI  - D061865
+MN  - E4.210.526
+MS  - The surgical removal of HEMORRHOIDS.
+HN  - 2013
+
+MH  - Homophobia
+UI  - D063509
+MN  - F1.145.813.550.374
+MN  - F1.145.813.629.562
+MN  - F1.829.595.374
+MS  - Differential treatment or unequal access to opportunities or services based on perceived homosexual preference or orientation.
+HN  - 2013
+
+MH  - Hospitals, High-Volume
+UI  - D061847
+MN  - N2.278.421.414
+MS  - Hospitals with a much higher than average utilization by physicians and a large number of procedures.
+HN  - 2013
+
+MH  - Hospitals, Low-Volume
+UI  - D061846
+MN  - N2.278.421.434
+MS  - Hospitals with a much lower than average utilization by physicians and smaller number of procedures.
+HN  - 2013
+BX  - Low-Volume Hospitals
+
+MH  - Human Migration
+UI  - D063426
+MN  - I1.240.600.525
+MN  - N1.224.625.525
+MN  - N6.850.505.400.700.525
+MS  - Periodic movement of human settlement from one geographical location to another.
+AN  - migration of ancient populations goes here; ANIMAL MIGRATION is available for animals
+HN  - 2013
+
+MH  - Human Papillomavirus DNA Tests
+UI  - D061809
+MN  - E1.370.225.880.500
+MN  - E5.200.880.500
+MN  - E5.393.462
+MN  - E5.393.520.750
+MS  - Methods for detecting or typing the DNA of an ALPHAPAPILLOMAVIRUS in biological tissues and fluids.
+HN  - 2013
+FX  - DNA Probes, HPV
+
+MH  - Hydrology
+UI  - D062070
+MN  - H1.158.273.248.875
+MN  - H1.277.249.875
+MN  - J1.293.622
+MS  - Science dealing with the properties, distribution, and circulation of water on and below the earth's surface, and atmosphere.
+AN  - IM as the discipline (education, history, etc) only; NIM with no qualifiers as a coordinate
+HN  - 2013
+FX  - Limnology
+
+MH  - Hydroxybenzoate Ethers
+UI  - D062425
+MN  - D2.241.223.100.300.350
+MN  - D2.241.511.390.350
+MN  - D2.355.726.675
+MN  - D2.455.426.559.389.127.281.350
+MN  - D2.455.426.559.389.657.654.638
+MS  - Benzoate derivatives that contain one or more alkyl or aryl groups linked to the benzene ring structure by OXYGEN.
+HN  - 2013
+
+MH  - Hydroxybenzoates
+UI  - D062385
+MN  - D2.241.223.100.300
+MN  - D2.241.511.390
+MN  - D2.455.426.559.389.127.281
+MN  - D2.455.426.559.389.657.410
+MS  - Benzoate derivatives substituted by one or more hydroxy groups in any position on the benzene ring.
+HN  - 2013
+
+MH  - Image-Guided Biopsy
+UI  - D061705
+MN  - E1.370.225.500.384.100.370
+MN  - E1.370.225.998.54.370
+MN  - E1.370.388.100.370
+MN  - E4.74.370
+MN  - E5.200.500.384.100.370
+MN  - E5.200.998.54.370
+MN  - E5.242.384.100.370
+MS  - Conducting a biopsy procedure with the aid of a MEDICAL IMAGING modality.
+AN  - usually NIM with specific organ/pathol (IM) + disease /pathol (IM)
+HN  - 2013
+FX  - Surgery, Computer-Assisted
+
+MH  - Immobilized Nucleic Acids
+UI  - D061925
+MN  - D13.444.404
+MS  - DNA or RNA bound to a substrate thereby having fixed positions.
+HN  - 2013
+
+MH  - Immunoreceptor Tyrosine-Based Activation Motif
+UI  - D061625
+MN  - G2.111.570.60.40.750
+MN  - G2.111.570.790.709.600.40.440
+MS  - A conserved AMINO ACID SEQUENCE located in the intracellular domains of a family of transmembrane proteins involved in various IMMUNE RESPONSES. The CONSENSUS SEQUENCE of this motif is YXXL(or I)X(6-8)YXXL(or I) (where X denotes any amino acid). When phosphorylated ITAM motifs provide docking sites for PROTEIN TYROSINE KINASES of the Syk family thus forming signaling complexes which lead to activation of immune responses.
+HN  - 2013
+
+MH  - Immunoreceptor Tyrosine-Based Inhibition Motif
+UI  - D061626
+MN  - G2.111.570.60.40.875
+MN  - G2.111.570.790.709.600.40.480
+MS  - A conserved AMINO ACID SEQUENCE located in the intracellular domains of a family of transmembrane proteins that negatively regulate the signal transduction processes emanating from transmembrane proteins containing IMMUNORECEPTOR TYROSINE-BASED ACTIVATION MOTIFS. The CONSENSUS SEQUENCE of this motif is I(or V)LXYXXL(or V) (where X denotes any amino acid). Also known as ITIM motifs.
+HN  - 2013
+
+MH  - Infant, Extremely Premature
+UI  - D062071
+MN  - M1.60.703.520.520.500
+MS  - A human infant born before 28 weeks of GESTATION.
+AN  - check the tag INFANT, NEWBORN
+HN  - 2013
+FX  - Infant, Extremely Low Birth Weight
+FX  - Premature Birth
+
+MH  - Intense Pulsed Light Therapy
+UI  - D062325
+MN  - E2.774.465
+MS  - Treatment of the skin with flashlamps of prescribed wavelengths, fluence, and pulse durations which target specific chromophores to induce photothermolysis at specific locations in the skin such as at the HAIR FOLLICLE or SPIDER VEINS.
+AN  - coordinate with specific skin disease /ther and/or cosmetic technique; use PHOTOCHEMOTHERAPY for intense pulsed light used with PHOTOSENSITIZING AGENTS and do not index here
+HN  - 2013
+FX  - Lasers, Dye
+
+MH  - Inventions
+UI  - D062069
+MN  - J1.897.400
+MS  - A novel composition, device, or process, independently conceived de novo or derived from a pre-existing model.
+HN  - 2013
+FX  - Intellectual Property
+FX  - Patents
+
+MH  - Inventors
+UI  - D062068
+MN  - M1.526.493
+MS  - Persons or entities that introduce a novel composition, device, or process, as well as improvements thereof.
+HN  - 2013
+
+MH  - Islands
+UI  - D062312
+MN  - G16.500.275.505
+MN  - N6.230.295
+MN  - Z1.639
+MS  - Tracts of land completely surrounded by water.
+AN  - general or unspecified; prefer specifics
+HN  - 2013
+
+MH  - Junctional Adhesion Molecule A
+UI  - D062745
+MN  - D12.776.395.550.200.537.750
+MN  - D12.776.543.550.200.537.750
+MN  - D12.776.543.750.53
+MN  - D12.776.543.984.600.700
+MN  - D23.50.301.264.35.456
+MN  - D23.50.301.350.537.750
+MN  - D23.101.100.110.456
+MS  - A cell adhesion protein that is found within TIGHT JUNCTIONS of ENDOTHELIAL CELLS and on the CELL MEMBRANE surface of circulating PLATELETS.
+HN  - 2013
+
+MH  - Junctional Adhesion Molecule B
+UI  - D062765
+MN  - D12.776.395.550.200.537.875
+MN  - D12.776.543.550.200.537.875
+MN  - D12.776.543.984.600.800
+MN  - D23.50.301.264.35.474
+MN  - D23.50.301.350.537.875
+MN  - D23.101.100.110.474
+MS  - A junctional adhesion molecule subtype that is localized to high endothelial VENULES, heart ENDOTHELIUM, TROPHOBLASTS of the PLANCENTA, and in the ENDOTHELIUM of ARTERIOLES.
+HN  - 2013
+
+MH  - Junctional Adhesion Molecule C
+UI  - D062786
+MN  - D12.776.395.550.200.537.937
+MN  - D12.776.543.550.200.537.937
+MN  - D12.776.543.984.600.900
+MN  - D23.50.301.350.537.937
+MS  - A junctional adhesion molecule subtype that is expressed at high levels in PLACENTA; BRAIN; KIDNEY; and PLATELETS. It serves a variety of functions such as mediating leukocyte-platelet interactions, regulating trans-epithelial migration of POLYMORPHONUCLEAR LEUKOCYTES, and acting as a counter receptor for ALPHAM INTEGRIN.
+HN  - 2013
+
+MH  - Junctional Adhesion Molecules
+UI  - D062726
+MN  - D12.776.395.550.200.537
+MN  - D12.776.543.550.200.537
+MN  - D12.776.543.984.600
+MN  - D23.50.301.350.537
+MS  - A family of membrane glycoproteins localized to TIGHT JUNCTIONS that contain two extracellular Ig-like domains, a single transmembrane segment, and a cytoplasmic tail of variable length.
+HN  - 2013
+
+MH  - Linear IgA Bullous Dermatosis
+UI  - D062027
+MN  - C17.800.865.622
+MN  - C20.111.585
+MS  - Autoimmune disease characterized by subepidermal blisters and linear deposition of autoantibodies at the dermoepidermal junction. The accumulated autoantibodies are of IMMUNOGLOBULIN A and occasionally IMMUNOGLOBULIN G classes against epidermal BASEMENT MEMBRANE proteins. The dermatosis is sometimes associated with malignancies and use of certain drugs (e.g., VANCOMYCIN).
+HN  - 2013
+
+MH  - Lipoblastoma
+UI  - D062689
+MN  - C4.557.450.550.400.500
+MS  - Benign tumors of fatty tissues found in infancy and childhood. It is associated chromosomal aberrations that result in activation of an oncogene on chromosome band 8q12.
+AN  - coordinate IM with precoordinated organ/neoplasm term (IM)
+HN  - 2013
+
+MH  - Literature Based Discovery
+UI  - D063369
+MN  - L1.178.682.99.325.750
+MS  - A process that searches for hidden and important connections among information embedded in published literature.
+HN  - 2013
+
+MH  - Lunch
+UI  - D062409
+MN  - F1.145.407.432.500.550
+MN  - F1.145.466.349.500.550
+MN  - J2.500.590.560
+MS  - The meal taken at midday.
+HN  - 2013
+BX  - Lunchtime
+
+MH  - Madin Darby Canine Kidney Cells
+UI  - D061985
+MN  - A11.251.210.827
+MN  - A11.436.589
+MS  - An epithelial cell line derived from a kidney of a normal adult female dog.
+AN  - almost always NIM with no subheadings; check ANIMALS & DOGS; do not routinely check FEMALE
+HN  - 2013
+
+MH  - Mandibular Osteotomy
+UI  - D063168
+MN  - E6.645.562.374
+MS  - Intraoral OSTEOTOMY of the lower jaw usually performed in order to correct MALOCCLUSION.
+HN  - 2013
+BX  - Segmental Mandibulectomy
+FX  - Mandibular Reconstruction
+
+MH  - Mandibular Reconstruction
+UI  - D063175
+MN  - E6.645.562.500
+MS  - The physical restoration of oromandibular defects.
+HN  - 2013
+FX  - Mandibular Osteotomy
+
+MH  - MARVEL Domain Containing 2 Protein
+UI  - D062794
+MN  - D12.776.543.488.249
+MN  - D12.776.543.984.675
+MS  - A tight junction-associated MARVEL protein that may play a role in separating the endolymphatic and perilymphatic spaces of the ORGAN OF CORTI. Defects in the gene that codes for MARVELD2 protein are a cause of deafness autosomal recessive type 49.
+HN  - 2013
+
+MH  - MARVEL Domain-Containing Proteins
+UI  - D062792
+MN  - D12.776.543.488
+MS  - A family of proteins that share a domain with a four transmembrane-helix architecture referred to as the MARVEL domain. The MARVEL domain proteins play important role in vesicular trafficking and in the formation of TIGHT JUNCTIONS.
+HN  - 2013
+BX  - MARVEL Domain Proteins
+FX  - Tetraspanins
+
+MH  - Maternal Death
+UI  - D063130
+MN  - C13.703.401
+MN  - C23.550.260.730.500
+MN  - I1.880.735.607.500
+MS  - The death of the female parent.
+AN  - do not confuse with MATERNAL MORTALITY, a statistical concept
+HN  - 2013
+
+MH  - Maternal Serum Screening Tests
+UI  - D062145
+MN  - E1.370.378.630.582
+MS  - Analysis of the level of specific BIOLOGICAL MARKERS in a pregnant woman's sera to identify those at risk for PREGNANCY COMPLICATIONS or BIRTH DEFECTS.
+HN  - 2013
+
+MH  - Matrix Metalloproteinase Inhibitors
+UI  - D061965
+MN  - D27.505.519.389.745.610
+MS  - Compounds that inhibit the enzyme activity or activation of MATRIX METALLOPROTEINASES.
+HN  - 2013
+
+MH  - Maxillary Osteotomy
+UI  - D063166
+MN  - E6.645.562.750
+MS  - Surgery of the upper jaw bone usually performed to correct upper and lower jaw misalignment.
+HN  - 2013
+
+MH  - May-Thurner Syndrome
+UI  - D062108
+MN  - C14.240.850.906
+MN  - C14.907.617.648
+MN  - C16.131.240.850.890
+MS  - A compression of ILIAC VEIN that results in a decreased flow in the vein and in the left LOWER EXTREMITY due to a vascular malformation. It may result in left leg EDEMA, pain, iliofemoral DEEP VENOUS THROMBOSIS and POSTTHROMBOTIC SYNDROME. Compression of the left common ILIAC VEIN by the right common ILIAC ARTERY against the underlying fifth LUMBAR VERTEBRA is the typical underlying malformation.
+HN  - 2013
+BX  - Cockett Syndrome
+BX  - Iliac Vein Compression Syndrome
+BX  - Iliocaval Compression Syndrome
+FX  - Constriction, Pathologic
+
+MH  - MCF-7 Cells
+UI  - D061986
+MN  - A11.251.210.190.630
+MS  - An estrogen responsive cell line derived from a patient with metastatic human breast ADENOCARCINOMA (at the Michigan Cancer Foundation.)
+AN  - almost always NIM with no subheadings; check HUMANS
+HN  - 2013
+
+MH  - Meals
+UI  - D062407
+MN  - F1.145.407.432.500
+MN  - F1.145.466.349.500
+MN  - J2.500.590
+MS  - A portion of the food eaten for the day, usually at regular occasions during the day.
+HN  - 2013
+BX  - Dinner
+BX  - Dinner Time
+BX  - Mealtimes
+
+MH  - Meaningful Use
+UI  - D062527
+MN  - N4.761.744.500
+MS  - Using certified ELECTRONIC HEALTH RECORDS technology to improve quality, safety, efficiency, and reduce HEALTHCARE DISPARITIES; engage patients and families in their health care; improve care coordination; improve population and public health; while maintaining privacy and security.
+HN  - 2013
+
+MH  - Medical Device Legislation
+UI  - D062307
+MN  - N3.706.615.473.500
+MS  - Laws and regulations pertaining to devices used in medicine, proposed for enactment, or enacted by a legislative body.
+HN  - 2013
+
+MH  - Medicalization
+UI  - D062528
+MN  - I1.880.334
+MS  - A process by which nonmedical problems become defined and treated as medical problems, usually in terms of illnesses, or disorders. (Annu Rev Sociol 1992 18:209)
+HN  - 2013
+
+MH  - meta-Aminobenzoates
+UI  - D062368
+MN  - D2.241.223.100.50.300
+MN  - D2.455.426.559.389.127.20.452
+MS  - Aminobezoate derivatives that contain an amino group attached to carbon number 3 or 5 of the benzene ring structure.
+HN  - 2013
+
+MH  - Metal-on-Metal Joint Prostheses
+UI  - D061825
+MN  - E7.695.400.705
+MS  - Types of prosthetic joints in which both wear surfaces of the joint coupling are metallic.
+HN  - 2013
+
+MH  - Methionyl Aminopeptidases
+UI  - D063208
+MN  - D8.811.277.656.350.100.633
+MS  - Aminopeptidases that remove METHIONINE from the amino-terminus of a peptide chain, such as the initiator METHIONINE found on nascent peptide chains.
+HN  - 2013
+
+MH  - Mitochondrial Degradation
+UI  - D063306
+MN  - G4.299.630.500
+MS  - Proteolytic breakdown of the MITOCHONDRIA.
+HN  - 2013
+
+MH  - Mitochondrial Dynamics
+UI  - D063154
+MN  - G4.299.630.750
+MS  - The continuous remodeling of MITOCHONDRIA shape by fission and fusion in response to physiological conditions.
+HN  - 2013
+
+MH  - Mitochondrial Turnover
+UI  - D063269
+MN  - G4.299.630
+MS  - The cellular processes involved in adjustments to the MITOCHONDRIAL VOLUME, content, and activity, that depend on the energy demands of the cell.
+HN  - 2013
+
+MH  - Molecular Docking Simulation
+UI  - D062105
+MN  - E5.599.595.249
+MN  - L1.224.160.249
+MS  - A computer simulation technique that is used to model the interaction between two molecules. Typically the docking simulation measures the interactions of a small molecule or ligand with a part of a larger molecule such as a protein.
+HN  - 2013
+BX  - Molecular Docking Simulations
+FX  - Protein Interaction Domains and Motifs
+FX  - Protein Interaction Mapping
+FX  - Protein Interaction Maps
+
+MH  - Molecular Medicine
+UI  - D062346
+MN  - H1.158.201.636.475
+MN  - H1.158.273.343.595.475
+MN  - H1.181.122.650.475
+MN  - H2.403.530
+MS  - The field of medicine concerned with understanding the biochemical basis of health and disease and involved in developing diagnostic and therapeutic methods that utilize MOLECULAR BIOLOGY techniques.
+AN  - use for the discipline only (education, history, etc)
+HN  - 2013
+FX  - Genetics, Medical
+
+MH  - Motivational Interviewing
+UI  - D062405
+MN  - F2.784.176.279.500
+MN  - F4.408.413.349.500
+MN  - N2.421.461.363.349.500
+MS  - It is a client-centered, directive method for eliciting intrinsic motivation to change using open-ended questions, reflective listening, and decisional balancing. This nonjudgmental, nonconfrontational interviewing style is designed to minimize a patient's resistance to change by creating an interaction that supports open discussion of risky or problem behavior.
+HN  - 2013
+
+MH  - Myelin and Lymphocyte-Associated Proteolipid Proteins
+UI  - D062806
+MN  - D10.570.780.249
+MN  - D12.776.543.488.374
+MN  - D12.776.543.620.264
+MN  - D12.776.543.990.681
+MN  - D12.776.641.580.249
+MN  - D12.776.816.249
+MS  - A family of MARVEL domain-containing proteolipid proteins involved in vesicular trafficking cycling between the GOLGI COMPLEX and the apical PLASMA MEMBRANE.
+HN  - 2013
+BX  - Myelin and Lymphocyte-Associated Protein
+
+MH  - Myelin-Oligodendrocyte Glycoprotein
+UI  - D063308
+MN  - D12.776.395.550.583
+MN  - D12.776.543.550.572
+MN  - D12.776.543.620.550
+MN  - D12.776.641.580.530
+MN  - D23.50.422.625
+MS  - A transmembrane protein present in the MYELIN SHEATH of the CENTRAL NERVOUS SYSTEM. It is one of the main autoantigens implicated in the pathogenesis of MULTIPLE SCLEROSIS.
+AN  - do not confuse with MYELIN-ASSOCIATED GLYCOPROTEIN or OLIGODENDROCYTE-MYELIN GLYCOPROTEIN
+HN  - 2013
+FX  - Multiple Sclerosis
+
+MH  - Myringosclerosis
+UI  - D063371
+MN  - C9.218.636
+MS  - The formation of dense connective tissue in the TYMPANIC MEMBRANE that does not necessarily cause or lead to loss of hearing.
+HN  - 2013
+
+MH  - N-Terminal Acetyltransferase A
+UI  - D063209
+MN  - D8.811.913.50.134.423.100
+MS  - An N-terminal acetyltransferase subtype that consists of the Naa10p catalytic subunit and the Naa15p auxiliary subunit. The structure of this enzyme is conserved between lower and higher eukaryotes. It has specificity for N-terminal SERINE; ALANINE; THREONINE; GLYCINE; VALINE; and CYSTINE residues and acts on nascent peptide chains after the removal of the initiator METHIONINE by METHIONYL AMINOPEPTIDASES.
+HN  - 2013
+
+MH  - N-Terminal Acetyltransferase B
+UI  - D063210
+MN  - D8.811.913.50.134.423.200
+MS  - An N-terminal acetyltransferase subtype that consists of the Naa20p catalytic subunit and the Naa25p auxiliary subunit. The structure of this enzyme is conserved between YEASTS and HUMAN. It has specificity for the N-terminal METHIONINE of peptides where the next amino acid in the chain is either ASPARTATE; GLUTAMATE; ASPARAGINE; OR GLUTAMINE.
+HN  - 2013
+
+MH  - N-Terminal Acetyltransferase C
+UI  - D063211
+MN  - D8.811.913.50.134.423.300
+MS  - An N-terminal acetyltransferase subtype that consists of the Naa30p catalytic subunit, and the Naa35p and Naa38p auxiliary subunits. It has specificity for the N-terminal METHIONINE of peptides where the next amino acid in the chain is either LEUCINE; PHENYALANINE; ISOLEUCINE; or TRYPTOPHANE.
+HN  - 2013
+
+MH  - N-Terminal Acetyltransferase D
+UI  - D063212
+MN  - D8.811.913.50.134.407.74
+MN  - D8.811.913.50.134.423.400
+MS  - An N-terminal acetyltransferase subtype that consists of the Naa40p catalytic subunit. It has specificity for N-termini of HISTONE H2A and HISTONE H4.
+HN  - 2013
+
+MH  - N-Terminal Acetyltransferase E
+UI  - D063213
+MN  - D8.811.913.50.134.423.500
+MS  - An N-terminal acetyltransferase subtype that consists of the Naa50p catalytic subunit, and the Naa10p and Naa15p auxiliary subunits. It has specificity for the N-terminal METHIONINE of peptides where the next amino acid in the chain is hydrophobic.
+HN  - 2013
+
+MH  - N-Terminal Acetyltransferase F
+UI  - D063214
+MN  - D8.811.913.50.134.423.600
+MS  - An N-terminal acetyltransferase subtype that consists of the Naa60p catalytic subunit. It is found in higher eukayotes and displays a substrate specificity for the N-terminal METHIONINE of peptides where the next amino acid in the chain is either LEUCINE; LYSINE; PHENYALANINE; ISOLEUCINE; or TRYPTOPHANE.
+HN  - 2013
+
+MH  - N-Terminal Acetyltransferases
+UI  - D063206
+MN  - D8.811.913.50.134.423
+MS  - Enzymes that catalyze the transfer of an acetyl group, usually from ACETYL COENZYME A, to the N-terminus of a peptide chain.
+AN  - do not confuse with AMINO-ACID N-ACETYLTRANSFERASE
+HN  - 2013
+
+MH  - Narrative Therapy
+UI  - D062525
+MN  - F4.754.570
+MS  - A form of PSYCHOTHERAPY that centers on the individuals as the experts in their own lives and views problems as separate from people. It is assumed that people have many skills, competencies, beliefs, values, commitments, and abilities that will assist them to reduce the influence of problems in their lives.
+HN  - 2013
+FX  - Narration
+
+MH  - Narrow Band Imaging
+UI  - D062048
+MN  - E1.370.350.589.124
+MN  - E5.642.124
+MS  - Imaging techniques that use illumination created with several optical interference filters by which the frequency ranges are spectrally narrowed and light scatter is greatly reduced. Thus the reflected photons reconstituting the images are from distinct depths (the surface and deeper layers) of the object being imaged.
+HN  - 2013
+
+MH  - Native Polyacrylamide Gel Electrophoresis
+UI  - D063347
+MN  - E5.196.401.402.625
+MN  - E5.301.300.319.725
+MS  - Polyacrylamide gel electrophoresis under conditions in which the components, such as PROTEINS, being separated can remain in their naturally folded state.
+AN  - for "blue native polyacrylamide gel electrophoresis" or BN-PAGE coordinate with the specific blue dye being used in the procedure
+HN  - 2013
+
+MH  - NAV1.1 Voltage-Gated Sodium Channel
+UI  - D062550
+MN  - D12.776.157.530.400.875.750.100
+MN  - D12.776.543.550.425.875.750.100
+MN  - D12.776.543.585.400.875.750.100
+MN  - D12.776.641.960.100
+MS  - A voltage-gated sodium channel subtype that is predominantly expressed in the CENTRAL NERVOUS SYSTEM. Defects in the SCN1A gene which codes for the alpha subunit of this sodium channel are associated with DRAVET SYNDROME, generalized epilepsy with febrile seizures plus, type 2 (GEFS+2), and familial hemiplegic migraine type 3.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Type 1 Subunit alpha
+FX  - Epilepsies, Myoclonic
+
+MH  - NAV1.2 Voltage-Gated Sodium Channel
+UI  - D062551
+MN  - D12.776.157.530.400.875.750.200
+MN  - D12.776.543.550.425.875.750.200
+MN  - D12.776.543.585.400.875.750.200
+MN  - D12.776.641.960.200
+MS  - A voltage-gated sodium channel subtype that mediates the sodium ion permeability of excitable membranes. Defects in the SCN2A gene which codes for the alpha subunit of this sodium channel are associated with benign familial infantile seizures type 3, and early infantile epileptic encephalopathy type 11.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Type 2 Subunit alpha
+
+MH  - NAV1.3 Voltage-Gated Sodium Channel
+UI  - D062552
+MN  - D12.776.157.530.400.875.750.300
+MN  - D12.776.543.550.425.875.750.300
+MN  - D12.776.543.585.400.875.750.300
+MN  - D12.776.641.960.300
+MS  - A voltage-gated sodium channel subtype found in neuronal tissue that mediates the sodium ion PERMEABILITY of excitable membranes.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Type 3 Subunit alpha
+
+MH  - NAV1.4 Voltage-Gated Sodium Channel
+UI  - D062553
+MN  - D12.776.157.530.400.875.750.400
+MN  - D12.776.210.500.675
+MN  - D12.776.543.550.425.875.750.400
+MN  - D12.776.543.585.400.875.750.400
+MS  - A voltage-gated sodium channel subtype that mediates the sodium ion PERMEABILITY of SKELETAL MYOCYTES. Defects in the SCN4A gene, which codes for the alpha subunit of this sodium channel, are associated with several MYOTONIC DISORDERS.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Type 4 Subunit alpha
+FX  - Hypokalemic Periodic Paralysis
+FX  - Paralysis, Hyperkalemic Periodic
+
+MH  - NAV1.5 Voltage-Gated Sodium Channel
+UI  - D062554
+MN  - D12.776.157.530.400.875.750.500
+MN  - D12.776.543.550.425.875.750.500
+MN  - D12.776.543.585.400.875.750.500
+MN  - D12.776.641.960.500
+MS  - A voltage-gated sodium channel subtype that mediates the sodium ion PERMEABILITY of CARDIOMYOCYTES. Defects in the SCN5A gene, which codes for the alpha subunit of this sodium channel, are associated with a variety of CARDIAC DISEASES that result from loss of sodium channel function.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Type 5 Subunit alpha
+
+MH  - NAV1.6 Voltage-Gated Sodium Channel
+UI  - D062557
+MN  - D12.776.157.530.400.875.750.600
+MN  - D12.776.543.550.425.875.750.600
+MN  - D12.776.543.585.400.875.750.600
+MN  - D12.776.641.960.600
+MS  - A voltage-gated sodium channel subtype found widely expressed in neurons of the central and peripheral nervous systems. Defects in the SCN8A gene which codes for the alpha subunit of this sodium channel are associated with ATAXIA and cognitive deficits.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Type 8 Subunit alpha
+
+MH  - NAV1.7 Voltage-Gated Sodium Channel
+UI  - D062556
+MN  - D12.776.157.530.400.875.750.700
+MN  - D12.776.543.550.425.875.750.700
+MN  - D12.776.543.585.400.875.750.700
+MN  - D12.776.641.960.700
+MS  - A voltage-gated sodium channel subtype found widely expressed in nociceptive primary sensory neurons. Defects in the SCN9A gene, which codes for the alpha subunit of this sodium channel, are associated with several pain sensation-related disorders.
+HN  - 2013
+
+MH  - NAV1.8 Voltage-Gated Sodium Channel
+UI  - D062559
+MN  - D12.776.157.530.400.875.750.800
+MN  - D12.776.543.550.425.875.750.800
+MN  - D12.776.543.585.400.875.750.800
+MN  - D12.776.641.960.800
+MS  - A voltage-gated sodium channel subtype that is expressed in nociceptors, including spinal and trigeminal sensory neurons. It plays a role in the transmission of pain signals induced by cold, heat, and mechanical stimuli.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Type 10 Subunit alpha
+
+MH  - NAV1.9 Voltage-Gated Sodium Channel
+UI  - D062558
+MN  - D12.776.157.530.400.875.750.900
+MN  - D12.776.543.550.425.875.750.900
+MN  - D12.776.543.585.400.875.750.900
+MN  - D12.776.641.960.900
+MS  - A voltage-gated sodium channel subtype found in the neurons of the NERVOUS SYSTEM and DORSAL ROOT GANGLIA. It may play a role in the generation of heat and mechanical pain hypersensitivity.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Type 11 Subunit alpha
+
+MH  - Neuromuscular Monitoring
+UI  - D061886
+MN  - E1.370.520.567
+MS  - The use of peripheral nerve stimulation to assess transmission at the NEUROMUSCULAR JUNCTION, especially in the response to anesthetics, such as the intensity of NEUROMUSCULAR BLOCKADE by NEUROMUSCULAR BLOCKING AGENTS.
+HN  - 2013
+
+MH  - Neurotology
+UI  - D063165
+MN  - H2.403.600.500
+MN  - H2.403.810.526.500
+MS  - A subspecialty of otolaryngology dealing with the parts of the nervous system related to the ear.
+AN  - use for the specialty only
+HN  - 2013
+
+MH  - Non-Filarial Lymphedema
+UI  - D062846
+MN  - C15.604.496.660
+MS  - A form of elephantiasis caused by soil particles which penetrate the skin of the foot. It is limited to tropical regions with soils of high volcanic content.
+HN  - 2013
+
+MH  - Noninvasive Ventilation
+UI  - D063087
+MN  - E2.41.625.591
+MN  - E2.880.820.657
+MS  - Techniques for administering artificial respiration without the need for INTRATRACHEAL INTUBATION.
+HN  - 2013
+
+MH  - Nuclear Microscopy
+UI  - D062345
+MN  - E1.370.350.515.744
+MN  - E5.595.744
+MS  - A method of simultaneously imaging and measuring elements at the submicron level. Nuclear microscopy uses a focused high-energy ion beam of PROTONS and ALPHA PARTICLES (a nuclear microprobe) to interact with the sample. The resulting emitted radiations are analyzed by a group of techniques simultaneously: PARTICLE INDUCED X RAY EMISSION SPECTROMETRY for minor and trace element identification; Rutherford Backscattering Spectroscopy to assess sample thickness and bulk elements such as carbon, hydrogen, oxygen, and nitrogen; and Scanning Transmission Ion Microscopy to assess sample structure and density.
+HN  - 2013
+FX  - Electron Probe Microanalysis
+
+MH  - Nursing Stations
+UI  - D063187
+MN  - N2.278.388.620
+MS  - An area in a clinic, unit, or ward in a health care facility that serves as the administrative center for nursing care. (from Mosby's Medical Dictionary, 8th ed)
+HN  - 2013
+
+MH  - Occludin
+UI  - D062793
+MN  - D12.776.543.488.500
+MN  - D12.776.543.984.750
+MS  - A MARVEL domain protein that plays an important role in the formation and regulation of the TIGHT JUNCTION paracellular permeability barrier.
+HN  - 2013
+BX  - Occludins
+
+MH  - Odonata
+UI  - D063191
+MN  - B1.50.500.131.617.634
+MS  - An order of insects comprising three suborders: Anisoptera, Zygoptera, and Anisozygoptera. They consist of dragonflies and damselflies.
+AN  - for killing Odonata with insecticides, see note at INSECTICIDES
+HN  - 2013
+
+MH  - Oligodendrocyte-Myelin Glycoprotein
+UI  - D063345
+MN  - D12.776.395.550.448.775
+MN  - D12.776.543.484.500.775
+MN  - D12.776.543.550.418.775
+MN  - D12.776.543.620.895
+MN  - D12.776.641.580.895
+MS  - A glycosylated extracellular myelin protein found on the MYELIN SHEATH of the CENTRAL NERVOUS SYSTEM. It is linked to the cell surface via a GLYCOSYLPHOSPHATIDYLINOSITOL LINKAGE.
+AN  - do not confuse with MYELIN-OLIGODENDROCYTE GLYCOPROTEIN
+HN  - 2013
+
+MH  - One-Lung Ventilation
+UI  - D061810
+MN  - E2.41.625.657
+MS  - Techniques for supplying artificial respiration to a single lung.
+AN  - /instrum: consider also VENTILATORS, MECHANICAL
+HN  - 2013
+
+MH  - Operative Time
+UI  - D061646
+MN  - E4.614.374.500
+MN  - N2.421.585.753.374.500
+MS  - The duration of a surgical procedure in hours and minutes.
+HN  - 2013
+
+MH  - Optical Imaging
+UI  - D061848
+MN  - E1.370.350.589
+MN  - E5.642
+MS  - The use of light interaction (scattering, absorption, and fluorescence) with biological tissue to obtain morphologically based information.  It includes measuring inherent tissue optical properties such as scattering, absorption, and autofluorescence; or optical properties of exogenous targeted fluorescent molecular probes such as those used in optical MOLECULAR IMAGING, or nontargeted optical CONTRAST AGENTS.
+HN  - 2013
+
+MH  - Optically Stimulated Luminescence Dosimetry
+UI  - D062791
+MN  - E5.799.638.602
+MN  - N6.850.810.370.365
+MS  - The use of a radiation monitoring device composed of material which emits light after being illuminated. The amount of light emitted is proportional to the amount of IONIZING RADIATION to which the material has been previously exposed.
+HN  - 2013
+BX  - Optically Stimulated Luminescent Dosimetry
+
+MH  - Optogenetics
+UI  - D062308
+MN  - E5.393.667
+MS  - The combination of genetic and optical methods in controlling specific events with temporal precision in targeted cells of a functioning intact biological system.
+HN  - 2013
+
+MH  - Organ Dysfunction Scores
+UI  - D063305
+MN  - E5.318.308.250.475.410
+MN  - N5.715.360.300.375.375.181
+MN  - N6.850.520.308.250.475.181
+MS  - Ratings that express, in numerical values, the degree of impairment or abnormality in the function of specific organs.
+HN  - 2013
+FX  - Multiple Organ Failure
+
+MH  - Organically Modified Ceramics
+UI  - D063225
+MN  - D2.715.312
+MN  - D5.750.593
+MN  - D25.264.688
+MN  - D25.339.291.551
+MN  - D25.720.593
+MN  - J1.637.51.339.291.476
+MN  - J1.637.51.720.628
+MS  - Organic-inorganic hybrid polymers developed primarily for DENTAL RESTORATION. They typically contain a defined mixture of ORGANOSILICON COMPOUNDS; CERAMICS; and organic POLYMERS.
+HN  - 2013
+
+MH  - Organofluorophosphonates
+UI  - D063066
+MN  - D2.705.429.750
+MS  - A subclass of organophosphates that have a FLUORINE atom substituted for one of the OXYGEN atoms.
+HN  - 2013
+
+MH  - Organophosphate Poisoning
+UI  - D062025
+MN  - C25.723.717
+MS  - Poisoning due to exposure to ORGANOPHOSPHORUS COMPOUNDS, such as ORGANOPHOSPHATES; ORGANOTHIOPHOSPHATES; and ORGANOTHIOPHOSPHONATES.
+AN  - coordinate with specific organophosphate if pertinent
+HN  - 2013
+
+MH  - Organophosphonates
+UI  - D063065
+MN  - D2.705.429
+MS  - Carbon-containing phosphonic acid compounds. Included under this heading are compounds that have carbon bound to either OXYGEN atom or the PHOSPHOROUS atom of the (P=O)O2 structure.
+HN  - 2013
+
+MH  - Organothiophosphates
+UI  - D063086
+MN  - D2.705.400.625
+MN  - D2.705.539.345
+MN  - D2.886.300.692
+MS  - Carbon-containing thiophosphoric acid derivatives. Included under this heading are compounds that have carbon bound to either SULFUR atom, or the OXYGEN atom of the SPO3 core structure.
+HN  - 2013
+
+MH  - Organothiophosphonates
+UI  - D063085
+MN  - D2.705.429.812
+MN  - D2.705.539.692
+MN  - D2.886.300.846
+MS  - Carbon-containing thiophosphonic acid compounds. Included under this heading are compounds that have carbon bound to either SULFUR atom, PHOSPHOROUS atom, or the OXYGEN atom of the SPO2 core structure.
+HN  - 2013
+
+MH  - ortho-Aminobenzoates
+UI  - D062367
+MN  - D2.241.223.100.50.400
+MN  - D2.455.426.559.389.127.20.906
+MS  - Benzoic acids, salts, or esters that contain an amino group attached to carbon number 2 or 6 of the benzene ring structure.
+HN  - 2013
+
+MH  - Oxaloacetic Acid
+UI  - D062907
+MN  - D2.241.81.337.593.812.750
+MN  - D2.241.755.648.750
+MS  - A dicarboxylic acid ketone that is an important metabolic intermediate of the CITRIC ACID CYCLE. It can be converted to ASPARTIC ACID by ASPARTATE TRANSAMINASE.
+HN  - 2013
+
+MH  - Ozone Depletion
+UI  - D062966
+MN  - G16.500.240.547
+MN  - N6.230.300.100.700.500
+MS  - A shift in the balance between production and destruction of STRATOSPHERIC OZONE that results in a decline of the amount of OZONE in the lower stratosphere.
+HN  - 2013
+
+MH  - para-Aminobenzoates
+UI  - D062366
+MN  - D2.241.223.100.50.500
+MN  - D2.455.426.559.389.127.20.937
+MS  - Benzoic acids, salts, or esters that contain an amino group attached to carbon number 4 of the benzene ring structure.
+HN  - 2013
+
+MH  - Parental Death
+UI  - D063129
+MN  - C23.550.260.730
+MN  - I1.880.735.607
+MS  - The death of the father or mother or another person in this role.
+HN  - 2013
+
+MH  - Patient Acuity
+UI  - D062072
+MN  - E5.318.308.250.475.456
+MN  - N5.715.360.300.375.375.364
+MN  - N6.850.520.308.250.475.364
+MS  - An assessment of a patient's illness, its chronicity, severity, and other qualitative aspects.
+HN  - 2013
+
+MH  - Patient Handoff
+UI  - D062209
+MN  - N4.590.233.727.210.249
+MN  - N5.715.840.500
+MS  - The transferring of patient care responsibility from one health-care professional to another.
+HN  - 2013
+
+MH  - Patient Medication Knowledge
+UI  - D063046
+MN  - N2.421.143.827.407.228.500.500
+MN  - N2.421.726.407.228.500.500
+MS  - Patient health knowledge related to medications including what is being used and why as well as instructions and precautions.
+HN  - 2013
+
+MH  - Patient Navigation
+UI  - D062526
+MN  - N4.590.720.500
+MS  - The process of helping patients to effectively and efficiently use the health care system when faced with one or more of these challenges: (1) choosing, understanding, and using health coverage or applying for assistance when uninsured; (2) choosing, using, and understanding different types of health providers and services; (3) making treatment decisions; and (4) managing care received by multiple providers.
+HN  - 2013
+
+MH  - Percutaneous Coronary Intervention
+UI  - D062645
+MN  - E4.100.814.529.968
+MN  - E4.800.382.968
+MS  - A family of percutaneous techniques that are used to manage CORONARY OCCLUSION, including standard balloon angioplasty (PERCUTANEOUS TRANSLUMINAL CORONARY ANGIOPLASTY), the placement of intracoronary STENTS, and atheroablative technologies (e.g., ATHERECTOMY; ENDARTERECTOMY; THROMBECTOMY; PERCUTANEOUS TRANSLUMINAL LASER ANGIOPLASTY). PTCA was the dominant form of PCI, before the widespread use of stenting.
+HN  - 2013
+
+MH  - Perforator Flap
+UI  - D061525
+MN  - A10.850.710.750
+MN  - E7.862.710.750
+MS  - A mass of tissue for transplantation that includes the skin and/or the SUBCUTANEOUS FAT, and the perforating blood vessel that traverses the underlying tissue to supply blood to the skin. Perforator flaps are named after the anatomical region or muscle from where they are transplanted and/or the perforating blood vessel.
+HN  - 2013
+
+MH  - Personal Narratives
+UI  - D062210
+MN  - V2.170.875
+MS  - Works consisting of accounts of individual experience in relation to a particular field or of participation in related activities.
+AN  - this heading is used as a Publication Type; used for accounts of personal experiences; personal narratives as a subject is indexed under the main heading PERSONAL NARRATIVES AS TOPIC; CATALOG: Use for single as well as for collections of self-described accounts on specific topics and for personal reminiscences on specific topics. Use AUTOBIOGRAPHY for self-described narratives of a person's life.
+HN  - 2013
+
+MH  - Personal Narratives as Topic
+UI  - D063545
+MN  - K1.517.211.753
+MS  - Works about accounts of individual experience in relation to a particular field or of participation in related activities.
+AN  - use only for personal narratives as a subject; for accounts of individual experiences use the Publication Type PERSONAL NARRATIVES.
+HN  - 2013
+
+MH  - Phosphoramides
+UI  - D063088
+MN  - D1.695.625.675.650.425
+MN  - D2.705.672
+MS  - Amide derivatives of phosphoric acid such as compounds that include the phosphoric triamide (P(=O)(N)(N)(N)) structure.
+HN  - 2013
+
+MH  - Physical Therapist Assistants
+UI  - D063372
+MN  - M1.526.485.67.738
+MN  - N2.360.67.732
+MS  - Persons who, under the supervision of licensed PHYSICAL THERAPISTS, provide patient treatment using various PHYSICAL THERAPY THECHNIQUES.
+HN  - 2013
+FX  - Physical Therapy Modalities
+FX  - Physical Therapy Specialty
+
+MH  - Plant Development
+UI  - D063245
+MN  - G7.700.320.625
+MN  - G15.744.723
+MS  - Processes orchestrated or driven by a plethora of genes, plant hormones, and inherent biological timing mechanisms facilitated by secondary molecules, which result in the systematic transformation of plants and plant parts, from one stage of maturity to another.
+AN  - general or unspecified; prefer /growth with specific plant
+HN  - 2013
+
+MH  - Plant Dispersal
+UI  - D063148
+MN  - G15.744.735
+MS  - The physical distribution of plants in various forms and stages of development through time and space.
+HN  - 2013
+
+MH  - Plant Mucilage
+UI  - D062087
+MN  - D5.750.78.764
+MN  - D9.698.709
+MN  - D25.720.99.718
+MS  - A type of viscous polysaccharide that is secreted from PLANTS. It has natural properties that are useful in the formulation of ADHESIVES.
+AN  - do not confuse with MUCILAGES, ADHESIVE see ADHESIVES
+HN  - 2013
+FX  - Adhesives
+
+MH  - Pneumorrhachis
+UI  - D063205
+MN  - C10.228.854.583
+MS  - Presence of air or gas within the spinal canal cavity (EPIDURAL SPACE; or SUBARACHNOID SPACE). It may result from traumatic injuries, emphysema, infection and other conditions. It can also develop as a complication of various SURGICAL PROCEDURES (e.g., MYELOGRAPHY).
+HN  - 2013
+
+MH  - Polycomb Repressive Complex 1
+UI  - D063150
+MN  - D5.500.781.100
+MN  - D8.811.464.938.750.280
+MN  - D12.776.660.235.600.100
+MN  - D12.776.664.235.800.100
+MN  - D12.776.930.700.890.100
+MS  - A multisubunit polycomb protein complex with affinity for CHROMATIN that contains methylated HISTONE H3. It contains an E3 ubiquitin ligase activity that is specific for HISTONE H2A and works in conjunction with POLYCOMB REPRESSIVE COMPLEX 2 to effect EPIGENETIC REPRESSION.
+HN  - 2013
+
+MH  - Polycomb Repressive Complex 2
+UI  - D063151
+MN  - D5.500.781.750
+MN  - D8.811.913.555.500.800.400.500
+MN  - D12.776.660.235.600.200
+MN  - D12.776.664.235.800.200
+MN  - D12.776.930.700.890.200
+MS  - A multisubunit polycomb protein complex that catalyzes the METHYLATION of chromosomal HISTONE H3. It works in conjunction with POLYCOMB REPRESSIVE COMPLEX 1 to effect EPIGENETIC REPRESSION.
+HN  - 2013
+
+MH  - Polycomb-Group Proteins
+UI  - D063146
+MN  - D5.500.781
+MN  - D12.776.660.235.600
+MN  - D12.776.664.235.800
+MN  - D12.776.930.700.890
+MS  - A family of proteins that play a role in CHROMATIN REMODELING. They are best known for silencing HOX GENES and the regulation of EPIGENETIC PROCESSES.
+HN  - 2013
+
+MH  - Pregnancy, Heterotopic
+UI  - D063192
+MN  - C13.703.769
+MS  - MULTIPLE PREGNANCY at two different implantation sites, involving intrauterine and extrauterine (ECTOPIC PREGNANCY).
+AN  - check the tags FEMALE & PREGNANCY; PREGNANCY, ECTOPIC is also available
+HN  - 2013
+
+MH  - Premature Ejaculation
+UI  - D061686
+MN  - C12.294.644.743
+MN  - F3.800.800.700
+MS  - The emission of SEMEN and seminal fluid during the act of preparation for sexual intercourse, i.e. before there is penetration, or shortly after penetration.
+HN  - 2013
+FX  - Ejaculation
+
+MH  - Prescription Drug Misuse
+UI  - D063487
+MN  - E2.319.754
+MS  - Improper use of drugs or medications outside the intended purpose, scope, or guidelines for use. This is in contrast to MEDICATION ADHERENCE, and distinguished from DRUG ABUSE, which is a deliberate or willful action frequently associated with psychological disorders.
+HN  - 2013
+FX  - Drug Toxicity
+FX  - Inappropriate Prescribing
+FX  - Medication Errors
+FX  - Substance-Related Disorders
+
+MH  - Prodromal Symptoms
+UI  - D062706
+MN  - C23.888.672
+MN  - E1.599
+MS  - Clinical or physiological indicators that precede the onset of disease.
+HN  - 2013
+
+MH  - Proteasome Inhibitors
+UI  - D061988
+MN  - D27.505.519.389.745.705
+MS  - Compounds that inhibit the function or proteolytic action of the PROTEASOME.
+HN  - 2013
+
+MH  - Protein Degradation End Products
+UI  - D062106
+MN  - D12.776.643
+MS  - Degraded protein components that are found within TISSUES, bodily fluids, and cells under certain pathological conditions. They are largely formed through chemical reactions which occur during non-physiological conditions such as ISCHEMIA; HYPERGLYCEMIA; and PHYSIOLOGICAL STRESS.
+HN  - 2013
+
+MH  - Proton Therapy
+UI  - D061766
+MN  - E2.815.435
+MS  - The use of an external beam of PROTONS as radiotherapy.
+AN  - coordinate with disease /radiother
+HN  - 2013
+
+MH  - Public Health Surveillance
+UI  - D062486
+MN  - E5.318.308.250.700.324
+MN  - N5.715.360.300.375.625.324
+MN  - N6.850.520.308.250.700.324
+MN  - N6.850.780.675.487
+MS  - The ongoing, systematic collection, analysis, and interpretation of health-related data with the purpose of preventing or controlling disease or injury, or of identifying unusual events of public health importance, followed by the dissemination and use of information for public health action. (From Am J Prev Med 2011;41(6):636)
+HN  - 2013, use Population Surveillance 1990-2012
+
+MH  - Pulse Wave Analysis
+UI  - D063177
+MN  - E1.370.370.680
+MS  - Evaluation of the contour of the PULSE waves which vary in different parts of the circulation and depend on physiological as well as pathophysiological conditions of the individual.
+AN  - note entry term PULSE WAVE VELOCITY: do not confuse with BLOOD FLOW VELOCITY
+HN  - 2013
+
+MH  - Quillaja Saponins
+UI  - D062605
+MN  - D9.408.782.512
+MS  - Natural detergents made up of a heterogeneous mixture of molecules having a triterpenoid core structure. They vary in aglycone (sapogenin) and sugar moieties, including glucose.
+HN  - 2013; use Quillaja 2003-2012
+
+MH  - Racism
+UI  - D063505
+MN  - F1.145.813.550.500
+MN  - F1.145.813.629.625
+MN  - F1.829.595.500
+MN  - I1.880.735.768.500
+MS  - Differential treatment or unequal access to opportunities, based on group membership such as origin or ethnicity.
+HN  - 2013; use PREJUDICE 1994-2012
+
+MH  - Rana clamitans
+UI  - D063188
+MN  - B1.50.150.900.90.180.708.210
+MS  - A species of the family Ranidae which occurs primarily in the eastern half of the United States and Canada. Two subspecies exist, commonly referred to as green frog (R. c. melanota) and bronze frog (R. c. clamitans).
+AN  - NIM with no qualifiers when experimental animal
+HN  - 2013
+BX  - Frog, Green
+BX  - Green Frog
+
+MH  - Re-Epithelialization
+UI  - D062326
+MN  - G4.299.730
+MN  - G13.750.829.755
+MN  - G16.100.856.891.750
+MS  - Reconstitution of eroded or injured EPITHELIUM by proliferation and migration of EPITHELIAL CELLS from below or adjacent to the damaged site.
+HN  - 2013
+
+MH  - Receptors, Artificial
+UI  - D062165
+MN  - D12.776.260.698.387
+MN  - D12.776.543.750.66
+MN  - D12.776.826.387
+MN  - D12.776.930.669.387
+MN  - J1.637.87.750
+MS  - Receptors that are created by SYNTHETIC CHEMISTRY TECHNIQUES. They are usually designed to mimic endogenous CELL SURFACE RECEPTORS.
+HN  - 2013
+
+MH  - Respiratory Aspiration of Gastric Contents
+UI  - D063466
+MN  - C6.405.117.119.500.484.500.500
+MN  - C8.618.749.500
+MN  - C23.550.773.500
+MS  - Inhaling refluxed gastric or duodenal contents.
+HN  - 2013; use RESPIRATORY ASPIRATION 2007-2012
+FX  - Pneumonia, Aspiration
+
+MH  - Retrognathia
+UI  - D063173
+MN  - C5.660.207.540.460.827
+MN  - C7.320.610.827
+MN  - C7.650.500.460.827
+MN  - C16.131.850.500.460.827
+MS  - A physical misalignment of the upper (maxilla) and lower (mandibular) jaw bones in which either or both recede relative to the frontal plane of the forehead.
+HN  - 2013; use Retrognathism 2000-2012
+FX  - Malocclusion
+FX  - Mandibular Advancement
+
+MH  - Return to Work
+UI  - D062707
+MN  - I3.946.449
+MN  - N1.824.245.725
+MS  - Resumption of normal work routine following a hiatus or period of absence due to injury, disability, or other reasons.
+HN  - 2013
+BX  - Return-to-Work
+FX  - Rehabilitation
+
+MH  - rho Guanine Nucleotide Dissociation Inhibitor alpha
+UI  - D062948
+MN  - D12.644.360.325.225.500.100
+MN  - D12.776.402.225.500.100
+MN  - D12.776.476.325.225.500.100
+MS  - An abundantly-expressed rho GDP-dissociation inhibitor subtype that regulates a broad variety of RHO GTPASES.
+HN  - 2013
+
+MH  - rho Guanine Nucleotide Dissociation Inhibitor beta
+UI  - D062949
+MN  - D12.644.360.325.225.500.200
+MN  - D12.776.402.225.500.200
+MN  - D12.776.476.325.225.500.200
+MS  - A rho GDP-dissociation inhibitor subtype that is highly expressed in hematopoietic cells and in LYMPHOCYTES. The expression of this subtype is associated with the regulation of CELL PROLIFERATION; TUMORIGENESIS; and APOPTOSIS.
+HN  - 2013
+
+MH  - rho Guanine Nucleotide Dissociation Inhibitor gamma
+UI  - D062950
+MN  - D12.644.360.325.225.500.300
+MN  - D12.776.402.225.500.300
+MN  - D12.776.476.325.225.500.300
+MS  - A rho GDP-dissociation inhibitor subtype that has a unique C-terminal alpha helical membrane-binding domain. It is found bound to CYTOPLASMIC VESICLES such as those associated with the GOLGI APPARATUS.
+HN  - 2013
+
+MH  - rho-Specific Guanine Nucleotide Dissociation Inhibitors
+UI  - D062947
+MN  - D12.644.360.325.225.500
+MN  - D12.776.402.225.500
+MN  - D12.776.476.325.225.500
+MS  - A subcategory of guanine nucleotide dissociation inhibitors that are specific for RHO GTP-BINDING PROTEINS.
+HN  - 2013
+
+MH  - RNA, Long Untranslated
+UI  - D062085
+MN  - D13.444.735.790.375
+MS  - A class of untranslated RNA molecules that are typically greater than 200 nucleotides in length and do not code for proteins. Members of this class have been found to play roles in transcriptional regulation, post-transcriptional processing, CHROMATIN REMODELING, and in the epigenetic control of chromatin.
+HN  - 2013
+
+MH  - RxNorm
+UI  - D062245
+MN  - L1.143.506.598.400.778
+MN  - L1.700.508.280.875
+MS  - A standardized nomenclature for clinical drugs and drug delivery devices. It links its names to many of the drug vocabularies commonly used in pharmacy management.
+AN  - CATALOG: Use NAF
+HN  - 2013
+
+MH  - Secondary Care
+UI  - D063127
+MN  - N4.452.758.849.775
+MN  - N5.300.745
+MS  - Specialized healthcare delivered as a follow-up or referral from a PRIMARY CARE provider.
+HN  - 2013
+
+MH  - Sexism
+UI  - D063507
+MN  - F1.145.813.550.750
+MN  - F1.145.813.629.750
+MN  - F1.829.595.750
+MS  - Prejudice or discrimination based on gender or behavior or attitudes that foster stereotyped social roles based on gender.
+HN  - 2013; use PREJUDICE 1994-2012
+BX  - Gender Bias
+BX  - Sex Bias
+
+MH  - Sf9 Cells
+UI  - D061987
+MN  - A11.251.210.891
+MS  - Cell line derived from SF21 CELLS which are a cell line isolated from primary explants of SPODOPTERA FRUGIPERDA pupal tissue.
+AN  - almost always NIM with no subheadings; check ANIMALS and add SPODOPTERA (NIM)
+HN  - 2013
+
+MH  - Sialic Acid Binding Ig-like Lectin 1
+UI  - D063267
+MN  - D12.776.503.921.100
+MN  - D23.50.301.264.35.913.100
+MN  - D23.101.100.110.929.100
+MS  - A sialic acid binding lectin that was originally identified as an adhesion molecule for inflammatory MACROPHAGES and activated MONOCYTES. This protein is the largest known siglec subtype and contains 16 immunoglobulin C2-set domains. It plays a role in cell to cell interactions and interactions with BACTERIA.
+HN  - 2013
+
+MH  - Sialic Acid Binding Ig-like Lectin 3
+UI  - D063268
+MN  - D12.776.503.921.400
+MN  - D23.50.301.264.35.913.300
+MN  - D23.50.301.264.900.565
+MN  - D23.101.100.110.929.300
+MN  - D23.101.100.900.565
+MS  - A 67-kDa sialic acid binding lectin that is specific for MYELOID CELLS and MONOCYTE-MACROPHAGE PRECURSOR CELLS. This protein is the smallest siglec subtype and contains a single immunoglobulin C2-set domain. It may play a role in intracellular signaling via its interaction with SHP-1 PROTEIN-TYROSINE PHOSPHATASE and SHP-2 PROTEIN-TYROSINE PHOSPHATASE.
+HN  - 2013
+
+MH  - Sialic Acid Binding Immunoglobulin-like Lectins
+UI  - D063265
+MN  - D12.776.503.921
+MN  - D23.50.301.264.35.913
+MN  - D23.101.100.110.929
+MS  - A family of SIALIC ACID binding proteins found in vertebrate species. They are transmembrane proteins which act as cell surface receptors for a variety of sialylated GLYCOCONJUGATES. While a subset of siglec protein subtypes are evolutionarily conserved between mammalian species, there are many others that are species specific.
+HN  - 2013
+
+MH  - Silorane Resins
+UI  - D062047
+MN  - D2.715.650.850
+MN  - D5.750.716.822.461.500
+MN  - D5.750.900.925
+MN  - D25.339.291.300.500
+MN  - J1.637.51.339.291.300.500
+MS  - Polymeric resins containing a combination of SILOXANES and OXIRANES.
+HN  - 2013
+
+MH  - Singing
+UI  - D063346
+MN  - F1.145.113.55.800.500
+MN  - G9.772.770.680.500
+MS  - The act of manipulating voice to produce sounds augmented by musical tonality and rhythm.
+HN  - 2013
+
+MH  - Single-Domain Antibodies
+UI  - D061905
+MN  - D12.644.541.500.650.500.900
+MN  - D12.776.124.486.485.680.650.500.900
+MN  - D12.776.124.790.651.680.650.500.900
+MN  - D12.776.377.715.548.680.650.500.897
+MS  - An immunoglobulin fragment composed of one variable domain from an IMMUNOGLOBULIN HEAVY CHAIN or IMMUNOGLOBULIN LIGHT CHAIN.
+HN  - 2013
+FX  - Single-Chain Antibodies
+
+MH  - Skin Cream
+UI  - D063465
+MN  - E2.547.800.500
+MN  - J1.516.213.249
+MS  - A water-soluble medicinal preparation applied to the skin.
+HN  - 2013
+
+MH  - Skin Lightening Preparations
+UI  - D062327
+MN  - D27.720.269.750
+MN  - J1.516.213.500
+MS  - Substances used to obtain a lighter skin complexion or to treat HYPERPIGMENTATION disorders.
+HN  - 2013
+
+MH  - Smoke-Free Policy
+UI  - D061845
+MN  - I1.655.249
+MS  - Prohibition against tobacco smoking in specific areas to control TOBACCO SMOKE POLLUTION.
+HN  - 2013
+
+MH  - Snacks
+UI  - D062410
+MN  - F1.145.407.432.500.775
+MN  - F1.145.466.349.500.775
+MN  - J2.500.590.780
+MS  - Foods eaten between MEALTIMES.
+HN  - 2013
+BX  - Snacking
+BX  - Snacktime
+
+MH  - Social Discrimination
+UI  - D063508
+MN  - F1.145.813.629
+MS  - Group behavior toward others by virtue of their group membership.
+AN  - do not confuse with DISCRIMINATION (PSYCHOLOGY)
+HN  - 2013; use PREJUDICE 1982-2012
+
+MH  - Social Marginalization
+UI  - D062487
+MN  - F1.145.813.817
+MN  - I1.880.696
+MS  - Individuals or groups, excluded from participation in the economic, social, and political activities of membership in a community.
+HN  - 2013
+
+MH  - Sodium Channel Agonists
+UI  - D062687
+MN  - D27.505.519.562.625
+MS  - A class of drugs that stimulate sodium influx through cell membrane channels.
+HN  - 2013
+
+MH  - Solid Waste
+UI  - D062611
+MN  - D20.944.730
+MN  - N6.850.460.710.730
+MS  - Garbage, refuse, or sludge, or other discarded materials from a wastewater treatment plant, water supply treatment plant, and air pollution control facility that include solid, semi-solid, or contained material. It does not include materials dissolved in domestic sewage, irrigation return flows, or industrial discharges.
+HN  - 2013
+FX  - Refuse Disposal
+
+MH  - Spatial Analysis
+UI  - D062206
+MN  - E5.318.740.933
+MN  - N5.715.360.750.746
+MN  - N6.850.520.830.933
+MS  - Techniques which study entities using their topological, geometric, or geographic properties.
+HN  - 2013
+FX  - Geographic Information Systems
+
+MH  - Spatio-Temporal Analysis
+UI  - D062211
+MN  - E5.318.740.933.500
+MN  - N5.715.360.750.746.500
+MN  - N6.850.520.830.933.500
+MS  - Techniques which study entities using their topological, geometric, or geographic properties and include the dimension of time in the analysis.
+HN  - 2013
+FX  - Space-Time Clustering
+
+MH  - Spinal Cord Stimulation
+UI  - D062187
+MN  - E2.342.735
+MN  - E2.779.468.699
+MS  - Application of electric current to the spine for treatment of a variety of conditions involving innervation from the spinal cord.
+HN  - 2013
+
+MH  - Steatocystoma Multiplex
+UI  - D062685
+MN  - C16.131.831.350.856.500
+MN  - C16.320.850.250.856.500
+MN  - C17.800.529.594.500
+MN  - C17.800.804.350.856.500
+MN  - C17.800.827.250.856.500
+MS  - A disorder characterized by multiple, wide spread cutaneous cysts that often become inflamed and rupture. It is caused by the same mutations in the gene coding for KRT-17 that are causative mutations for Pachyonychia congenita, Type 2. Natal teeth involvement is sometimes associated with steatocystoma multiplex.
+HN  - 2013
+FX  - Keratin-17
+
+MH  - Strategic Stockpile
+UI  - D062205
+MN  - N5.300.420.700
+MN  - N6.230.100.35.500
+MS  - Planned and coordinated pre-event accumulation of ESSENTIAL DRUGS and medical supplies.
+HN  - 2013
+
+MH  - Stratospheric Ozone
+UI  - D062952
+MN  - D1.362.670.600.500
+MN  - G16.500.275.63.700
+MN  - N6.230.300.100.700
+MS  - Ozone in the Earth's stratosphere. It is produced continuously by the action of solar ULTRAVIOLET RAYS on oxygen in the stratosphere. The stratospheric ozone (especially at the ozone layer) blocks much of the solar UV radiation of wavelengths of 320 nanometers or less from being transmitted to lower ATMOSPHERE of the Earth.
+HN  - 2013
+BX  - Ozone Layer
+
+MH  - Symptom Assessment
+UI  - D063189
+MN  - E1.370.872
+MS  - Evaluation of manifestations of disease.
+HN  - 2013
+
+MH  - Synaptogyrins
+UI  - D062805
+MN  - D12.776.543.488.750
+MN  - D12.776.543.990.831
+MN  - D12.776.641.775
+MS  - A subfamily of MARVEL domain-containing proteins that are found in SYNAPTIC VESICLES, where they may play a role in modulating neuronal signaling.
+HN  - 2013
+
+MH  - Tertiary Care Centers
+UI  - D062606
+MN  - N2.278.421.830
+MS  - A medical facility which provides subspecialty expertise for patients often referred from centers where they received SECONDARY CARE.
+AN  - TERTIARY CARE is also available
+HN  - 2013
+FX  - Academic Medical Centers
+FX  - Hospitals, Special
+FX  - Referral and Consultation
+
+MH  - Tertiary Healthcare
+UI  - D063128
+MN  - N4.452.758.849.887
+MN  - N5.300.787
+MS  - Care of a highly technical and specialized nature, provided in a medical center, usually one affiliated with a university, for patients with unusually severe, complex, or uncommon health problems.
+AN  - TERTIARY CARE CENTERS is also available
+HN  - 2013
+BX  - Tertiary Care
+
+MH  - Thermometry
+UI  - D062125
+MN  - E5.933
+MS  - Measurement of the temperature of a material, or of the body or an organ by various temperature sensing devices which measure changes in properties of the material that vary with temperature, such as ELASTICITY; MAGNETIC FIELDS; or LUMINESCENCE.
+AN  - coordinate with specific measuring method or property measured
+HN  - 2013
+
+MH  - Tiapride Hydrochloride
+UI  - D063325
+MN  - D2.92.471.869
+MN  - D2.241.223.100.100.933
+MN  - D2.455.426.559.389.127.85.933
+MS  - Benzamide derivative with dopamine antagonist actions similar to SULPIRIDE.
+HN  - 2013; use BENZAMIDES 1980-2012
+BX  - Tiapride
+BX  - Tiapride Monohydrochloride
+
+MH  - Tight Junction Proteins
+UI  - D062725
+MN  - D12.776.543.984
+MS  - Proteins that take part in the formation or structure of TIGHT JUNCTIONS.
+HN  - 2013
+
+MH  - Time-to-Pregnancy
+UI  - D061685
+MN  - G8.686.210.500
+MS  - Time interval, or number of non-contraceptive menstrual cycles that it takes for a couple to conceive.
+HN  - 2013
+FX  - Reproductive History
+
+MH  - Time-to-Treatment
+UI  - D061665
+MN  - E2.760.928
+MN  - N2.421.585.928
+MS  - The interval of time between onset of symptoms and receiving therapy.
+HN  - 2013
+BX  - Time to Treatment
+
+MH  - Tobacco Products
+UI  - D062789
+MN  - J1.637.836
+MS  - Substances and products derived from NICOTIANA TABACUM.
+HN  - 2013
+BX  - Cigarettes
+BX  - Cigars
+
+MH  - Transcription Elongation, Genetic
+UI  - D061805
+MN  - G2.111.87.847.562
+MN  - G2.149.115.847.562
+MN  - G5.355.310.700.562
+MS  - The lengthening of a nascent RNA molecule by RNA POLYMERASE during transcription.
+HN  - 2013
+
+MH  - Transcription Initiation, Genetic
+UI  - D061785
+MN  - G2.111.87.847.625
+MN  - G2.149.115.847.625
+MN  - G5.355.310.700.625
+MS  - The process that starts the transcription of an RNA molecule. It includes the assembly of the initiation complex and establishment of the start site.
+HN  - 2013
+
+MH  - Transcription Termination, Genetic
+UI  - D061806
+MN  - G2.111.87.847.687
+MN  - G2.149.115.847.687
+MN  - G5.355.310.700.687
+MS  - The discontinuation of transcription at the end of a transcription unit, including the recognition of termination sites and release of the newly synthesized RNA molecule.
+HN  - 2013
+
+MH  - Transgendered Persons
+UI  - D063106
+MN  - M1.909
+MS  - Persons having a sense of persistent identification with, and expression of, gender-coded behaviors not typically associated with one's anatomical sex at birth, and with or without a desire to undergo SEX REASSIGNMENT PROCEDURES.
+HN  - 2013
+FX  - Disorders of Sex Development
+FX  - Gender Identity
+FX  - Health Services for Transgendered Persons
+FX  - Transsexualism
+
+MH  - Transtympanic Micropressure Treatment
+UI  - D062086
+MN  - E4.580.450.802
+MS  - The intermittent delivery of pulses of air pressure (5 -20 cmH2O) to the middle ear space through a TYMPANOSTOMY tube.
+HN  - 2013
+FX  - Endolymphatic Hydrops
+FX  - Meniere Disease
+
+MH  - Urinary Catheters
+UI  - D062885
+MN  - E7.132.625
+MS  - Catheters inserted into the URINARY BLADDER or kidney for therapeutic or diagnostic purposes.
+HN  - 2013
+FX  - Urinary Catheterization
+
+MH  - Uterine Myomectomy
+UI  - D063186
+MN  - E4.950.300.941
+MS  - Surgical removal of a LEIOMYOMA of the UTERUS.
+HN  - 2013
+
+MH  - Vaccines, Adenovirus
+UI  - D062705
+MN  - D20.215.894.899.24
+MS  - Vaccines used to prevent infection by any virus from the family ADENOVIRIDAE.
+AN  - use only for vaccines to prevent infection by ADENOVIRIDAE; not for adenovirus vector-based synthetic vaccines to prevent other infections (for example: adenovirus 5, rabies glycoprotein recombinant vaccine)
+HN  - 2013
+BX  - Adenovirus Vaccines
+
+MH  - Vaccines, Live, Unattenuated
+UI  - D062690
+MN  - D20.215.894.882
+MS  - Live vaccines prepared from microorganisms without their virulence altered. Examples include smallpox (vaccinia) and adenovirus vaccines.
+AN  - coordinate NIM with specific vaccine (IM)
+HN  - 2013
+BX  - Vaccines, Unattenuated
+
+MH  - Value-Based Purchasing
+UI  - D062505
+MN  - N3.219.521.576.343.981
+MS  - Purchasers are provided information on the quality of health care, including patient outcomes and health status, with data on the dollar outlays going towards health. The focus is on managing the use of the health care system to reduce inappropriate care and to identify and reward the best-performing providers. (from http://www.ahrq.gov/qual/meyerrpt.htm accessed 11/25/2011)
+HN  - 2013
+
+MH  - Vascular Access Devices
+UI  - D062666
+MN  - E7.132.750
+MS  - Devices to be inserted into veins or arteries for the purpose of carrying fluids into or from a peripheral or central vascular location. They may include component parts such as catheters, ports, reservoirs, and valves. They may be left in place temporarily for therapeutic or diagnostic purposes.
+HN  - 2013; for VASCULAR ACCESS PORTS use CATHETERS, INDWELLING 1990-2012; for INTRA-ARTERIAL LINES use CATHETERS, INDWELLING 1987-2012; for VENOUS RESERVOIRS use CATHETERS, INDWELLING 1998-2012
+BX  - Arterial Lines
+BX  - Intra-Arterial Lines
+BX  - Vascular Access Ports
+BX  - Venous Reservoirs
+
+MH  - Virtual Reality Exposure Therapy
+UI  - D063367
+MN  - F4.754.137.506.662
+MS  - Treatment technique in a virtual environment which allows the participant to experience a sense of presence in an immersive, computer-generated, three-dimensional, interactive environment that minimizes avoidance behavior and facilitates emotional involvement. (from Curr Psychiatry Rep (2010) 12:298)
+HN  - 2013
+
+MH  - Voltage-Gated Sodium Channel Agonists
+UI  - D061585
+MN  - D27.505.519.562.625.500
+MS  - Compounds that either stimulate the opening or prevent closure of VOLTAGE-GATED SODIUM CHANNELS.
+HN  - 2013
+BX  - Voltage-Gated Sodium Channel Activators
+
+MH  - Voltage-Gated Sodium Channel beta Subunits
+UI  - D062546
+MN  - D12.776.157.530.400.875.750.960
+MN  - D12.776.543.550.425.875.750.970
+MN  - D12.776.543.585.400.875.750.970
+MN  - D12.776.641.960.970
+MS  - Voltage-gated sodium channel subunits that play a role in the assembly, expression, and functional modulation of the sodium channel. They form a heterotrimeric complex with the pore-forming sodium channel alpha subunits.
+HN  - 2013
+
+MH  - Voltage-Gated Sodium Channel beta-1 Subunit
+UI  - D062547
+MN  - D12.776.157.530.400.875.750.960.100
+MN  - D12.776.543.550.425.875.750.970.100
+MN  - D12.776.543.585.400.875.750.970.100
+MN  - D12.776.641.960.970.100
+MS  - A voltage-gated sodium channel beta subunit abundantly expressed in SKELETAL MUSCLE; HEART; and BRAIN. It non-covalently associates with voltage-gated alpha subunits. Defects in the SCN1B gene, which codes for this beta subunit, are associated with generalized epilepsy with febrile seizures plus, type 1, and Brugada syndrome 5.
+HN  - 2013
+FX  - Brugada Syndrome
+
+MH  - Voltage-Gated Sodium Channel beta-2 Subunit
+UI  - D062548
+MN  - D12.776.157.530.400.875.750.960.200
+MN  - D12.776.543.550.425.875.750.970.200
+MN  - D12.776.543.585.400.875.750.970.200
+MN  - D12.776.641.960.970.200
+MS  - A voltage-gated sodium channel beta subunit that binds covalently to voltage-gated alpha subunits.
+HN  - 2013
+
+MH  - Voltage-Gated Sodium Channel beta-3 Subunit
+UI  - D062549
+MN  - D12.776.157.530.400.875.750.960.300
+MN  - D12.776.543.550.425.875.750.970.300
+MN  - D12.776.543.585.400.875.750.970.300
+MN  - D12.776.641.960.970.300
+MS  - A voltage-gated sodium channel beta subunit subtype that non-covalently associates with voltage-gated alpha subunits. Defects in the SCN3B gene which codes for this beta subunit are associated with Brugada syndrome 7.
+HN  - 2013
+FX  - Brugada Syndrome
+
+MH  - Voltage-Gated Sodium Channel beta-4 Subunit
+UI  - D062585
+MN  - D12.776.157.530.400.875.750.960.650
+MN  - D12.776.543.550.425.875.750.970.400
+MN  - D12.776.543.585.400.875.750.970.650
+MN  - D12.776.641.960.970.650
+MS  - A voltage-gated sodium channel beta subunit subtype that covalently associates with voltage-gated alpha subunits. Defects in the SCN4B gene, which codes for this beta subunit, are associated with long QT syndrome-10.
+HN  - 2013
+FX  - Long QT Syndrome
+
+MH  - Voltage-Gated Sodium Channel Blockers
+UI  - D061567
+MN  - D27.505.519.562.750.500
+MN  - D27.505.954.411.720.500
+MS  - A class of drugs that inhibit the activation of VOLTAGE-GATED SODIUM CHANNELS.
+HN  - 2013
+
+MH  - Voltage-Gated Sodium Channels
+UI  - D061566
+MN  - D12.776.157.530.400.875.750
+MN  - D12.776.543.550.425.875.750
+MN  - D12.776.543.585.400.875.750
+MN  - D12.776.641.960
+MS  - A family of membrane proteins that selectively conduct SODIUM ions due to changes in the TRANSMEMBRANE POTENTIAL DIFFERENCE. They typically have a multimeric structure with a core alpha subunit that defines the sodium channel subtype and several beta subunits that modulate sodium channel activity.
+AN  - general or unspecified; prefer specifics
+HN  - 2013
+
+MH  - Waste Water
+UI  - D062065
+MN  - D20.944.932
+MN  - N6.850.460.710.865
+MS  - Contaminated water generated as a waste product of human activity.
+HN  - 2013
+FX  - Waste Disposal, Fluid
+
+MH  - Water Resources
+UI  - D062066
+MN  - G1.311.910
+MS  - Environmental reservoirs of water related to natural WATER CYCLE by which water is obtained for various purposes. This includes but is not limited to watersheds, aquifers and springs.
+HN  - 2013
+FX  - Groundwater
+
+MH  - Zonula Occludens Proteins
+UI  - D062825
+MN  - D12.776.543.984.900
+MS  - A family of proteins that play a role in TIGHT JUNCTION formation by binding to and anchoring proteins to the ACTIN CYTOSKELETON.
+HN  - 2013
+BX  - Zona Occludens Proteins
+
+MH  - Zonula Occludens-1 Protein
+UI  - D062826
+MN  - D12.776.543.984.900.500
+MS  - A 195-kDa zonula occludens protein that is distinguished by the presence of a ZU5 domain at the C-terminal of the molecule.
+HN  - 2013
+BX  - Zona Occludens 1 Protein
+
+MH  - Zonula Occludens-2 Protein
+UI  - D062827
+MN  - D12.776.543.984.900.750
+MS  - A zonula occludens protein subtype found in epithelial cell junctions. Several isoforms of zonula occludens-2 protein exist due to use of alternative promoter regions and alternative mRNA splicings.
+HN  - 2013
+BX  - Zona Occludens 2 Protein

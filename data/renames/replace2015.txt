@@ -1,0 +1,98 @@
+MH Changes and Deletes. 2015 MeSH.
+
+Total replaced     = 25
+Total deleted      = 4
+
+# = delete
+
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)
+
+* = old term in a different record than the new term
+
+
+MH OLD = Adolescent Psychology [P]
+MH NEW = Psychology, Adolescent
+
+MH OLD = Aldosterone Synthase [P]
+MH NEW = Cytochrome P-450 CYP11B2
+
+MH OLD = Alkane 1-Monooxygenase [P]
+MH NEW = Cytochrome P-450 CYP4A
+
+MH OLD = Arcuate Nucleus [P]
+MH NEW = Arcuate Nucleus of Hypothalamus
+
+MH OLD = Carboxypeptidase U [P]
+MH NEW = Carboxypeptidase B2
+
+MH OLD = Cellular Phone [P]
+MH NEW = Cell Phones
+
+MH OLD = Child Psychology [P]
+MH NEW = Psychology, Child
+
+MH OLD = Consumer Satisfaction [P]
+MH NEW = Consumer Behavior
+
+MH OLD = Environmental Remediation [P]
+MH NEW = Environmental Restoration and Remediation
+
+MH OLD = Estradiol Antagonists # [N]
+MH NEW = Estrogen Antagonists
+
+MH OLD = Gas, Natural [P]
+MH NEW = Natural Gas
+
+MH OLD = In Vitro # [N]
+MH NEW = In Vitro Techniques
+
+MH OLD = Macrocephaly [P]
+MH NEW = Megalencephaly
+
+MH OLD = Mamillary Bodies [P]
+MH NEW = Mammillary Bodies
+
+MH OLD = Metabolic Detoxication, Drug [P]
+MH NEW = Inactivation, Metabolic
+
+MH OLD = Missions and Missionaries []
+MH NEW = Religious Missions
+
+MH OLD = Neuronal Migration Disorders [P]
+MH NEW = Malformations of Cortical Development, Group II
+
+MH OLD = Nuclear Reprogramming # [N]
+MH NEW = Cellular Reprogramming
+
+MH OLD = Psoralens [P]
+MH NEW = Furocoumarins
+
+MH OLD = Rabdosia # [N]
+MH NEW = Isodon
+
+MH OLD = Receptor, erbB-2 []
+MH NEW = Receptor, ErbB-2
+
+MH OLD = Receptor, erbB-3 []
+MH NEW = Receptor, ErbB-3
+
+MH OLD = Scandinavia [P]
+MH NEW = Scandinavian and Nordic Countries
+
+MH OLD = Startle Reaction [P]
+MH NEW = Reflex, Startle
+
+MH OLD = Surgical Procedures, Elective [P]
+MH NEW = Elective Surgical Procedures
+
+MH OLD = Surgical Procedures, Minimally Invasive [P]
+MH NEW = Minimally Invasive Surgical Procedures
+
+MH OLD = Surgical Procedures, Minor [P]
+MH NEW = Minor Surgical Procedures
+
+MH OLD = Wegener Granulomatosis [P]
+MH NEW = Granulomatosis with Polyangiitis
+
+MH OLD = World Health [P]
+MH NEW = Global Health

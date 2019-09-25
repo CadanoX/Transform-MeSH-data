@@ -1,0 +1,232 @@
+MH Changes and deletes. 2011 MeSH. July 22, 2010
+
+
+Total replaced     = 54
+Total deleted      = 19
+
+
+# = delete
+
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)
+
+* = old term in a different record than the new term
+
+
+MH OLD = 1-Phosphatidylinositol 3-Kinase [P*]
+MH NEW = Phosphatidylinositol 3-Kinases
+
+MH OLD = Acidaminococcaceae [P]
+MH NEW = Veillonellaceae
+
+MH OLD = Algae # []
+MH NEW = Eukaryota
+
+MH OLD = Algae, Brown [P]
+MH NEW = Phaeophyta
+
+MH OLD = Algae, Golden-Brown [P]
+MH NEW = Chrysophyta
+
+MH OLD = Algae, Green [P]
+MH NEW = Chlorophyta
+
+MH OLD = Algae, Red [P]
+MH NEW = Rhodophyta
+
+MH OLD = Amyloid beta-Protein [P]
+MH NEW = Amyloid beta-Peptides
+
+MH OLD = Angioplasty, Transluminal, Percutaneous Coronary [P]
+MH NEW = Angioplasty, Balloon, Coronary
+
+MH OLD = Antigens, CD26 [P]
+MH NEW = Dipeptidyl Peptidase 4
+
+MH OLD = Antilipemic Agents [P]
+MH NEW = Hypolipidemic Agents
+
+MH OLD = Autobiography [M*]
+MH NEW = Autobiography as Topic
+
+MH OLD = Balloon Dilatation []
+MH NEW = Balloon Dilation
+
+MH OLD = Botulinum Toxin Type A [P]
+MH NEW = Botulinum Toxins, Type A
+
+MH OLD = Byelarus [P]
+MH NEW = Republic of Belarus
+
+MH OLD = Carbohydrate-Deficient Glycoprotein Syndrome [P]
+MH NEW = Congenital Disorders of Glycosylation
+
+MH OLD = Carboxymethylcellulose [P]
+MH NEW = Carboxymethylcellulose Sodium
+
+MH OLD = Chloroguanide [P]
+MH NEW = Proguanil
+
+MH OLD = Cookery [P]
+MH NEW = Cooking
+
+MH OLD = Cryopyrin-associated Periodic Syndromes []
+MH NEW = Cryopyrin-Associated Periodic Syndromes
+
+MH OLD = Dental Bonding, Chemically-Cured [P]
+MH NEW = Self-Curing of Dental Resins
+
+MH OLD = Dental Bonding, Light-Cured [P]
+MH NEW = Light-Curing of Dental Adhesives
+
+MH OLD = DNA Topoisomerases, Type I, Archaeal # [N]
+MH NEW = DNA Topoisomerases, Type I
+
+MH OLD = DNA Topoisomerases, Type I, Bacterial # [N]
+MH NEW = DNA Topoisomerases, Type I
+
+MH OLD = DNA Topoisomerases, Type I, Eukaryotic # [N]
+MH NEW = DNA Topoisomerases, Type I
+
+MH OLD = DNA Topoisomerases, Type II, Archaeal # [N]
+MH NEW = DNA Topoisomerases, Type II
+
+MH OLD = DNA Topoisomerases, Type II, Bacterial # [N]
+MH NEW = DNA Topoisomerases, Type II
+
+MH OLD = DNA Topoisomerases, Type II, Eukaryotic # [N]
+MH NEW = DNA Topoisomerases, Type II
+
+MH OLD = Electrocardiogram Pattern # []
+MH NEW = Electrocardiography
+
+MH OLD = Evolution []
+MH NEW = Biological Evolution
+
+MH OLD = Fleas [P]
+MH NEW = Siphonaptera
+
+MH OLD = Hermaphroditism # [N]
+MH NEW = Disorders of Sex Development
+
+MH OLD = Hermaphroditism, True [P]
+MH NEW = Ovotesticular Disorders of Sex Development
+
+MH OLD = Hydrophobicity # [N]
+MH NEW = Hydrophobic and Hydrophilic Interactions
+
+MH OLD = Instruction [P]
+MH NEW = Instructional Films and Videos
+
+MH OLD = Iron Compounds # [M]
+MH NEW = Iron Compounds
+
+MH OLD = Irrigation []
+MH NEW = Therapeutic Irrigation
+
+MH OLD = Kaplan-Meiers Estimate []
+MH NEW = Kaplan-Meier Estimate
+
+MH OLD = Kidney Failure # [N]
+MH NEW = Renal Insufficiency
+
+MH OLD = Kidney Failure, Acute # [N]
+MH NEW = Acute Kidney Injury
+
+MH OLD = Lice [P]
+MH NEW = Phthiraptera
+
+MH OLD = Linkage (Genetics) []
+MH NEW = Genetic Linkage
+
+MH OLD = Listeria Infections [P]
+MH NEW = Listeriosis
+
+MH OLD = Mallophaga # []
+MH NEW = Phthiraptera
+
+MH OLD = Mind-Body Relations (Metaphysics) [P]
+MH NEW = Mind-Body Relations, Metaphysical
+
+MH OLD = Mollicutes [P]
+MH NEW = Tenericutes
+
+MH OLD = Nectar [P]
+MH NEW = Plant Nectar
+
+MH OLD = Orciprenaline [P]
+MH NEW = Metaproterenol
+
+MH OLD = Ovarian Failure, Premature [P]
+MH NEW = Primary Ovarian Insufficiency
+
+MH OLD = Paget Disease Extramammary [P]
+MH NEW = Paget Disease, Extramammary
+
+MH OLD = Perimetry # [N]
+MH NEW = Visual Field Tests
+
+MH OLD = Personal Narratives [P]
+MH NEW = Autobiography
+
+MH OLD = Plant Families and Groups []
+MH NEW = Embryophyta
+
+MH OLD = Primary Nursing Care [P]
+MH NEW = Primary Nursing
+
+MH OLD = Procetofen [P]
+MH NEW = Fenofibrate
+
+MH OLD = Proteochondroitin Sulfates [P]
+MH NEW = Chondroitin Sulfate Proteoglycans
+
+MH OLD = Pseudohermaphroditism # [N]
+MH NEW = Disorders of Sex Development
+
+MH OLD = Renal Insufficiency, Acute # [N]
+MH NEW = Acute Kidney Injury
+
+MH OLD = Repression [P]
+MH NEW = Repression, Psychology
+
+MH OLD = Self Assessment (Psychology) [P]
+MH NEW = Self-Assessment
+
+MH OLD = Senile Plaques # [N]
+MH NEW = Plaque, Amyloid
+
+MH OLD = Serotonin Agonists [P]
+MH NEW = Serotonin Receptor Agonists
+
+MH OLD = Sex Determination (Analysis) []
+MH NEW = Sex Determination Analysis
+
+MH OLD = Sex Determination (Genetics) []
+MH NEW = Sex Determination Processes
+
+MH OLD = Sex Differentiation Disorders [P]
+MH NEW = Disorders of Sex Development
+
+MH OLD = Sex Reversal, Gonadal # []
+MH NEW = Disorders of Sex Development
+
+MH OLD = Temperature Sense [P]
+MH NEW = Thermosensing
+
+MH OLD = Testosterone 5-alpha-Reductase [P]
+MH NEW = 3-Oxo-5-alpha-Steroid 4-Dehydrogenase
+
+MH OLD = Thiopronine [P]
+MH NEW = Tiopronin
+
+MH OLD = Thyroid Extract, Desiccated [P]
+MH NEW = Thyroid (USP)
+
+MH OLD = Toothpaste [P]
+MH NEW = Toothpastes
+
+MH OLD = Triethylenetetramine [P]
+MH NEW = Trientine
+
+MH OLD = Vehicles []
+MH NEW = Pharmaceutical Vehicles

@@ -1,0 +1,179 @@
+MH Changes and Deletes. 2013 MeSH. August 20, 2012
+
+Total replaced     = 26
+Total deleted      = 30
+
+# = delete
+
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)
+
+* = old term in a different record than the new term
+
+
+MH OLD = 5'-Guanylic Acid [P]
+MH NEW = Guanosine Monophosphate
+
+MH OLD = Acetic Acids # [N]
+MH NEW = Acetates
+
+MH OLD = Adipic Acids [P]
+MH NEW = Adipates
+
+MH OLD = Aldosterone Antagonists [P]
+MH NEW = Mineralocorticoid Receptor Antagonists
+
+MH OLD = Aminobenzoic Acids # [N]
+MH NEW = Aminobenzoates
+
+MH OLD = Aminobutyric Acids [P]
+MH NEW = Aminobutyrates
+
+MH OLD = Anthranilic Acids # [N]
+MH NEW = ortho-Aminobenzoates
+
+MH OLD = Antigens, CD22 [P]
+MH NEW = Sialic Acid Binding Ig-like Lectin 2
+
+MH OLD = Balloon Dilation # []
+MH NEW = Catheterization
+
+MH OLD = Benzoic Acids # [N]
+MH NEW = Benzoates
+
+MH OLD = Butyric Acids # [N]
+MH NEW = Butyrates
+
+MH OLD = Cobra # [N]
+MH NEW = Elapidae
+
+MH OLD = Coombs' Test [P]
+MH NEW = Coombs Test
+
+MH OLD = Coprophagia []
+MH NEW = Human Coprophagia
+
+MH OLD = Creativeness [P]
+MH NEW = Creativity
+
+MH OLD = Crotonic Acids # [N]
+MH NEW = Crotonates
+
+MH OLD = Cytochrome P-450 CYP27A1 []
+MH NEW = Cholestanetriol 26-Monooxygenase
+
+MH OLD = Dichloroacetate []
+MH NEW = Dichloroacetic Acid
+
+MH OLD = Endocannabinoids # [M]
+MH NEW = Cannabinoid Receptor Modulators
+
+MH OLD = Epithelial Sodium Channel [P]
+MH NEW = Epithelial Sodium Channels
+
+MH OLD = Felty's Syndrome [P]
+MH NEW = Felty Syndrome
+
+MH OLD = Formic Acids # [N]
+MH NEW = Formates
+
+MH OLD = Gene Therapy [P]
+MH NEW = Genetic Therapy
+
+MH OLD = Glucuronic Acids # [N]
+MH NEW = Glucuronates
+
+MH OLD = Handwashing [P]
+MH NEW = Hand Disinfection
+
+MH OLD = Heart Catheterization [P]
+MH NEW = Cardiac Catheterization
+
+MH OLD = Hexanoic Acids # [N]
+MH NEW = Caproates
+
+MH OLD = Hydrophid Venoms # [N]
+MH NEW = Elapid Venoms
+
+MH OLD = Hydrophidae # [N]
+MH NEW = Elapidae
+
+MH OLD = Hydroxybenzoic Acids # [N]
+MH NEW = Hydroxybenzoates
+
+MH OLD = Iraq War, 2003 - [P]
+MH NEW = Iraq War, 2003 - 2011
+
+MH OLD = Isobutyric Acids [P]
+MH NEW = Isobutyrates
+
+MH OLD = Kidney, Artificial [P]
+MH NEW = Kidneys, Artificial
+
+MH OLD = Mesenchymal Stem Cells # [N]
+MH NEW = Mesenchymal Stromal Cells
+
+MH OLD = Myelin Basic Proteins []
+MH NEW = Myelin Basic Protein
+
+MH OLD = Octanoic Acids # [N]
+MH NEW = Caprylates
+
+MH OLD = Overdose # []
+MH NEW = Prescription Drug Misuse
+
+MH OLD = Oxalic Acids # [N]
+MH NEW = Oxalates
+
+MH OLD = Oxaloacetate # [N]
+MH NEW = Oxaloacetic Acid
+
+MH OLD = Oxaloacetic Acids # [N]
+MH NEW = Oxaloacetates
+
+MH OLD = Persistent Hyperinsulinemia Hypoglycemia of Infancy [P]
+MH NEW = Congenital Hyperinsulinism
+
+MH OLD = Phosphonic Acids # [N]
+MH NEW = Organophosphonates
+
+MH OLD = Phosphoric Acid Esters [P]
+MH NEW = Organophosphates
+
+MH OLD = Physical Medicine [P]
+MH NEW = Physical and Rehabilitation Medicine
+
+MH OLD = Polytene Chromosome [P]
+MH NEW = Polytene Chromosomes
+
+MH OLD = Pontine Glioma # []
+MH NEW = Brain Stem Neoplasms
+
+MH OLD = Prenazone [P]
+MH NEW = Feprazone
+
+MH OLD = Propionic Acids # [N]
+MH NEW = Propionates
+
+MH OLD = Receptors, Aldosterone # [N]
+MH NEW = Receptors, Mineralocorticoid
+
+MH OLD = Rehabilitation of Hearing Impaired [P]
+MH NEW = Correction of Hearing Impairment
+
+MH OLD = Residential Mobility # [N]
+MH NEW = Population Dynamics
+
+MH OLD = Retrognathism # [N]
+MH NEW = Retrognathia
+
+MH OLD = Salicylic Acids # [N]
+MH NEW = Salicylates
+
+MH OLD = Succinic Acids # [N]
+MH NEW = Succinates
+
+MH OLD = Thiophosphoric Acid Esters # [N]
+MH NEW = Organothiophosphates
+
+MH OLD = Waardenburg's Syndrome [P]
+MH NEW = Waardenburg Syndrome

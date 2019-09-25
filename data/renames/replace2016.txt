@@ -1,0 +1,220 @@
+File write open                                                                                                
+MH Changes and deletes                                                                                         
+                                                                                                               
+# = delete                                                                                                     
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)      
+* = old term in a different record than the new term                                                           
+                                                                                                               
+                                                                                                               
+MH OLD = Acanthopanax # [P]                                                                                    
+MH NEW = Eleutherococcus                                                                                       
+                                                                                                               
+MH OLD = Adenylate Cyclase [P]                                                                                 
+MH NEW = Adenylyl Cyclases                                                                                     
+                                                                                                               
+MH OLD = Adhatoda [P]                                                                                          
+MH NEW = Justicia                                                                                              
+                                                                                                               
+MH OLD = African horse sickness virus []                                                                       
+MH NEW = African Horse Sickness Virus                                                                          
+                                                                                                               
+MH OLD = Anellovirus [P]                                                                                       
+MH NEW = Anelloviridae                                                                                         
+                                                                                                               
+MH OLD = Anesthesia, Intratracheal [P]                                                                         
+MH NEW = Anesthesia, Endotracheal                                                                              
+                                                                                                               
+MH OLD = Arachis hypogaea [P]                                                                                  
+MH NEW = Arachis                                                                                               
+                                                                                                               
+MH OLD = Asclepiadaceae # [P]                                                                                  
+MH NEW = Apocynaceae                                                                                           
+                                                                                                               
+MH OLD = Avena sativa [P]                                                                                      
+MH NEW = Avena                                                                                                 
+                                                                                                               
+MH OLD = Avian leukosis virus []                                                                               
+MH NEW = Avian Leukosis Virus                                                                                  
+                                                                                                               
+MH OLD = Avian myeloblastosis virus []                                                                         
+MH NEW = Avian Myeloblastosis Virus                                                                            
+                                                                                                               
+MH OLD = Axis []                                                                                               
+MH NEW = Axis, Cervical Vertebra                                                                               
+                                                                                                               
+MH OLD = Biogenesis []                                                                                         
+MH NEW = Organelle Biogenesis                                                                                  
+                                                                                                               
+MH OLD = Biological Markers [P]                                                                                
+MH NEW = Biomarkers                                                                                            
+                                                                                                               
+MH OLD = Black Pepper # [P]                                                                                    
+MH NEW = Piper nigrum                                                                                          
+                                                                                                               
+MH OLD = Bosnia-Herzegovina [P]                                                                                
+MH NEW = Bosnia and Herzegovina                                                                                
+                                                                                                               
+MH OLD = Cereals [P]                                                                                           
+MH NEW = Edible Grain                                                                                          
+                                                                                                               
+MH OLD = Day Care [P]                                                                                          
+MH NEW = Day Care, Medical                                                                                     
+                                                                                                               
+MH OLD = Delirium, Dementia, Amnestic, Cognitive Disorders [P]                                                 
+MH NEW = Neurocognitive Disorders                                                                              
+                                                                                                               
+MH OLD = Dentist's Practice Patterns [P]                                                                       
+MH NEW = Practice Patterns, Dentists'                                                                          
+                                                                                                               
+MH OLD = Dexmethylphenidate [P]                                                                                
+MH NEW = Dexmethylphenidate Hydrochloride                                                                      
+                                                                                                               
+MH OLD = Diabetic Diet [P]                                                                                     
+MH NEW = Diet, Diabetic                                                                                        
+                                                                                                               
+MH OLD = East Timor [P]                                                                                        
+MH NEW = Timor-Leste                                                                                           
+                                                                                                               
+MH OLD = Eating Disorders []                                                                                   
+MH NEW = Feeding and Eating Disorders                                                                          
+                                                                                                               
+MH OLD = Ethnic Conflict [P]                                                                                   
+MH NEW = Ethnic Violence                                                                                       
+                                                                                                               
+MH OLD = Eugenia [M*]                                                                                          
+MH NEW = Syzygium                                                                                              
+                                                                                                               
+MH OLD = Feline panleukopenia virus []                                                                         
+MH NEW = Feline Panleukopenia Virus                                                                            
+                                                                                                               
+MH OLD = Gypsies [P]                                                                                           
+MH NEW = Roma                                                                                                  
+                                                                                                               
+MH OLD = Health Food # []                                                                                      
+MH NEW = Food, Organic                                                                                         
+                                                                                                               
+MH OLD = Health Services for Transgendered Persons [P]                                                         
+MH NEW = Health Services for Transgender Persons                                                               
+                                                                                                               
+MH OLD = Hu Paraneoplastic Encephalomyelitis Antigens [P]                                                      
+MH NEW = ELAV Proteins                                                                                         
+                                                                                                               
+MH OLD = Impulse Control Disorders [P]                                                                         
+MH NEW = Disruptive, Impulse Control, and Conduct Disorders                                                    
+                                                                                                               
+MH OLD = Individualized Medicine [P]                                                                           
+MH NEW = Precision Medicine                                                                                    
+                                                                                                               
+MH OLD = Intensive Care # [P]                                                                                  
+MH NEW = Critical Care                                                                                         
+                                                                                                               
+MH OLD = Intervention Studies # []                                                                             
+MH NEW = Clinical Trial                                                                                        
+                                                                                                               
+MH OLD = Klatskin's Tumor [P]                                                                                  
+MH NEW = Klatskin Tumor                                                                                        
+                                                                                                               
+MH OLD = Laser Therapy, Low-Level [P]                                                                          
+MH NEW = Low-Level Light Therapy                                                                               
+                                                                                                               
+MH OLD = Mental Disorders Diagnosed in Childhood # [N]                                                         
+MH NEW = [No replaced-by heading]                                                                              
+                                                                                                               
+MH OLD = Minute virus of mice []                                                                               
+MH NEW = Minute Virus of Mice                                                                                  
+                                                                                                               
+MH OLD = Newspapers [N*]                                                                                       
+MH NEW = Newspapers as Topic                                                                                   
+                                                                                                               
+MH OLD = Nondirective Therapy [P]                                                                              
+MH NEW = Person-Centered Therapy                                                                               
+                                                                                                               
+MH OLD = Nurse's Practice Patterns [P]                                                                         
+MH NEW = Practice Patterns, Nurses'                                                                            
+                                                                                                               
+MH OLD = Observational Study as Topic [P]                                                                      
+MH NEW = Observational Studies as Topic                                                                        
+                                                                                                               
+MH OLD = Oryza sativa [P]                                                                                      
+MH NEW = Oryza                                                                                                 
+                                                                                                               
+MH OLD = Paraphilias [P]                                                                                       
+MH NEW = Paraphilic Disorders                                                                                  
+                                                                                                               
+MH OLD = Pharmacological Phenomena [M*]                                                                        
+MH NEW = Pharmacological and Toxicological Phenomena and Processes                                             
+                                                                                                               
+MH OLD = Pharmacological Processes # [P]                                                                       
+MH NEW = Pharmacological Phenomena                                                                             
+                                                                                                               
+MH OLD = Physician's Practice Patterns [P]                                                                     
+MH NEW = Practice Patterns, Physicians'                                                                        
+                                                                                                               
+MH OLD = Polygonum cuspidatum [P]                                                                              
+MH NEW = Fallopia japonica                                                                                     
+                                                                                                               
+MH OLD = Pseudocowpox virus []                                                                                 
+MH NEW = Pseudocowpox Virus                                                                                    
+                                                                                                               
+MH OLD = Pygeum # []                                                                                           
+MH NEW = Prunus africana                                                                                       
+                                                                                                               
+MH OLD = Questionnaires [P]                                                                                    
+MH NEW = Surveys and Questionnaires                                                                            
+                                                                                                               
+MH OLD = Raloxifene [P]                                                                                        
+MH NEW = Raloxifene Hydrochloride                                                                              
+                                                                                                               
+MH OLD = Round Ligament [P*]                                                                                   
+MH NEW = Round Ligament of Uterus                                                                              
+                                                                                                               
+MH OLD = Schizophrenia and Disorders with Psychotic Features [P]                                               
+MH NEW = Schizophrenia Spectrum and Other Psychotic Disorders                                                  
+                                                                                                               
+MH OLD = Secale cereale [P]                                                                                    
+MH NEW = Secale                                                                                                
+                                                                                                               
+MH OLD = Seedling [P]                                                                                          
+MH NEW = Seedlings                                                                                             
+                                                                                                               
+MH OLD = Simian immunodeficiency virus []                                                                      
+MH NEW = Simian Immunodeficiency Virus                                                                         
+                                                                                                               
+MH OLD = Sleep Disorders [P]                                                                                   
+MH NEW = Sleep Wake Disorders                                                                                  
+                                                                                                               
+MH OLD = Space Maintenance [P]                                                                                 
+MH NEW = Space Maintenance, Orthodontic                                                                        
+                                                                                                               
+MH OLD = Support Vector Machines [N]                                                                           
+MH NEW = Support Vector Machine                                                                                
+                                                                                                               
+MH OLD = Transgendered Persons [P]                                                                             
+MH NEW = Transgender Persons                                                                                   
+                                                                                                               
+MH OLD = Trimethoprim-Sulfamethoxazole Combination [P]                                                         
+MH NEW = Trimethoprim, Sulfamethoxazole Drug Combination                                                       
+                                                                                                               
+MH OLD = Tumor Markers, Biological [P]                                                                         
+MH NEW = Biomarkers, Tumor                                                                                     
+                                                                                                               
+MH OLD = Vertebrate Viruses # []                                                                               
+MH NEW = Viruses                                                                                               
+                                                                                                               
+MH OLD = Volar Plate []                                                                                        
+MH NEW = Palmar Plate                                                                                          
+                                                                                                               
+MH OLD = War [P]                                                                                               
+MH NEW = Warfare                                                                                               
+                                                                                                               
+MH OLD = Wing []                                                                                               
+MH NEW = Wings, Animal                                                                                         
+                                                                                                               
+File write not open                                                                                            
+                                                                                                               
+Total replaced     = 58                                                                                        
+Total deleted      = 10                                                                                        
+Total without YE   = 1                                                                                         
+
+PL/SQL procedure successfully completed.
+

@@ -1,0 +1,3303 @@
+
+MH  - Abatacept
+UI  - D000069594
+MN  - D12.776.124.486.485.114.580.225
+MN  - D12.776.124.790.651.114.580.225
+MN  - D12.776.377.715.548.114.580.225
+MS  - A fusion protein immunoconjugate of the extracellular domain of CTLA4 and the Fc domain of human IgG1. It functions as a T-cell co-stimulation blocker that inhibits TNF-ALPHA and prevents the activation of T-LYMPHOCYTES. It is used in the treatment of RHEUMATOID ARTHRITIS.
+HN  - 2016 (2002)
+
+MH  - Abiraterone Acetate
+UI  - D000069501
+MN  - D4.808.54.79.65
+MS  - An androstene derivative that inhibits STEROID 17-ALPHA-HYDROXYLASE and is used as an ANTINEOPLASTIC AGENT in the treatment of metastatic castration-resistant PROSTATE CANCER.
+HN  - 2016 (1994)
+
+MH  - Abnormal Involuntary Movement Scale
+UI  - D000067399
+MN  - E1.370.600.550.162
+MS  - A rating scale that measures INVOLUNTARY MOVEMENTS known as TARDIVE DYSKINESIA.
+HN  - 2016
+
+MH  - Acne Conglobata
+UI  - D000069316
+MN  - C17.800.30.150.500
+MN  - C17.800.794.111.500
+MS  - Severe and chronic form of acne characterized by large, burrowing abscesses associated with disfigurement.
+HN  - 2016
+
+MH  - Action Spectrum
+UI  - D000067549
+MN  - E5.196.867.826.150
+MS  - A technique used to measure the rate of physiological activity plotted against wavelength of light. An action spectrum depicts the most effective wavelength of light (also known as spectral sensitivity) that is required for each specific process.
+HN  - 2016
+
+MH  - Adalimumab
+UI  - D000068879
+MN  - D12.776.124.486.485.114.224.60.250
+MN  - D12.776.124.790.651.114.224.60.250
+MN  - D12.776.377.715.548.114.224.200.250
+MS  - A humanized monoclonal antibody that binds specifically to TNF-ALPHA and blocks its interaction with endogenous TNF RECEPTORS to modulate INFLAMMATION. It is used in the treatment of RHEUMATOID ARTHRITIS; PSORIATIC ARTHRITIS; CROHN'S DISEASE and ULCERATIVE COLITIS.
+HN  - 2016 (2002)
+
+MH  - Adapalene
+UI  - D000068816
+MN  - D2.455.426.559.847.638.90
+MN  - D4.615.638.90
+MS  - A naphthalene derivative that has specificity for RETINOIC ACID RECEPTORS. It is used as a DERMATOLOGIC AGENT for the treatment of ACNE.
+HN  - 2016 (1990)
+
+MH  - Adapalene, Benzoyl Peroxide Drug Combination
+UI  - D000068801
+MN  - D2.241.223.100.133.500
+MN  - D2.455.426.559.389.127.133.500
+MN  - D2.455.426.559.847.638.90.500
+MN  - D4.615.638.90.500
+MN  - D26.310.32
+MS  - A pharmaceutical preparation of adapalene and benzoyl peroxide that is used as a DERMATOLOGIC AGENT for the topical treatment of ACNE.
+HN  - 2016
+
+MH  - Adenylyl Cyclase Inhibitors
+UI  - D000067956
+MN  - D27.505.519.389.108
+MS  - Compounds that bind to and inhibit the action of ADENYLYL CYCLASES.
+HN  - 2016
+
+MH  - Administrative Claims, Healthcare
+UI  - D000067575
+MN  - N4.452.859.564.137
+MS  - Information relating to itemized coding of procedures and costs associated with healthcare delivery, used as a means for tracking healthcare utilization, patterns of care, and treatment outcomes.
+HN  - 2016
+
+MH  - Adolescent Health
+UI  - D000067697
+MN  - N1.400.75
+MS  - The concept covering the physical and mental conditions of ADOLESCENTS.
+HN  - 2016
+FX  - Adolescent Health Services
+FX  - Adolescent Medicine
+
+MH  - Adult Day Care Centers
+UI  - D000069537
+MN  - N2.421.143.65
+MS  - Non-residential facilities that are designed to provide care and companionship for seniors who need assistance or supervision during the day.
+HN  - 2016
+FX  - Senior Centers
+
+MH  - Adult Survivors of Child Adverse Events
+UI  - D000069586
+MN  - M1.860.300
+MS  - Persons who experienced traumatic events during childhood.
+HN  - 2016
+
+MH  - Advanced Glycosylation End Product-Specific Receptor
+UI  - D000067759
+MN  - D12.776.543.750.06
+MS  - A single-pass transmembrane CELL SURFACE RECEPTOR that binds ADVANCED GLYCOSYLATION END PRODUCTS to mediate cellular responses to both acute and chronic vascular inflammation in conditions such as ATHEROSCLEROSIS and DIABETES MELLITUS, TYPE 2 . It also binds AMYLOID BETA PEPTIDES and the alarmins S100A12 and S100 CALCIUM BINDING PROTEIN BETA SUBUNIT.
+HN  - 2016 (1991)
+
+MH  - African Union
+UI  - D000068516
+MN  - I1.615.500.125
+MN  - N3.540.89
+MS  - A geopolitical organization of African nations with a mission to integrate vital interests, promote international relations, political stability, and economic development among member states.
+AN  - Cataloger: Use NAF entry
+HN  - 2016
+
+MH  - Alarmins
+UI  - D000067531
+MN  - D12.644.276.87
+MN  - D12.776.467.87
+MN  - D23.529.87
+MS  - A structurally diverse group of endogenous molecules that includes the HMGB1 PROTEIN; S100 PROTEINS; HSP60, Hsp70, Cathelicidin, IL-33, and DEFENSINS. They are constitutively available, released upon tissue damage, and activate the immune system. Uncontrolled and excessive release of alarmins may contribute to INFLAMMATION; CARCINOGENESIS, and NEOPLASM METASTASIS. Alarmins are also critical for heart and nerve tissue homeostasis.
+HN  - 2016
+
+MH  - Albumin-Bound Paclitaxel
+UI  - D000068196
+MN  - D2.455.426.392.368.242.888.777.500
+MN  - D2.455.849.291.850.777.500
+MN  - D12.776.34.73
+MS  - An injectable formulation of albumin-bound paclitaxel NANOPARTICLES.
+HN  - 2016 (2002)
+
+MH  - Albuterol, Ipratropium Drug Combination
+UI  - D000068600
+MN  - D2.33.100.291.57.125
+MN  - D2.92.63.291.57.125
+MN  - D2.92.471.683.61.125
+MN  - D2.145.74.722.229.400.500
+MN  - D3.132.760.180.572.400.500
+MN  - D3.132.889.180.648.400.500
+MN  - D3.605.869.229.400.500
+MN  - D4.75.80.875.99.722.229.400.500
+MN  - D26.310.344
+MS  - A combined pharmaceutical preparation of Ipratropium Bromide and Albuterol Sulfate that is used to treat the symptoms of ASTHMA and CHRONIC OBSTRUCTIVE PULMONARY DISEASE.
+HN  - 2016 (1999)
+
+MH  - Alcohol Drinking in College
+UI  - D000067292
+MN  - F1.145.317.269.625
+MS  - Alcohol consumption among college students.
+HN  - 2016
+FX  - Underage Drinking
+
+MH  - Amlodipine Besylate, Olmesartan Medoxomil Drug Combination
+UI  - D000068558
+MN  - D3.383.129.308.674.500
+MN  - D3.383.129.617.584.500
+MN  - D3.383.725.203.65.500
+MN  - D26.310.63
+MS  - A pharmaceutical preparation of amlodipine besylate and olmesartan medoxomil  that combines ANGIOTENSIN II TYPE I RECEPTOR ANTAGONIST and CALCIUM CHANNEL BLOCKER activities. It is used in the management of HYPERTENSION.
+HN  - 2016
+
+MH  - Amlodipine, Valsartan Drug Combination
+UI  - D000068838
+MN  - D3.383.129.617.850.500
+MN  - D3.383.725.203.65.750
+MN  - D12.125.70.950.550.500
+MN  - D12.125.142.930.500.500
+MN  - D26.310.94
+MS  - A pharmaceutical preparation of amlodipine and valsartan that is used for the treatment of HYPERTENSION.
+HN  - 2016 (2008)
+
+MH  - Anger Management Therapy
+UI  - D000067449
+MN  - F4.754.137.87
+MS  - System of psychological and/or therapeutic techniques used to control and or reduce the triggers, degrees, and effects of ANGER.
+HN  - 2016
+
+MH  - Animals, Exotic
+UI  - D000068881
+MN  - B1.50.50.126
+MS  - Animals native to a foreign country or of foreign origin or character, that are not native to the United States.
+AN  - use only when specified by author; coordinate with ANIMALS, WILD or ANIMALS, ZOO as needed
+HN  - 2016
+
+MH  - Aripiprazole
+UI  - D000068180
+MN  - D3.383.606.170
+MN  - D3.438.810.835.122
+MS  - An antipsychotic agent that is structurally related to piperazines and quinolones. It is a partial agonist of SEROTONIN RECEPTOR, 5-HT1A and DOPAMINE D2 RECEPTORS, where it also functions as a post-synaptic antagonist, and an antagonist of SEROTONIN RECEPTOR, 5-HT2A.
+HN  - 2016 (1995)
+
+MH  - Armed Conflicts
+UI  - D000068337
+MN  - I1.880.735.950.250
+MS  - Any differences arising between two nations or groups and leading to the intervention of armed forces.
+HN  - 2016
+
+MH  - Arterial Switch Operation
+UI  - D000069278
+MN  - E4.100.376.31
+MN  - E4.928.220.55
+MS  - Surgical procedure for anatomical correction of transposed great arteries (e.g., DOUBLE OUTLET RIGHT VENTRICLE).
+HN  - 2016
+FX  - Transposition of Great Vessels
+
+MH  - Arthrocentesis
+UI  - D000069237
+MN  - E1.370.225.998.329.465
+MN  - E2.800.550.310
+MN  - E4.665.600.465
+MN  - E5.200.998.329.465
+MS  - Puncture and aspiration of fluid (e.g., SYNOVIAL FLUID) from a joint cavity. It is used sometimes to irrigate or administer drugs into a joint cavity.
+HN  - 2016
+
+MH  - Aspirin, Dipyridamole Drug Combination
+UI  - D000068342
+MN  - D2.455.426.559.389.657.410.595.176.500
+MN  - D3.383.742.175.500
+MN  - D26.310.125
+MS  - A drug combination of aspirin and dipyridamole that functions as a PLATELET AGGREGATION INHIBITOR, used to prevent THROMBOSIS and STROKE in TRANSIENT ISCHEMIC ATTACK patients.
+HN  - 2016 (1986)
+
+MH  - Ataxin-1
+UI  - D000067696
+MN  - D12.776.641.69.500
+MN  - D12.776.660.75.500
+MS  - A chromatin-binding factor that represses Notch signaling and associates with RNA. Expansion of the polyglutamine tract by expanded CAG repeats in the ATXN1 gene coding region is associated with SPINOCEREBELLAR ATAXIA 1.
+HN  - 2016 (1995)
+FX  - Spinocerebellar Ataxias
+
+MH  - Ataxin-10
+UI  - D000067736
+MN  - D12.776.641.69.950
+MS  - An ataxin that is associated with the survival of cerebellar neurons. Expansion of the ATTCT pentanucleotide in the ATXN10 coding region is associated with SPINOCEREBELLAR ATAXIA 10.
+HN  - 2016
+
+MH  - Ataxin-2
+UI  - D000067698
+MN  - D12.776.157.725.452.125
+MN  - D12.776.641.69.750
+MN  - D12.776.660.75.750
+MN  - D12.776.664.962.452.125
+MS  - A Poly(A) RNA-binding protein that negatively regulates EGFR ENDOCYTOSIS. An increased risk for developing AMYOTROPHIC LATERAL SCLEROSIS 13 is observed in patients who have more than 23 CAG repeats in the ATXN2 gene coding sequence. Larger CAG expansions in the ATXN2 gene occur in SPINOCEREBELLAR ATAXIA 2 patients.
+HN  - 2016; use SCA2 PROTEIN (NM) 1996-2015
+FX  - Spinocerebellar Ataxias
+
+MH  - Ataxin-3
+UI  - D000067699
+MN  - D8.811.277.656.300.887.500
+MN  - D12.776.641.69.875
+MN  - D12.776.660.75.875
+MS  - A DEUBIQUITINASE involved in protein homeostasis, transcription, cytoskeleton regulation, and myogenesis. It also acts as a histone-binding protein that represses transcription. CAG repeat expansions in the ATXN3 gene coding region are associated with SPINOCEREBELLAR ATAXIA 3 (SCA3).
+HN  - 2016 (1995)
+FX  - Spinocerebellar Ataxias
+
+MH  - Ataxin-7
+UI  - D000067719
+MN  - D12.776.641.69.901
+MN  - D12.776.660.75.900
+MS  - A component of the STAGA transcription coactivator-HAT complex that functions in Cone Rod Homeobox Protein (CRX)-dependent gene activation. It also stabilizes MICROTUBULES. CAG repeat expansion in the ATXN-7 coding region is associated with the development of SPINOCEREBELLAR ATAXIA 7.
+HN  - 2016
+FX  - Spinocerebellar Ataxias
+
+MH  - Ataxins
+UI  - D000067528
+MN  - D12.776.641.69
+MN  - D12.776.660.75
+MS  - A family of predominantly nuclear proteins that regulate gene transcription and protein degradation. The expansion of CAG trinucleotide repeats in genes that encode Ataxins is associated with SPINOCEREBELLAR ATAXIAS (SCA). In SCA patients, the number of CAG repeats correlates with the severity of disease and inversely correlates with the age of disease onset.
+HN  - 2016
+FX  - Spinocerebellar Ataxias
+
+MH  - Atazanavir Sulfate
+UI  - D000069446
+MN  - D3.383.725.68
+MN  - D12.644.456.157
+MS  - An azapeptide and HIV-PROTEASE INHIBITOR that is used in the treatment of HIV INFECTIONS and AIDS in combination with other ANTI-HIV AGENTS.
+HN  - 2016 (2000)
+
+MH  - Atomoxetine Hydrochloride
+UI  - D000069445
+MN  - D2.92.831.85
+MS  - A propylamine derivative and selective ADRENERGIC UPTAKE INHIBITOR that is used in the treatment of ATTENTION DEFICIT HYPERACTIVITY DISORDER.
+HN  - 2016 (1984)
+
+MH  - Atorvastatin Calcium
+UI  - D000069059
+MN  - D3.383.129.578.75
+MN  - D10.251.450.200
+MS  - A pyrrole and heptanoic acid derivative,HYDROXYMETHYLGLUTARYL-COA REDUCTASE INHIBITOR (statin), and ANTICHOLESTEREMIC AGENT that is used to reduce serum levels of LDL-CHOLESTEROL; APOLIPOPROTEIN B; AND TRIGLYCERIDES and to increase serum levels of HDL-CHOLESTEROL in the treatment of HYPERLIPIDEMIAS and prevention of CARDIOVASCULAR DISEASES in patients with multiple risk factors.
+HN  - 2016 (1990)
+
+MH  - Autism Spectrum Disorder
+UI  - D000067877
+MN  - F3.625.164.113
+MS  - Wide continuum of associated cognitive and neurobehavioral disorders, including, but not limited to, three core-defining features: impairments in socialization, impairments in verbal and nonverbal communication, and restricted and repetitive patterns of behaviors. (from DSM-V)
+HN  - 2016; use CHILD DEVELOPMENT DISORDERS, PERVASIVE 2010-2015
+
+MH  - Autoimmune Hypophysitis
+UI  - D000069281
+MN  - C10.228.140.617.738.100
+MN  - C19.700.80
+MN  - C20.111.273
+MS  - Immune-mediated inflammation of the PITUITARY GLAND often associated with other autoimmune diseases (e.g., HASHIMOTO DISEASE; GRAVES DISEASE; and ADDISON DISEASE).
+HN  - 2016
+
+MH  - Banking, Personal
+UI  - D000067012
+MN  - N3.219.463.30.100
+MS  - A financial account set up between a financial institution (such as a commercial bank) and a customer (individual, group, or business), whereby the latter may deposit and withdraw money, and where applicable, be paid interest.
+HN  - 2016
+FX  - Medical Savings Accounts
+
+MH  - Behavior Observation Techniques
+UI  - D000067289
+MN  - E5.796.112
+MN  - F4.669.112
+MS  - A wide range of formal and informal techniques used to document behavior.
+HN  - 2016
+
+MH  - Behavior Rating Scale
+UI  - D000067290
+MN  - F4.711.271
+MS  - Instrument designed to assess human or animal behavior, using a standardized format.
+HN  - 2016
+
+MH  - Beijing
+UI  - D000068476
+MN  - Z1.252.474.164.225
+MN  - Z1.433.114
+MS  - Capital of CHINA.
+HN  - 2016
+
+MH  - Bendamustine Hydrochloride
+UI  - D000069461
+MN  - D2.241.81.114.625
+MN  - D2.455.526.728.650.103
+MN  - D3.438.103.123
+MS  - A nitrogen mustard compound that functions as an ALKYLATING ANTINEOPLASTIC AGENT and is used in the treatment of CHRONIC LYMPHOCYTIC LEUKEMIA and NON-HODGKIN'S LYMPHOMA.
+HN  - 2016 (1972)
+
+MH  - Bevacizumab
+UI  - D000068258
+MN  - D12.776.124.486.485.114.224.60.375
+MS  - An anti-VEGF recombinant monoclonal antibody consisting of humanized murine antibody. It inhibits VEGF receptors and prevents the proliferation of blood vessels.
+HN  - 2016 (2002)
+
+MH  - Bimatoprost
+UI  - D000069580
+MN  - D2.65.141
+MN  - D10.251.355.255.550.775.500.175.250
+MN  - D23.469.50.175.725.775.500.175.250
+MN  - D23.469.700.670.175.250
+MS  - A cloprostenol-derived amide that is used as an ANTIHYPERTENSIVE AGENT in the treatment of OPEN-ANGLE GLAUCOMA and OCULAR HYPERTENSION.
+HN  - 2016 (2001)
+
+MH  - Biobehavioral Sciences
+UI  - D000066949
+MN  - H1.770.644.108.687
+MS  - An interdisciplinary scientific approach to the study of complex interactions among biological, social, behavioral, environmental factors, and their effects on health outcomes.
+HN  - 2016
+FX  - Interdisciplinary Studies
+
+MH  - Biological Mimicry
+UI  - D000067558
+MN  - G16.100.57.750
+MS  - Resemblance in appearance, structure, function, sound, scent or behavior between related or unrelated species, occurring in the same geographic location.
+HN  - 2016
+FX  - Biomimetics
+
+MH  - Bioresonance Therapy
+UI  - D066236
+MN  - E2.190.321.500
+MS  - A form of holistic medicine in which ELECTROMAGNETIC WAVES are used to diagnose and treat human and animal illness via manipulation of endogenous electromagnetic oscillations corresponding to the patient's current physiological condition.
+HN  - 2016
+FX  - Magnetic Field Therapy
+
+MH  - Bipolar and Related Disorders
+UI  - D000068105
+MN  - F3.84
+MS  - These disorders are related to both SCHIZOPHRENIA SPECTRUM AND RELATED DISORDERS and DEPRESSIVE DISORDERS in terms of symptomatology, family history, and genetics. (DSM-V) .
+HN  - 2016
+
+MH  - Blogs
+UI  - D000069520
+MN  - V1.175.125
+MN  - V2.170.250
+MN  - V2.530.150.250
+MS  - A website that contains conversational personal reflections, comments and sometimes links to other sites; typically run by an individual or small group.
+AN  - This heading is used as a Publication Type. INDEXER: Do not use
+HN  - 2016
+
+MH  - Blood Alcohol Content
+UI  - D000067401
+MN  - D2.33.375.135
+MS  - Mass of alcohol per unit of BLOOD volume.
+HN  - 2016
+FX  - Alcoholism
+FX  - Driving Under the Influence
+
+MH  - Body Weight Maintenance
+UI  - D000068959
+MN  - G7.700.320.249.314.120.250
+MS  - Sustaining BODY WEIGHT after BODY WEIGHT CHANGES have been achieved.
+HN  - 2016
+
+MH  - Body, Physical Appearance
+UI  - D000067029
+MN  - E1.370.600.115.450
+MN  - G7.100.175
+MS  - The superficial physical looks, characteristics, or qualities of an individual as distinguished from the underlying unseen nature or attributes.
+HN  - 2016
+FX  - Body Image
+
+MH  - Bone-Implant Interface
+UI  - D000069343
+MN  - A2.835.232.22
+MN  - A10.165.265.183
+MN  - E7.695.125
+MS  - Region of interaction between the bone and PROSTHESES AND IMPLANTS which becomes bonded through cellular and extracellular interactions similar to OSSEOINTEGRATION.
+HN  - 2016
+FX  - Osseointegration
+
+MH  - Bortezomib
+UI  - D000069286
+MN  - D1.29.260.110.500
+MN  - D1.132.285.500
+MN  - D2.203.200.500
+MN  - D3.383.679.450
+MS  - A pyrazine and boronic acid derivative that functions as a reversible PROTEASOME INHIBITOR. It is used as an ANTINEOPLASTIC AGENT in the treatment of MULTIPLE MYELOMA and MANTLE CELL LYMPHOMA.
+HN  - 2016 (2000)
+
+MH  - Brimonidine Tartrate
+UI  - D000068438
+MN  - D3.438.857.70
+MS  - A quinoxaline derivative and ADRENERGIC ALHPA-2 RECEPTOR AGONIST that is used to manage INTRAOCULAR PRESSURE associated with OPEN-ANGLE GLAUCOMA and OCULAR HYPERTENSION.
+HN  - 2016 (1978)
+
+MH  - Brimonidine Tartrate, Timolol Maleate Drug Combination
+UI  - D000068599
+MN  - D2.33.100.624.915.500
+MN  - D2.33.755.624.915.500
+MN  - D2.92.63.624.915.500
+MN  - D2.886.675.867.768.500
+MN  - D3.383.129.708.867.768.500
+MN  - D3.438.857.70.500
+MN  - D26.310.312
+MS  - A pharmaceutical preparation of brimonidine tartrate and timolol maleate. The combined ADRENERGIC ALPHA2 RECEPTOR AGONIST and ADRENERGIC BETA-ANTAGONIST activity of these drugs reduce INTRAOCULAR PRESSURE in GLAUCOMA patients.
+HN  - 2016 (2011)
+
+MH  - Budesonide, Formoterol Fumarate Drug Combination
+UI  - D000069502
+MN  - D2.33.100.291.425.250
+MN  - D2.92.63.291.425.250
+MN  - D4.808.745.745.654.105.500
+MN  - D26.310.348
+MS  - A pharmaceutical preparation of budesonide and formoterol fumarate that is used as an ANTI-ASTHMATIC AGENT and for the treatment of CHRONIC OBSTRUCTIVE PULMONARY DISEASE.
+HN  - 2016 (2002)
+
+MH  - Buprenorphine, Naloxone Drug Combination
+UI  - D000069479
+MN  - D3.132.577.249.150.500
+MN  - D3.132.577.249.706.275
+MN  - D3.549.686.150.500
+MN  - D3.549.686.750.275
+MN  - D3.605.497.150.500
+MN  - D3.605.497.750.275
+MN  - D4.615.723.795.150.500
+MN  - D4.615.723.795.706.275
+MN  - D26.310.352
+MS  - A pharmaceutical preparation that combines buprenorphine, an OPIOID ANALGESIC with naloxone, a NARCOTIC ANTAGONIST to reduce the potential for NARCOTIC DEPENDENCE in the treatment of pain. It may also be used for OPIATE SUBSTITUTION THERAPY.
+HN  - 2016 (2006)
+
+MH  - Calceolariaceae
+UI  - D000068543
+MN  - B1.650.940.800.575.100.583.190
+MS  - A family in the order Lamiales with several species that are used in TRADITIONAL MEDICINE.
+HN  - 2016; for CALCEOLARIA use SCROPHULARIACEAE 2004-2015
+BX  - Calceolaria
+
+MH  - Canagliflozin
+UI  - D000068896
+MN  - D2.886.778.75
+MN  - D3.383.903.75
+MN  - D9.408.348.113
+MS  - A glucoside-derived SODIUM-GLUCOSE TRANSPORTER 2 inhibitor that stimulates urinary excretion of glucose by suppressing renal glucose reabsorption. It is used to manage BLOOD GLUCOSE levels in patients with TYPE 2 DIABETES.
+HN  - 2016 (2014)
+
+MH  - Canaliculitis
+UI  - D000069282
+MN  - C11.496.221.500
+MS  - Inflammation and infection of the lacrimal canaliculus area in the LACRIMAL APPARATUS.
+HN  - 2016 (2010)
+FX  - Corneal Ulcer
+
+MH  - Capecitabine
+UI  - D000069287
+MN  - D3.383.742.680.245.500.425
+MN  - D3.383.742.698.875.404.425
+MN  - D13.570.230.329.313
+MN  - D13.570.685.245.500.425
+MS  - A deoxycytidine derivative and fluorouracil PRODRUG that is used as an ANTINEOPLASTIC ANTIMETABOLITE in the treatment of COLON CANCER; BREAST CANCER and GASTRIC CANCER.
+HN  - 2016 (1998)
+
+MH  - Celecoxib
+UI  - D000068579
+MN  - D2.65.884.247
+MN  - D2.886.590.700.247
+MN  - D3.383.129.539.160
+MS  - A pyrazole derivative and selective CYCLOOXYGENASE 2 INHIBITOR that is used to treat symptoms associated with RHEUMATOID ARTHRITIS; OSTEOARTHRITIS and JUVENILE ARTHRITIS, as well as the management of ACUTE PAIN.
+HN  - 2016 (1997)
+
+MH  - CELF Proteins
+UI  - D000067878
+MN  - D12.776.157.725.813.250
+MN  - D12.776.664.962.813.250
+MS  - A family of RRM proteins which contain two N-terminal RNA RECOGNITION MOTIF (RRM) domains, one C-terminal RRM domain, and a divergent segment of 160-230 amino acids between the second and third RRM domains. They regulate pre-mRNA ALTERNATIVE SPLICING and also function in RNA EDITING and PROTEIN BIOSYNTHESIS.
+HN  - 2016
+
+MH  - CELF1 Protein
+UI  - D000067879
+MN  - D12.776.157.725.813.250.500
+MN  - D12.776.664.962.813.250.500
+MS  - A member of the CELF PROTEINS family which binds GU rich elements (GREs) and CUG-triplet repeats in the 3'UTR of mammalian mRNA transcripts that undergo rapid turnover. It also binds AU-rich elements (AREs or EDEN-like) in the 3'UTR of JUN and FOS mRNAs. Mutations in the human CELF1 gene are associated with MYOTONIC DYSTROPHY type 1.
+HN  - 2016
+
+MH  - Cell Plasticity
+UI  - D000066670
+MN  - G4.299.335.250
+MS  - The ability of a cell to change its PHENOTYPE in response to changes in the environment.
+HN  - 2016
+FX  - Neuronal Plasticity
+
+MH  - Cell Self Renewal
+UI  - D000066673
+MN  - G4.299.134.220.235
+MN  - G4.299.233.750.500.375
+MN  - G5.355.105.415
+MN  - G7.700.320.249.410.750.500.625
+MS  - The ability of certain cell types, such as progenitor cells or tumor cells,  to go through numerous cycles of CELL DIVISION while still maintaining an undifferentiated or partially differentiated state.
+HN  - 2016
+FX  - Stem Cells
+
+MH  - Cellular Reprogramming Techniques
+UI  - D000067470
+MN  - E5.200.500.380
+MN  - E5.242.378
+MN  - E5.393.85
+MS  - Procedures used for the induction of CELLULAR REPROGRAMMING to change the terminal phenotype of a cell, such as the generation of INDUCED PLURIPOTENT STEM CELLS from differentiated adult cells by the forced expression of specific genes.
+HN  - 2016
+FX  - Cellular Reprogramming
+
+MH  - Censorship, Research
+UI  - D000068597
+MN  - I1.880.604.238
+MN  - K1.752.566.479.173.200
+MN  - N5.350.670.250
+MS  - The act or practice of scrutinizing the practice of scientific research for the purpose of preventing or suppressing the unethical applications as well knowledge derived from it.
+HN  - 2016
+FX  - Dual Use Research
+FX  - Ethics
+
+MH  - Certolizumab Pegol
+UI  - D000068582
+MN  - D5.750.741.125
+MN  - D12.644.541.500.650.250
+MN  - D12.776.124.486.485.114.224.60.500
+MN  - D12.776.124.486.485.680.650.250
+MN  - D12.776.124.790.651.114.224.60.500
+MN  - D12.776.124.790.651.680.650.250
+MN  - D12.776.377.715.548.114.224.200.500
+MN  - D12.776.377.715.548.680.650.250
+MN  - D25.720.741.125
+MN  - J1.637.51.720.741.125
+MS  - A polyethylene-glycolated Fab' fragment of TUMOR NECROSIS FACTOR antibody that binds specifically to TNF-ALPHA and neutralises it in a dose-dependent manner. It also inhibits the production of lipopolysaccharide-induced TNF-ALPHA and IL-1 BETA and is used to treat RHEUMATOID ARTHRITIS and PSORIATIC ARTHRITIS.
+HN  - 2016 (2003)
+
+MH  - Cetuximab
+UI  - D000068818
+MN  - D12.776.124.486.485.114.224.60.750
+MN  - D12.776.124.790.651.114.224.60.750
+MN  - D12.776.377.715.548.114.224.200.750
+MS  - A chimeric monoclonal antibody that functions as an ANTINEOPLASTIC AGENT through its binding to the EPIDERMAL GROWTH FACTOR RECEPTOR, where it prevents the binding and signaling action of cell growth and survival factors.
+HN  - 2016 (2000)
+
+MH  - Child Health
+UI  - D000067576
+MN  - N1.400.225
+MS  - The concept covering the physical and mental conditions of CHILDREN.
+HN  - 2016; use CHILD WELFARE 1978-2015
+FX  - Child Health Services
+FX  - Child Welfare
+
+MH  - Child Protective Services
+UI  - D000068216
+MN  - I1.409.418.500
+MN  - N3.540.400.500
+MS  - Local governmental offices which investigate reports of abuse and neglect of children, and act to assure a safe environment for minors.
+HN  - 2016 (2010); use CHILD WELFARE 2010-2015
+FX  - Social Work
+
+MH  - Childhood-Onset Fluency Disorder
+UI  - D000067454
+MN  - F3.625.374.125
+MS  - Disturbances in the normal fluency and time patterning of speech that are inappropriate for the individual's age and language skills. (DSM-V)
+HN  - 2016
+
+MH  - Children's Health Insurance Program
+UI  - D065326
+MN  - N3.219.521.576.343.71
+MN  - N3.349.650.480.500
+MS  - Federal program, enacted in 1997, for the funding of children's health insurance coverage at the state level for low-income families, affording them effective protection against erosions in employer sponsored coverage.
+AN  - CATALOGER: Use NAF entry
+HN  - 2016
+
+MH  - Chronopharmacokinetics
+UI  - D000067573
+MN  - G7.690.725.249
+MS  - Absorption, metabolism and elimination of drugs in relation to time of day at which they are administered, and the mechanisms responsible for time-dependent variations.
+HN  - 2016
+FX  - Drug Chronotherapy
+
+MH  - Cinacalcet Hydrochloride
+UI  - D000069449
+MN  - D2.455.426.559.847.638.183
+MN  - D4.615.638.183
+MS  - A naphthalene derivative and CALCIMIMETIC AGENT that increases the sensitivity of PARATHYROID GLAND calcium-sensing receptors to serum calcium. This action reduces parathyroid hormone secretion and decreases serum calcium in the treatment of PARATHYROID DISEASES.
+HN  - 2016 (2003)
+
+MH  - Clinical Decision-Making
+UI  - D000066491
+MN  - E1.55
+MS  - Process of formulating a diagnosis based on medical history and physical or mental examinations, and/or choosing an appropriate intervention.
+AN  - use DECISION MAKING for decision making by the patient
+HN  - 2016
+FX  - Decision Support Systems, Clinical
+FX  - Decision Support Techniques
+
+MH  - Clinical Studies as Topic
+UI  - D000068456
+MN  - E5.318.760.250
+MN  - N5.715.360.775.88
+MN  - N6.850.520.450.250
+MS  - Works about research studies that evaluate interventions or exposures on biomedical or health-related outcomes.  The two main types of clinical studies are interventional studies (clinical trials) and observational studies.
+AN  - for general design, methodology, economics, etc. of clinical studies; a different heading CLINICAL STUDY is used for reports of a specific clinical study
+HN  - 2016
+
+MH  - Clinical Study
+UI  - D000068397
+MN  - V3.175
+MS  - A work that reports on the results of a research study to evaluate interventions or exposures on biomedical or health-related outcomes.  The two main types of clinical studies are interventional studies (clinical trials) and observational studies. While most clinical studies concern humans, this publication type may be used for clinical veterinary articles meeting the requisites for humans.
+AN  - This heading is used as a Publication Type for original report  of  the conduct or results of a specific clinical study. A different heading CLINICAL STUDIES AS TOPIC is used for general design, methodology, economics, etc. of clinical studies. Prefer the specifics: CLINICAL TRIAL or OBSERVATIONAL STUDY.
+HN  - 2016
+
+MH  - Clostridiales
+UI  - D000068016
+MN  - B3.353.625
+MS  - An order of anaerobic bacteria that are predominantly GRAM POSITIVE within the phylum Firmicutes. It includes the Clostridium and Eubacterium genera.
+HN  - 2016
+
+MH  - Cloud Computing
+UI  - D000067917
+MN  - L1.224.97
+MS  - Storing and processing data on multiple servers that can be accessed through the Internet.
+HN  - 2016
+FX  - Technology
+
+MH  - Coal Industry
+UI  - D000066428
+MN  - J1.576.655.875.200
+MS  - Enterprise associated with the mining, processing, marketing and distribution of COAL.
+HN  - 2016
+FX  - Fossil Fuels
+
+MH  - Cobicistat
+UI  - D000069547
+MN  - D2.241.81.251.203
+MN  - D2.886.675.182
+MN  - D3.383.129.708.189
+MS  - A carbamate and thiazole derivative that functions as a CYTOCHROME P450 CYP3A INHIBITOR to enhance the concentration of ANTI-HIV AGENTS, with which it is used in combination, for the treatment of HIV INFECTIONS.
+HN  - 2016 (2011)
+
+MH  - Cognitive Aging
+UI  - D000066492
+MN  - G7.700.320.124.260
+MS  - Phenomenon that occurs when learning and memory abilities decrease naturally due to age.
+HN  - 2016
+FX  - Cognition Disorders
+
+MH  - Cognitive Neuroscience
+UI  - D000066494
+MN  - F4.96.628.255.500
+MN  - H1.158.610.30
+MS  - Field of study concerning MENTAL PROCESSES, LEARNING, and the brain regions associated with them.
+AN  - use for the discipline only (education, history, etc)
+HN  - 2016
+
+MH  - Cold Injury
+UI  - D000067390
+MN  - C26.212
+MS  - A physical injury caused by exposure of the body to extremely low ambient temperatures that may lead to loss of body parts, or in extreme cases, death. Examples of cold injury are FROSTBITE and CHILBLAINS.
+HN  - 2016
+
+MH  - Colesevelam Hydrochloride
+UI  - D000069472
+MN  - D2.92.50.500
+MN  - D2.455.326.271.122.100.500
+MS  - An allylamine derivative that binds BILE ACIDS in the intestine and is used as an ANTICHOLESTEREMIC AGENT in the treatment of HYPERCHOLESTEROLEMIA and HYPERLIPIDEMIAS.
+HN  - 2016 (1997)
+
+MH  - Compassion Fatigue
+UI  - D000068376
+MN  - C23.888.369.500.500
+MN  - F1.145.126.937.500
+MN  - F1.145.126.990.469
+MN  - F2.830.900.333
+MS  - Stress response that occurs in individuals working in care giving professions.
+HN  - 2016
+FX  - Burnout, Professional
+FX  - Stress Disorders, Post-Traumatic
+
+MH  - Computer Heuristics
+UI  - D000067508
+MN  - L1.224.50.375.95
+MS  - Trial-and-error methods of problem-solving used when an algorithmic approach is impractical
+FX  - Heuristics
+
+MH  - Concierge Medicine
+UI  - D000068977
+MN  - N4.452.758.708.450.500
+MS  - An arrangement in which a patient pays an annual fee to a physician in exchange for services over and beyond normal insurance-reimbursed services.
+HN  - 2016
+
+MH  - Contraceptive Prevalence Surveys
+UI  - D000069216
+MN  - E5.318.308.980.313
+MN  - L1.280.960.233
+MN  - N5.715.360.300.800.313
+MN  - N6.850.520.308.980.313
+MS  - Surveys that measure the usage rate of CONTRACEPTIVE DEVICES or CONTRACEPTIVE AGENTS.
+HN  - 2016; use DATA COLLECTION 1987-2015
+
+MH  - Cosmeceuticals
+UI  - D000068937
+MN  - D26.74
+MN  - D27.720.269.285
+MS  - COSMETICS that are associated with therapeutic effects.
+HN  - 2016
+
+MH  - Crew Resource Management, Healthcare
+UI  - D000067498
+MN  - N4.590.254
+MS  - A range of healthcare related training designed to reduce MEDICAL ERRORS and improve PATIENT SAFETY by emphasizing TEAMWORK and human factors (see HUMAN ENGINEERING).
+HN  - 2016
+
+MH  - Criminal Behavior
+UI  - D000066479
+MN  - F1.145.250
+MS  - Conduct leading to commission of unlawful acts.
+HN  - 2016
+FX  - Crime
+FX  - Criminal Psychology
+FX  - Criminals
+
+MH  - Critical Care Outcomes
+UI  - D000066891
+MN  - N4.761.559.590.399.250
+MN  - N5.715.360.575.575.200
+MS  - A measure of the mortality and morbidity rates among patients who receive CRITICAL CARE and INTENSIVE CARE as determined from the date of hospital discharge or release.
+HN  - 2016
+
+MH  - Crop Production
+UI  - D000069599
+MN  - J1.40.227
+MS  - The science and practice of cultivating PLANTS that have economic value to man. It includes plant breeding, seed production, weeding, use of fertilizers, harvesting, storage, transportation, and marketing.
+HN  - 2016
+
+MH  - Crop Protection
+UI  - D000069601
+MN  - J1.40.237
+MS  - The science and practice of preventing, minimizing, or eliminating damage to AGRICULTURAL CROPS by pest organisms, weeds, and disease-causing agents.
+HN  - 2016
+
+MH  - Culturally Appropriate Technology
+UI  - D000067568
+MN  - J1.897.52
+MS  - A SCIENCE or TECHNOLOGY that promotes self-sufficiency and is suitable to the cultural, environmental, economic and social conditions of the geographic area in which it is applied.
+HN  - 2016
+FX  - Diffusion of Innovation
+
+MH  - Dabigatran
+UI  - D000069604
+MN  - D3.383.725.192
+MN  - D3.438.103.280
+MS  - A THROMBIN inhibitor which acts by binding and blocking thrombogenic activity and the prevention of  thrombus formation. It is used to reduce the risk of stroke and systemic EMBOLISM in patients with nonvalvular atrial fibrillation.
+HN  - 2016 (2002)
+
+MH  - Darbepoetin alfa
+UI  - D000068256
+MN  - D12.776.395.240.150.500
+MS  - A recombinant protein which stimulates ERYTHROPOIESIS used to treat ANEMIA.
+HN  - 2016 (2000)
+
+MH  - Darunavir
+UI  - D000069454
+MN  - D2.65.884.438
+MN  - D2.241.81.251.222
+MN  - D2.886.590.700.400
+MN  - D3.383.312.303
+MS  - An HIV PROTEASE INHIBITOR that is used in the treatment of AIDS and HIV INFECTIONS. Due to the emergence of ANTIVIRAL DRUG RESISTANCE when used alone, it is administered in combination with other ANTI-HIV AGENTS.
+HN  - 2016 (2004)
+
+MH  - Dasatinib
+UI  - D000069439
+MN  - D2.886.675.184
+MN  - D3.383.129.708.198
+MN  - D3.383.742.148
+MS  - A pyrimidine and thiazole derived ANTINEOPLASTIC AGENT and PROTEIN KINASE INHIBITOR of BCR-ABL KINASE. It is used in the treatment of patients with CHRONIC MYELOID LEUKEMIA who are resistant or intolerant to IMATINIB.
+HN  - 2016 (2004)
+
+MH  - Data Accuracy
+UI  - D000068598
+MN  - E5.318.308.28
+MN  - E5.318.780.725.250
+MN  - L1.280.202
+MN  - N5.715.360.300.202
+MN  - N5.715.360.780.685.250
+MS  - A measure of scientific precision, exactness, or correctness of quantitative or qualitative values, relative to the actual or true measurements.
+HN  - 2016; for DATA QUALITY use RESEARCH DESIGN 1995-2015
+
+MH  - Data Anonymization
+UI  - D000068240
+MN  - H1.770.644.205
+MN  - L1.209.500
+MN  - N3.706.437.650.124.160
+MN  - N4.452.910.200.500
+MS  - Making information permanently non-identifiable that is associated with the identity of specific entities via encryption or other methods.
+HN  - 2016
+FX  - Personally Identifiable Information
+
+MH  - Defamation
+UI  - D000067448
+MN  - I1.198.240.240
+MN  - I1.880.735.191.51
+MS  - Public false statements that are illegal and damaging to the reputation of a person, group, business, organization, or institution.
+HN  - 2016
+FX  - Jurisprudence
+
+MH  - Denosumab
+UI  - D000069448
+MN  - D12.776.124.486.485.114.224.60.782
+MN  - D12.776.124.790.651.114.224.60.782
+MN  - D12.776.377.715.548.114.224.200.782
+MS  - A humanized monoclonal antibody and an inhibitor of the RANK LIGAND, which regulates OSTEOCLAST differentiation and bone remodeling. It is used as a BONE DENSITY CONSERVATION AGENT in the treatment of OSTEOPOROSIS.
+HN  - 2016 (2004)
+
+MH  - Deprescriptions
+UI  - D000069340
+MN  - E2.319.698.500
+MS  - Directions written to discontinue use of PRESCRIPTION DRUGS in order to reduce unnecessary and/or excessive medications (see POLYPHARMACY), DRUG SIDE EFFECTS and ADVERSE DRUG REACTION.
+HN  - 2016
+FX  - Inappropriate Prescribing
+FX  - Potentially Inappropriate Medication List
+
+MH  - Dermal Fillers
+UI  - D000067548
+MN  - D27.720.102.461
+MS  - Materials such as COLLAGEN or HYALURONIC ACID that are injected or deposited into the DERMIS for the purpose of skin augmentation.
+HN  - 2016
+FX  - Administration, Cutaneous
+FX  - Cosmetic Techniques
+FX  - Injections, Subcutaneous
+
+MH  - Desvenlafaxine Succinate
+UI  - D000069468
+MN  - D2.33.415.510.500.303
+MN  - D2.455.426.392.368.367.318.500
+MN  - D2.455.426.559.389.657.265
+MN  - D10.289.510.500.303
+MS  - A cyclohexanol and phenol derivative and metabolite of venlafaxine that functions as a SEROTONIN AND NORADRENALINE REUPTAKE INHIBITOR (SNRI) and is used as an ANTIDEPRESSIVE AGENT.
+HN  - 2016 (1994)
+
+MH  - Diet, Food, and Nutrition
+UI  - D000066888
+MN  - G7.203
+MS  - Concepts involved with nutritional physiology, including categories of substances eaten for sustenance, nutritional phenomena and processes, eating patterns and habits, and measurable nutritional parameters.
+AN  - used for searching; INDEXER: Do not use; CATALOGER: Do not use
+HN  - 2016
+
+MH  - Diet, Vegan
+UI  - D000067269
+MN  - E2.642.249.300.750
+MN  - G7.203.650.240.300.750
+MS  - Dietary practice of avoiding animal products in any form.
+HN  - 2016; use DIET, VEGETARIAN 2003-2015
+BX  - Vegan Diet
+FX  - Vegans
+
+MH  - Digital Divide
+UI  - D066310
+MN  - L1.143.230.500
+MS  - Gap between individuals, households, businesses and geographic areas at different socioeconomic levels with regard to both their opportunities to access electronic  information and communication technologies (ICTs). Their use of the Internet for a wide variety of activities, reflects various differences among and within countries.
+HN  - 2016
+
+MH  - Dimethyl Fumarate
+UI  - D000069462
+MN  - D2.241.81.337.302.500
+MS  - A fumarate derivative that is used as a DERMATOLOGIC AGENT in the treatment of PSORIASIS and SKIN DISEASES. It also may be used as an IMMUNOSUPPRESSIVE AGENT in the treatment of MULTIPLE SCLEROSIS.
+HN  - 2016 (1988)
+
+MH  - Diplomacy
+UI  - D000067551
+MN  - F1.829.316.171
+MN  - F2.463.785.373.520.500
+MN  - I1.738.305
+MS  - The art and practice of conducting negotiations between people, nations or other parties such as organizations.
+HN  - 2016
+
+MH  - Direct-to-Consumer Advertising
+UI  - D000067088
+MN  - J1.219.687.274.500
+MS  - Advertising that directly targets consumers of certain products such as pharmaceuticals.
+HN  - 2016
+
+MH  - Direct-To-Consumer Screening and Testing
+UI  - D000067108
+MN  - E1.370.398
+MN  - N2.421.726.233.166
+MS  - Laboratory testing and diagnostic imaging services offered to consumers outside of the patient-physician relationship.
+HN  - 2016
+FX  - Diagnostic Self Evaluation
+
+MH  - Distance Counseling
+UI  - D000068237
+MN  - F2.784.176.350
+MN  - F4.408.413.437
+MN  - N2.421.143.303.175
+MN  - N2.421.461.363.437
+MN  - N4.452.758.849.550.500
+MS  - Counseling conducted via electronic or other non-face-to-face interactions.
+HN  - 2016
+
+MH  - Dose Hypofractionation
+UI  - D000069473
+MN  - E2.815.639.200.500
+MN  - E2.815.639.600
+MS  - A treatment schedule in which the total dose of radiation is divided into large doses.
+HN  - 2016
+FX  - Radiation
+
+MH  - Driving Under the Influence
+UI  - D000066448
+MN  - F1.145.250.250
+MN  - F1.145.263.500
+MN  - I1.880.735.223.250
+MN  - I3.125.649
+MS  - Operating a motor vehicle while impaired by alcohol or other drugs including those prescribed by physicians.
+HN  - 2016
+
+MH  - Drosophila simulans
+UI  - D000067636
+MN  - B1.50.500.131.617.289.310.250.750
+MS  - A species of fruit fly.
+HN  - 2016
+
+MH  - Drug Resistant Epilepsy
+UI  - D000069279
+MN  - C10.228.140.490.125
+MS  - Epileptic condition in which adequate trials of two tolerated and appropriately chosen and used ANTIEPILEPTIC DRUGS schedules to achieve sustained seizure freedom failed.
+HN  - 2016
+
+MH  - Dual Use Research
+UI  - D000068601
+MN  - H1.770.644.217
+MS  - Concept relating to technologies and/or information emanating from research that holds the potential for both benevolent and malevolent applications to humanity and the environment.
+HN  - 2016
+FX  - Censorship, Research
+
+MH  - Duloxetine Hydrochloride
+UI  - D000068736
+MN  - D2.886.778.260
+MN  - D3.383.903.260
+MS  - A thiophene derivative and selective NEUROTRANSMITTER UPTAKE INHIBITOR for SEROTONIN and NORADRENALINE (SNRI). It is an ANTIDEPRESSIVE AGENT and ANXIOLYTIC, and is also used for the treatment of pain in patients with DIABETES MELLITUS and FIBROMYALGIA.
+HN  - 2016 (1989)
+
+MH  - Dutasteride
+UI  - D000068538
+MN  - D4.808.925.100.125
+MS  - A 5-ALPHA-REDUCTASE INHIBITOR that is reported to inhibit both type-1 and type2 isoforms of the enzyme and is used to treat BENIGN PROSTATIC HYPERPLASIA.
+HN  - 2016 (1998)
+
+MH  - Dynamic Light Scattering
+UI  - D000067493
+MN  - E5.196.822.325
+MS  - An analytical technique for measuring particle size of molecules that are less than a micron in diameter dispersed or dissolved in a liquid.
+HN  - 2016
+
+MH  - Ectopic Gene Expression
+UI  - D000066630
+MN  - G5.355.315.202
+MS  - The expression of a gene in an abnormal place,  or at an abnormal  time in an organism. Ectopic Gene  Expression is often induced artificially by genetic techniques.
+HN  - 2016
+
+MH  - Efavirenz, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination
+UI  - D000068257
+MN  - D2.705.429.906.125
+MN  - D3.383.533.375
+MN  - D3.383.742.680.245.500.600.125
+MN  - D3.438.759.138.881.125
+MN  - D26.310.375
+MS  - Inhibitor or Reverse Transcriptases or of RNA-dIrected DNA polymerase.
+HN  - 2016 (2007)
+FX  - Antiretroviral Therapy, Highly Active
+
+MH  - ELAV-Like Protein 1
+UI  - D000067780
+MN  - D12.776.157.725.813.500.250
+MN  - D12.776.664.962.813.500.250
+MS  - An RRM protein that binds to the 3'-UTR region of mRNAs and increases their stability. In EMBRYONIC STEM CELLS, it binds to poly-U elements and AU-rich elements (AREs) in the 3'-UTR of target mRNAs and preferentially binds mRNAs that are not methylated by N6-methyladenosine (m6A), to stabilize them and promote differentiation.
+HN  - 2016; use ELAV PROTEINS 2012-2015
+
+MH  - ELAV-Like Protein 2
+UI  - D000067777
+MN  - D12.776.157.725.813.500.500
+MN  - D12.776.641.520.500
+MN  - D12.776.664.962.813.500.500
+MS  - A neural-specific RRM protein that binds to several 3'UTRs, including its own as well as that of PROTO-ONCOGENE PROTEINS C-FOS  and ID DNA BINDING PROTEIN INHIBITOR. It binds through the recognition of a GAAA motif in the RNAs.
+HN  - 2016; use ELAV PROTEINS 2012-2015
+
+MH  - ELAV-Like Protein 3
+UI  - D000067778
+MN  - D12.776.157.725.813.500.750
+MN  - D12.776.641.520.750
+MN  - D12.776.664.962.813.500.750
+MS  - A neural-specific RRM protein which contains three RNP-type RNA recognition motifs (RRMs). Human ELAVL3 is recognized by the anti-Hu serum antibody from patients with paraneoplastic encephalomyelitis and sensory neuronopathy (PEM/PSN). It also functions in neurogenesis.
+HN  - 2016; use ELAV PROTEINS 2012-2015
+
+MH  - ELAV-Like Protein 4
+UI  - D000067779
+MN  - D12.776.157.725.813.500.875
+MN  - D12.776.641.520.875
+MN  - D12.776.664.962.813.500.875
+MS  - An RRM protein which binds AU-rich sequences in the 3' UNTRANSLATED REGIONS of mRNAs for PROTO-ONCOGENE PROTEINS C-FOS; CYCLIN-DEPENDENT KINASE INHIBITOR P21; and GAP-43 PROTEIN. It functions in neuron-specific RNA processing.
+HN  - 2016; use ELAV PROTEINS 2012-2015
+
+MH  - Electrocorticography
+UI  - D000069280
+MN  - E1.370.376.300.294
+MN  - E1.370.405.245.431
+MS  - Recording of brain electrical activities in which the electrodes are placed directly on the CEREBRAL CORTEX.
+HN  - 2016
+
+MH  - Elvitegravir, Cobicistat, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination
+UI  - D000069545
+MN  - D2.241.81.251.203.500
+MN  - D2.705.429.906.250
+MN  - D2.886.675.182.500
+MN  - D3.383.129.708.189.500
+MN  - D3.383.742.680.245.500.600.250
+MN  - D3.438.759.138.881.250
+MN  - D13.570.230.329.525.250
+MN  - D13.570.685.245.500.600.250
+MN  - D26.310.391
+MS  - A pharmaceutical preparation of the ANTI-HIV AGENTS elvitegravir, cobicistat, emtricitabine, and tenofovir disoproxil fumarate that is used in the treatment of HIV INFECTIONS.
+HN  - 2016 (2012)
+
+MH  - Embryonic Germ Cells
+UI  - D000066473
+MN  - A11.497.124
+MN  - A11.872.700.250.625
+MS  - PLURIPOTENT STEM CELLS that are derived from early GERM CELLS.
+HN  - 2016
+
+MH  - Emotional Adjustment
+UI  - D000066498
+MN  - F1.58.144
+MN  - F1.752.543.500.250
+MS  - Psychological process that occurs when an individual adapts to a significant emotional event or stimulus.
+HN  - 2016; for PSYCHOLOGICAL ADJUSTMENT use ADAPTATION, PSYCHOLOGICAL 2000-2015
+FX  - Adjustment Disorders
+FX  - Social Adjustment
+
+MH  - Emtricitabine
+UI  - D000068679
+MN  - D3.383.742.680.245.500.600
+MN  - D13.570.230.329.525
+MN  - D13.570.685.245.500.600
+MS  - A deoxycytidine analog and REVERSE TRANSCRIPTASE INHIBITOR with antiviral activity against HIV-1 and HEPATITIS B viruses. It is used to treat HIV INFECTIONS.
+HN  - 2016 (1999)
+
+MH  - Emtricitabine, Rilpivirine, Tenofovir Drug Combination
+UI  - D000068678
+MN  - D2.626.809.500
+MN  - D2.705.429.906.500
+MN  - D3.383.742.680.245.500.600.500
+MN  - D3.383.742.755.500
+MN  - D3.438.759.138.881.500
+MN  - D26.310.407
+MS  - A pharmaceutical preparation that contains emtricitabine, rilpivirine and tenofovir disoproxil fumarate. It is used to treat HIV INFECTIONS.
+HN  - 2016 (2012)
+
+MH  - Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination
+UI  - D000069480
+MN  - D2.705.429.906.750
+MN  - D3.383.742.680.245.500.600.750
+MN  - D3.438.759.138.881.750
+MN  - D13.570.230.329.525.500
+MN  - D13.570.685.245.500.600.500
+MN  - D26.310.423
+MS  - A pharmaceutical preparation of emtricitabine and tenofovir that is used as an ANTI-HIV AGENT in the treatment and prevention of HIV INFECTIONS.
+HN  - 2016 (2005)
+
+MH  - Environmental Psychology
+UI  - D000069551
+MN  - F4.96.628.33
+MS  - The field that studies interactions between individuals and the built and natural environment. It includes investigating behaviors that inhibit or foster sustainable, climate-healthy, and nature-enhancing choices.
+AN  - use for the discipline (education, history, etc) only
+HN  - 2016
+FX  - Ecology
+FX  - Environmental Medicine
+
+MH  - Epoetin Alfa
+UI  - D000068817
+MN  - D12.644.276.374.410.240.150.500
+MN  - D12.776.395.240.150.750
+MN  - D12.776.467.374.410.240.150.500
+MN  - D23.529.374.410.240.150.750
+MS  - A recombinant glycosylated form of erythropoietin which stimulates the differentiation and proliferation of erythroid precursors. It is used for the treatment of ANEMIA associated with CHRONIC RENAL FAILURE in dialysis and predialysis patients.
+HN  - 2016 (2011)
+
+MH  - Erlotinib Hydrochloride
+UI  - D000069347
+MN  - D3.438.786.375
+MS  - A quinazoline derivative and ANTINEOPLASTIC AGENT that functions as a PROTEIN KINASE INHIBITOR for EGFR associated tyrosine kinase. It is used in the treatment of NON-SMALL CELL LUNG CANCER.
+HN  - 2016 (1999)
+
+MH  - Eszopiclone
+UI  - D000069582
+MN  - D3.383.606.398
+MN  - D3.383.679.600
+MN  - D3.383.725.322
+MS  - A pyridine, pyrazine, and piperazine derivative that is used as a HYPNOTIC AND SEDATIVE in the treatment of INSOMNIA.
+HN  - 2016 (2007)
+
+MH  - Etanercept
+UI  - D000068800
+MN  - D12.776.124.486.485.114.619.393.261
+MN  - D12.776.124.790.651.114.619.393.261
+MN  - D12.776.377.715.548.114.619.393.261
+MN  - D12.776.543.750.705.852.760.232
+MS  - A recombinant version of soluble human TNF receptor that binds specifically to TUMOR NECROSIS FACTOR and inhibits its binding with endogenous TNF receptors. It prevents the inflammatory effect of TNF and is used to treat RHEUMATOID ARTHRITIS; PSORIATIC ARTHRITIS and ANKYLOSING SPONDYLITIS.
+HN  - 2016 (1997)
+
+MH  - Eugenia
+UI  - D000068856
+MN  - B1.650.940.800.575.100.773.374
+MS  - A genus in the family Myrtaceae sometimes known as "stoppers" in FOLK MEDICINE. Many species of the genus SYZYGIUM have synonymous names that begin with the Eugenia genus name.
+HN  - 2016; see SYZYGIUM 2005-2015; see CLOVE 2002-2004
+
+MH  - Everolimus
+UI  - D000068338
+MN  - D2.540.505.760.500
+MS  - A derivative of sirolimus and an inhibitor of TOR SERINE-THREONINE KINASES. It is used to prevent GRAFT REJECTION in heart and kidney transplant patients by blocking cell proliferation signals. It is also an ANTINEOPLASTIC AGENT.
+HN  - 2016 (1997)
+
+MH  - Evidence-Based Facility Design
+UI  - D000067013
+MN  - N2.278.200.252
+MS  - An approach, process, or methodology which emphasizes credible evidence and the best available scientific knowledge, judiciously integrated to achieve the best possible outcomes in structural design. For example, the design of a new OUTPATIENT CLINIC might incorporate a review of published research on outpatient clinic design, decisions on similar past projects, along with interviews with staff and consumers.
+HN  - 2016
+
+MH  - Exoskeleton Device
+UI  - D000067190
+MN  - E7.341
+MS  - Device designed to wear externally to support muscular skeletal system in various movements such as RANGE OF MOTIONS; WEIGHT-BEARING; GAIT; and LOCOMOTION.
+HN  - 2016
+FX  - Robotics
+
+MH  - Exposure to Violence
+UI  - D000069581
+MN  - I1.880.735.900.869
+MS  - Experience of and exposure to VIOLENCE.
+HN  - 2016
+
+MH  - Extracellular Vesicles
+UI  - D000067128
+MN  - A11.284.295.588
+MS  - Membrane limited structures derived from cell membranes and cytoplasmic material, and released into EXTRACELLULAR SPACE. They circulate through the EXTRACELLULAR FLUID and through the peripheral blood in the MICROVASCULATURE where cells, much larger, cannot, thereby affecting a variety of intercellular communication processes.
+HN  - 2016
+
+MH  - Ezetimibe
+UI  - D000069438
+MN  - D3.383.82.301.550
+MS  - An azetidine derivative and ANTICHOLESTEREMIC AGENT that inhibits intestinal STEROL absorption. It is used to reduce total CHOLESTEROL; LDL CHOLESTEROL, and APOLIPOPROTEINS B in the treatment of HYPERLIPIDEMIAS.
+HN  - 2016 (1998)
+
+MH  - Ezetimibe, Simvastatin Drug Combination
+UI  - D000069499
+MN  - D2.455.426.559.847.638.400.900.500
+MN  - D3.383.82.301.550.500
+MN  - D4.615.638.400.900.500
+MN  - D26.310.431
+MS  - A pharmaceutical preparation of ezetimibe and simvastatin that is used in the treatment of HYPERCHOLESTEROLEMIA and HYPERLIPIDEMIAS.
+HN  - 2016 (2004)
+
+MH  - Facial Recognition
+UI  - D000066499
+MN  - F2.463.593.524.500.500
+MN  - F2.463.593.932.622.500
+MS  - Ability to identify an individual and interpret their feelings and emotions based on their facial expressions.
+HN  - 2016
+
+MH  - Failure to Rescue, Health Care
+UI  - D000067248
+MN  - E1.789.800.760.500
+MN  - H1.770.644.145.431.500
+MN  - N4.761.559.590.200
+MN  - N4.761.559.590.800.760.500
+MN  - N5.715.360.575.575.300
+MN  - N5.715.360.575.575.800.760.500
+MS  - Inability to prevent a clinical deterioration resulting from a complication of an underlying medical condition or a complication of medical care. It implies that common risk factors for such a complication were not recognized in a timely manner or treated appropriately.
+HN  - 2016
+
+MH  - Fallopia
+UI  - D000069263
+MN  - B1.650.940.800.575.100.825.359
+MS  - Genus of flowering herbaceous perennial plants and vines in the family Polygonaceae.
+HN  - 2016
+
+MH  - Fallopia multiflora
+UI  - D000068676
+MN  - B1.650.940.800.575.100.825.359.590
+MS  - A species of Fallopia in the buckwheat family (Polygonaceae). Its roots are used in TRADITIONAL CHINESE MEDICINE.
+HN  - 2016
+
+MH  - Farmers
+UI  - D000067565
+MN  - M1.526.390
+MS  - Persons who cultivate land or crops, or raise LIVESTOCK.
+HN  - 2016; for AGRICULTURAL WORKERS use AGRICULTURE 1981-2015
+
+MH  - Febuxostat
+UI  - D000069465
+MN  - D2.886.675.274
+MN  - D3.383.129.708.274
+MS  - A thiazole derivative and inhibitor of XANTHINE OXIDASE that is used for the treatment of HYPERURICEMIA in patients with chronic GOUT.
+HN  - 2016 (1994)
+
+MH  - Fecal Microbiota Transplantation
+UI  - D000069467
+MN  - E2.95.231
+MS  - Transfer of GASTROINTESTINAL MICROBIOTA from one individual to another by infusion of donor FECES to the upper or lower GASTROINTESTINAL TRACT of the recipient.
+HN  - 2016
+
+MH  - Filgrastim
+UI  - D000069585
+MN  - D12.644.276.374.410.240.350.500
+MN  - D12.776.395.240.200.500
+MN  - D12.776.467.374.410.240.350.500
+MN  - D23.529.374.410.240.350.500
+MS  - A recombinant granulocyte colony-stimulating factor (G-CSF) that is used in the treatment and prevention of NEUTROPENIA, and to prepare blood progenitor cells for collection and use in PERIPHERAL BLOOD STEM CELL TRANSPLANTATION.
+HN  - 2016 (2011)
+
+MH  - Financial Statements
+UI  - D000067571
+MN  - N3.219.463.30.140
+MS  - Formal and structured record of financial activities of a business, person, or other entity.
+HN  - 2016
+FX  - Financial Management
+
+MH  - Fingolimod Hydrochloride
+UI  - D000068876
+MN  - D2.33.100.700.350
+MN  - D2.33.455.706.431
+MN  - D2.92.63.700.350
+MS  - A sphingosine-derivative and IMMUNOSUPPRESSIVE AGENT that blocks the migration and homing of LYMPHOCYTES to the CENTRAL NERVOUS SYSTEM through its action on SPHINGOSINE 1-PHOSPHATE RECEPTORS. It is used in the treatment of MULTIPLE SCLEROSIS.
+HN  - 2016 (1996)
+
+MH  - Firmicutes
+UI  - D000068536
+MN  - B3.353
+MS  - A phylum of predominantly GRAM-POSITIVE BACTERIA that includes the orders Bacillales and Clostridiales. Firmicutes and BACTEROIDETES are the two bacterial phyla that constitute the majority of the human gut MICROBIOTA.
+HN  - 2016
+
+MH  - Fluticasone
+UI  - D000068298
+MN  - D4.808.54.79.129.114
+MS  - A STEROID with GLUCOCORTICOID RECEPTOR activity that is used to manage the symptoms of ASTHMA; ALLERGIC RHINITIS, and ATOPIC DERMATITIS.
+HN  - 2016 (1990)
+
+MH  - Fluticasone Propionate, Salmeterol Xinafoate Drug Combination
+UI  - D000068297
+MN  - D2.33.100.291.57.750.500
+MN  - D2.92.63.291.57.750.500
+MN  - D2.92.471.683.61.750.500
+MN  - D4.808.54.79.129.114.500
+MN  - D26.310.438
+MS  - A drug combination of fluticasone and salmeterol that is used as an inhaler formulation to manage the symptoms of ASTHMA and CHRONIC OBSTRUCTIVE PULMONARY DISEASE.
+HN  - 2016 (2001)
+
+MH  - Formative Feedback
+UI  - D000068156
+MN  - F2.784.629.529.223
+MN  - L1.143.283.425.156
+MS  - Information communicated to the learner that is intended to modify the learner’s thinking or behavior for the purpose of improving learning.
+HN  - 2016
+
+MH  - Formoterol Fumarate
+UI  - D000068759
+MN  - D2.33.100.291.425
+MN  - D2.92.63.291.425
+MS  - An ADRENERGIC BETA-2 RECEPTOR AGONIST with a prolonged duration of action. It is used to manage ASTHMA and in the treatment of CHRONIC OBSTRUCTIVE PULMONARY DISEASE.
+HN  - 2016 (1976)
+FX  - Albuterol
+FX  - Mometasone Furoate
+
+MH  - Fractures, Multiple
+UI  - D000069076
+MN  - C26.404.280
+MN  - C26.640.500
+MS  - Injuries involving the breaking of either several bones or one bone in two or more places.
+HN  - 2016
+
+MH  - Fruit and Vegetable Juices
+UI  - D000067030
+MN  - G7.203.100.606
+MN  - J2.200.606
+MS  - The liquids extracted from plants.
+AN  - coordinate with specific fruit or vegetable
+HN  - 2016
+
+MH  - Functional Behavior, Psychology
+UI  - D000068960
+MN  - F1.145.437
+MS  - Aberrant or socially inappropriate BEHAVIOR displayed by individuals with cognitive or communication disabilities crucial to the implementation of intervention programs.
+HN  - 2016
+
+MH  - Fungal Viruses
+UI  - D000067148
+MN  - B4.352
+MS  - Viruses infecting species of FUNGI.
+AN  - coordinate with specific fungus/ virol
+HN  - 2016
+
+MH  - Fused Kidney
+UI  - D000069337
+MN  - C12.706.445
+MN  - C13.351.875.420
+MN  - C16.131.939.445
+MS  - Congenital fusion of two kidneys.
+HN  - 2016
+
+MH  - Games, Recreational
+UI  - D000068957
+MN  - I3.450.642.693.465
+MS  - Activity typically involving several individuals for the purpose of leisure, amusement, entertainment or pleasure.
+FX  - Video Games
+
+MH  - Gastrointestinal Microbiome
+UI  - D000069196
+MN  - G6.755.375
+MN  - G16.500.275.157.49.100.500.375
+MN  - N6.230.124.49.100.500.250
+MS  - All of the microbial organisms that naturally exist within the GASTROINTESTINAL TRACT.
+HN  - 2016
+
+MH  - Gender Dysphoria
+UI  - D000068116
+MN  - F3.835.550
+MS  - A marked difference between the individual’s expressed/experienced gender and the gender others would assign him or her, and it must continue for at least six months. (from DSM-5)
+HN  - 2016
+
+MH  - Genetic Background
+UI  - D000068617
+MN  - G5.346
+MS  - The entire genetic composition of a strain or individual that interacts with a gene of interest.
+HN  - 2016
+FX  - Heredity
+
+MH  - Ghee
+UI  - D000067048
+MN  - D10.212.302.199.500
+MN  - G7.203.300.350.100.500
+MN  - G7.203.300.375.200.500
+MN  - J2.500.350.100.500
+MN  - J2.500.375.200.500
+MS  - The clarified portion of milk, cream, or butter obtained by the removal of the nonfat constituents. (from Dictionary of Food Ingredients, 4th ed., 2001)
+HN  - 2016; use DIETARY FATS 1982-2015
+
+MH  - Giraffes
+UI  - D000068276
+MN  - B1.50.150.900.649.77.380.443
+MS  - Four-legged hoofed mammals with extremely long necks and legs belonging to the family Giraffidae.
+HN  - 2016
+
+MH  - Glatiramer Acetate
+UI  - D000068717
+MN  - D12.644.219
+MS  - A random polymer of L-ALANINE, L-GLUTAMIC ACID, L-LYSINE, and L-TYROSINE that structurally resembles MYELIN BASIC PROTEIN. It is used in the treatment of RELAPSING-REMITTING MULTIPLE SCLEROSIS.
+HN  - 2016 (1994)
+
+MH  - Glucagon-Like Peptide Receptors
+UI  - D000067756
+MN  - D12.776.543.750.100.21
+MN  - D12.776.543.750.750.360.100
+MS  - G-PROTEIN COUPLED CELL SURFACE RECEPTORS that bind GLUCAGON-LIKE PEPTIDES and are expressed by cells in pancreatic, intestinal, and neural tissues. These receptors regulate cellular responses to BLOOD GLUCOSE, INSULIN, and INFLAMMATION signals.
+HN  - 2016
+
+MH  - Glucagon-Like Peptide-1 Receptor
+UI  - D000067757
+MN  - D12.776.543.750.100.21.500
+MN  - D12.776.543.750.750.360.100.500
+MS  - A receptor for GLUCAGON-LIKE PEPTIDE 1 (GLP-1) expressed primarily on the surface of beta and ductal exocrine cells of the pancreas, as well as cells of other tissues. GLP-1 acts through GLP-1R to potentiate signaling in pancreatic cells in response to glucose-stimulated insulin secretion (GSIS).
+HN  - 2016
+
+MH  - Glucagon-Like Peptide-2 Receptor
+UI  - D000067758
+MN  - D12.776.543.750.100.21.600
+MN  - D12.776.543.750.750.360.100.600
+MS  - A receptor for GLUCAGON-LIKE PEPTIDE 2 (GLP-2) that is expressed on the surface of intestinal cells as well as neural cells. GLP-2 and other peptides act through GLP-2R to regulate cellular responses to BLOOD GLUCOSE, INFLAMMATION, and FOOD INTAKE.
+HN  - 2016
+
+MH  - Glycemic Load
+UI  - D000067940
+MN  - G7.203.650.660.750
+MN  - J1.576.423.850.730.750.750
+MN  - N6.850.601.750.750
+MS  - A quantitative value of a measured amount of a specific food that is equal to the GLYCEMIC INDEX of that food multiplied by the carbohydrate content of that food.
+AN  - GLYCEMIC INDEX is also available
+
+MH  - Grandparents
+UI  - D000066502
+MN  - F1.829.263.403
+MN  - I1.880.853.150.452
+MN  - M1.264
+MS  - Member of a family who has children and grandchildren.
+HN  - 2016
+FX  - Family
+
+MH  - Graphic Novels
+UI  - D000068036
+MN  - V2.503
+MN  - V2.700.375
+MS  - Book-length narratives told using a combination of words and sequential art, often presented in comic book style. from (Fletcher-Spear et al., ALA Review, Winter 2005)
+AN  - This heading is used as a Publication Type.  INDEXER: Do not use
+HN  - 2016; use CARTOONS 2014-2015
+
+MH  - Health Equity
+UI  - D000069576
+MN  - N4.590.374.350.500
+MN  - N5.300.430.383
+MS  - Opportunity to attain full health potential and no one is disadvantaged from achieving this potential because of their social position or other socially determined circumstance.
+HN  - 2016
+
+MH  - Health Smart Cards
+UI  - D000069098
+MN  - E5.318.308.940.968.625.750
+MN  - L1.280.900.968.775.500
+MN  - L1.313.500.750.300.695.300
+MN  - N4.452.653.250
+MN  - N4.452.859.564.650.250
+MN  - N5.715.360.300.715.500.530.500
+MN  - N6.850.520.308.940.968.625.500
+MS  - Hand-sized cards with built-in computer chips used for accessing, storing, and protecting patients' medical information.
+HN  - 2016
+
+MH  - Healthcare Failure Mode and Effect Analysis
+UI  - D000067495
+MN  - E5.318.740.600.800.715.500
+MN  - N4.452.871.715.400
+MN  - N5.715.360.750.625.700.690.400
+MN  - N6.850.505.715.500
+MN  - N6.850.520.830.600.800.715.500
+MS  - Prospective risk assessment tool aimed at identifying potential risks and their impact in healthcare settings.
+HN  - 2016
+
+MH  - Help-Seeking Behavior
+UI  - D000066505
+MN  - F1.145.813.217
+MS  - Form of social behavior in which assistance is sought from others.
+HN  - 2016
+
+MH  - Heptavalent Pneumococcal Conjugate Vaccine
+UI  - D000069443
+MN  - D20.215.894.135.750.600.500
+MS  - A pneumococcal vaccine which  7 pneumococcal serotypes (6B, 14, 19F, 23F, 18C, 4, 9V), each conjugated individually to the outer membrane protein complex of NEISSERIA MENINGITIDIS.
+HN  - 2016 (1996)
+
+MH  - Heuristics
+UI  - D000066506
+MN  - F2.463.425.725.500
+MN  - F2.463.785.810.500
+MS  - Experience-based techniques for problem-solving, learning, and discovery that find a solution which is not guaranteed to be optimal, but sufficient for a given set of goals.
+HN  - 2016
+FX  - Artificial Intelligence
+FX  - Computer Heuristics
+
+MH  - Hoarding Disorder
+UI  - D000067836
+MN  - F3.80.600.250
+MS  - Persistent difficulty discarding or parting with possessions due to a perceived need to save the items and distress associated with discarding them. (from DSM-V)
+HN  - 2016
+
+MH  - Hoodia
+UI  - D000068798
+MN  - B1.650.940.800.575.100.81.389
+MS  - A genus in the dogbane family (Apocynaceae) used in TRADITIONAL MEDICINE for appetite-suppressant properties.
+HN  - 2016
+
+MH  - Human Embryonic Stem Cells
+UI  - D000066449
+MN  - A11.872.700.250.750
+MS  - A type of PLURIPOTENT STEM CELLS derived from early stage human embryos, up to and including the BLASTOCYST stage.
+HN  - 2016
+
+MH  - Human Papillomavirus Recombinant Vaccine Quadrivalent, Types 6, 11, 16, 18
+UI  - D000068857
+MN  - D20.215.894.899.498.500
+MS  - A vaccine containing L1 capsid proteins from four types of HPV (ALPHAPAPILLOMAVIRUS), types 6, 11, 16 and 18 that is used to prevent infections from HUMAN PAPILLOMAVIRUSES of these subtypes.
+HN  - 2016 (2006)
+
+MH  - Humidifiers
+UI  - D000068998
+MN  - E7.451
+MN  - J1.494.650
+MS  - Machines that add moisture to the air.
+HN  - 2016
+FX  - Respiration, Artificial
+
+MH  - Hydraulic Fracking
+UI  - D000067071
+MN  - J1.576.655.875.750.500
+MS  - A drilling technology in which NATURAL GAS is extracted from large deposits of impermeable rock formations known as shale, deep within the earth’s crust. This drilling technique involves injecting large volumes of high-pressure fracturing fluid (a mixture of water, sand, and chemicals) several thousand feet underground, thereby creating cracks or fissures in the shale formation, and releasing trapped gas.
+HN  - 2016
+
+MH  - Hyssopus Plant
+UI  - D000068819
+MN  - B1.650.940.800.575.100.583.520.330
+MS  - A genus in the mint family (Lamiaceae). Members contain thujone and PHENOL. Distinguished from AGASTACHE (giant hyssop) and BACOPA (water hyssop).  Also distinguished from the genus of WASPS with the same genus name Hyssopus.
+HN  - 2016; for HYSSOP use LAMIACEAE 2003-2015
+
+MH  - Imatinib Mesylate
+UI  - D000068877
+MN  - D2.65.277.456
+MN  - D2.241.223.100.100.435
+MN  - D2.455.426.559.389.127.85.465
+MN  - D3.383.606.405
+MN  - D3.383.742.349
+MS  - A tyrosine kinase inhibitor and ANTINEOPLASTIC AGENT that inhibits the BCR-ABL kinase created by chromosome rearrangements in CHRONIC MYELOID LEUKEMIA and ACUTE LYMPHOBLASTIC LEUKEMIA, as well as PDG-derived tyrosine kinases that are overexpressed in gastrointestinal stromal tumors.
+HN  - 2016 (1996)
+
+MH  - Immunosenescence
+UI  - D000068884
+MN  - G7.700.320.124.390
+MN  - G12.460.500
+MS  - The decline in the function of the IMMUNE SYSTEM during aging.
+HN  - 2016
+
+MH  - Incisional Hernia
+UI  - D000069290
+MN  - C23.300.707.945
+MN  - C23.550.767.500
+MS  - Protrusion of tissue at or near the site of an incision from a previous surgery.
+HN  - 2016
+
+MH  - Industrial Development
+UI  - D000067896
+MN  - I1.261.262.500
+MN  - J1.576.519
+MS  - Activity concerned with the planning and building of industries through manufacturing, provision of specialized services, and COMMERCE.
+HN  - 2016; for INDUSTRIALIZATION use INDUSTRY 2000-2015
+BX  - Industrialization
+
+MH  - Infant Health
+UI  - D000068104
+MN  - N1.400.388
+MS  - The concept covering the physical and mental conditions of INFANTS.
+HN  - 2016; use INFANT WELFARE 1994-2015
+FX  - Infant Welfare
+
+MH  - Infectious Encephalitis
+UI  - D000069544
+MN  - C10.228.140.430.520
+MN  - C10.228.228.399
+MS  - Brain inflammation caused by an infectious agent..
+AN  - coordinate IM with specific organism /infection term (IM); note ENCEPHALITIS, VIRAL is available
+HN  - 2016; use ENCEPHALITIS 1964-2015
+
+MH  - Infliximab
+UI  - D000069285
+MN  - D12.776.124.486.485.114.224.608
+MN  - D12.776.124.790.651.114.224.537
+MN  - D12.776.377.715.548.114.224.642
+MS  - A chimeric monoclonal antibody to TNF ALPHA that is used in the treatment of RHEUMATOID ARTHRITIS; ANKYLOSING SPONDYLITIS; PSORIATIC ARTHRITIS and CROHN'S DISEASE.
+HN  - 2016 (1997)
+
+MH  - Injection, Intratympanic
+UI  - D000069555
+MN  - E2.319.267.530.655
+MS  - The administration of  liquid substances into the TYMPANIC CAVITY with a hypodermic syringe.
+HN  - 2016
+
+MH  - Insulin Detemir
+UI  - D000069057
+MN  - D6.472.699.587.200.300.50
+MN  - D12.644.548.586.200.300.50
+MS  - A recombinant long-acting insulin and HYPOGLYCEMIC AGENT in which a MYRISTIC ACID is conjugated to a LYSINE at position B29. It is used to manage BLOOD GLUCOSE levels in patients with DIABETES MELLITUS.
+HN  - 2016 (1997)
+
+MH  - Insulin Glargine
+UI  - D000069036
+MN  - D6.472.699.587.200.300.100
+MN  - D12.644.548.586.200.300.100
+MS  - A recombinant LONG ACTING INSULIN and HYPOGLYCEMIC AGENT that is used to manage BLOOD GLUCOSE in patients with DIABETES MELLITUS.
+HN  - 2016 (1997)
+
+MH  - Interferon beta-1a
+UI  - D000068556
+MN  - D12.644.276.374.440.890.275.500
+MN  - D12.776.467.374.440.890.275.500
+MN  - D23.529.374.440.890.275.500
+MS  - An interferon beta-1 subtype that has a methionine at position 1, a cysteine at position 17, and is glycosylated at position 80. It functions as an ANTI-VIRAL AGENT and IMMUNOMODULATOR and is used to manage the symptoms of RELAPSING-REMITTING MULTIPLE SCLEROSIS.
+HN  - 2016 (1994)
+
+MH  - Interferon beta-1b
+UI  - D000068576
+MN  - D12.644.276.374.440.890.275.750
+MN  - D12.776.467.374.440.890.275.750
+MN  - D23.529.374.440.890.275.750
+MS  - A non-glycosylated form of interferon beta-1 that has a serine at position 17. It is used in the treatment of both RELAPSING-REMITTING MULTIPLE SCLEROSIS and CHRONIC PROGRESSIVE MULTIPLE SCLEROSIS.
+HN  - 2016 (1985)
+
+MH  - Interleukin-33
+UI  - D000067596
+MN  - D12.644.276.87.597
+MN  - D12.644.276.374.465.850
+MN  - D12.776.467.87.813
+MN  - D12.776.467.374.465.850
+MN  - D23.529.87.780
+MN  - D23.529.374.465.850
+MS  - A member of the INTERLEUKIN-1 protein  family involved in the maturation of TH2 CELLS and the activation of MAST CELLS; BASOPHILS; EOSINOPHILS and NK CELLS. It is also produced by ENDOTHELIAL CELLS; EPITHELIAL CELLS and FIBROBLASTS; where it can function as an alarmin to modulate immune and inflammatory responses to tissue damage.
+HN  - 2016 (2005)
+
+MH  - Internal Ribosome Entry Sites
+UI  - D000067556
+MN  - D13.444.735.790.878.942.250
+MN  - G2.111.570.80.689.687.93
+MN  - G5.360.80.689.687.93
+MS  - Sequences within MESSENGER RNA that enable PROTEIN TRANSLATION INITIATION independent of 5' CAPPED RNA.
+HN  - 2016
+
+MH  - International Law
+UI  - D000069516
+MN  - I1.880.604.583.466
+MN  - N3.706.535.533
+MS  - The body of law that governs the legal relations between or among sovereign states or nations.
+HN  - 2016
+FX  - Internationality
+
+MH  - Intimate Partner Violence
+UI  - D000066511
+MN  - I1.198.240.856.575
+MN  - I1.880.735.900.688
+MS  - A pattern of assaultive and coercive behavior by an individual against their partner or spouse that may include physical injury, psychological abuse, sexual assault, progressive isolation, stalking, deprivation, intimidation, and reproductive coercion.
+HN  - 2016
+FX  - Sex Offenses
+
+MH  - Intravital Microscopy
+UI  - D000069416
+MN  - E1.370.350.515.277
+MN  - E5.595.185
+MS  - Microscopic observation of live tissue in situ to study the behavior of individual cells with respect to their in vivo interactions, adhesion, motility, and location.
+HN  - 2016
+
+MH  - Iridescence
+UI  - D000068897
+MN  - G1.590.310
+MS  - The changing of the color of an object due to variations in the angle of illumination or observation.
+HN  - 2016; for OPALESCENCE (NM) use CARBAMIDE PEROXIDE (NM) 1969-2015
+
+MH  - Isolated Heart Preparation
+UI  - D000067268
+MN  - E5.519
+MN  - E5.598.750
+MS  - Method of isolation and maintenance of a working heart for various cardiac measurements. The model allows for the separation of cardiac and systemic variables in the denervated heart.
+HN  - 2016
+FX  - Myocardial Reperfusion Injury
+
+MH  - Isophane Insulin, Human
+UI  - D000068880
+MN  - D6.472.699.587.200.300.200.500
+MN  - D6.472.699.587.200.500.625.500.500
+MN  - D12.644.548.586.200.300.200.500
+MN  - D12.644.548.586.200.500.625.500.500
+MS  - Human isophane insulin that is used to manage BLOOD GLUCOSE levels in patients with DIABETES.
+HN  - 2016 (2011)
+
+MH  - Kombucha Tea
+UI  - D000068858
+MN  - D20.215.784.844.500
+MN  - G7.203.100.831.500
+MN  - J2.200.831.500
+MS  - A beverage made by FERMENTATION of black tea and/or green tea.
+HN  - 2016
+
+MH  - Lamiales
+UI  - D000068378
+MN  - B1.650.940.800.575.100.583
+MS  - An order of the Lamiidae clade. Lamiales is one of the largest orders of flowering plants and includes pot-herbs in the mint family (MINT; SAGE; OREGANO; BASIL); SESAME, foxgloves; SNAPDRAGONS; and the olive family.
+HN  - 2016; for PROBOSCIDEA PLANT use PEDALIACEAE 2003-2015
+BX  - Proboscidea Plant
+
+MH  - Late Onset Disorders
+UI  - D000067562
+MN  - C23.550.291.883
+MS  - Pathological conditions (Disorder, SYNDROME, or DISEASE) whose SIGNS AND SYMPTOMS manifest late in the life of an individual.
+HN  - 2016; use AGE OF ONSET 1997-2015
+
+MH  - Legal Services
+UI  - D000067408
+MN  - I1.880.604.583.482
+MS  - Services provided by ATTORNEYS and paralegal staff.
+HN  - 2016
+
+MH  - Legendary Creatures
+UI  - D000068636
+MN  - I1.76.201.450.515.500
+MS  - An unverified animal or humanoid, sometimes supernatural, often believed to be real and described in MYTHOLOGY, FOLKLORE, or legends. Some legendary creatures, such as the unicorn, were documented in scholarly antiquarian accounts of natural history.
+HN  - 2016
+
+MH  - Libraries, Special
+UI  - D066290
+MN  - L1.346.596.831
+MS  - Collections covering specialized subjects, containing materials in a special format, or serving a specialized clientele.
+HN  - 2015
+
+MH  - Linagliptin
+UI  - D000069476
+MN  - D3.438.759.562
+MN  - D3.438.786.563
+MS  - A purine and quinazoline derivative that functions as an INCRETIN and DIPEPTIDYL-PEPTIDASE IV INHIBTOR. It is used as a HYPOGLYCEMIC AGENT in the treatment of TYPE II DIABETES MELLITUS.
+HN  - 2016 (2011)
+FX  - Sitagliptin Phosphate
+
+MH  - Linezolid
+UI  - D000069349
+MN  - D2.65.64.463
+MN  - D2.241.81.18.110.525
+MN  - D3.383.129.462.600.550
+MS  - An oxazolidinone and acetamide derived ANTI-BACTERIAL AGENT and PROTEIN SYNTHESIS INHIBITOR that is used in the treatment of GRAM-POSITIVE BACTERIAL INFECTIONS of the skin and respiratory tract.
+HN  - 2016 (1996)
+
+MH  - Liraglutide
+UI  - D000069450
+MN  - D6.472.317.469.500.500.500
+MS  - An analog of GLUCAGON-LIKE PEPTIDE 1 and agonist of the GLUCAGON-LIKE PEPTIDE 1 RECEPTOR that is used as a HYPOGLYCEMIC AGENT and supplemental therapy in the treatment of DIABETES MELLITUS by patients who do not respond to METFORMIN.
+HN  - 2016 (2001)
+
+MH  - Lisdexamfetamine Dimesylate
+UI  - D000069478
+MN  - D2.92.471.683.152.110.200.500
+MS  - A dextroamphetamine drug precursor that also functions as a CENTRAL NERVOUS SYSTEM STIMULANT and DOPAMINE UPTAKE INHIBITOR and is used in the treatment of ATTENTION DEFICIT HYPERACTIVITY DISORDER.
+HN  - 2016 (2006)
+
+MH  - Literacy
+UI  - D000067010
+MN  - F1.145.209.429
+MN  - L1.143.563
+MN  - N1.824.196.500
+MS  - Ability to read and write.
+HN  - 2016; for ILLITERACY use EDUCATIONAL STATUS
+BX  - Illiteracy
+FX  - Handwriting
+FX  - Health Literacy
+FX  - Reading
+FX  - Writing
+
+MH  - Long Term Adverse Effects
+UI  - D000069451
+MN  - C23.550.543
+MS  - Persistent detrimental effects from treatment for a condition. Included are effects from surgery such as POSTOPERATIVE COMPLICATIONS, and from DRUG THERAPY, such as CHEMICALLY INDUCED DISORDERS, or other THERAPEUTICS. Failure to attain a desired outcome from treatment for the condition is not considered an adverse effect.
+HN  - 2016
+
+MH  - Loteprednol Etabonate
+UI  - D000069559
+MN  - D4.808.54.79.129.284
+MS  - An androstadiene derivative corticosteroid that is used as an ANTI-ALLERGIC AGENT for the treatment of inflammatory and allergic eye conditions.
+HN  - 2016 (1990)
+
+MH  - Lubiprostone
+UI  - D000068238
+MN  - D10.251.355.325.50.500
+MS  - Member of a bicyclic fatty acid class of compounds derived from PROSTAGLANDIN E1 involved in chloride channel gating.
+HN  - 2016 (2005)
+
+MH  - Lurasidone Hydrochloride
+UI  - D000069056
+MN  - D2.886.675.414
+MN  - D3.383.129.708.414
+MN  - D3.438.513.437
+MS  - A thiazole derivative and atypical ANTIPSYCHOTIC AGENT that functions as a DOPAMINE D2 RECEPTOR ANTAGONIST; SEROTONIN 5-HT2 RECEPTOR ANTAGONIST, serotonin 5-HT7 receptor antagonist, and antagonist of the adrenergic α2A and α2C receptors, as well as a partial SEROTONIN 5-HT1A RECEPTOR AGONIST. It is used in the treatment of SCHIZOPHRENIA and BIPOLAR DISORDER.
+HN  - 2016 (2008)
+
+MH  - Machine Learning
+UI  - D000069550
+MN  - G17.35.250.500
+MN  - L1.224.50.375.530
+MS  - A type of ARTIFICIAL INTELLIGENCE that enable COMPUTERS to independently initiate and execute LEARNING when exposed to new data.
+HN  - 2016; use ARTIFICIAL INTELLIGENCE 1997-2015
+
+MH  - Mammary Analogue Secretory Carcinoma
+UI  - D000069295
+MN  - C4.557.470.200.588
+MS  - A malignant neoplasm of epithelial cells of the SALIVARY GLANDS, with microcystic architecture, low-grade nuclei, and granular vacuolated cytoplasm.
+HN  - 2016
+
+MH  - Maternal Health
+UI  - D000068097
+MN  - N1.400.900.500
+MS  - The health of women during PREGNANCY; childbirth and the POSTPARTUM PERIOD.
+HN  - 2016 (1974); use MATERNAL WELFARE 1974-2015
+FX  - Maternal Health Services
+FX  - Maternal Welfare
+
+MH  - Maternal-Child Health Services
+UI  - D000068101
+MN  - N2.421.143.130.660
+MN  - N2.421.143.620.275
+MS  - Programs organized for the purpose of providing medical and social services for mothers and children.
+HN  - 2016 (1978); use MATERNAL-CHILD HEALTH CENTERS 1978-2015
+
+MH  - Medical Overuse
+UI  - D000069342
+MN  - N2.421.380.450
+MN  - N5.300.150.395.450
+MS  - Excessive or unnecessary utilization of health services by patients or physicians.
+HN  - 2016; for HEALTH SERVICES OVERUTILIZATION use HEALTH SERVICES MISUSE 1978-2015
+BX  - Overutilization of Health Services
+FX  - Diagnostic Errors
+FX  - Drug Overdose
+FX  - Inappropriate Prescribing
+FX  - Polypharmacy
+
+MH  - Medical-Surgical Nursing
+UI  - D000069469
+MN  - H2.478.676.403
+MN  - N2.421.533.475
+MS  - The area of nursing concerned with the needs and care of adult medical and surgical patients.
+HN  - 2016
+FX  - Operating Room Nursing
+
+MH  - Memory Consolidation
+UI  - D000069077
+MN  - F2.463.425.540.305.500
+MS  - Neurological process involving the conversion of learned information into long-term memory.
+HN  - 2016
+FX  - Learning
+
+MH  - Metacognition
+UI  - D000067489
+MN  - F2.463.188.756
+MS  - Awareness and understanding of one's own thought processes.
+HN  - 2016
+FX  - Self-Assessment
+
+MH  - Millets
+UI  - D000066928
+MN  - B1.650.940.800.575.100.822.587
+MS  - An agronomic group especially of small-seeded grasses, mainly grown for human and animal consumption.
+AN  - general or unspecified; note several specific millet terms are available
+HN  - 2016
+
+MH  - Miners
+UI  - D000067572
+MN  - M1.526.693
+MS  - Persons who work in a mine to extract ore or MINERALS from the earth.
+HN  - 2016
+
+MH  - Mitochondrial Replacement Therapy
+UI  - D000069321
+MN  - E2.875.800.750.350
+MN  - E5.200.500.380.250
+MN  - E5.393.85.250
+MN  - E5.820.800.750.350
+MS  - In vitro fertilization technique that uses mitochondrial DNA from a healthy donor in order to prevent the transmission of MITOCHONDRIAL DISEASE.
+HN  - 2016
+
+MH  - Mitochondrial Ribosomes
+UI  - D000069396
+MN  - A11.284.430.214.190.875.564.755
+MN  - A11.284.430.214.190.875.811.370
+MS  - Multicomponent ribonucleoprotein structures contained in MITOCHONDRIA that specialize in the PROTEIN BIOSYNTHESIS of a small number of proteins involved in energy production for the cell.
+HN  - 2016
+
+MH  - Mometasone Furoate
+UI  - D000068656
+MN  - D4.808.745.432.719.526
+MS  - A pregnadienediol derivative ANTI-ALLERGIC AGENT and ANTI-INFLAMMATORY AGENT that is used in the management of ASTHMA and ALLERGIC RHINITIS. It is also used as a topical treatment for skin disorders.
+HN  - 2016 (1987)
+FX  - Formoterol Fumarate
+
+MH  - Mometasone Furoate, Formoterol Fumarate Drug Combination
+UI  - D000068758
+MN  - D2.33.100.291.425.500
+MN  - D2.92.63.291.425.500
+MN  - D4.808.745.432.719.526.500
+MN  - D26.310.469
+MS  - A pharmaceutical preparation of mometasone furoate and formoterol fumarate that is used as an inhaled dosage form for the treatment of ASTHMA.
+HN  - 2016 (2011)
+
+MH  - Morcellation
+UI  - D000069577
+MN  - E4.502.648
+MS  - Use of a non-cautery–dependent mechanical device that simultaneously cuts and aspirates polyp and/or myoma tissue.
+HN  - 2016
+
+MH  - Motor Disorders
+UI  - D000068079
+MN  - F3.608
+MS  - Motor skills deficits that significantly and persistently interfere with ACTIVITIES OF DAILY LIVING appropriate to chronological age.  (from DSM-V)
+HN  - 2016; use MOTOR SKILLS DISORDERS 1998-2015
+
+MH  - Mouse Embryonic Stem Cells
+UI  - D000066450
+MN  - A11.872.700.250.875
+MS  - PLURIPOTENT STEM CELLS derived from the BLASTOCYST INNER CELL MASS of day 3.5 mouse embryos.
+HN  - 2016
+
+MH  - Mutation Accumulation
+UI  - D000067552
+MN  - G5.365.590.594
+MS  - Concept which describes the incremental effects of MUTATION in living organisms.
+HN  - 2016
+FX  - Aging
+FX  - Mutagenesis
+
+MH  - Natalizumab
+UI  - D000069442
+MN  - D12.776.124.486.485.114.224.60.813
+MN  - D12.776.124.790.651.114.224.60.813
+MN  - D12.776.377.715.548.114.224.200.813
+MS  - A humanized monoclonal immunoglobulin G4 antibody to human INTEGRIN ALPHA4 that binds to the alpha4 subunit of INTEGRIN ALPHA4BETA1 and integrin alpha4beta7. It is used as an IMMUNOLOGIC FACTOR in the treatment of RELAPSING-REMITTING MULTIPLE SCLEROSIS and CROHN'S DISEASE.
+HN  - 2016 (2002)
+FX  - Integrin alpha4
+
+MH  - Natural Resources
+UI  - D000067936
+MN  - G16.500.275.553
+MN  - J1.728
+MN  - N6.230.350
+MS  - Materials or substances such as land, timber, fresh water, fossil fuels, or mineral deposits that occur in a natural state and have economic value or usefulness to humans.
+AN  - coordinate with  specific natural resource if pertinent
+HN  - 2016;  use CONSERVATION OF NATURAL RESOURCES 1991-2015; for LAND SUPPLY use AGRICULTURE 1978-2015
+FX  - Conservation of Natural Resources
+
+MH  - Near Miss, Healthcare
+UI  - D000067491
+MN  - E2.319.529.750
+MN  - N2.421.450.500.750
+MN  - N2.421.450.550
+MN  - N4.761.700.594
+MN  - N5.700.513
+MS  - Event that presented a risk but did not result in a patient harm.
+HN  - 2016
+
+MH  - Nebivolol
+UI  - D000068577
+MN  - D2.33.100.291.491
+MN  - D2.92.63.291.503
+MN  - D3.383.663.283.755
+MN  - D3.438.150.755
+MS  - A cardioselective ADRENERGIC BETA-1 RECEPTOR ANTAGONIST (beta-blocker) that functions as a VASODILATOR through the endothelial L-arginine/ NITRIC OXIDE system. It is used to manage HYPERTENSION and chronic HEART FAILURE in elderly patients.
+HN  - 2016 (1987)
+
+MH  - Nerve Agents
+UI  - D000067397
+MN  - D27.720.599
+MN  - D27.720.777.300.500
+MS  - A class of compounds that adversely affect the transmission of impulses through the NERVOUS SYSTEM.
+HN  - 2016
+
+MH  - Neurodevelopmental Disorders
+UI  - D065886
+MN  - F3.625
+MS  - These are a group of conditions with onset in the developmental period. The disorders typically manifest early in development, often before the child enters grade school, and are characterized by developmental deficits that produce impairments of personal, social, academic, or occupational functioning.  (From DSM-V).
+HN  - 2015 (1998)
+
+MH  - Neurological Rehabilitation
+UI  - D000066530
+MN  - E2.831.477
+MN  - H2.403.680.600.750
+MN  - N2.421.784.511
+MS  - Physician-supervised programs designed to rehabilitate people with diseases, trauma, or disorders of the NERVOUS SYSTEM.
+HN  - 2016
+
+MH  - Neuropathology
+UI  - D000069338
+MN  - H1.158.610.184
+MN  - H2.403.600.250
+MN  - H2.403.650.375
+MS  - The branch of medicine and biomedical science concerned with diseases of the nervous system.
+AN  - use for the discipline only (education, history, etc.) only
+HN  - 2016
+
+MH  - Neuroprotection
+UI  - D000066829
+MN  - G11.561.600.638
+MS  - The physiological processes and techniques used by the body to prevent neuronal injury and degeneration in the central nervous system following acute disorders or as a result of chronic neurodegenerative diseases.
+HN  - 2016
+
+MH  - Neurosurgeons
+UI  - D000069471
+MN  - M1.526.485.810.910.750
+MN  - N2.360.810.910.750
+MS  - Qualified medical professionals who specialize in surgical treatment of diseases of the BRAIN and other parts of the NERVOUS SYSTEM.
+HN  - 2016
+
+MH  - Neurovascular Coupling
+UI  - D000069336
+MN  - G9.330.190.163.159.500
+MS  - Mechanism by which changes in neural activity are tightly associated with regional cortical HEMODYNAMICS and metabolism changes. The association is often inferred from NEUROIMAGING signals (e.g., fMRI; or NIR SPECTROSCOPY).
+HN  - 2016
+FX  - Hemodynamics
+
+MH  - No-Show Patients
+UI  - D000067455
+MN  - F1.145.488.500.750
+MN  - N4.452.758.635.500
+MN  - N5.300.150.600.600.750
+MS  - PATIENTS who do not turn up for scheduled healthcare appointments. Do not confuse with PATIENT DROPOUTS.
+HN  - 2016
+FX  - Patient Dropouts
+
+MH  - Obesity, Metabolically Benign
+UI  - D000067329
+MN  - C18.654.726.500.698
+MN  - C23.888.144.699.500.250
+MN  - E1.370.600.115.100.160.120.699.500.375
+MN  - G7.100.100.160.120.699.500.375
+MS  - A sub-PHENOTYPE of obese individuals who have a risk for CARDIOVASCULAR DISEASES between that of healthy individuals with normal weight and unhealthy individuals with obesity.
+HN  - 2016
+
+MH  - Oil and Gas Industry
+UI  - D000066388
+MN  - J1.576.655.875.750
+MS  - INDUSTRY concerned with the extraction, processing, distribution, marketing and storage of PETROLEUM and NATURAL GAS.
+HN  - 2015
+FX  - Fossil Fuels
+FX  - Natural Gas
+FX  - Petroleum
+
+MH  - Olive Oil
+UI  - D000069463
+MN  - D10.212.302.380.580
+MN  - D10.212.507.650
+MN  - D10.627.700.728
+MN  - G7.203.300.375.400.500
+MN  - J2.500.375.400.500
+MS  - Oil extracted from fruit of the OLIVE TREE (genus Olea).
+HN  - 2016
+
+MH  - Olmesartan Medoxomil
+UI  - D000068557
+MN  - D3.383.129.308.674
+MN  - D3.383.129.617.584
+MS  - An ANGIOTENSIN II TYPE 1 RECEPTOR BLOCKER that is used to manage HYPERTENSION.
+HN  - 2016 (1996)
+
+MH  - Olopatadine Hydrochloride
+UI  - D000069605
+MN  - D3.494.382.696
+MS  - An antihistamine with mast-cell stabilizing properties used as eye drops in the treatment of ALLERGIC CONJUNCTIVITIS.
+HN  - 2016 (1992)
+
+MH  - Omalizumab
+UI  - D000069444
+MN  - D12.776.124.486.485.114.71.500
+MN  - D12.776.124.486.485.114.224.60.844
+MN  - D12.776.124.790.651.114.71.500
+MN  - D12.776.124.790.651.114.224.60.844
+MN  - D12.776.377.715.548.114.71.500
+MN  - D12.776.377.715.548.114.224.200.844
+MS  - An anti-IgE, recombinant, humanized monoclonal antibody which specifically binds to the C epsilon3 domain of IMMUNOGLOBULIN E, the site of high-affinity IgE receptor binding. It inhibits the binding of IgE to MAST CELLS and BASOPHILS to reduce the severity of the allergic response and is used in the management of persistent allergic ASTHMA.
+HN  - 2016 (2001)
+
+MH  - Ononis
+UI  - D000068757
+MN  - B1.650.940.800.575.100.401.604
+MS  - A genus of the pea family (Fabaceae), native from Europe to Central Asia and used in TRADITIONAL MEDICINE.
+HN  - 2016
+
+MH  - Open Access Publishing
+UI  - D066295
+MN  - L1.737.569
+MS  - Agreement in which author(s) and copyright holder(s) grant(s) to all users a free, irrevocable, worldwide, perpetual right of access to, and a license to copy, use, distribute, transmit and display the work publicly and to make and distribute derivative works, in any digital medium for any responsible purpose, subject to proper attribution of authorship, as well as the right to make small numbers of printed copies for their personal use. A complete version of the work and all supplemental materials, including a copy of the permission as stated above, in a suitable standard electronic format is deposited immediately upon initial publication in at least one online repository that is supported by an academic institution, scholarly society, government agency, or other well-established organization that seeks to enable open access, unrestricted distribution, interoperability, and long-term archiving. (from Bethesda Statement on Open Access Publishing)
+HN  - 2016
+
+MH  - Optimism
+UI  - D000067656
+MN  - F1.100.787
+MS  - Mental attitude that interprets life events as generally being positive.
+HN  - 2016
+
+MH  - Oral and Maxillofacial Surgeons
+UI  - D000066794
+MN  - M1.526.485.330.483
+MN  - N2.360.330.483
+MS  - Dentists who specialize in the surgical treatment of injuries, diseases, and abnormalities of the oral and maxillofacial regions.
+HN  - 2016
+
+MH  - Orexin Receptor Antagonists
+UI  - D000068796
+MN  - D27.505.519.625.663
+MN  - D27.505.696.577.663
+MN  - D27.505.954.842.500
+MS  - Substances that bind to and inhibit the action of OREXIN RECEPTORS. Drugs in this class have been used as SLEEP AIDS.
+HN  - 2016
+
+MH  - Orexins
+UI  - D000068797
+MN  - D12.644.400.360
+MN  - D12.776.641.650.363
+MS  - Neuropeptide hormones that play a role in regulating a variety of behavioral and physiological processes in response to motivational stimuli.
+HN  - 2016
+FX  - Orexin Receptors
+
+MH  - Origin of Life
+UI  - D000069497
+MN  - G16.595
+MN  - I1.76.368.584.542
+MS  - The process by which life began.
+HN  - 2016; use ORGANELLE BIOGENESIS 1979-2015
+
+MH  - Orthodontists
+UI  - D000066792
+MN  - M1.526.485.330.655
+MN  - N2.360.330.655
+MS  - Dentists who specialize in the treatment of misaligned TEETH and MALOCCLUSION.
+HN  - 2016
+
+MH  - Paliperidone Palmitate
+UI  - D000068882
+MN  - D3.383.129.385.650
+MN  - D3.383.742.592
+MS  - A benzisoxazole derivative and active metabolite of RISPERIDONE that functions as a DOPAMINE D2 RECEPTOR ANTAGONIST and SEROTONIN 5-HT2 RECEPTOR ANTAGONIST. It is an ANTIPSYCHOTIC AGENT used in the treatment of SCHIZOPHRENIA.
+HN  - 2016 (1993)
+
+MH  - Palivizumab
+UI  - D000069455
+MN  - D12.776.124.486.485.114.224.60.860
+MN  - D12.776.124.790.651.114.224.60.860
+MN  - D12.776.377.715.548.114.224.200.860
+MS  - A humanized monoclonal antibody and ANTIVIRAL AGENT  that is used to prevent RESPIRATORY SYNCYTIAL VIRUS INFECTIONS in high risk pediatric patients.
+HN  - 2016 (1998)
+
+MH  - Parasite Encystment
+UI  - D000069289
+MN  - G7.700.320.500.550.875
+MS  - Process by which certain parasites such as GIARDIA and ENTAMOEBA convert from the TROPHOZOITE to SCHIZONT when exposed to stress.
+HN  - 2016
+FX  - Trophozoites
+
+MH  - Parks, Recreational
+UI  - D000068316
+MN  - N6.850.860.410.375
+MS  - An area of land open to the public for enjoyment.
+HN  - 2016
+
+MH  - Parmeliaceae
+UI  - D000068837
+MN  - B1.300.107.685
+MN  - B1.300.340.458
+MS  - The largest family of lichen-forming fungi.
+HN  - 2016
+
+MH  - Pathogen-Associated Molecular Pattern Molecules
+UI  - D000069452
+MN  - D23.585
+MS  - Pathogens' molecules with specific sequence patterns that are recognized by PATTERN RECOGNITION RECEPTORS. They include microbial DNA, double-stranded RNA, surface glycoproteins, lipopolysaccharides, peptidoglycans, and lipoteichoic acid.
+HN  - 2016
+
+MH  - Pedestrians
+UI  - D000069636
+MN  - M1.665
+MS  - Persons traveling on foot.
+HN  - 2016
+
+MH  - Peer Influence
+UI  - D000067074
+MN  - F1.829.316.483.750
+MS  - The effect or sway that a PEER GROUP exerts on the beliefs, value systems and behavior of each member of a group. The social expectations for individuals to conform to peer group influence is known as peer pressure.
+HN  - 2016
+
+MH  - Pemetrexed
+UI  - D000068437
+MN  - D3.438.759.758.399.454.650
+MN  - D12.125.67.625.525
+MN  - D12.125.119.409.525
+MS  - A guanine-derived ANTINEOPLASTIC AGENT that functions as a NUCLEIC ACID SYNTHESIS INHIBITOR through its binding to, and inhibition of, THYMIDYLATE SYNTHASE.
+HN  - 2016 (1994)
+
+MH  - Pericardial Fluid
+UI  - D000069236
+MN  - A7.541.795.500
+MN  - A10.615.789.470.500
+MN  - A12.207.270.651
+MS  - Watery fluid produced in the serous and visceral pericardium surrounding the surface of the HEART.
+HN  - 2016
+
+MH  - Personal Protective Equipment
+UI  - D000067393
+MN  - E7.662
+MS  - Specialized clothing or equipment worn for protection against health hazards. Personal Protective Equipment (PPE) may include MASKS, RESPIRATORY PROTECTIVE DEVICES, HEAD PROTECTIVE DEVICES, EYE PROTECTIVE DEVICES, PROTECTIVE CLOTHING and protective footwear.
+HN  - 2016
+
+MH  - Personally Identifiable Information
+UI  - D000068241
+MN  - I1.880.604.583.80.660
+MS  - Information that can be used to distinguish or trace an individual’s identity, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual.
+HN  - 2016
+FX  - Data Anonymization
+
+MH  - Pessimism
+UI  - D000067657
+MN  - F1.100.893
+MS  - Mental attitude that interprets life events as generally being negative.
+HN  - 2016
+
+MH  - Phakopsora pachyrhizi
+UI  - D000067563
+MN  - B1.300.179.110
+MS  - Fungal pathogen which causes Soybean Rust disease in Soybeans (Glycine max).
+HN  - 2016
+
+MH  - Pharmacological Phenomena
+UI  - D000069437
+MN  - G7.690.773
+MS  - Interactions that occur between a living organism and chemicals that affect normal or abnormal biochemical function.
+AN  - general or unspecified; prefer specifics
+HN  - 2016 (2009); for PHARMACOLOGICAL PROCESSES use PHARMACOLOGICAL PROCESSES 2009-2015; for PHARMACOLOGICAL PHENOMENA use PHARMACOLOGICAL PHENOMENA 2009-2015.
+BX  - Pharmacologic Processes
+BX  - Pharmacological Processes
+
+MH  - Physical Abuse
+UI  - D000066550
+MN  - I1.198.240.856.688
+MN  - I1.880.735.900.744
+MS  - Violence inflicted on an individual through physical contact.
+HN  - 2016
+
+MH  - Plant Breeding
+UI  - D000069600
+MN  - J1.40.227.500
+MS  - The purposeful manipulation of plant species with the goal of creating desired genotypes and phenotypes, using techniques such as controlled pollination and or genetic engineering, followed by artificial selection of progeny.
+HN  - 2016
+
+MH  - Plantaginaceae
+UI  - D000068377
+MN  - B1.650.940.800.575.100.583.700
+MS  - A plant family of order Lamiales. The Plantago genus is best known. Lesser known members include Hippuris, Littorella and Callitriche.
+HN  - 2016; for GLOBULARIA and STEMODIA use SCROPHULARIACEAE 2003-2015
+BX  - Globularia
+BX  - Stemodia
+
+MH  - Plantar Plate
+UI  - D000069262
+MN  - A2.165.308.650
+MN  - A2.513.514.538
+MN  - A2.835.583.378.531.500
+MN  - A2.835.583.378.900.500
+MN  - A2.835.583.512.538
+MN  - A10.165.382.350.400
+MS  - Fibrocartilaginous ligament at the metatarsophalangeal and the interphalangeal joint of the toe.
+HN  - 2016
+
+MH  - Plasmablastic Lymphoma
+UI  - D000069293
+MN  - C4.557.386.480.150.585.500
+MN  - C15.604.515.569.480.150.585.500
+MN  - C20.683.515.761.480.150.585.500
+MS  - Malignant lymphoma composed of large B lymphoid cells which have the immunophenotype of plasma cells and a predilection for the ORAL CAVITY.
+HN  - 2016
+
+MH  - Podosomes
+UI  - D000069261
+MN  - A11.284.180.695
+MN  - A11.436.275.841
+MS  - Actin-rich adhesive structures found at the ventral surface of metazoan ENDOTHELIAL CELLS. When found  in cultured cancer cells they are referred to as invadopodia. These are matrix-degrading structures composed of an ACTIN CYTOSKELETON core and an INTEGRINS-containing ring complex.
+HN  - 2016
+FX  - Mechanotransduction, Cellular
+
+MH  - Point-of-Care Testing
+UI  - D000067716
+MN  - N4.590.874.500
+MS  - Allows patient diagnoses in the physician’s office, in other ambulatory setting or at bedside. The results of care are timely, and allow rapid treatment to the patient. (from NIH Fact Sheet Point-of-Care Diagnostic Testing, 2010.)
+HN  - 2016; for BEDSIDE TESTING use POINT-OF-CARE SYSTEMS 1995-2015
+BX  - Bedside Testing
+
+MH  - Poly(ADP-ribose) Polymerase Inhibitors
+UI  - D000067856
+MN  - D27.505.519.389.739
+MN  - D27.505.954.248.692
+MS  - Chemicals and drugs that inhibit the action of POLY(ADP-RIBOSE)POLYMERASES.
+HN  - 2016
+
+MH  - Population Forecast
+UI  - D000069457
+MN  - I1.320.500
+MN  - N1.224.667
+MS  - Estimates of projected population.
+HN  - 2016; use FORECASTING 1981-2015; for POPULATION GROWTH ESTIMATE use POPULATION GROWTH 1980-2015
+FX  - Population Growth
+
+MH  - Potentially Inappropriate Medication List
+UI  - D000067561
+MN  - N4.761.700.615
+MN  - N5.700.594
+MS  - A list, criteria, or screening tool designed to improve PATIENT SAFETY by determining an individual's exposure to potentially inappropriate drugs. They are designed to prevent MEDICATION ERRORS by INAPPROPRIATE PRESCRIBING. Analysis for a list includes factors such as DOSE-RESPONSE RELATIONSHIP, DRUG; DRUG-RELATED SIDE EFFECTS AND ADVERSE REACTIONS; AGE FACTORS; GENDER; and existing medical conditions.
+HN  - 2016
+FX  - Deprescriptions
+FX  - Inappropriate Prescribing
+
+MH  - Prasugrel Hydrochloride
+UI  - D000068799
+MN  - D2.886.778.315
+MN  - D3.383.606.420
+MN  - D3.383.903.315
+MS  - A piperazine derivative and PLATELET AGGREGATION INHIBITOR that is used to prevent THROMBOSIS in patients with ACUTE CORONARY SYNDROME; UNSTABLE ANGINA and MYOCARDIAL INFARCTION, as well as in those undergoing PERCUTANEOUS CORONARY INTERVENTIONS.
+HN  - 2016 (2000)
+
+MH  - Pregabalin
+UI  - D000069583
+MN  - D2.241.81.114.500.350.500
+MN  - D12.125.190.350.450
+MS  - A gamma-aminobutyric acid (GABA) derivative that functions as a CALCIUM CHANNEL BLOCKER and is used as an ANTICONVULSANT as well as an ANTI-ANXIETY AGENT. It is also used as an ANALGESIC in the treatment of NEUROPATHIC PAIN and FIBROMYALGIA.
+HN  - 2016 (1993)
+
+MH  - Prescription Drug Overuse
+UI  - D000067490
+MN  - E2.319.754.750
+MS  - The use of a medication in an amount more than as prescribed.
+HN  - 2016
+
+MH  - Presenteeism
+UI  - D000069597
+MN  - F2.784.692.586
+MN  - F4.96.628.779.450
+MS  - Reporting for work despite feeling ill.
+HN  - 2016
+
+MH  - Prisoner Dilemma
+UI  - D000068956
+MN  - E5.385.500
+MS  - A scenario in decision analysis in which two individuals motivated entirely by self-preservation at the expense of the other, end up in a worse state than if they had cooperated with each other in the decision-making process.
+HN  - 2016; use GAME THEORY 1985-2015
+BX  - Prisoner's Dilemma
+
+MH  - Problem Behavior
+UI  - D000066553
+MN  - F1.145.126.972
+MN  - F1.145.179.750
+MS  - Troublesome or disruptive behavioral displays.
+HN  - 2016
+FX  - Attention Deficit and Disruptive Behavior Disorders
+
+MH  - Professionalism
+UI  - D000068616
+MN  - K1.752.566.479.171.566
+MN  - N5.350.340.581
+MS  - The level of skill, good judgment, and polite behavior expected from people trained to do their jobs well.
+HN  - 2016
+FX  - Ethics, Medical
+FX  - Professional Competence
+
+MH  - Protein Corona
+UI  - D000066970
+MN  - D12.776.642
+MS  - A layer of protein coating adsorbed by NANOPARTICLES upon entry into PLASMA or other protein-containing biological fluids, which affects how nanoparticles are internalized by cells and cleared from the body.
+HN  - 2016
+
+MH  - Protein Translocation Systems
+UI  - D000069284
+MN  - D5.500.890
+MS  - Multiprotein complexes that carry out PROTEIN TRANSPORT across CELL MEMBRANES.
+HN  - 2016
+FX  - Membrane Transport Proteins
+
+MH  - Prunus africana
+UI  - D000068218
+MN  - B1.650.940.800.575.100.842.500.625.250
+MS  - A plant species in the family ROSACEAE. The bark extract known as pygeum is an ingredient in FOLK REMEDIES.
+HN  - 2016 (2002)
+BX  - African Prune
+BX  - Prune, African
+
+MH  - Prunus armeniaca
+UI  - D000068219
+MN  - B1.650.940.800.575.100.842.500.625.375
+MS  - A plant species in the family ROSACEAE. It is the source of apricot fruit.
+HN  - 2016; use PRUNUS 2002-2015; for APRICOT use PRUNUS 2002-2015 and ROSALES 1998-2001
+BX  - Apricot
+
+MH  - Prunus avium
+UI  - D000068220
+MN  - B1.650.940.800.575.100.842.500.625.400
+MS  - A plant species in the family ROSACEAE. It is the source of the sweet cherry fruit.
+HN  - 2016; for PRUNUS SEROTINA use PRUNUS 2002-2015
+
+MH  - Prunus domestica
+UI  - D000068242
+MN  - B1.650.940.800.575.100.842.500.625.450
+MS  - A plant species in the family ROSACEAE. It is a tree that produces fruits called plums.
+HN  - 2016; for PRUNUS CERASIFERA use PRUNUS 2002-2015; for PLUM use PRUNUS 2002-2015
+BX  - Plum
+
+MH  - Prunus dulcis
+UI  - D000068181
+MN  - B1.650.940.800.575.100.842.500.625.500
+MS  - A plant species in the family ROSACEAE, genus Prunus which produces edible seeds called almonds.
+HN  - 2016; for ALMONDS use PRUNUS 2002-2015
+
+MH  - Prunus persica
+UI  - D000068239
+MN  - B1.650.940.800.575.100.842.500.625.750
+MS  - A plant species in the family ROSACEAE. It is a tree that produces peach fruit.
+HN  - 2016; use PRUNUS 2002-2015; for PEACH use PRUNUS 2002-2015
+BX  - Peach
+
+MH  - Psychiatric Rehabilitation
+UI  - D000067250
+MN  - H2.403.680.600.875
+MN  - N2.421.784.578
+MS  - Specialty field that promotes recovery, community functioning, and increased well-being of individuals diagnosed with mental disorders that impair their ability to live meaningful lives.
+HN  - 2016
+
+MH  - Psychiatry in Literature
+UI  - D066291
+MN  - K1.517.584.500
+MS  - Written or other literary works whose subject matter is related to mental disorders or psychiatry from the lay or practitioner perspective. .
+AN  - coordinate IM with psychiatric aspect (IM) + specific literature heading (IM) + literary type if pertinent (as POETRY; DRAMA, etc.) (IM)
+HN  - 2016
+
+MH  - Psychological Trauma
+UI  - D000067073
+MN  - F3.950.750.375
+MS  - Overwhelming emotional damage caused by a distressful event or series of events.
+HN  - 2016
+FX  - Stress Disorders, Post-Traumatic
+
+MH  - Psychology, Sports
+UI  - D000067450
+MN  - F4.96.628.914
+MS  - Field of research that studies mental factors influencing the attainment of athletic skills and athletic performance.
+HN  - 2016
+FX  - Sports Medicine
+
+MH  - Public Service Announcements
+UI  - D066309
+MN  - V2.736
+MS  - Works consisting of announcements which promote programs, activities, or services of federal, state, or local governments or those of non-profit organizations and other announcements regarded as serving community interests.
+AN  - This heading is used as a Publication Type. Public Service Announcements as a subject are indexed under the heading Public Service Announcement as Topic; INDEXER: Do not use
+HN  - 2016
+
+MH  - Public Service Announcements as Topic
+UI  - D066308
+MN  - L1.143.805
+MS  - Announcements for which no charge is made and which promote programs, activities, or services of federal, state, or local governments or those of non-profit organizations and other announcements regarded as serving community interests.
+AN  - do not confuse with the Publication Type PUBLIC SERVICE ANNOUNCEMENTS
+HN  - 2015
+
+MH  - Pyroptosis
+UI  - D000069292
+MN  - G4.299.139.160.530
+MS  - Type of programmed cell death associated with infection by intracellular pathogens. It is characterized by INFLAMMASOME formation; activation of CASPASE 1; and CYTOKINES mediated inflammation.
+HN  - 2016
+FX  - Necrosis
+
+MH  - Quetiapine Fumarate
+UI  - D000069348
+MN  - D2.886.680.702.500.500
+MN  - D3.494.276.500
+MS  - A dibenzothiazepine and ANTIPSYCHOTIC AGENT that targets the SEROTONIN 5-HT2 RECEPTOR; HISTAMINE H1 RECEPTOR, adrenergic alpha1 and alpha2 receptors, as well as the DOPAMINE D1 RECEPTOR and DOPAMINE D2 RECEPTOR. It is used in the treatment of SCHIZOPHRENIA; BIPOLAR DISORDER and DEPRESSIVE DISORDER.
+HN  - 2016 (1991)
+
+MH  - Radiation Exposure
+UI  - D000069079
+MN  - G1.750.748
+MN  - N6.850.460.350.850
+MS  - Phenomenon in which organisms are subjected to radiation.
+HN  - 2016
+FX  - Environmental Pollutants
+
+MH  - Raltegravir Potassium
+UI  - D000068898
+MN  - D3.383.773.812.752
+MS  - A pyrrolidinone derivative and HIV INTEGRASE INHIBITOR that is used in combination with other ANTI-HIV AGENTS for the treatment of HIV INFECTION.
+HN  - 2016 (2006)
+
+MH  - Ranibizumab
+UI  - D000069579
+MN  - D12.776.124.486.485.114.224.60.868
+MN  - D12.776.124.790.651.114.224.60.868
+MN  - D12.776.377.715.548.114.224.200.868
+MS  - A recombinant humanized monoclonal antibody fragment that binds VEGF-A to prevent its binding to VEGFR-1 and VEGFR-2 receptors. This activity reduces vessel permeability and angiogenesis in the treatment of neovascular age-related MACULAR DEGENERATION.
+HN  - 2016 (2005)
+
+MH  - Ranolazine
+UI  - D000069458
+MN  - D2.65.199.92.850
+MN  - D3.383.606.841
+MS  - An acetanilide and piperazine derivative that functions as a SODIUM CHANNEL BLOCKER and prevents the release of enzymes during MYOCARDIAL ISCHEMIA. It is used in the treatment of ANGINA PECTORIS.
+HN  - 2016 (1988)
+
+MH  - RAW 264.7 Cells
+UI  - D000067996
+MN  - A11.251.210.172.875
+MN  - A11.733.397.815
+MS  - A transformed macrophage cell line isolated from ASCITES of mice infected with ABELSON MURINE LEUKEMIA VIRUS.
+AN  - almost always NIM with no subheadings; check ANIMALS and MICE
+HN  - 2016
+
+MH  - Re-Irradiation
+UI  - D000069475
+MN  - E2.815.791
+MN  - E2.887.500
+MS  - Treatment in which a repeat course of RADIOTHERAPY is administered.
+HN  - 2016
+
+MH  - Red Meat
+UI  - D000069466
+MN  - G7.203.300.600.813
+MN  - J2.500.600.813
+MS  - Meat such as beef, pork, or lamb which contains more MYOGLOBIN than POULTRY or SEAFOOD.
+HN  - 2016
+
+MH  - Refugium
+UI  - D000068236
+MN  - G16.500.275.683
+MN  - G16.500.819
+MS  - Area in an environment in which a population of organisms can survive through a period of unfavorable conditions.
+HN  - 2016
+
+MH  - Rehabilitation Research
+UI  - D000066768
+MN  - H1.770.644.145.472
+MS  - Studies and research concerning the psychological, educational, social, vocational, industrial, and economic aspects of REHABILITATION.
+HN  - 2016
+FX  - Disabled Persons
+
+MH  - Return to Sport
+UI  - D000068958
+MN  - I3.450.642.845.605
+MS  - Resumption of sporting activity following a hiatus or period of absence due to injury or other reasons.
+HN  - 2016
+
+MH  - Rilpivirine
+UI  - D000068696
+MN  - D2.626.809
+MN  - D3.383.742.755
+MS  - A diarylpyrimidine derivative and REVERSE TRANSCRIPTASE INHIBITOR with antiviral activity against HIV-1 that is used in the treatment of HIV INFECTIONS. It is also used in combination with other ANTI-HIV AGENTS, since ANTIVIRAL DRUG RESISTANCE emerges rapidly when it is used alone.
+HN  - 2016 (2005)
+
+MH  - Risedronate Sodium
+UI  - D000068296
+MN  - D2.705.429.500.830.500
+MS  - An aminobisphosphonate derivative of etidronic acid and CALCIUM CHANNEL BLOCKER that inhibits BONE RESORPTION and is used for the treatment of OSTEOPOROSIS.
+HN  - 2016 (2014)
+
+MH  - Rituximab
+UI  - D000069283
+MN  - D12.776.124.486.485.114.224.75.785
+MN  - D12.776.124.790.651.114.224.75.785
+MN  - D12.776.377.715.548.114.224.284.785
+MS  - A murine-derived monoclonal antibody and ANTINEOPLASTIC AGENT that binds specifically to the CD20 ANTIGEN and is used in the treatment of LEUKEMIA; LYMPHOMA and RHEUMATOID ARTHRITIS.
+HN  - 2016 (1995)
+
+MH  - Rivaroxaban
+UI  - D000069552
+MN  - D2.886.778.727
+MN  - D3.383.533.640.713
+MN  - D3.383.903.727
+MS  - A morpholine and thiophene derivative that functions as a FACTOR XA INHIBITOR and is used in the treatment and prevention of DEEP-VEIN THROMBOSIS and PULMONARY EMBOLISM.  It is also used for the prevention of STROKE and systemic embolization in patients with non-valvular ATRIAL FIBRILLATION, and for the prevention of atherothrombotic events in patients after an ACUTE CORONARY SYNDROME.
+HN  - 2016 (2005)
+
+MH  - Rivastigmine
+UI  - D000068836
+MN  - D2.241.81.251.583.899
+MS  - A carbamate-derived reversible CHOLINESTERASE INHIBITOR that is selective for the CENTRAL NERVOUS SYSTEM and is used for the treatment of DEMENTIA in ALZHEIMER DISEASE and PARKINSON DISEASE.
+HN  - 2016 (1992)
+
+MH  - RNA Recognition Motif (RRM) Proteins
+UI  - D000067776
+MN  - D12.776.157.725.813
+MN  - D12.776.664.962.813
+MS  - A family of RNA-BINDING PROTEINS which contain a motif consisting of two ribonucleoprotein (RNP) domains that bind RNA, and other domains that allow for high affinity binding, sequence specificity, and protein interactions. Examples of RRM proteins include HETEROGENEOUS NUCLEAR RIBONUCLEARPROTEINS (hnRNP) and EMBRYONIC LETHAL ABNORMAL-VISION (ELAV) proteins.
+HN  - 2016
+
+MH  - RNAi Therapeutics
+UI  - D000067492
+MN  - E2.95.301.250
+MS  - A form of disease treatment which involves the silencing of genes that are associated with a disease by the process of RNA INTERFERENCE.
+HN  - 2016
+FX  - Gene Expression Regulation
+
+MH  - Romanticism
+UI  - D066288
+MN  - K1.883
+MS  - The attitude or intellectual orientation that characterized many works of literature, painting, music, architecture, criticism, and historiography in Western civilization over a period from the late 18th to the mid-19th century.
+HN  - 2016
+
+MH  - Rosuvastatin Calcium
+UI  - D000068718
+MN  - D2.65.884.650
+MN  - D2.455.526.510.432.500
+MN  - D2.886.590.700.650
+MN  - D3.383.742.775
+MS  - A HYDROXYMETHYLGLUTARYL-COA-REDUCTASE INHIBITOR, or statin, that reduces the plasma concentrations of LDL-CHOLESTEROL; APOLIPOPROTEIN B, and TRIGLYCERIDES while increasing HDL-CHOLESTEROL levels in patients with HYPERCHOLESTEROLEMIA and those at risk for CARDIOVASCULAR DISEASES.
+HN  - 2016 (2001)
+FX  - Simvastatin
+
+MH  - Round Ligament of Femur
+UI  - D000069593
+MN  - A2.513.514.800
+MN  - A2.513.901.500
+MN  - A2.835.583.411.500
+MN  - A2.835.583.512.950
+MS  - Ligament that connects the fovea of the FEMUR HEAD and the ACETABULUM notch in the HIP JOINT.
+
+MH  - Round Ligament of Liver
+UI  - D000069592
+MN  - A2.513.901.750
+MN  - A3.620.575
+MS  - A cord-like remnant structure formed from the closed left fetal UMBILICAL VEIN. It is located along the lower edge of the falciform ligament.
+
+MH  - Round Ligaments
+UI  - D000069590
+MN  - A2.513.901
+MS  - Cord-like fibrous tissue structure that connects two articular extremities of bones, ligaments and /or cartilages.
+HN  - 2016
+BX  - Round Ligament
+
+MH  - S100A12 Protein
+UI  - D000067616
+MN  - D12.644.276.87.901
+MN  - D12.776.157.125.750.875
+MN  - D12.776.467.87.937
+MN  - D23.529.87.943
+MS  - A member of the S100 PROTEIN FAMILY that regulates INFLAMMATION and the immune response. It recruits LEUKOCYTES, promotes cytokine and chemokine production, and regulates leukocyte adhesion and migration. S100A12 can also function via binding to ADVANCED GLYCOSYLATION END PRODUCT-SPECIFIC RECEPTORS, to stimulate innate immune cells.
+HN  - 2016 (1994)
+
+MH  - Saline Waters
+UI  - D000068357
+MN  - G16.500.275.725
+MS  - Water from natural sources which contain significant concentrations of dissolved salts such as sodium chloride.
+HN  - 2016
+FX  - Hypertonic Solutions
+
+MH  - Salmeterol Xinafoate
+UI  - D000068299
+MN  - D2.33.100.291.57.750
+MN  - D2.92.63.291.57.750
+MN  - D2.92.471.683.61.750
+MS  - A selective ADRENERGIC BETA-2 RECEPTOR agonist that functions as a BRONCHODILATOR when administered by inhalation. It is used to manage the symptoms of ASTHMA and CHRONIC OBSTRUCTIVE PULMONARY DISEASE.
+HN  - 2016 (1989)
+
+MH  - Seed Bank
+UI  - D000068098
+MN  - N2.278.65.650
+MS  - A repository of seeds maintained under optimal conditions that ensure long term storage, intended for use as a source of replenishment of seed stock or plant genetic material.
+HN  - 2016
+
+MH  - Selective Breeding
+UI  - D000068618
+MN  - E5.820.150.760
+MN  - G5.355.90.701
+MS  - A process in which offspring possessing desired genetic traits are produced.
+HN  - 2016
+FX  - Eugenics
+FX  - Reproductive Techniques
+
+MH  - Self Expandable Metallic Stents
+UI  - D000069322
+MN  - E7.695.750.750
+MS  - Cylindrical metallic tubes that are inserted to hold open a structure in order to treat vascular, bile duct, esophageal and other tubular organ constrictions.
+HN  - 2016
+
+MH  - Self-Control
+UI  - D000068356
+MN  - F1.145.813.595
+MS  - An individual's ability to manage and monitor their emotions, behaviors, and desires in the face of external demands in order to function in society.
+HN  - 2016; for SELF REGULATION use SOCIAL CONTROL, INFORMAL 1997-2015
+FX  - Temperance
+
+MH  - Serine-Arginine Splicing Factors
+UI  - D000068103
+MN  - D12.776.157.725.844
+MN  - D12.776.664.962.844
+MS  - A family of splicing regulatory factors essential for constitutive and alternative splicing in RNA metabolism.
+HN  - 2016 (1995)
+
+MH  - Seroconversion
+UI  - D000069078
+MN  - G12.425.900
+MS  - The appearance of antibodies against causative agents in the blood of individuals during the course of an infection or following immunization.
+HN  - 2016
+FX  - Immune System Phenomena
+
+MH  - Serotonin and Noradrenaline Reuptake Inhibitors
+UI  - D000068760
+MN  - D27.505.519.562.437.693
+MN  - D27.505.519.625.600.693
+MN  - D27.505.696.577.600.693
+MS  - Drugs that selectively block or suppress the plasma membrane transport of SEROTONIN and NORADRENALINE into axon terminals and are used as ANTIDEPRESSIVE AGENTS.
+HN  - 2016
+
+MH  - Sevelamer
+UI  - D000069603
+MN  - D2.92.782.634
+MS  - A polymeric amine that binds phosphate and is used to treat HYPERPHOSPHATEMIA in patients with kidney disease.
+HN  - 2016 (2000)
+
+MH  - Severe Acute Malnutrition
+UI  - D000067011
+MN  - C18.654.521.719
+MS  - Acute form of MALNUTRITION which usually affects children, characterized by a very low weight for height (below -3z scores of the median World Health Organization standards), visible severe wasting, or occurrence of nutritional EDEMA.  It can be a direct or indirect cause of fatality in children suffering from DIARRHEA and PNEUMONIA. Do not confuse with starvation, a condition in which the body is not getting enough food, usually for extended periods of time.
+HN  - 2016
+
+MH  - Shellfish Hypersensitivity
+UI  - D000067208
+MN  - C20.543.480.370.763
+MS  - Allergic reaction to SHELLFISH or shellfish products.
+HN  - 2016
+FX  - Shellfish Poisoning
+
+MH  - Sildenafil Citrate
+UI  - D000068677
+MN  - D2.65.884.675
+MN  - D2.886.590.700.675
+MN  - D3.383.606.854
+MN  - D3.438.759.824
+MS  - A PHOSPHODIESTERASE TYPE-5 INHIBITOR; VASODILATOR AGENT and UROLOGICAL AGENT  that is used in the treatment of ERECTILE DYSFUNCTION and PRIMARY PULMONARY HYPERTENSION.
+HN  - 2016 (1997)
+FX  - Tadalafil
+
+MH  - Silent Mutation
+UI  - D000069456
+MN  - G5.365.590.803
+MS  - A change to a DNA SEQUENCE that doesn't change the AMINO ACID SEQUENCE of the protein made.
+HN  - 2016
+
+MH  - Simeprevir
+UI  - D000069616
+MN  - D2.886.590.700.700
+MN  - D3.494.819
+MS  - Oral HCV-PROTEASE INHIBITOR effective against hepatitis C virus (HCV) serine protease NS3/4A. It is used in the treatment of chronic hepatitis C (Antivirals) genotype 1 infection in adults with compensated liver disease, including CIRRHOSIS.
+HN  - 2016 (2008)
+
+MH  - Simulation Training
+UI  - D000066908
+MN  - I2.903.847
+MS  - A highly customized interactive medium or program that allows individuals to learn and practice real world activities in an accurate, realistic, safe and secure environment.
+HN  - 2016
+
+MH  - Sitagliptin Phosphate
+UI  - D000068900
+MN  - D3.383.129.799.725
+MN  - D3.383.679.875
+MS  - A pyrazine-derived DIPEPTIDYL-PEPTIDASE IV INHIBITOR and HYPOGLYCEMIC AGENT that increases the levels of the INCRETIN hormones GLUCAGON-LIKE PEPTIDE-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP). It is used in the treatment of TYPE 2 DIABETES.
+HN  - 2016 (2005)
+FX  - Linagliptin
+
+MH  - Sitagliptin Phosphate, Metformin Hydrochloride Drug Combination
+UI  - D000068899
+MN  - D2.78.370.141.450.500
+MN  - D3.383.129.799.725.500
+MN  - D3.383.679.875.500
+MN  - D26.310.750
+MS  - A pharmaceutical preparation of sitagliptin phosphate and metformin hydrochloride that is used in the treatment of TYPE 2 DIABETES.
+HN  - 2016 (2008)
+
+MH  - Sleep Aids, Pharmaceutical
+UI  - D000068776
+MN  - D27.505.954.842
+MS  - Drugs used to induce SLEEP, prevent SLEEPLESSNESS, or treat SLEEP INITIATION AND MAINTENANCE DISORDERS.
+HN  - 2016
+
+MH  - Smartphone
+UI  - D000068997
+MN  - L1.178.847.698.300.250
+MN  - L1.224.230.260.550.500.500
+MS  - A cellular phone with advanced computing and connectivity capability built on an operating system.
+HN  - 2016; use CELL PHONES 2015
+FX  - Computers, Handheld
+
+MH  - Social Communication Disorder
+UI  - D000067404
+MN  - F3.625.374.250
+MS  - Persistent difficulties in the social uses of verbal and nonverbal communications. (DSM-V)
+HN  - 2016
+
+MH  - Social Learning
+UI  - D000067570
+MN  - F2.784.629.529.663
+MS  - The concept of new knowledge acquisition through observation and interaction with others.
+HN  - 2016
+FX  - Socialization
+
+MH  - Social Workers
+UI  - D000068217
+MN  - M1.526.919
+MS  - Professionals who work with persons affected by social disadvantages such as POVERTY; mental and physical illness or disability, and social injustice.  Their focus is on both the individual and his or her environment, including violations of their civil liberties and human rights.
+HN  - 2016 (1976); use SOCIAL WORK 1976-2015
+
+MH  - Sofosbuvir
+UI  - D000069474
+MN  - D3.383.742.686.850.877.500
+MN  - D13.695.740.850.877.500
+MN  - D13.695.827.919.877.500
+MS  - A uridine monophosphate analog inhibitor of HEPATITIS C VIRUS (HCV) polymerase NS5B that is used as an ANTIVIRAL AGENT in the treatment of CHRONIC HEPATITIS C.
+HN  - 2016 (2010)
+
+MH  - Solifenacin Succinate
+UI  - D000069464
+MN  - D3.438.531.820.594
+MN  - D3.605.687.900
+MS  - A quinuclidine and tetrahydroisoquinoline derivative and selective M3 MUSCARINIC ANTAGONIST. It is used as a UROLOGIC AGENT in the treatment of URINARY INCONTINENCE.
+HN  - 2016 (2001)
+
+MH  - South Sudan
+UI  - D000068037
+MN  - Z1.58.290.120.745
+MS  - A nation located in East-Central Africa; south of Sudan, north of Uganda and Kenya, west of Ethiopia. Independence from SUDAN was attained on 9 July 2011. The capital is Juba. (from CIA. World Factbook, 2014.)
+HN  - 2016
+
+MH  - Spatial Regression
+UI  - D000068916
+MN  - E5.318.740.750.862
+MN  - E5.318.740.933.375
+MN  - N5.715.360.750.695.825
+MN  - N5.715.360.750.746.375
+MN  - N6.850.520.830.750.862
+MN  - N6.850.520.830.933.375
+MS  - Methods used to take into account and incorporate spatial autocorrelation and regional variation into regression analysis models of data that has spatial dependency, and also to provide information on the spatial relationships among the variables.
+HN  - 2016
+
+MH  - Specific Learning Disorder
+UI  - D000067559
+MN  - F3.625.562.700
+MS  - Diagnosed when there are specific deficits in an individual’s ability to perceive or process information efficiently and accurately. This  disorder first manifests during the years of formal schooling and is characterized by persistent and impairing difficulties with learning foundational academic skills in reading, writing, and/or math. The individual’s performance of the affected academic skills is well below average for age, or acceptable performance levels are achieved only with extraordinary effort. Specific learning disorder may occur in individuals identified as intellectually gifted and manifest only when the learning demands or assessment procedures (e.g., timed tests) pose barriers that cannot be overcome by their innate intelligence and compensatory strategies. For all individuals, specific learning disorder can produce lifelong impairments in activities dependent on the skills, including occupational performance. (from DSM-V)
+HN  - 2016
+
+MH  - Speech Sound Disorder
+UI  - D066229
+MN  - F3.625.374.500
+MS  - Persistent difficulty with speech sound production such that it interferes with  verbal communication.
+HN  - 2015
+
+MH  - Spirit Possession
+UI  - D000067496
+MN  - K1.844.619.500
+MS  - The idea that abnormal behavior or a medical condition is evidence that a person is under the control of a supernatural power or spirit. This belief was most commonly held in religion and medicine of the medieval period and is also held in many tribal cultures today.
+HN  - 2016
+FX  - Parapsychology
+FX  - Superstitions
+
+MH  - Superficial Musculoaponeurotic System
+UI  - D000069259
+MN  - A1.456.505.875
+MN  - A1.598.500
+MS  - Layer between the superficial fat compartment and superficial facial muscles in the head and the neck.
+HN  - 2016
+FX  - Rhytidoplasty
+
+MH  - Supervised Machine Learning
+UI  - D000069553
+MN  - G17.35.250.500.500
+MN  - L1.224.50.375.530.500
+MS  - A MACHINE LEARNING paradigm used to make predictions about future instances based on a given set of labeled paired input-output training (sample) data.
+HN  - 2016
+FX  - Unsupervised Machine Learning
+
+MH  - Surgical Clearance
+UI  - D000068436
+MN  - E1.370.505
+MS  - Process of evaluating the health of a patient and determining if they are healthy enough for surgery.
+HN  - 2016
+FX  - Physical Examination
+
+MH  - Symptom Flare Up
+UI  - D000067251
+MN  - C23.550.291.937.500
+MS  - A transient exacerbation of symptoms of an existing disease or condition.
+HN  - 2016
+
+MH  - Tadalafil
+UI  - D000068581
+MN  - D3.383.725.150.500
+MN  - D3.438.473.155.500
+MN  - D3.494.154.672
+MS  - A carboline derivative and PHOSPHODIESTERASE 5 INHIBITOR that is used primarily to treat ERECTILE DYSFUNCTION; BENIGN PROSTATIC HYPERPLASIA and PRIMARY PULMONARY HYPERTENSION.
+HN  - 2016 (2001)
+FX  - Sildenafil Citrate
+
+MH  - Teas, Herbal
+UI  - D000069459
+MN  - D20.215.784.937
+MN  - G7.203.100.950
+MN  - J2.200.950
+MS  - Beverages prepared from an infusion of plant tissues.
+HN  - 2016; use BEVERAGES 1986-2015
+BX  - Herbal Teas
+
+MH  - Teas, Medicinal
+UI  - D000069460
+MN  - G7.203.100.975
+MN  - J2.200.975
+MS  - Beverages used in TRADITIONAL MEDICINE that are prepared from the infusion of plant tissue (HERBAL TEA), and/or animal tissue or other organisms such as FUNGI.
+HN  - 2016; use BEVERAGES 1986-2015
+
+MH  - Telerehabilitation
+UI  - D000069350
+MN  - E2.831.891
+MN  - H2.403.680.600.937
+MN  - H2.403.840.850
+MN  - L1.178.847.652.850
+MN  - N2.421.784.840
+MN  - N4.590.374.800.850
+MS  - Delivery of therapeutic rehabilitation at a distance or offsite using telecommunication technologies.
+HN  - 2016
+
+MH  - Telocytes
+UI  - D000067170
+MN  - A11.329.830.750
+MS  - A type of interstitial cells that have very long and thin CELL SURFACE EXTENSIONS called TELOPODES.
+HN  - 2016; for INTERSTITIAL CELL OF CAJAL-LIKE CELLS use INTERSTITIAL CELLS OF CAJAL 2010-2015
+FX  - Interstitial Cells of Cajal
+
+MH  - Telopodes
+UI  - D000067617
+MN  - A11.284.180.900
+MN  - A11.329.830.750.500
+MS  - The very long and thin extensions of telocytes' cell surface, that have alternating thick and thin sections called podoms and podomers.
+HN  - 2016
+
+MH  - Tenofovir
+UI  - D000068698
+MN  - D2.705.429.906
+MN  - D3.438.759.138.881
+MS  - An adenine analog REVERSE TRANSCRIPTASE INHIBITOR with antiviral activity against HIV-1 and HEPATITIS B. It is used to treat HIV INFECTIONS and CHRONIC HEPATITIS B, in combination with other ANTIVIRAL AGENTS, due to the emergence of ANTIVIRAL DRUG RESISTANCE when it is used alone.
+HN  - 2016 (2001)
+
+MH  - Theranostic Nanomedicine
+UI  - D000068936
+MN  - E1.894
+MN  - E2.921
+MN  - H1.603.600.500
+MN  - H2.403.845
+MN  - J1.897.520.600.600.500
+MS  - An integrated nano-scale approach to MEDICINE which involves concurrent diagnosis, drug delivery, therapy, and monitoring of therapeutic response.
+HN  - 2016
+
+MH  - Thoracentesis
+UI  - D000069258
+MN  - E1.370.225.998.329.810
+MN  - E2.800.550.810
+MN  - E4.665.600.810
+MN  - E5.200.998.329.810
+MS  - Aspiration of fluid or air from the THORACIC CAVITY. It is coupled sometimes  with the administration of drugs into the PLEURAL CAVITY.
+HN  - 2016
+FX  - Pleural Effusion
+FX  - Pneumothorax
+
+MH  - Time Out, Healthcare
+UI  - D000067494
+MN  - N4.761.700.635
+MN  - N5.700.739
+MS  - A period of time away from normal workflow taken to ensure key procedural details have been reviewed for better PATIENT SAFETY and help prevent MEDICAL ERRORS.
+HN  - 2016
+
+MH  - Tiotropium Bromide
+UI  - D000069447
+MN  - D2.145.74.722.822.887
+MN  - D3.132.889.601.887
+MN  - D3.605.869.822.887
+MN  - D4.75.80.875.99.722.822.887
+MS  - A scopolamine derivative and CHOLINERGIC ANTAGONIST that functions as a BRONCHODILATOR AGENT. It is used in the treatment of CHRONIC OBSTRUCTIVE PULMONARY DISEASE.
+HN  - 2016 (1993)
+
+MH  - Tolterodine Tartrate
+UI  - D000068737
+MN  - D2.33.100.624.706.750
+MN  - D2.33.755.624.706.750
+MN  - D2.92.63.624.706.800
+MN  - D2.455.426.559.389.115.900
+MN  - D2.455.426.559.389.657.239.756
+MS  - An ANTIMUSCARINIC AGENT selective for the MUSCARINIC RECEPTORS of the BLADDER that is used in the treatment of URINARY INCONTINENCE and URINARY URGE INCONTINENCE.
+HN  - 2016 (1996)
+
+MH  - Toxicological Phenomena
+UI  - D000069436
+MN  - G7.690.936
+MS  - The nature and effects of chemical, physical or biological poisons on living organisms.
+AN  - general or unspecified; prefer specifics
+HN  - 2016
+
+MH  - Trachelectomy
+UI  - D000069339
+MN  - E4.950.300.399.690
+MS  - Surgical removal or resection of the CERVIX UTERI.
+HN  - 2016
+
+MH  - Transanal Endoscopic Microsurgery
+UI  - D000067369
+MN  - E1.370.388.250.630.500.500
+MN  - E4.210.240.250.680.500.500
+MN  - E4.494.787
+MN  - E4.502.250.250.250.680.500.500
+MN  - E4.502.250.630.500.500
+MS  - A specialized form of transanal endoscopic surgery for microscopically controlled operations in the RECTUM.
+HN  - 2016
+
+MH  - Transanal Endoscopic Surgery
+UI  - D000067368
+MN  - E1.370.388.250.630.500
+MN  - E4.210.240.250.680.500
+MN  - E4.502.250.250.250.680.500
+MN  - E4.502.250.630.500
+MS  - Surgical procedures performed through the anus using a PROCTOSCOPE.
+HN  - 2016
+
+MH  - Transitional Care
+UI  - D000069341
+MN  - E2.204.812
+MN  - E2.760.940
+MN  - N2.421.192.812
+MN  - N2.421.585.940
+MN  - N4.590.233.727.210.812
+MS  - Health care provided during a transition to a different mode of care (e.g., TRANSITION TO ADULT CARE).
+HN  - 2016
+
+MH  - Trastuzumab
+UI  - D000068878
+MN  - D12.776.124.486.485.114.224.60.875
+MN  - D12.776.124.790.651.114.224.60.875
+MN  - D12.776.377.715.548.114.224.200.875
+MS  - A humanized monoclonal antibody against the ERBB-2 RECEPTOR (HER2). As an ANTINEOPLASTIC AGENT, it is used to treat BREAST CANCER where HER2 is overexpressed.
+HN  - 2016 (1998)
+
+MH  - Trauma and Stressor Related Disorders
+UI  - D000068099
+MN  - F3.950
+MS  - Disorders in which exposure to a traumatic or stressful event is explicitly a diagnostic criterion.
+HN  - 2016
+
+MH  - Travoprost
+UI  - D000069557
+MN  - D10.251.355.255.550.775.500.175.500
+MN  - D23.469.50.175.725.775.500.175.500
+MN  - D23.469.700.670.175.500
+MS  - A cloprostenol derivative that is used as an ANTIHYPERTENSIVE AGENT in the treatment of OPEN-ANGLE GLAUCOMA and OCULAR HYPERTENSION.
+HN  - 2016 (2001)
+
+MH  - Triticale
+UI  - D000066889
+MN  - B1.650.940.800.575.100.822.906
+MS  - A CEREAL GRAIN plant resulting from a cross between TRITICUM and SECALE CEREALE.
+HN  - 2016; use EDIBLE GRAIN 1998-2015
+
+MH  - Twin-Arginine-Translocation System
+UI  - D000069294
+MN  - D5.500.890.750
+MS  - Protein translocase in BACTERIA or CHLOROPLASTS that exports or secretes folded proteins. In GRAM-NEGATIVE BACTERIA, twin-arginine translocase (TAT) is involved in the export of folded proteins to the PERIPLASM. In chloroplasts, TAT is involved in transporting folded proteins across the membranes of THYLAKOIDS.
+HN  - 2016
+
+MH  - Tympanocentesis
+UI  - D000069356
+MN  - E1.370.225.998.329.905
+MN  - E2.800.550.905
+MN  - E4.665.600.905
+MN  - E5.200.998.329.905
+MS  - Needle aspiration of fluid from the MIDDLE EAR through a puncture in the TYMPANIC MEMBRANE.
+FX  - Middle Ear Ventilation
+FX  - Otitis Media
+
+MH  - Type I Secretion Systems
+UI  - D000069177
+MN  - D5.500.890.500.500
+MS  - Gram-negative bacterial secretion systems which translocate effectors in a single step across the inner and outer membranes. The one-step secretion is carried out by a channel that passes from the CYTOPLASM, through the inner membrane, PERIPLASMIC SPACE, and outer membrane, to the EXTRACELLULAR SPACE. The specificity of type I secretions systems are determined by the specificity of the three subcomponents forming the channel - an ATP transporter (ATP-BINDING CASSETTE TRANSPORTERS); a membrane fusion protein (MEMBRANE FUSION PROTEINS); and an outer membrane protein (BACTERIAL OUTER MEMBRANE PROTEINS.)
+HN  - 2016
+
+MH  - Type II Secretion Systems
+UI  - D000069178
+MN  - D5.500.890.500.750
+MS  - Gram-negative bacterial secretion systems which carry out the secretion of folded proteins.T2SSs secrete folded proteins from the PERIPLASMIC SPACE that have been exported there by SEC TRANSLOCASE or TAT SECRETION SYSTEMS, or they secrete folded proteins directly from the CYTOPLASM. The T2SSs have four substructures, an ATPase, an inner membrane platform, a pseudopilin, and secretin, an outer membrane complex which is a channel for secretion. (This bacterial secretin is not the same as the mammalian hormone also named SECRETIN.)
+HN  - 2016
+
+MH  - Type III Secretion Systems
+UI  - D000069296
+MN  - D5.500.890.500.875
+MS  - Multiprotein transmembrane complexes in GRAM-NEGATIVE BACTERIA involved in either the secretion of effector proteins from the bacterial cytoplasm into host cells, or the secretion and assembly of flagellar components. The major component of the T3SSs is called the injectosome or needle complex.
+HN  - 2016
+
+MH  - Type IV Secretion Systems
+UI  - D000069319
+MN  - D5.500.890.500.937
+MS  - Multiprotein complexes that transport single proteins, multiprotein complexes, and nucleoprotein complexes from the CYTOPLASM into the EXTRACELLULAR SPACE or into recipient cells. T4SSs are found in GRAM-NEGATIVE BACTERIA, while homologous components to T4SSs are found in GRAM-POSTIVE BACTERIA.
+HN  - 2016
+
+MH  - Type V Secretion Systems
+UI  - D000069320
+MN  - D5.500.890.500.968
+MS  - Secretion systems of GRAM-NEGATIVE BACTERIA (single membrane proteins or multiprotein complexes) that carry out secretion of proteins from the PERIPLASMIC SPACE to the EXTRACELLULAR SPACE via a beta-barrel transmembrane pore. There are several T5SS subtypes: T5aSS monomeric autotransporters, T5bSS two-partner secretions systems (TPSS), T5cSS trimeric autotransporters, T5dSS fused two-partner secretion systems, and T5eSS autotransporters with inverted domains.
+HN  - 2016
+
+MH  - Type VI Secretion Systems
+UI  - D000069376
+MN  - D5.500.890.500.984
+MS  - Multiprotein complexes in GRAM NEGATIVE BACTERIA that deliver effector proteins into eukaryotic or prokaryotic cells by a mechanism similar to the contractile tail of bacteriophages. They are composed of a cell envelope-spanning tube which is surrounded by a contractile sheath and tipped by a cell puncturing complex; a base plate structure that anchors the assembly to the cell envelope; and an ATPase involved in the sheath contraction and disassembly of the complex.
+HN  - 2016
+
+MH  - Type VII Secretion Systems
+UI  - D000069377
+MN  - D5.500.890.500.992
+MS  - Bacterial secretion systems found in bacteria that have a MYCOLIC ACID-containing outer membrane such as MYCOBACTERIACEAE; Corynebacteriaceae; and NOCARDIACEAE. These are also known as ESX secretion systems because the first to be discovered is involved in secreting major virulence factors EsxA and EsxB. There are several subtypes of T7SSs including ESX-1, ESX-2, ESX-3, ESX-4, and ESX-5 secretion systems. The subtypes share some core components including an inner membrane channel-forming ATPase complex, a membrane-anchored mycosin, and a second channel that spans the outer mycolic acid-containing membrane.
+HN  - 2016
+
+MH  - Ultrasonic Waves
+UI  - D000069453
+MN  - G1.750.770.776.891
+MS  - Oscillating sound wave with a frequency higher than the upper limit of the human hearing range.
+HN  - 2016; for ULTRASOUND RADIATION use SOUND 2012-2015
+FX  - Ultrasonics
+
+MH  - Underage Drinking
+UI  - D000066608
+MN  - F1.145.22.750
+MN  - F1.145.317.269.875
+MN  - I1.880.735.878
+MS  - Consumption of ALCOHOLIC BEVERAGES by persons under the legal drinking age.
+HN  - 2016
+FX  - Alcohol Drinking in College
+
+MH  - Undocumented Immigrants
+UI  - D000069756
+MN  - M1.189.500
+MS  - Foreign nationals residing in a country without legal immigration status, or in violation of the immigration laws of that country.
+HN  - 2016
+
+MH  - Unilateral Breast Neoplasms
+UI  - D000069584
+MN  - C4.588.180.682
+MN  - C17.800.90.500.682
+MS  - Tumors or cancer found specifically in one human BREAST, but not in both.
+AN  - human only; coordinate IM with histological type of neoplasm (IM)
+HN  - 2016
+
+MH  - Unsupervised Machine Learning
+UI  - D000069558
+MN  - G17.35.250.500.750
+MN  - L1.224.50.375.530.750
+MS  - A MACHINE LEARNING paradigm used to make predictions about future instances based on a given set of unlabeled paired input-output training (sample) data.
+HN  - 2016
+FX  - Supervised Machine Learning
+
+MH  - Ustekinumab
+UI  - D000069549
+MN  - D12.776.124.486.485.114.224.60.937
+MN  - D12.776.124.790.651.114.224.60.937
+MN  - D12.776.377.715.548.114.224.200.937
+MS  - A humanized monoclonal antibody that binds to IL-12 and IL-23 and is used as a DERMATOLOGIC AGENT in the treatment of patients with plaque PSORIASIS who have not responded to other therapies.
+HN  - 2016 (2005)
+
+MH  - Valsartan
+UI  - D000068756
+MN  - D3.383.129.617.850
+MN  - D12.125.70.950.550
+MN  - D12.125.142.930.500
+MS  - A tetrazole derivative and ANGIOTENSIN II TYPE 1 RECEPTOR BLOCKER that is used to treat HYPERTENSION.
+HN  - 2016 (1993)
+FX  - Losartan
+
+MH  - Vardenafil Dihydrochloride
+UI  - D000069058
+MN  - D3.383.129.308.980
+MN  - D3.383.606.960
+MS  - A piperazine derivative, PHOSPHODIESTERASE 5 INHIBITOR and VASODILATOR AGENT that is used as a UROLOGICAL AGENT in the treatment of ERECTILE DYSFUNCTION.
+HN  - 2016 (2001)
+
+MH  - Varenicline
+UI  - D000068580
+MN  - D3.438.79.900
+MN  - D3.438.857.942
+MS  - A benzazepine derivative that functions as an ALPHA4/BETA2 NICOTINIC RECEPTOR partial agonist. It is used for SMOKING CESSATION.
+HN  - 2016 (2005)
+FX  - Tobacco Use Cessation Products
+
+MH  - Vegans
+UI  - D000066989
+MN  - M1.928.500
+MS  - Persons who avoid consuming animal products or animal-derived substances, such as MEAT; EGGS; or HONEY.  Some vegans also refrain from using animals or animal products in any form or for any purpose, such as in CLOTHING or household goods.
+HN  - 2016
+FX  - Diet, Vegan
+
+MH  - Vegetable Products
+UI  - D000067075
+MN  - G7.203.300.850.450
+MN  - J2.500.850.800
+MS  - Food that is manufactured from various parts of vegetables.
+HN  - 2016
+
+MH  - Vegetarians
+UI  - D000066988
+MN  - M1.928
+MS  - Persons who do not eat MEAT.
+HN  - 2016
+FX  - Diet, Vegetarian
+
+MH  - Venlafaxine Hydrochloride
+UI  - D000069470
+MN  - D2.33.415.510.500.901
+MN  - D2.92.471.683.948
+MN  - D2.455.426.392.368.367.318.750
+MN  - D10.289.510.500.901
+MS  - A cyclohexanol and phenylethylamine derivative that functions as a SEROTONIN AND NORADRENALINE REUPTAKE INHIBITOR (SNRI) and is used as an ANTIDEPRESSIVE AGENT.
+HN  - 2016 (1986)
+
+MH  - Vilazodone Hydrochloride
+UI  - D000069503
+MN  - D3.383.606.980
+MN  - D3.438.127.818
+MN  - D3.438.473.957
+MS  - A benzofuran, indole, and piperazine derivative that functions as a SEROTONIN UPTAKE INHIBITOR and partial SEROTONIN 5-HT1 RECEPTOR AGONIST. It is used as an ANTIDEPRESSIVE AGENT.
+HN  - 2016 (2004)
+
+MH  - War Exposure
+UI  - D000067453
+MN  - I1.880.735.950.500.951
+MN  - N6.850.460.350.600.903
+MS  - The health and other ramifications of military and civilian exposure to WAR .
+FX  - Veterans Health
+
+MH  - War-Related Injuries
+UI  - D000067398
+MN  - C26.946
+MN  - I1.880.735.950.500.951.500
+MN  - N6.850.460.350.600.903.500
+MS  - WOUNDS and INJURIES and PSYCHOLOGICAL TRAUMA sustained during WAR.
+HN  - 2016
+FX  - Stress Disorders, Post-Traumatic
+
+MH  - Warfare and Armed Conflicts
+UI  - D000068336
+MN  - I1.880.735.950
+MS  - Engaging in any type of conflict including war or military conflict against another nation or organized group..
+AN  - used for searching; INDEXER: Do not use; CATALOGER: Do not use
+HN  - 2016
+
+MH  - Waterborne Diseases
+UI  - D000069578
+MN  - C1.539.221.750
+MS  - Illnesses due to micro-organisms and chemicals in drinking water, those caused by organisms having part of their lifecycle in water or those with water-related vectors, and others spread by aerosols containing pathogens.
+HN  - 2016
+
+MH  - Whey
+UI  - D000067796
+MN  - G7.203.100.700.750
+MN  - G7.203.300.350.525.760
+MN  - J2.200.700.750
+MN  - J2.500.350.525.760
+MS  - The liquid components of milk that remain after the CASEIN, fat, and fat soluble components have been removed. It is also a byproduct of cheese production.
+HN  - 2016
+
+MH  - Whey Proteins
+UI  - D000067816
+MN  - D12.776.256.626.816
+MN  - G7.203.300.350.525.520.500
+MN  - G7.203.300.350.525.760.500
+MN  - G7.203.300.428.626.500
+MN  - J2.500.350.525.520.500
+MN  - J2.500.350.525.760.500
+MN  - J2.500.428.626.500
+MS  - The protein components of milk obtained from the whey.
+HN  - 2016 (1984)
+
+MH  - Whole Grains
+UI  - D000067348
+MN  - G7.203.300.300.550.500
+MN  - G7.203.300.775.500.500
+MN  - J2.500.300.550.500
+MN  - J2.500.775.500.500
+MS  - Edible seeds which contain all components of the seed - germ, bran, and ENDOSPERM.
+HN  - 2016
+
+MH  - Work Performance
+UI  - D000066477
+MN  - I3.946.675
+MS  - Measure of how well someone performs given tasks at their place of work.
+HN  - 2016
+FX  - Workplace
+
+MH  - Working Poor
+UI  - D000069602
+MN  - M1.987
+MS  - People who are in the labor force either working or looking for work for 27 weeks or more in a year, but whose income fall below a given poverty line.
+HN  - 2016
+FX  - Poverty
+FX  - Poverty Areas
+
+MH  - Youth Sports
+UI  - D000067009
+MN  - I3.450.642.845.987
+MS  - SPORTS activities designed and/or organized for CHILDREN or YOUTH.
+HN  - 2016

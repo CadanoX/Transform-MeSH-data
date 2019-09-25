@@ -1,0 +1,2419 @@
+NEW (2015) MESH HEADINGS WITH SCOPE NOTES
+
+TOTAL 2015 NEW DESCRIPTORS = 310
+
+MH  - Abducens Nucleus
+UI  - D065827
+MN  - A8.186.211.132.810.428.600.650.249
+MN  - A8.186.211.865.428.600.650.249
+MS  - A region in the PONTINE TEGMENTUM that is the nucleus of the ABDUCENS NERVE.
+HN  - 2015
+FX  - Abducens Nerve
+
+MH  - Absorption, Physicochemical
+UI  - D065966
+MN  - G1.595.14.249
+MN  - G2.149.767.19.500
+MN  - G2.842.750.19.500
+MS  - The physical process of passing into, or being taken up or taken in by a substance.
+HN  - 2015
+FX  - Absorption, Physiological
+
+MH  - Absorption, Physiological
+UI  - D065567
+MN  - G3.495.23.500
+MN  - G3.787.24.500
+MN  - G7.690.725.15.500
+MS  - Uptake of substances by the body, tissues, or cells. The uptake may occur by various forms of BIOLOGICAL TRANSPORT or by simple DIFFUSION.
+HN  - 2015
+FX  - Absorption, Physicochemical
+
+MH  - Absorption, Radiation
+UI  - D065638
+MN  - G1.595.14.249.500
+MN  - G1.750.124
+MN  - G2.149.767.19.500.500
+MN  - G2.842.750.19.500.500
+MS  - The uptake or transfer of energy from RADIATION.
+AN  - coordinate with specific type of radiation if pertinent
+HN  - 2015
+FX  - Spectrophotometry, Atomic
+FX  - X-Ray Absorption Spectroscopy
+
+MH  - Acalypha
+UI  - D065815
+MN  - B1.650.940.800.575.100.350.38
+MS  - Nettle-like plants in the subfamily Acalyphoideae. Acalypha is the largest genus in the Euphorbiaceae family.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther (IM) + PLANT PREPARATIONS or its indentations /ther use (IM or NIM) + specific plant chemical /ther use (IM) if pertinent
+HN  - 2015
+
+MH  - Acetabuloplasty
+UI  - D065526
+MN  - E4.555.39
+MN  - E4.680.38
+MS  - Surgical reconstruction of the ACETABULUM.
+HN  - 2015
+FX  - Arthroplasty
+
+MH  - Acetaldehyde Dehydrogenase Inhibitors
+UI  - D065086
+MN  - D27.505.519.389.89
+MS  - Compounds that bind to and inhibit the enzymatic activity of acetaldehyde dehydrogenases.
+HN  - 2015
+
+MH  - Acetylcholine Release Inhibitors
+UI  - D065087
+MN  - D27.505.519.562.61
+MN  - D27.505.519.625.120.69
+MN  - D27.505.696.577.120.69
+MS  - Compounds that block release of the neurotransmitter ACETYLCHOLINE.
+HN  - 2015
+
+MH  - Activation, Metabolic
+UI  - D065767
+MN  - G3.495.244.224
+MN  - G3.787.225.224
+MN  - G7.690.725.225.224
+MS  - The conversion of an exogenous substance by a biological system resulting in the production on an active metabolite.
+AN  - restrict to chemical changes of exogenous substances; IM general only; coordinate NIM with specific drug /pharmacokin (IM) or /metab (IM)
+HN  - 2015; use Biotransformation 1980-2014
+BX  - Metabolic Activation
+
+MH  - Acute-On-Chronic Liver Failure
+UI  - D065290
+MN  - C6.552.308.500.750.249
+MS  - Sudden liver failure in the presence of underlying compensated chronic LIVER DISEASE (e.g., LIVER CIRRHOSIS; HEPATITIS; and liver injury and failure) due to a precipitating acute hepatic insult.
+HN  - 2015
+BX  - Acute-On-Chronic Liver Failure (ACLF)
+BX  - Liver Failure, Acute-On-Chronic
+
+MH  - Adenocarcinoma in Situ
+UI  - D065311
+MN  - C4.557.470.200.25.14
+MN  - C4.557.470.200.240.124
+MN  - C23.149.249
+MS  - A lesion with cytological characteristics associated with invasive adenocarcinoma but the tumor cells are confined to the GLANDULAR EPITHELIAL CELLS of origin. Adenocarcinoma in situ of the CERVIX and the LUNG are the most common.
+HN  - 2015
+
+MH  - Allesthesia
+UI  - D066190
+MN  - C10.597.606.762.175
+MN  - C23.888.592.604.764.175
+MN  - F1.700.750.175
+MS  - A neurological disorder in which a sensory stimulus, usually tactile but more rarely other sensory modalities, is misperceived in a location distant from the original stimulus.
+AN  - do not confuse with ALLIESTHESIA see INTEROCEPTION
+HN  - 2015
+BX  - Allochiria
+
+MH  - Amphiregulin
+UI  - D066258
+MN  - D12.644.276.382.249
+MN  - D12.776.467.382.249
+MN  - D12.776.543.29
+MN  - D23.529.382.249
+MS  - An autocrine growth factor and mitogen for a broad range of target cells including EPITHELIAL CELLS; FIBROBLASTS and immune cells. It occurs as a membrane-bound protein that can be cleaved to release an active secreted form.
+HN  - 2015
+
+MH  - Amylin Receptor Agonists
+UI  - D065091
+MN  - D27.505.519.143
+MN  - D27.505.696.422.374
+MS  - Compounds that stimulate the activity of AMYMIN RECEPTORS. Included under this heading is the endogenous form of ISLET AMYLOID POLYPEPTIDE and synthetic compounds that mimic its effect.
+HN  - 2015
+
+MH  - Animal Culling
+UI  - D065136
+MN  - J1.40.90.500
+MN  - N6.850.780.200.112
+MS  - Selection and removal of individuals from a population or group. Culling is a common strategy with livestock and wildlife, used to control and eradicate diseases or pests, control population size, select for desired genetic characteristics, and maximize economic profit. 
+HN  - 2015
+FX  - Euthanasia, Animal
+
+MH  - Anterior Cerebellar Commissure
+UI  - D066240
+MN  - A8.186.211.730.885.390.500
+MS  - Bundle of MYELINATED NERVE FIBERS that connects the two CEREBRAL HEMISPHERES in the LAMINA TERMINALIS. It is located ventral to the SEPTAL NUCLEI, and caudal to the median PREOPTIC NUCLEUS.
+HN  - 2015
+
+MH  - Antidiuretic Hormone Receptor Antagonists
+UI  - D065092
+MN  - D27.505.519.174
+MN  - D27.505.696.560.311
+MS  - Endogenous compounds and drugs that inhibit or block the activity of ANTIDUIRETIC HORMONE RECEPTORS.
+HN  - 2015
+
+MH  - Antihyperkalemic Agents
+UI  - D065067
+MN  - D27.505.696.560.374
+MS  - Compounds used to lower excessive POTASSIUM levels in the body.
+HN  - 2015
+
+MH  - Aromatic Amino Acid Decarboxylase Inhibitors
+UI  - D065105
+MN  - D27.505.519.389.124
+MN  - D27.505.954.427.90.50.249
+MS  - Compounds and drugs that block or inhibit the enzymatic action of AROMATIC AMINO ACID DECARBOXYLASES. Pharmaceutical agents in this category are used in conjunction with LEVODOPA in order to slow its metabolism.
+HN  - 2015
+
+MH  - Atypical Hemolytic Uremic Syndrome
+UI  - D065766
+MN  - C12.777.419.936.463.500
+MN  - C13.351.968.419.936.463.500
+MN  - C15.378.71.141.610.500
+MN  - C15.378.140.855.925.500.500
+HN  - 2015; use Hemolytic-Uremic Syndrome 2010-2014
+
+MH  - Atypical Squamous Cells of the Cervix
+UI  - D065309
+MN  - A11.436.123
+MN  - C4.834.818.249
+MN  - C13.351.500.852.593.74.249
+MN  - C23.149.500
+MS  - Morphological abnormalities of the cervical EPITHELIUM, usually revealed in PAP SMEAR, which do not meet the criteria for squamous CERVICAL INIRAEPITHELIAL NEOPLASIA or SQUAMOUS CELL CARCINOMAS of the CERVIX . It may be a sign of infection with certain types of human papillomavirus (HPV).or sign of a benign (not cancer) growth, such as a cyst or polyp or, in menopausal women, of low hormone levels. More testing, such as HPV test, may be needed.
+HN  - 2015
+BX  - Atypical Squamous Cells
+
+MH  - Averrhoa
+UI  - D065826
+MN  - B1.650.940.800.575.100.789.500
+MS  - Tropical trees in the family Oxalidaceae
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther (IM) + PLANT PREPARATIONS or its indentations /ther use (IM or NIM) + specific plant chemical /ther use (IM) if pertinent
+HN  - 2015
+
+MH  - Axillofemoral Bypass Grafting
+UI  - D066254
+MN  - E4.35.112
+MN  - E4.100.814.334
+MS  - An extra-anatomic method of surgical revascularization in which the AXILLARY ARTERY is anastomosed to FEMORAL ARTERY.
+HN  - 2015
+
+MH  - Barrington's Nucleus
+UI  - D065835
+MN  - A8.186.211.132.810.428.600.67
+MN  - A8.186.211.865.428.600.67
+MS  - A nucleus in the pons with exon projections to the sacral parasympathetic nucleus associated with bladder control.
+HN  - 2015
+
+MH  - Basal Forebrain
+UI  - D066187
+MN  - A8.186.211.730.885.287.500.620.374
+MN  - A8.186.211.730.885.287.500.814.695.249
+MN  - A8.186.211.730.885.287.750.374
+MS  - The region of the telencephalon located rostral and ventral to the STRIATUM comprising AMYGDALA; SEPTAL NUCLEI; SUBSTANTIA INNOMINATA and ventral pallidum.
+HN  - 2015; for ANTERIOR PERFORATED SUBSTANCE use OLFACTORY PATHWAYS 1972-2014
+
+MH  - Basolateral Nuclear Complex
+UI  - D066272
+MN  - A8.186.211.464.90.500
+MN  - A8.186.211.730.885.287.249.152.500
+MS  - A set of amygdalar nuclei bordered laterally by the EXTERNAL CAPSULE and medially by the CENTRAL AMYGDALOID NUCLEUS.
+HN  - 2015
+BX  - Amygdaloid Basolateral Complex
+BX  - Basolateral Amygdala
+
+MH  - Benign Paroxysmal Positional Vertigo
+UI  - D065635
+MN  - C9.218.568.900.883.500
+MN  - C10.597.951.500
+MN  - C23.888.592.958.500
+MS  - Idiopathic recurrent VERTIGO associated with POSITIONAL NYSTAGMUS. It is associated with a vestibular loss without other neurological or auditory signs. Unlike in LABYRINTHITIS and VESTIBULAR NEURONITIS inflammation in the ear is not observed.
+HN  - 2015; use Vertigo 2010-2014
+BX  - Benign Recurrent Vertigo
+FX  - Vestibular Neuronitis
+
+MH  - beta-Lactamase Inhibitors
+UI  - D065093
+MN  - D27.505.519.389.400
+MN  - D27.505.954.122.85.516
+MS  - Endogenous substances and drugs that inhibit or block the activity of BETA-LACTAMASES.
+HN  - 2015
+BX  - beta Lactamase Inhibitors
+
+MH  - Betacellulin
+UI  - D066259
+MN  - D12.644.276.382.374
+MN  - D12.776.467.382.374
+MN  - D23.529.382.374
+MS  - An EGF family member that plays an important role in regulating growth and differentiation of PANCREATIC BETA CELLS. Betacellulin has specificity for the EGF RECEPTOR and the ERBB-4 RECEPTOR.
+HN  - 2015
+
+MH  - Bioprospecting
+UI  - D065132
+MN  - E5.114
+MS  - The systematic search and discovery of natural substances which may have potential commercial applications.
+HN  - 2015
+FX  - Drug Discovery
+
+MH  - Brachial Plexus Block
+UI  - D065527
+MN  - E3.155.86.711.649
+MS  - A blocking of NEURAL CONDUCTION in the network of nerve fibers innervating the UPPER EXTREMITY.
+HN  - 2015
+FX  - Brachial Plexus
+
+MH  - Bradykinin B1 Receptor Antagonists
+UI  - D065169
+MN  - D27.505.519.265.249
+MS  - Compounds and drugs that inhibit ligand binding or cellular signaling by BRADYKININ B1 RECEPTORS.
+HN  - 2015
+
+MH  - Bradykinin B2 Receptor Antagonists
+UI  - D065094
+MN  - D27.505.519.265.500
+MN  - D27.505.696.477.656.500.500
+MS  - Compounds and drugs that inhibit ligand binding or cellular signaling by BRADYKININ B2 RECEPTORS.
+HN  - 2015
+
+MH  - Bradykinin Receptor Antagonists
+UI  - D065168
+MN  - D27.505.519.265
+MS  - Compounds and drugs that inhibit ligand binding or cellular signaling by BRADYKININ RECEPTORS.
+HN  - 2015
+
+MH  - Broca Area
+UI  - D065711
+MN  - A8.186.211.730.885.287.500.270.700.500
+MS  - Functional neuroanatomical region of the inferior frontal gyrus consisting of pars opercularis and pars triangularis. It is important in SPEECH and LANGUAGE production. Injuries to Broca area are associated with BROCA APHASIA and APRAXIA.
+HN  - 2015 (1982); use FRONTAL LOBE 1982-2014
+FX  - Wernicke Area
+
+MH  - Calcineurin Inhibitors
+UI  - D065095
+MN  - D27.505.519.389.174
+MS  - Compounds that inhibit or block the PHOSPHATASE activity of CALCINEURIN.
+HN  - 2015
+
+MH  - Calcium Chelating Agents
+UI  - D065096
+MN  - D27.505.519.914.500.204
+MN  - D27.720.832.500.204
+MS  - Substances that bind to and sequester CALCIUM ions.
+HN  - 2015
+
+MH  - Carbamoyl Phosphate Synthetase I Activators
+UI  - D065097
+MN  - D27.505.519.374.99
+MS  - Substances and drugs that stimulate the synthesis or increase the activity of CARBAMOYL PHOSPHATE SYNTHETASE I. Drugs in this class of compounds have been used to treat the genetic disorder, CARBAMOYL-PHOSPHATE SYNTHASE I DEFICIENCY DISEASE.
+HN  - 2015
+
+MH  - Carbon-13 Magnetic Resonance Spectroscopy
+UI  - D066241
+MN  - E5.196.867.519.136
+MS  - Magnetic resonance spectroscopy involving detection of changes in the resonance of carbon-13 nuclei in organic molecules. 
+HN  - 2015
+
+MH  - Cardiotoxicity
+UI  - D066126
+MN  - C23.550.161
+MN  - C25.100.389
+MN  - C26.733.266
+MS  - Damage to the heart or its function secondary to exposure to toxic substances such as drugs used in CHEMOTHERAPY; IMMUNOTHERAPY; or RADIATION.
+AN  - coordinate NIM with specific heart disease (IM) if pertinent
+HN  - 2015
+
+MH  - Catechol O-Methyltransferase Inhibitors
+UI  - D065098
+MN  - D27.505.519.389.237
+MN  - D27.505.954.427.90.50.500
+MS  - Compounds and drugs that inhibit or block the activity of CATECHOL O-METHYLTRANSFERASE enzymes. Drugs in this class are used in management of central nervous system disorders such as PARKINSON DISEASE.
+HN  - 2015
+
+MH  - CCR5 Receptor Antagonists
+UI  - D065100
+MN  - D27.505.519.275
+MN  - D27.505.954.122.388.77.88.104
+MS  - Compounds and drugs that inhibit or block the activity of CCR5 RECEPTORS.
+HN  - 2015
+
+MH  - Cell Body
+UI  - D066146
+MN  - A11.284.74
+MS  - The portion of a cell that contains the NUCLEUS and CYTOPLASM but not CELL SURFACE EXTENSIONS such as FLAGELLA and NEURITES.
+HN  - 2015
+
+MH  - Cellular Reprogramming
+UI  - D065150
+MN  - G4.299.151.262
+MN  - G5.355.114
+MS  - A process where a fully differentiated or specialized cell is induced to transform into a different cell type that it would normally become under physiological conditions.
+AN  - CELL TRANSDIFFERENTIATION is also available
+HN  - 2015
+FX  - Cell Transdifferentiation
+FX  - Induced Pluripotent Stem Cells
+
+MH  - Central Amygdaloid Nucleus
+UI  - D066274
+MN  - A8.186.211.464.90.750
+MN  - A8.186.211.730.885.287.249.152.750
+MS  - A nucleus located in the caudal half of the amygdala. It is a primary region involved in controlling responses and receives many intrinsic GABAergic amygdaloid connections.
+HN  - 2015
+BX  - Central Amygdala Nucleus
+
+MH  - Cerebellar Vermis
+UI  - D065814
+MN  - A8.186.211.132.810.428.200.212.299
+MN  - A8.186.211.865.428.200.212.299
+MS  - A subregion of the CEREBELLAR CORTEX, located along the midsagittal plane of the CEREBELLUM.
+HN  - 2015
+
+MH  - Cerebral Crus
+UI  - D065843
+MN  - A8.186.211.132.659.413.437
+MN  - A8.186.211.653.413.249
+MS  - Anterior portion of the cerebral peduncle which contains the motor tracts.
+HN  - 2015
+
+MH  - Cerebral Peduncle
+UI  - D065850
+MN  - A8.186.211.132.659.413
+MN  - A8.186.211.653.413
+MS  - Ventral portion of the mesencephalon including the MIDBRAIN TEGMENTUM; CRUS CEREBRI; and the PRETECTUM. It does not include tectum mesencephali and TROCHLEAR NERVE.
+HN  - 2015; use Tegmentum Mesencephali 2008-2014
+BX  - Cerebral Peduncles
+
+MH  - Cerebrospinal Fluid Leak
+UI  - D065634
+MN  - C10.597.114
+MN  - C10.900.300.109
+MN  - C23.888.592.114
+MN  - C26.260.147
+MN  - C26.915.300.225
+MS  - Discharge of cerebrospinal fluid through a hole through the skull bone most commonly draining from the nose (CEREBROSPINAL FLUID RHINORRHEA) or the ear (CEREBROSPINAL FLUID OTORRHEA).
+HN  - 2015; use CEREBROSPINAL FLUID RHINORRHEA 2010-2014
+
+MH  - Cervical Cord
+UI  - D066193
+MN  - A8.186.854.126
+MS  - The segment of the spinal cord within the CERVICAL VERTEBRAE.
+HN  - 2015
+
+MH  - Cervical Plexus Block
+UI  - D066008
+MN  - E3.155.86.711.824
+MS  - A blocking of NEURAL CONDUCTION in the network of nerve fibers innervating the neck and shoulder.
+HN  - 2015
+FX  - Cervical Plexus
+
+MH  - Chikungunya Fever
+UI  - D065632
+MN  - C2.782.930.100.184
+MS  - An acute infection caused by a mosquito-borne alphavirus CHIKUNGUNYA VIRUS characterized by RASH; FEVER; JOINT PAINS; CONJUNCTIVITIS; MENINGOENCEPHALITIS; LYMPHOPENIA; and THROMBOCYTOPENIA.
+HN  - 2015; use under CHIKUNGUNYA FEVER 2010-2014
+
+MH  - Chloride Channel Agonists
+UI  - D065101
+MN  - D27.505.519.562.311
+MS  - A class of drugs that stimulate chloride ion influx through cell membrane channels.
+HN  - 2015
+
+MH  - Circuit-Based Exercise
+UI  - D065327
+MN  - G11.427.590.530.698.277.61
+MN  - I3.350.61
+MS  - Alternating sets of exercise that work out different muscle groups and that also alternate between aerobic and anaerobic exercises, which, when combined together, offer an overall program to improve strength, stamina, balance, or functioning.
+HN  - 2015
+FX  - Exercise Therapy
+
+MH  - Circumventricular Organs
+UI  - D066280
+MN  - A6.688.178
+MN  - A8.713.49
+MS  - Highly vascularized and specialized tissues distributed principally along the midline of the VENTRICULAR SYSTEM from the FOREBRAIN to the HINDBRAIN. They are distinguished by their lack of normal BLOOD-BRAIN BARRIER and fenestrated capillaries and contain either neurosecretory neurons or chemoreceptors.
+HN  - 2015; for NEUROHEMAL ORGAN use NEUROSECRETORY SYSTEMS (1984-2014)
+BX  - Neurohemal Organ
+
+MH  - Citrullus colocynthis
+UI  - D065986
+MN  - B1.650.940.800.575.100.300.140.500
+MS  - A plant species of the family CUCURBITACEAE distributed tropically and subtropically mainly in North Africa and Asia. It is a medicinal plant of TRADITIONAL MEDICINE and well known in ancient medicine as the wild gourd.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) + specific plant chemical /ther use (IM) if pertinent
+HN  - 2015
+
+MH  - College Fraternities and Sororities
+UI  - D065822
+MN  - N3.540.162
+MS  - Local or national organizations of college students, primarily for social purposes, usually with secret initiations and rites and a name composed of two or three Greek letters.
+HN  - 2015
+FX  - Students
+
+MH  - Commissural Interneurons
+UI  - D066294
+MN  - A8.675.358.350
+MN  - A11.671.358.212
+MS  - INTERNEURONS with projections to the contralateral side of the SPINAL CORD. Both excitatory and inhibitory interneurons are involved in coordinating alternative left-right activities during LOCOMOTION.
+HN  - 2015
+FX  - Central Pattern Generators
+
+MH  - Common Data Elements
+UI  - D065709
+MN  - L1.453.245.945.119
+MS  - Data elements that are common to multiple data sets across different studies.
+HN  - 2015
+
+MH  - Congenital Microtia
+UI  - D065817
+MN  - C9.218.235
+MN  - C16.131.287
+MS  - Malformation of external portion of EAR AURICLE.
+HN  - 2015
+
+MH  - Controlled Before-After Studies
+UI  - D065187
+MN  - E5.318.760.500.812
+MN  - N5.715.360.775.175.262
+MN  - N6.850.520.450.500.812
+MS  - A study in which observations are made before and after an intervention, both in a group that receives the intervention and in a control group that does not. 
+HN  - 2015
+
+MH  - Corneal Injuries
+UI  - D065306
+MN  - C11.204.284
+MN  - C11.297.374
+MN  - C26.260.275.250.124
+MS  - Damage or trauma inflicted to the CORNEA by external means.
+HN  - 2015
+
+MH  - Corticomedial Nuclear Complex
+UI  - D066276
+MN  - A8.186.211.464.90.875
+MN  - A8.186.211.730.885.287.249.152.875
+MS  - The rostral part of the amygdala with cortical-like layered structure. It receives major inputs from the OLFACTORY BULB and PIRIFORM CORTEX.
+HN  - 2015
+BX  - Nucleus of Lateral Olfactory Tract
+
+MH  - Costal Cartilage
+UI  - D066186
+MN  - A2.165.407.325
+MS  - Bars of HYALINE CARTILAGE extending from the anterior ends of the upper RIBS. They attach to the STERNUM directly or indirectly by connecting to upper costal cartilage that attaches to the STERNUM. Costal cartilages extend the ribs anteriorly and contribute to the enhanced elasticity of the THORACIC WALL.
+HN  - 2015
+
+MH  - Courage
+UI  - D066279
+MN  - F1.470.257
+MS  - State of mind or spirit that enables one to act in the face of perceived danger, difficulty, or pain.
+HN  - 2015
+FX  - Morale
+
+MH  - Craving
+UI  - D066249
+MN  - F1.658.293.195
+MS  - An intense, urgent, or abnormal desire or longing (for food, drugs, alcohol, etc.)
+HN  - 2015
+FX  - Appetite
+
+MH  - Cryptoxanthins
+UI  - D065366
+MN  - D2.455.326.271.665.202.868.374
+MN  - D2.455.426.392.368.367.379.249.887.374
+MN  - D2.455.849.131.868.374
+MN  - D23.767.261.887.374
+MS  - Mono-hydroxylated xanthophylls formed from the hydroxylation of BETA-CAROTENE. Isomers include: beta-cryptoxanthin, alpha-cryptoxanthin, and zeinoxanthin. The alpha- and beta-cryptoxanthin are provitamin A precursors.
+HN  - 2015
+
+MH  - Culturally Competent Care
+UI  - D065246
+MN  - N4.590.374.52
+MN  - N5.300.206
+MS  - Health care services that are respectful of and responsive to the health beliefs, practices and cultural and linguistic needs of diverse patients. The provider and the patient each bring their individual learned patterns of language and culture to the health care experience which must be transcended to achieve equal access and quality health care.
+HN  - 2015
+FX  - Clinical Competence
+FX  - Cultural Competency
+
+MH  - Cuniculidae
+UI  - D065469
+MN  - B1.50.150.900.649.865.373
+MS  - A family of large (20 to 30 inches long) plant eating rodents found in Central and South America. They are nearly tailless and have chunky bodies, dark brown fur with spotted lines along their sides and back, with stout legs and hind limbs that are longer than the forelimbs, and a large, square head with short ears.
+AN  - do not confuse entry term AGOUTIDAE with AGOUTIS see DASYPROCTIDAE
+HN  - 2015
+
+MH  - Cutaneous Elimination
+UI  - D066238
+MN  - G3.787.273
+MN  - G7.690.725.273
+MN  - G13.750.829.159
+MS  - The discharge of substances from the blood supply to the glands of the skin and excretion in the SWEAT and SEBUM.
+AN  - do not confuse with SWEATING
+HN  - 2015
+FX  - Sweating
+
+MH  - Cystine Depleting Agents
+UI  - D065104
+MN  - D27.505.519.334
+MS  - Compounds and drugs that react with CYSTINE and convert it into a compound that can be more easily metabolized or intracellularly transported. Drugs in this class have been used to treat CYSTINOSIS.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP1A2 Inducers
+UI  - D065694
+MN  - D27.505.389.249.120
+MN  - D27.505.519.349.120
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 CYP1A2.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP1A2 Inhibitors
+UI  - D065609
+MN  - D27.505.389.500.120
+MN  - D27.505.519.389.335.120
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 CYP1A2.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP1B1
+UI  - D065633
+MN  - D8.244.453.40.500
+MN  - D8.811.682.690.708.170.40.500
+MN  - D12.776.422.220.453.40.500
+MS  - A cytochrome P450 aryl hydrocarbon hydroxylase that has specificity for ESTROGENS which it converts into 4-hydroxy estrogens. CYP1B1 has been shown to be physiologically important for FETAL DEVELOPMENT with mutations in the CYP1B1 gene resulting in congenital forms of GLAUCOMA and Peter's anomaly.
+AN  - /antag: coordinate with CYTOCHROME P-450 ENZYME INHIBITORS
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2A6
+UI  - D065637
+MN  - D8.244.453.100
+MN  - D8.811.682.690.708.170.100
+MN  - D12.776.422.220.453.100
+MS  - A cytochrome P450 enzyme that has specificity for the 7-hydroxylation of coumarin.
+HN  - 2015
+BX  - Cytochrome P-450 CYP-2A3
+
+MH  - Cytochrome P-450 CYP2B6
+UI  - D065702
+MN  - D8.244.453.40.575
+MN  - D8.811.682.690.708.170.40.575
+MN  - D12.776.422.220.453.40.575
+MS  - A cytochrome P450 enzyme subtype that oxidizes a diverse array of XENOBIOTICS. The expression of CYP2B6 varies widely between individuals which is due to the high rate of GENETIC POLYMORPHISMS.  Examples of drugs metabolized by CYP2B6 include BUPROPION; efavirenz; CYCLOPHOSPHAMIDE; and MEPERIDINE.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2B6 Inducers
+UI  - D065695
+MN  - D27.505.389.249.260
+MN  - D27.505.519.349.260
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 CYP2B6.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2B6 Inhibitors
+UI  - D065686
+MN  - D27.505.389.500.260
+MN  - D27.505.519.389.335.260
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 CYP2B6.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C19
+UI  - D065731
+MN  - D8.244.453.500.700
+MN  - D8.811.682.690.708.170.500.700
+MN  - D12.776.422.220.453.500.700
+MS  - A cytochrome P-450 enzyme subtype that oxidizes several important groups of drugs including many PROTON PUMP INHIBITORS and ANTICONVULSANTS.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C19 Inducers
+UI  - D065697
+MN  - D27.505.389.249.350
+MN  - D27.505.519.349.350
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 CYP2C19.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C19 Inhibitors
+UI  - D065689
+MN  - D27.505.389.500.319
+MN  - D27.505.519.389.335.319
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 CYP2C19.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C8
+UI  - D065727
+MN  - D8.244.453.40.590
+MN  - D8.811.682.690.708.170.40.590
+MN  - D12.776.422.220.453.40.590
+MS  - A liver microsomal cytochrome P450 hydroxylase that oxidizes a broad spectrum of substrates including STEROIDS, FATTY ACIDS, and XENOBIOTICS. Examples of pharmaceutical substrates for CYP2C8 include; PACLITAXOL; torsemide; and; AMODIAQUINE
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C8 Inducers
+UI  - D065696
+MN  - D27.505.389.249.308
+MN  - D27.505.519.349.308
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 CYP2C8.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C8 Inhibitors
+UI  - D065687
+MN  - D27.505.389.500.308
+MN  - D27.505.519.389.335.308
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 CYP2C8.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C9
+UI  - D065729
+MN  - D8.244.453.500.500
+MN  - D8.811.682.690.708.170.500.500
+MN  - D12.776.422.220.453.500.500
+MS  - A cytochrome P-450 subtype that has specificity for acidic XENOBIOTICS. It oxidizes a broad range of important clinical drugs that fall under the categories of NONSTEROIDAL ANTI-INFLAMMATORY AGENTS; HYPOGLYCEMIC AGENTS; ANTCOAGULANTS; and DIURETICS.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C9 Inducers
+UI  - D065698
+MN  - D27.505.389.249.320
+MN  - D27.505.519.349.320
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 CYP2C9.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2C9 Inhibitors
+UI  - D065688
+MN  - D27.505.389.500.315
+MN  - D27.505.519.389.335.329
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 CYP2C9.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2D6 Inducers
+UI  - D065699
+MN  - D27.505.389.249.500
+MN  - D27.505.519.349.500
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 CYP2D6.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2D6 Inhibitors
+UI  - D065690
+MN  - D27.505.389.500.368
+MN  - D27.505.519.389.335.368
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 CYP2D6.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2E1 Inducers
+UI  - D065700
+MN  - D27.505.389.249.600
+MN  - D27.505.519.349.600
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 CYP2E1.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP2E1 Inhibitors
+UI  - D065691
+MN  - D27.505.389.500.421
+MN  - D27.505.519.389.335.421
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 CYP2E1.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP3A Inducers
+UI  - D065701
+MN  - D27.505.389.249.700
+MN  - D27.505.519.349.700
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 CYP3A.
+HN  - 2015
+
+MH  - Cytochrome P-450 CYP3A Inhibitors
+UI  - D065692
+MN  - D27.505.389.500.503
+MN  - D27.505.519.389.335.503
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 CYP3A.
+HN  - 2015
+
+MH  - Cytochrome P-450 Enzyme Inducers
+UI  - D065693
+MN  - D27.505.389.249
+MN  - D27.505.519.349
+MS  - Drugs and compounds that induce the synthesis of CYTOCHROME P-450 ENZYMES.
+AN  - general or unspecified;  note specifics  treed here
+HN  - 2015
+
+MH  - Cytochrome P-450 Enzyme Inhibitors
+UI  - D065607
+MN  - D27.505.389.500
+MN  - D27.505.519.389.335
+MS  - Drugs and compounds which inhibit or antagonize the biosynthesis or actions of CYTOCHROME P-450 ENZYMES.
+AN  - general or unspecified; note specifics treed here
+HN  - 2015
+
+MH  - Cytoreduction Surgical Procedures
+UI  - D065426
+MN  - E4.166
+MS  - Operative procedures carried out to reduce a mass of tissue, for example, to reduce the total amount of tissue composing a tumor.
+HN  - 2015
+
+MH  - Dasyproctidae
+UI  - D065468
+MN  - B1.50.150.900.649.865.419
+MS  - A family of Central and South American plant-eating rodents comprising the agoutis (Dasyprocta) and acouchis (Myoprocta). They look similar to guinea pigs (CAVIA) but are larger and have longer legs. Their fur is reddish or dark brown.
+AN  - do not confuse entry term Agoutis with AGOUTIDAE see CUNICULIDAE
+HN  - 2015
+
+MH  - Data Curation
+UI  - D066289
+MN  - L1.453.245.332
+MN  - L1.700.568.500
+MS  - Management activities required to maintain research data to ensure that they are fit for contemporary use and available for discovery and reuse.
+HN  - 2015
+
+MH  - Datasets as Topic
+UI  - D066264
+MN  - E5.318.308.56
+MN  - L1.280.224
+MN  - L1.470.750.750.431
+MN  - L1.700.508.300.188.400.500
+MN  - N5.715.360.300.224
+MN  - N6.850.520.308.56
+MS  - Description or design of an organized collection of data from research projects, stored permanently in a formalized manner suitable for communication, interpretation, or processing.
+AN  - use only for datasets as a subject; do not confuse with Publication Type DATASET
+HN  - 2015
+BX  - Dataset as Topic
+
+MH  - Delay Discounting
+UI  - D065786
+MN  - F2.463.785.373.346.700
+MS  - The tendency to devalue an outcome as a function of its temporal delay or probability of achievement. It can be evaluated in a psychological paradigm that involves the choice between receiving a smaller immediate reward or a larger delayed reward, and may be used to provide a measure of impulsive behavior.
+HN  - 2015
+FX  - Impulsive Behavior
+FX  - Reward
+
+MH  - Demulcents
+UI  - D065106
+MN  - D27.505.954.158.515
+MN  - D27.505.954.483.534
+MN  - D27.505.954.796.210
+MN  - D27.720.877.156
+MS  - Compounds that form soothing films on the surface of MUCOUS MEMBRANES. They are generally used as agents to protect the integrity of internal EPITHELIUM.
+HN  - 2015
+
+MH  - Diet, Paleolithic
+UI  - D066046
+MN  - E2.642.249.275
+MN  - G7.610.240.275
+MS  - A nutritional plan based on the presumed diet of pre-agricultural human ancestors. It consists mainly of MEAT, EGGS, NUTS, roots and fresh VEGETABLES and FRUITS, and excludes GRAIN, LEGUMES, DAIRY PRODUCTS, and refined DIETARY SUGARS.
+HN  - 2015
+
+MH  - Diet, Western
+UI  - D066273
+MN  - G7.610.240.958
+MS  - A pattern of food consumption adopted mainly by the people of North America and Western Europe. It is mainly characterized by high intake of MEAT, processed grains, DIETARY SUGARS, DAIRY PRODUCTS, and DIETARY FATS.
+HN  - 2015
+BX  - Western Diet
+
+MH  - Diving Reflex
+UI  - D065508
+MN  - E1.370.376.550.650.324
+MN  - E1.370.600.550.650.324
+MN  - G9.330.190.340
+MN  - G11.561.600.765.189
+MS  - BREATH HOLDING; VASOCONSTRICTION; and a drop in HEART RATE in response to submersion of the face in cold water.
+HN  - 2015
+
+MH  - Dopamine D2 Receptor Antagonists
+UI  - D065127
+MN  - D27.505.519.625.150.175.500
+MN  - D27.505.696.577.150.175.500
+MS  - Compounds and drugs that bind to and inhibit or block the activation of DOPAMINE D2 RECEPTORS.
+HN  - 2015
+
+MH  - Dorsal Raphe Nucleus
+UI  - D065847
+MN  - A8.186.211.132.659.413.875.618.249
+MN  - A8.186.211.653.413.500.618.249
+MS  - The dorsal region of the raphe nucleus which is a source of the SEROTONERGIC NEURONS innervating the TELENCEPHALON; DIENCEPHALON; MESENCEPHALON; and RHOMBENCEPHALON.
+HN  - 2015
+
+MH  - Drug Liberation
+UI  - D065546
+MN  - G2.842.750.570
+MN  - G3.787.321
+MN  - G7.690.725.321
+MS  - Release of drugs from DOSAGE FORMS into solution.
+HN  - 2015
+FX  - Solubility
+
+MH  - Edinger-Westphal Nucleus
+UI  - D065839
+MN  - A8.186.211.132.659.413.875.381.500
+MN  - A8.186.211.653.413.500.381.500
+MS  - Nucleus in the oculomotor nuclear complex associated with oculomotor activities and stress adaptation.
+HN  - 2015
+BX  - Parvocellular Oculomotor Nucleus
+
+MH  - EGF Family of Proteins
+UI  - D066255
+MN  - D12.644.276.382
+MN  - D12.776.467.382
+MN  - D23.529.382
+MS  - A family of proteins that are related to epidermal growth factor. They share in common a consensus sequence consisting of six spatially conserved CYSTEINE residues which form three intramolecular bonds. This consensus sequence is commonly referred to EGF motif and is considered essential for binding of the proteins to ERB RECEPTORS.
+HN  - 2015; for EPIDERMAL GROWTH FACTORS use EPIDERMAL GROWTH FACTOR 1981-2014
+
+MH  - Electronic Cigarettes
+UI  - D066300
+MN  - J1.637.847.500
+MS  - Electronic devices that are designed to provide NICOTINE in the form of an inhaled aerosol. They typically are made in the shape of CIGARETTES in order to simulate the experience of CIGARETTE SMOKING.
+HN  - 2015
+FX  - Tobacco Products
+
+MH  - Endothelial Progenitor Cells
+UI  - D066026
+MN  - A11.148.174
+MN  - A11.436.275.182
+MN  - A11.872.205
+MS  - Cells derived from BONE MARROW that circulate in the adult bloodstream and possess the potential to proliferate and differentiate into mature ENDOTHELIAL CELLS.
+HN  - 2015
+
+MH  - Endothelin A Receptor Antagonists
+UI  - D065130
+MN  - D27.505.519.364.500
+MS  - Compounds and drugs that bind to and inhibit or block the activation of ENDOTHELIN A RECECPTORS.
+HN  - 2015
+
+MH  - Endothelin B Receptor Antagonists
+UI  - D065131
+MN  - D27.505.519.364.750
+MS  - Compounds and drugs that bind to and inhibit or block the activation of ENDOTHELIN B RECEPTORS.
+HN  - 2015
+
+MH  - Endothelin Receptor Antagonists
+UI  - D065128
+MN  - D27.505.519.364
+MS  - Compounds and drugs that bind to and inhibit or block the activation of ENDOTHELIN RECECPTORS.
+HN  - 2015
+
+MH  - Ephemeroptera
+UI  - D065133
+MN  - B1.50.500.131.617.104
+MS  - An Order of aquatic INSECTS comprising about 2,500 species worldwide. It is the only insect group with two flying stages, each with relatively large forewings. The immature stage called "naiad" or "nymph" lasts one year in fresh water, and the adult stage is shortlived, lasting from a few minutes to a few days, depending on the species. The Ephemeroptera includes mayflies (also called shadflies)
+AN  - for killing Ephemeroptera with insecticides, see note at INSECTICIDES
+HN  - 2015
+
+MH  - Epigen
+UI  - D066261
+MN  - D12.644.276.382.531
+MN  - D12.776.467.382.531
+MN  - D23.529.382.531
+MS  - An EGF family member that is synthesized as a membrane-bound protein that can be cleaved to release an active secreted form. It has a mitogenic effect on EPITHELIAL CELLS.
+HN  - 2015
+
+MH  - Epiregulin
+UI  - D066260
+MN  - D12.644.276.382.562
+MN  - D12.776.467.382.562
+MN  - D23.529.382.562
+MS  - A member of the epidermal growth factor (EGF) family of peptide growth factors that is synthesized as a transmembrane protein which can be cleaved to release a soluble active form. Epiregulin has specificity for the EGF RECEPTOR and the ERBB-4 RECEPTOR.
+HN  - 2015
+
+MH  - ErbB Receptors
+UI  - D066246
+MN  - D8.811.913.696.620.682.725.400.09
+MN  - D12.776.543.750.60.09
+MN  - D12.776.543.750.750.400.74
+MS  - A family of structurally-related cell-surface receptors that signal through an intrinsic PROTEIN-TYROSINE KINASE. The receptors are activated upon binding of specific ligands which include EPIDERMAL GROWTH FACTORS, and NEUREGULINS.
+HN  - 2015
+BX  - Receptors, Epidermal Growth Factor-Urogastrone
+FX  - Genes, erbB
+
+MH  - Estrogen Receptor Antagonists
+UI  - D065171
+MN  - D6.347.295.500
+MN  - D27.505.696.399.450.327.650
+MS  - Compounds and drugs that bind to and block or inhibit the activation of ESTROGEN RECEPTORS.
+AN  - do not confuse with ESTROGEN RECEPTOR MODULATORS
+HN  - 2015
+
+MH  - Ethnic Cleansing
+UI  - D065811
+MN  - I1.198.240.903.74
+MN  - I1.880.735.304.500
+MN  - I1.880.735.900.575.500
+MN  - I1.880.735.944.903.74
+MS  - Expulsion of a population from a given territory due to religious or ethnic discrimination, political, strategic or ideological considerations, or a combination of these.
+HN  - 2015; use under GENOCIDE 2014
+
+MH  - Euterpe
+UI  - D065748
+MN  - B1.650.940.800.575.100.93.480
+MS  - A genus in the family Arecaceae. They are a source of ACAI BERRIES.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther (IM) + PLANT PREPARATIONS or its indentations /ther use (IM or NIM) + specific plant chemical /ther use (IM) if pertinent
+HN  - 2015; use ARECACEAE 2004-2014
+BX  - Acai Berries
+
+MH  - External Capsule
+UI  - D066271
+MN  - A8.186.211.730.885.385
+MS  - Thin layer of WHITE MATTER mostly of GABAERGIC NEURONS located between the PUTAMEN and the CLAUSTRUM.
+HN  - 2015
+
+MH  - Extracellular Traps
+UI  - D065206
+MN  - A11.284.295.495
+MS  - Extracellular structure primarily composed of CHROMATIN and associated PROTEASES.
+HN  - 2015
+BX  - Neutrophil Extracellular Traps
+FX  - Extracellular Matrix Proteins
+FX  - Neutrophils
+
+MH  - Facial Nucleus
+UI  - D065828
+MN  - A8.186.211.132.810.428.600.650.374
+MN  - A8.186.211.865.428.600.650.374
+MS  - A region in the pontine tegmentum that is the nucleus of the FACIAL NERVE.
+HN  - 2015
+FX  - Facial Nerve
+
+MH  - Factor Xa Inhibitors
+UI  - D065427
+MN  - D27.505.519.389.745.800.449.500
+MN  - D27.505.954.502.119.500.500
+MS  - Endogenous factors and drugs that inhibit or block the activity of FACTOR XA.
+HN  - 2015
+
+MH  - Familial Primary Pulmonary Hypertension
+UI  - D065627
+MN  - C8.381.423.847
+MS  - Familial or idiopathic hypertension in the PULMONARY CIRCULATION which is not secondary to other disease.
+HN  - 2015; use HYPERTENSION, PULMONARY 2010-2014
+
+MH  - Flower Essences
+UI  - D065829
+MN  - D20.215.784.500.87
+MN  - D26.667.249
+MS  - Aqueous extracts of flowers that are used in healing systems.
+HN  - 2015
+BX  - Bach Flower Remedies
+FX  - Phytotherapy
+
+MH  - Fluorine-19 Magnetic Resonance Imaging
+UI  - D066235
+MN  - E1.370.350.825.500.350
+MS  - Magnetic resonance imaging diagnostic technique which uses fluorine-19 perfluorocarbon probes and contrast agents for high resolution image detection and quantitation.
+HN  - 2015
+
+MH  - Forests
+UI  - D065928
+MN  - G16.500.275.157.437
+MN  - N6.230.124.343
+MS  - An ecosystem dominated by trees and other woody vegetation.
+HN  - 2015; use Trees 1983-2014
+FX  - Trees
+FX  - Wood
+
+MH  - Frankincense
+UI  - D065260
+MN  - D5.750.78.840.490
+MN  - D20.215.721.500.354
+MS  - Resin exudate from certain trees of the genus BOSWELLIA in the BURSERACEAE family.
+HN  - 2015; use BOSWELLIA 2002-2014
+BX  - Olibanum
+
+MH  - Gamma Rhythm
+UI  - D065818
+MN  - E1.370.376.300.150.906
+MN  - E1.370.405.245.287.906
+MN  - G7.265.87.906
+MN  - G11.561.127.906
+MS  - Brain waves characterized by a relatively high voltage or amplitude and a frequency of approximately 30-100 Hz. They are primarily observed during network engagement and sensory processing activities, during both waking and sleeping states.
+HN  - 2015
+
+MH  - Gastric Absorption
+UI  - D065570
+MN  - G3.495.23.500.374.249
+MN  - G3.787.24.500.374.249
+MN  - G7.610.593.345.249
+MN  - G7.690.725.15.500.374.249
+MN  - G10.261.326.305.249
+MS  - Uptake of substances via the stomach.
+HN  - 2015
+
+MH  - Gastrointestinal Absorption
+UI  - D065569
+MN  - G3.495.23.500.374
+MN  - G3.787.24.500.374
+MN  - G7.610.593.345
+MN  - G7.690.725.15.500.374
+MN  - G10.261.326.305
+MS  - Uptake of substances via the GASTROINTESTINAL TRACT.
+HN  - 2015
+FX  - Administration, Oral
+
+MH  - Glossoptosis
+UI  - D065710
+MN  - C7.465.910.411
+MS  - Posterior displacement of the TONGUE toward the PHARYNX. It is often a feature in syndromes such as in PIERRE ROBIN SYNDROME and DOWN SYNDROME and associated with AIRWAY OBSTRUCTION during sleep (OBSTRUCTIVE SLEEP APNEAS).
+HN  - 2015
+
+MH  - Glycoside Hydrolase Inhibitors
+UI  - D065089
+MN  - D27.505.519.389.320
+MN  - D27.505.696.422.249
+MS  - Compounds that inhibit or block the activity of GLYCOSIDE HYDROLASES such as ALPHA-AMYLASES and APHA-GLUCOSIDASES.
+HN  - 2015
+BX  - alpha-Glucosidase Inhibitors
+
+MH  - Grassland
+UI  - D065948
+MN  - G16.500.275.157.531
+MN  - N6.230.124.390
+MS  - An ecosystem dominated by grasses (POACEAE) with few trees or shrubs.
+HN  - 2015
+BX  - Meadows
+BX  - Prairie
+BX  - Savanna
+BX  - Steppe
+
+MH  - Gray Matter
+UI  - D066128
+MN  - A8.186.211.168
+MN  - A8.186.854.348
+MS  - Region of CENTRAL NERVOUS SYSTEM that appears darker in color than the other type, WHITE MATTER. It is composed of neuronal CELL BODIES; NEUROPIL; GLIAL CELLS and CAPILLARIES but few MYELINATED NERVE FIBERS.
+HN  - 2015
+FX  - Nerve Fibers, Unmyelinated
+
+MH  - Grounded Theory
+UI  - D066296
+MN  - H1.770.644.241.424
+MS  - The generation of theories from analysis of empirical data.
+HN  - 2015
+
+MH  - Health Information Exchange
+UI  - D066275
+MN  - E5.318.308.940.968.625.500.500
+MN  - L1.313.500.500
+MN  - L1.399.500.500
+MN  - L1.700.253
+MS  - Organizational framework for the dissemination of electronic healthcare information or clinical data, across health-related institutions and systems. Its overall purpose is to enhance PATIENT CARE.
+HN  - 2015
+
+MH  - Health Services for Persons with Disabilities
+UI  - D066086
+MN  - N2.421.314
+MS  - Health services and access for DISABLED PERSONS. Disabilities include impairments, activity limitations, or participation restrictions, and reflect the interaction between the individual with the disability and personal and environmental factors.
+HN  - 2015
+FX  - Disabled Persons
+
+MH  - Hemimegalencephaly
+UI  - D065705
+MN  - C5.660.207.536.500
+MN  - C10.500.507.400.249.500
+MN  - C16.131.621.207.532.500
+MN  - C16.131.666.507.400.249.500
+MS  - Rare MALFORMATIONS OF CORTICAL DEVELOPMENT, GROUP I characterized by the enlargement of one side of the brain. It is associated with seizures, partial paralysis, and mental retardation.
+HN  - 2015 (2008); use Malformations of Cortical Development (2008-2014)
+
+MH  - Heparin-binding EGF-like Growth Factor
+UI  - D066257
+MN  - D12.644.276.382.625
+MN  - D12.776.467.382.625
+MN  - D23.529.382.625
+MS  - An EGF family member that is expressed in a variety of hematopoietic, endothelial, vascular smooth muscle, and epithelial cells. It is synthesized as a transmembrane protein which is cleaved by proteases to produce the secreted form of the protein which has specificity for the EGF RECEPTOR and the ERBB-4 RECEPTOR. The membrane-bound form of the protein has been identified as the receptor which binds to and allows DIPHTHERIA TOXIN to enter cells.
+HN  - 2015
+BX  - Heparin-binding EGF-like Growth-Factor
+
+MH  - Hepatobiliary Elimination
+UI  - D065669
+MN  - G3.787.380
+MN  - G7.690.725.417
+MN  - G10.261.326.415
+MS  - The removal of substances from the blood supply via the LIVER and BILIARY TRACT.
+HN  - 2015
+BX  - Biliary Elimination
+FX  - Metabolic Clearance Rate
+
+MH  - Hermeneutics
+UI  - D066297
+MN  - H1.770.644.241.850.750
+MS  - The art, theory, and philosophy of interpreting the meaning of an object (a text, work of art, social action, utterances of another speaker, etc.) (Dictionary of Qualitative Inquiry, 2nd ed..)
+HN  - 2015
+
+MH  - Hernias, Diaphragmatic, Congenital
+UI  - D065630
+MN  - C16.131.433
+MN  - C23.300.707.500.116
+MS  - Protrusion of abdominal structures into the THORAX as a result of embryologic defects in the DIAPHRAGM often present in the neonatal period. It can be isolated, syndromic, nonsyndromic or be a part of chromosome abnormality. Associated pulmonary hypoplasia and PULMONARY HYPERTENSION can further complicate stabilization and surgical intervention.
+HN  - 2015; use HERNIA, DIAPHRAGMATIC 2010-2014
+BX  - Congenital Diaphragmatic Hernias
+
+MH  - High Fructose Corn Syrup
+UI  - D066248
+MN  - D9.301.662
+MS  - Syrup made from corn used widely in foods and beverages as a cheaper alternative sweetener to SUCROSE (common table sugar). It is generated by enzymatic processing of natural corn syrup to produce a liquid most widely composed of 42 or 55% FRUCTOSE, GLUCOSE, and various POLYSACCHARIDES.
+HN  - 2015
+
+MH  - Historically Controlled Study
+UI  - D065386
+MN  - E5.318.760.500.912
+MS  - A study that compares a group of participants receiving an intervention with a similar group from the past who did not.
+HN  - 2015
+
+MH  - Hyperlactatemia
+UI  - D065906
+MN  - C18.452.479
+MN  - C23.888.516
+MS  - Increase in blood LACTATE concentration often associated with SEPTIC SHOCK; LUNG INJURY; SEPSIS; and DRUG TOXICITY. When hyperlactatemia is associated with low body pH (acidosis) it is LACTIC ACIDOSIS.
+HN  - 2015
+FX  - Acidosis, Lactic
+
+MH  - Hypromellose Derivatives
+UI  - D065347
+MN  - D5.750.78.562.180.357
+MN  - D9.698.365.180.455
+MN  - D25.720.99.500.719
+MN  - J1.637.51.720.99.500.719
+MS  - Polymeric compounds that contain repeating units of hydroxypropyl methylcellulose. The properties of hypromellose polymers can vary greatly and are defined by their molecular weight, the percentage of hydroxyl groups, the percentage of hydroxypropyl groups, and viscosity measurements. They are found a broad variety of commercial products such as FOOD ADDITIVES; EXCIPIENTS; and LUBRICANTS.
+HN  - 2015
+
+MH  - In Vitro Techniques
+UI  - D066298
+MN  - E5.481
+MS  - Methods to study reactions or processes taking place in an artificial environment outside the living organism.
+AN  - general or unspecified; prefer specifics; NIM for studies of isolated (not cultured) organs and tissues; not for microorganisms
+HN  - 2015
+BX  - In Vitro as Topic
+
+MH  - Infant Death
+UI  - D066088
+MN  - C23.550.260.657
+MS  - The death of a live-born INFANT within its first year of life. 
+AN  - use PERINATAL DEATH for death of an infant less than 28 days of age; do not confuse with INFANT MORTALITY, a statistical concept
+HN  - 2015
+FX  - Infant Mortality
+FX  - Perinatal Death
+FX  - Perinatal Mortality
+
+MH  - Influenza A Virus, H10N8 Subtype
+UI  - D065926
+MN  - B4.820.545.405.400.106
+MN  - B4.909.777.545.405.400.106
+MS  - A subtype of INFLUENZA A VIRUS comprised of the surface proteins HEMAGGLUTININ 10 and NEURAMINIDASE 8. The H10N8 subtype usually infects domestic birds (POULTRY) but there have been some human infections reported.
+AN  - infection: coordinate IM with INFLUENZA, HUMAN (IM) in humans, or INFLUENZA IN BIRDS (IM) in birds, or ORTHOMYXOVIRIDAE INFECTIONS (IM) in other animals
+HN  - 2015
+
+MH  - International Planned Parenthood Federation
+UI  - D066149
+MN  - N3.540.514.320
+AN  - CATALOG: use NAF entry
+HN  - 2015(1978); was indexed under INTERNATIONAL AGENCIES 1969-2014 ; was indexed under FAMILY PLANNING SERVICES 1965-1979
+
+MH  - Interoception
+UI  - D065812
+MN  - F2.463.593.465
+MS  - The perception of and sensitivity to stimuli originating inside of the body. It is a sense of the physiological condition of the entire body.
+AN  - do not confuse with enteroception; note entry term ALLIESTHESIA: do not confuse with ALLESTHESIA
+HN  - 2015
+
+MH  - Interpeduncular Nucleus
+UI  - D066268
+MN  - A8.186.211.132.659.413.875.618.436
+MN  - A8.186.211.653.413.500.618.436
+MS  - A nucleus located at the midline of the ventral MIDBRAIN TEGMENTUM with primarily GABAergic projections to the median and dorsal raphe nuclei and the MIDBRAIN CENTRAL GRAY.
+HN  - 2015
+
+MH  - Interrupted Time Series Analysis
+UI  - D065186
+MN  - E5.318.760.500.931
+MN  - N5.715.360.775.175.537
+MN  - N6.850.520.450.500.912
+MS  - A study that uses observations at multiple time points before and after an intervention (the "interruption"), in an attempt to detect whether the intervention has had an effect significantly greater than any underlying trend over time.
+HN  - 2015
+BX  - Interrupted Time Series
+
+MH  - Intestinal Elimination
+UI  - D066237
+MN  - G3.787.383
+MN  - G7.690.725.465
+MN  - G10.261.326.467
+MS  - The discharge of substances from the blood supply into the intestinal lumen for excretion by DEFECATION.
+AN  - do not confuse with DEFECATION
+HN  - 2015
+
+MH  - Intestinal Reabsorption
+UI  - D065628
+MN  - G3.495.23.500.374.500.500
+MN  - G3.495.355.500
+MN  - G3.787.24.500.374.500.500
+MN  - G7.610.593.345.500.500
+MN  - G7.690.725.15.500.374.500.500
+MN  - G10.261.326.305.500.500
+MS  - The re-uptake of substances in the intestines after their prior absorption from the intestines into the PORTAL SYSTEM and reintroduction into the intestines as substances accumulated in the BILE.
+HN  - 2015
+BX  - Enterohepatic Reabsorption
+
+MH  - Intramuscular Absorption
+UI  - D065586
+MN  - G3.495.23.500.562
+MN  - G3.787.24.500.562
+MN  - G7.690.725.15.500.562
+MN  - G11.427.590.362
+MS  - Uptake of substances via muscle tissue.
+HN  - 2015
+FX  - Injections, Intramuscular
+
+MH  - Karoshi Death
+UI  - D065907
+MN  - C14.280.383.220.500
+MN  - C23.550.260.322.250.500
+MS  - Sudden death from overwork, most often as a result of acute CARDIOVASCULAR STROKE.
+HN  - 2015
+BX  - Karoshi-Death
+FX  - Occupational Diseases
+
+MH  - Kolliker-Fuse Nucleus
+UI  - D065836
+MN  - A8.186.211.132.810.428.600.392
+MN  - A8.186.211.865.428.600.392
+MS  - A nucleus in the pons associated with RESPIRATION RATE control.
+HN  - 2015
+
+MH  - Lacrimal Elimination
+UI  - D066234
+MN  - G3.787.387
+MN  - G7.690.725.477
+MN  - G14.640.399
+MS  - The discharge of substances into the TEARS.
+AN  - distinguish from lacrimation, tear formation and secretion: see note at TEARS
+HN  - 2015
+
+MH  - Lacteal Elimination
+UI  - D066239
+MN  - G3.787.391
+MN  - G7.690.725.489
+MN  - G8.686.785.490
+MS  - The discharge of substances from the blood supply into the milk formed in and secreted by the MAMMARY GLAND.
+HN  - 2015
+
+MH  - Laminoplasty
+UI  - D065406
+MN  - E4.525.475
+MS  - A surgical procedure performed on selected pairs of vertebral lamina to relieve pressure on the SPINAL CORD and which also allows for osteoplastic enlargement of the SPINAL CANAL.
+HN  - 2015
+
+MH  - Laser-Evoked Potentials
+UI  - D066331
+MN  - G7.265.500.400.500
+MN  - G11.561.270.400.500
+MS  - Somatosensory evoked potentials generated through the application of HEAT to the SKIN with a LASER. They are often used clinically to assess the function of the central nociceptive system and in diagnosing NOCICEPTIVE PAIN.
+HN  - 2015
+
+MH  - Lennox Gastaut Syndrome
+UI  - D065768
+MN  - C10.228.140.490.583
+MN  - C16.320.495
+MS  - A childhood-onset epilepsy syndrome.
+HN  - 2015
+
+MH  - Licensed Practical Nurses
+UI  - D065102
+MN  - M1.526.485.67.450
+MN  - N2.360.67.450
+MS  - Health personnel who do not hold professional degrees or credentials, but have completed training and are licensed to provide routine patient care under the direction of registered nurses and physicians.
+HN  - 2015
+
+MH  - Limbic Lobe
+UI  - D065726
+MN  - A8.186.211.464.590
+MN  - A8.186.211.730.885.287.500.382
+MS  - The medial surface of the cerebral hemisphere around the brain stem.
+HN  - 2015
+
+MH  - Limonene Hydroxylases
+UI  - D065730
+MN  - D8.244.453.500
+MN  - D8.811.682.690.708.170.500
+MN  - D12.776.422.220.453.500
+MS  - Members of the P-450 enzyme family that take part in the hydroxylation of limonene.
+HN  - 2015
+
+MH  - Lipedema
+UI  - D065134
+MN  - C17.300.451
+MS  - Disorder of adipose tissue characterized by symmetric and bilateral enlargement of the lower extremities due to abnormal deposition of SUBCUTANEOUS FAT often in obese women. It is associated with HEMATOMA, pain and may progress to secondary LYMPHEDEMA which is known as lipolymphedema.
+HN  - 2015
+FX  - Lymphedema
+
+MH  - Lipid Droplets
+UI  - D066292
+MN  - A11.284.430.214.190.875.393
+MS  - Dynamic cytoplasmic organelles found in almost all cells. They consist of a central core of LIPIDS surrounded by a phospholipid monolayer studded with surface proteins, and are involved in LIPID METABOLISM and storage.
+AN  - differentiate from LIPOSOMES which are artificially created vesicles
+HN  - 2015
+
+MH  - Lubricant Eye Drops
+UI  - D065346
+MN  - D26.776.708.645.500
+MN  - D27.505.954.578.645.500
+MN  - D27.720.556.249
+MN  - D27.720.752.608.500
+MS  - Ophthalmic solutions that include LUBRICANTS and WETTING AGENTS such as POLYETHYLENE GLYCOL; HYPROMELLOSE; GLYCEROL; PROPYLENE GLYCOL. They are used to treat conditions caused by deficient tear production such as DRY EYE SYNDROME.
+HN  - 2015; for TEARS, ARTIFICIAL use OPHTHALMIC SOLUTIONS 1992-2014
+BX  - Artificial Tears
+BX  - Tears, Artificial
+
+MH  - Lysholm Knee Score
+UI  - D065466
+MN  - N4.761.559.590.399.500
+MN  - N5.715.360.575.575.399.500
+MS  - An instrument used to assess the results of rehabilitation from knee injuries, especially those requiring ANTERIOR CRUCIATE LIGAMENT RECONSTRUCTION. It measures recovery of knee joint function based on ACTIVITIES OF DAILY LIVING. 
+HN  - 2015
+FX  - Treatment Outcome
+
+MH  - Macular Pigment
+UI  - D065348
+MN  - D23.767.261.887.625
+MS  - A yellow pigment that accumulates in the MACULA LUTEA. It is composed of LUTEIN, meso-zeaxanthin, and ZEAXANTHIN.
+HN  - 2015
+
+MH  - Malformations of Cortical Development, Group I
+UI  - D065703
+MN  - C10.500.507.400
+MN  - C16.131.666.507.400
+MS  - Cortical malformations secondary to abnormal neuronal and glial CELL PROLIFERATION or APOPTOSIS in NEUROGENESIS. This group includes congenital MICROCEPHALIES; MICROLISSENCEPHALIES, megalencephalies, HEMIMEGALENCEPHALIES and cortical dysplasias with balloon cells.
+HN  - 2015
+
+MH  - Malformations of Cortical Development, Group III
+UI  - D065704
+MN  - C10.500.507.500
+MN  - C16.131.666.507.500
+MS  - Cortical malformations secondary to abnormal cortical maturation after CELL MIGRATION in NEUROGENESIS. This group includes injury to the cortex during later stages of cortical development such as POLYMICROGYRIA and focal cortical dysplasias.
+HN  - 2015
+
+MH  - Manufacturing Industry
+UI  - D066192
+MN  - J1.576.655
+MS  - An INDUSTRY which specializes in the fabrication or manufacture of products from raw or intermediate materials. 
+HN  - 2015; use INDUSTRY 2012-2014
+
+MH  - Medical Writing
+UI  - D066209
+MN  - L1.143.506.423.906.654
+MS  - The practice of writing usually by a skilled or specialized writer focused on the reporting or dissemination of medical information for a target audience.
+HN  - 2015
+FX  - Manuscripts, Medical
+
+MH  - Mesenteric Ischemia
+UI  - D065666
+MN  - C6.405.469.656
+MN  - C6.844.460
+MN  - C14.907.549
+MS  - Ischemic tissue injury produced by insufficient perfusion of intestinal tissue by the MESENTERIC CIRCULATION (i.e., CELIAC ARTERY; SUPERIOR MESENTERIC ARTERY; INFERERIOR MESENTERIC ARTERY; and MESENTERIC VEINS). It can progress from ISCHEMIA; EDEMA; and GANGRENE of the bowel wall to PERITONITIS and cardiovascular collapse.
+HN  - 2015
+FX  - Colitis, Ischemic
+FX  - Superior Mesenteric Artery Syndrome
+
+MH  - Metabolic Side Effects of Drugs and Substances
+UI  - D065606
+MN  - C25.100.812
+MN  - D27.505.389
+MS  - Specific effects of drugs and substances on metabolic pathways such as those occurring through the CYTOCHROME P-450 ENZYME SYSTEM. These include effects that often result in DRUG INTERACTIONS; FOOD-DRUG INTERACTIONS; and HERB-DRUG INTERACTIONS.
+AN  - used for searching: indexers and catalogers apply specifics
+HN  - 2015
+FX  - Drug Interactions
+FX  - Food-Drug Interactions
+FX  - Herb-Drug Interactions
+
+MH  - Midbrain Raphe Nuclei
+UI  - D066267
+MN  - A8.186.211.132.659.413.875.618.624
+MN  - A8.186.211.653.413.500.618.624
+MS  - Raphe nuclei located in the midbrain including the dorsal and median raphe nuclei. They are the origin of the major serotonergic innervation in the FOREBRAIN.
+HN  - 2015
+
+MH  - Midbrain Reticular Formation
+UI  - D066265
+MN  - A8.186.211.132.659.413.875.284
+MN  - A8.186.211.132.772.322
+MN  - A8.186.211.653.413.500.284
+MS  - The midbrain portion of the reticular formation located in the MIDBRAIN TEGMENTUM.
+HN  - 2015
+
+MH  - Middle Cerebellar Peduncle
+UI  - D065837
+MN  - A8.186.211.132.810.428.600.521
+MN  - A8.186.211.865.428.600.521
+MS  - WHITE MATTER consisting of a large bundle of paired fibers originating in the pontine nuclei in the pre pontis and the nucleus reticularis tegmenti pontis projecting to the contralateral cerebral cortex.
+HN  - 2015
+
+MH  - Middle East Respiratory Syndrome Coronavirus
+UI  - D065207
+MN  - B4.820.504.540.150.540
+MN  - B4.909.777.500.540.150.540
+MS  - A coronavirus first reported in the summer of 2012 in a pneumonia patient in SAUDI ARABIA. It is related to SARS VIRUS. MERS-CoV has an estimated incubation period of 12 days and symptoms include renal failure and severe acute pneumonia with often fatal outcome.
+AN  - infection: coordinate IM with MIDDLE EAST RESPIRATORY SYNDROME see CORONAVIRUS INFECTIONS (IM)
+HN  - 2015
+
+MH  - Military Family
+UI  - D066067
+MN  - F1.829.263.435
+MN  - I1.880.853.150.482
+MS  - Men and women serving on active duty in the military, or in a reserve military force, and their immediate family including spouses, children, and parents.
+AN  - for families of veterans, coordinate with VETERANS
+HN  - 2015
+BX  - Military Families
+FX  - Military Personnel
+FX  - Veterans
+
+MH  - Missionaries
+UI  - D066189
+MN  - M1.427
+MS  - Persons sent into an area to evangelize or to perform acts of service, such as medical care, EDUCATION, or SOCIAL JUSTICE. 
+AN  - RELIGIOUS MISSIONS and MEDICAL MISSIONS, OFFICIAL are also available
+HN  - 2015(1991); use MISSIONS AND MISSIONARIES 1990-2014
+FX  - Medical Missions, Official
+FX  - Religious Missions
+
+MH  - Monks
+UI  - D065830
+MN  - M1.526.799.750
+MS  - Members of a religious community of men typically living under vows of poverty, chastity, and obedience. 
+AN  - specify religion if pertinent
+HN  - 2015
+FX  - Religious Missions
+
+MH  - Morphological and Microscopic Findings
+UI  - D065308
+MN  - C23.149
+MS  - Morphological findings useful in differentiation and classification of results in CYTODIAGNOSIS and related techniques.
+AN  - not used for indexing; may be used by catalogers
+HN  - 2015
+
+MH  - Myotonin-Protein Kinase
+UI  - D065636
+MN  - D8.811.913.696.620.682.700.576
+MS  - Serine/threonine protein kinase responsible for various SKELETAL MUSCLE functions; HEART CONDUCTION SYSTEM activity; calcium HOMEOSTASIS; calcium uptake by SARCOPLASMIC RETICULUM and SYNAPTIC PLASTICITY. It is encoded by the DMPK gene and its abnormal EXPANDED TRINUCLEOTIDE REPEAT of CTG in the 3'-UTR is associated with MYOTONIC DYSTROPHY 1.
+HN  - 2015
+FX  - Myotonic Dystrophy
+
+MH  - Nasal Absorption
+UI  - D065588
+MN  - G3.495.23.500.703.500
+MN  - G3.787.24.500.703.500
+MN  - G7.690.725.15.500.703.500
+MN  - G9.772.770.787.500
+MS  - Uptake of substances through the nasal mucosa.
+HN  - 2015
+FX  - Administration, Intranasal
+
+MH  - Neuroscience Nursing
+UI  - D065816
+MN  - H2.478.676.542
+MN  - N2.421.533.505
+MS  - The nursing specialty focusing on the needs of patients with dysfunction of the NERVOUS SYSTEM. 
+HN  - 2015
+
+MH  - Nicolau Syndrome
+UI  - D065148
+MN  - C17.800.174.600.693
+MN  - C20.543.206.380.587
+MN  - C25.100.468.380.693
+MS  - An uncommon complication of INTRAMUSCULAR INJECTION leading to variable degrees of necrosis of skin and underlying tissue.
+HN  - 2015
+
+MH  - Non-alcoholic Fatty Liver Disease
+UI  - D065626
+MN  - C6.552.241.519
+MS  - Fatty liver finding without excessive ALCOHOL CONSUMPTION.
+HN  - 2015; use Fatty Liver 2010-2014
+
+MH  - Non-Randomized Controlled Trials as Topic
+UI  - D065228
+MN  - E5.318.760.535.365.249
+MN  - E5.337.250.365.249
+MN  - N5.715.360.775.235.387.249
+MN  - N6.850.520.450.535.365.249
+MS  - A study where participants are assigned to a treatment, procedure, or intervention my methods that are not random. Non-randomized clinical trials are sometimes referred to as quasi-experimental clinical trials or non-equivalent control group designs.
+HN  - 2015
+
+MH  - Nucleus Raphe Magnus
+UI  - D065846
+MN  - A8.186.211.132.810.428.600.650.562.500
+MN  - A8.186.211.865.428.600.650.593.500
+MS  - A nucleus located directly rostral to the NUCLEUS RAPHE OBSCURUS in the pontine part of the Raphe nuclei. Another pontine nucleus located directly rostral to the magnus nucleus is the nucleus raphe pontis.
+HN  - 2015
+
+MH  - Nucleus Raphe Obscurus
+UI  - D065849
+MN  - A8.186.211.132.810.406.706.436
+MN  - A8.186.211.865.467.500.662.436
+MS  - A nucleus in the medullary Raphe nuclei located caudal to the NUCLEUS RAPHE PALLIDUS.
+HN  - 2015
+
+MH  - Nucleus Raphe Pallidus
+UI  - D065848
+MN  - A8.186.211.132.810.406.706.624
+MN  - A8.186.211.865.467.500.662.624
+MS  - A nucleus in the medullary Raphe nuclei located rostral to the NUCLEUS RAPHE OBSCURUS and caudal to the NUCLEUS RAPHE MAGNUS.
+HN  - 2015
+
+MH  - Nuns
+UI  - D065831
+MN  - M1.526.799.875
+MS  - Members of a religious community of women typically living under vows of poverty, chastity, and obedience.
+HN  - 2015
+FX  - Religious Missions
+
+MH  - Ocular Absorption
+UI  - D065587
+MN  - G3.495.23.500.656
+MN  - G3.787.24.500.656
+MN  - G7.690.725.15.500.656
+MN  - G14.640.538
+MS  - Uptake of substances by tissues of the eye.
+HN  - 2015
+FX  - Administration, Ophthalmic
+FX  - Injections, Intraocular
+
+MH  - Oculomotor Nuclear Complex
+UI  - D065838
+MN  - A8.186.211.132.659.413.875.381
+MN  - A8.186.211.653.413.500.381
+MS  - A collection of nuclei in the midbrain tegmentum for the OCULOMOTOR NERVE fibers.
+HN  - 2015
+
+MH  - Olfactory Cortex
+UI  - D066194
+MN  - A8.186.211.730.885.287.500.620
+MN  - A8.186.211.730.885.287.500.814.695
+MN  - A8.186.211.730.885.287.750
+MS  - Basal forebrain and medial part of temporal lobe areas that receive synaptic inputs from the OLFACTORY BULB.
+HN  - 2015; use CENTRAL NERVOUS SYSTEM 1972-1990 and OLFACTORY PATHWAYS 1991-2014; for RHINENCEPHALON use LIMBIC SYSTEM 1963-1999 and OLFACTORY PATHWAYS 2000-2014
+BX  - Rhinencephalon
+
+MH  - Olfactory Tubercle
+UI  - D066208
+MN  - A8.186.211.730.885.287.249.487.775.750
+MN  - A8.186.211.730.885.287.500.620.656
+MN  - A8.186.211.730.885.287.500.814.695.500
+MN  - A8.186.211.730.885.287.750.656
+MS  - Region in the ventral TELENCEPHALON located anterior to the OPTIC CHIASM, posterior to the OLFACTORY PEDUNCLE, rostral to the PIRIFORM AREA and ventral to the NUCLEUS ACCUMBENS.
+HN  - 2015; use OLFACTORY PATHWAYS 1972-2014
+BX  - Anterior Perforated Substance
+
+MH  - Optic Tract
+UI  - D065866
+MN  - A8.186.211.730.317.689
+MS  - Nerve fiber originating from the OPTIC CHIASM that connects predominantly to the LATERAL GENICULATE BODIES. It is the continuation of the VISUAL PATHWAY that conveys the visual information originally from the RETINA to the optic chiasm via the OPTIC NERVES.
+HN  - 2015
+
+MH  - Oral Mucosal Absorption
+UI  - D065568
+MN  - G3.495.23.500.374.650
+MN  - G3.787.24.500.374.650
+MN  - G7.610.593.345.650
+MN  - G7.690.725.15.500.374.650
+MN  - G10.261.326.305.650
+MS  - Uptake of substances into the body via the mucosal surfaces (MUCOUS MEMBRANE) of the oral cavity.
+HN  - 2015
+FX  - Administration, Buccal
+FX  - Administration, Sublingual
+
+MH  - Organisation for Economic Co-Operation and Development
+UI  - D066150
+MN  - N3.540.514.481
+MS  - An international organization whose mission is to stimulate world trade and economic progress by offering a forum where governments can collectively develop and refine social and economic policies.
+AN  - CATALOG: use NAF entry
+HN  - 2015
+
+MH  - Organum Vasculosum
+UI  - D066278
+MN  - A8.186.211.464.497.342.231
+MN  - A8.186.211.730.317.357.342.315
+MN  - A8.186.211.730.885.287.500.620.374.500
+MS  - Circumventricular cellular structure in the anterior hypothalamic region. It is located in the optic recess at the anteroventral end of the THIRD VENTRICLE and forms the ventral part of the midline anterior wall.
+HN  - 2015
+BX  - Organum Vasculosum Laminae Terminalis
+
+MH  - Ornithine Decarboxylase Inhibitors
+UI  - D065108
+MN  - D27.505.519.389.705
+MS  - Substances and drugs that inhibit or block the activity of ORNITHINE DECARBOXYLASE.
+HN  - 2015
+
+MH  - Ovarian Reserve
+UI  - D065851
+MN  - G8.686.210.249
+MN  - G8.686.785.660
+MS  - Capacity of the ovary to provide viable eggs.
+HN  - 2015
+
+MH  - Oxalidaceae
+UI  - D065825
+MN  - B1.650.940.800.575.100.789
+MS  - Wood-sorrel family.
+HN  - 2015
+
+MH  - Palliative Medicine
+UI  - D065126
+MN  - H2.403.645
+MS  - A branch of medicine concerned with preventing and relieving the suffering of patients in any stage of disease. Its focus is on comprehensive care and improving the quality of all areas of the patient's life. 
+AN  - specialty only; use PALLIATIVE CARE for care of patients
+HN  - 2015; use PALLIATIVE CARE 1996-2014
+FX  - Hospice and Palliative Care Nursing
+FX  - Palliative Care
+
+MH  - Parabrachial Nucleus
+UI  - D065823
+MN  - A8.186.211.132.810.428.600.650.500
+MN  - A8.186.211.865.428.600.650.500
+MS  - A cell group in the pontine tegmentum surrounding the surfaces of the superior CEREBRAL PEDUNCLE of the PONS.
+HN  - 2015
+
+MH  - Pars Compacta
+UI  - D065842
+MN  - A8.186.211.132.659.413.656.249
+MN  - A8.186.211.653.413.374.249
+MS  - A region in the substantia nigra located dorsal to the PARS RETICULATA.
+HN  - 2015
+
+MH  - Pars Reticulata
+UI  - D065841
+MN  - A8.186.211.132.659.413.656.500
+MN  - A8.186.211.653.413.374.500
+MS  - A region in the substantia nigra located ventral and lateral to the PARS COMPACTA.
+HN  - 2015
+
+MH  - Patient-Specific Modeling
+UI  - D066230
+MN  - E5.599.395.821
+MN  - L1.224.160.750
+MS  - The development and application of computational models of human pathophysiology that are individualized to patient-specific data.
+HN  - 2015
+FX  - Individualized Medicine
+
+MH  - Pectus Carinatum
+UI  - D066166
+MN  - C5.116.99.739
+MN  - C5.182.525
+MN  - C5.660.745
+MN  - C16.131.621.745
+MN  - C17.300.182.525
+MS  - A developmental anomaly characterized by abnormal anterior protrusion of the STERNUM and adjacent COSTAL CARTILAGE.
+HN  - 2015
+
+MH  - Pedicle Screws
+UI  - D065289
+MN  - E7.695.370.437.500
+MN  - E7.858.442.660.460.437.500
+MN  - E7.858.690.725.460.437.500
+MS  - BONE SCREWS to be used in the pedicle of the vertebral arch.
+HN  - 2015
+
+MH  - Periamygdaloid Cortex
+UI  - D066277
+MN  - A8.186.211.464.90.875.500
+MN  - A8.186.211.464.590.750.612
+MN  - A8.186.211.464.710.612
+MN  - A8.186.211.730.885.287.249.152.875.500
+MN  - A8.186.211.730.885.287.500.382.750.612
+MS  - The surface of the parahippocampal gyrus overlying the cortical amygdaloid nucleus.
+HN  - 2015
+
+MH  - Perinatal Death
+UI  - D066087
+MN  - C13.703.572
+MN  - C23.550.260.865
+MS  - The death of a FETUS of GESTATIONAL AGE 28 weeks or more, or the death of a live-born INFANT less than 28 days of age.
+AN  - Do not confuse with PERINATAL MORTALITY, a statistical concept
+HN  - 2015
+FX  - Fetal Death
+FX  - Infant Death
+FX  - Perinatal Mortality
+
+MH  - Peritoneal Absorption
+UI  - D065629
+MN  - G3.495.23.500.667
+MN  - G3.787.24.500.667
+MN  - G7.690.725.15.500.667
+MS  - Uptake of substances from the PERITONEAL CAVITY.
+HN  - 2015
+FX  - Injections, Intraperitoneal
+
+MH  - Permafrost
+UI  - D065946
+MN  - G1.311.820.500
+MN  - G16.500.275.157.718.500
+MN  - G16.500.275.815.500
+MN  - N6.230.124.531.500
+MN  - N6.230.600.500
+MS  - Perennially frozen layer of soil below the surface in tundra.
+HN  - 2015
+
+MH  - Phoeniceae
+UI  - D065749
+MN  - B1.650.940.800.575.100.93.615
+MS  - Tribe of palms in the subfamily Coryphoideae, family Arecaceae.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther (IM) + PLANT PREPARATIONS or its indentations /ther use (IM or NIM) + specific plant chemical /ther use (IM) if pertinent
+HN  - 2015
+BX  - Dates, Palm
+BX  - Phoenix dactylifera
+
+MH  - Piriform Cortex
+UI  - D066195
+MN  - A8.186.211.730.885.287.500.620.750
+MN  - A8.186.211.730.885.287.750.750
+MS  - An area of the olfactory cortex comprising the rostral half of the uncus of the PARAHIPPOCAMPAL GYRUS and the anterior PARAHIPPOCAMPAL GYRUS. It receives major afferents directly from the OLFACTORY BULB.
+HN  - 2015
+
+MH  - Polymicrogyria
+UI  - D065706
+MN  - C10.500.507.500.500
+MN  - C16.131.666.507.500.500
+MS  - Heterogeneous disorders of cortical malformation characterized by excessive and small fused gyri and shallow sulci of the CORTEX with abnormal cortical lamination. It is considered a malformation secondary to abnormal post-migrational development of the neurons during cerebral cortical development and is associated with EPILEPSY and learning difficulties.
+HN  - 2015 (2008); use Malformations of Cortical Development 2008-2014
+
+MH  - Pontine Tegmentum
+UI  - D065821
+MN  - A8.186.211.132.810.428.600.650
+MN  - A8.186.211.865.428.600.650
+MS  - The dorsal region of pons bounded by the middle CEREBELLAR PEDUNCLES and the ventral part of the pons. It is continuous with the TEGMENTUM MESENCEPHALI and contains CEREBELLAR NUCLEI, lemnisci and RETICULAR FORMATION.
+HN  - 2015
+FX  - Trigeminal Nerve
+
+MH  - Porencephaly
+UI  - D065708
+MN  - C5.660.207.620.500
+MN  - C10.500.507.500.625
+MN  - C16.131.621.207.620.500
+MN  - C16.131.666.507.500.625
+MS  - Cortical malformations characterized by white matter-lined cleft or cyst associated with ISCHEMIA and hemorrhagic insults. Symptoms include delayed growth and development, HYPOTONIA; SEIZURES; SPASTIC HEMIPLEGIA and MACROCEPHALY; MICROCEPHALY; or HYDROCEPHALUS. Mutations in the genes encoding COLLAGEN TYPE IV are associated with familial types.
+HN  - 2015
+FX  - Collagen Type IV
+
+MH  - Posterior Cerebellar Commissure
+UI  - D066243
+MN  - A8.186.211.132.659.800.611
+MN  - A8.186.211.653.727.374
+MS  - A bundle of nerve fibers that crosses the midline in the tectum mesencephali dorsal to the CEREBRAL AQUEDUCT.
+HN  - 2015
+
+MH  - Practice Management, Veterinary
+UI  - D065447
+MN  - N4.452.758.708.525
+MS  - The organization and operation of the business aspects of a veterinary practice.
+HN  - 2015
+FX  - Hospitals, Animal
+
+MH  - Pre-Exposure Prophylaxis
+UI  - D065129
+MN  - N2.421.726.758.655
+MN  - N6.850.780.680.655
+MS  - A method of disease prevention (abbreviated PrEP) which involves the administration of drugs to at-risk persons who have not been exposed to the disease-causing agent.
+HN  - 2015
+
+MH  - Pregnancy, Angular
+UI  - D065170
+MN  - C13.703.733.619
+MS  - A rare type of abnormal pregnancy in which EMBRYO IMPLANTATION occurs at a lateral angle of the UTERUS, medial to the uterotubal junction and the round ligament.
+HN  - 2015
+
+MH  - Pregnancy, Cornual
+UI  - D065173
+MN  - C13.703.733.640
+MS  - A type of pregnancy in which the EMBRYO IMPLANTATION occurs in the horn of the UTERUS instead of in the uterine cavity, i.e. at the junction of the uterus and one of the FALLOPIAN TUBES.
+HN  - 2015
+
+MH  - Pregnancy, Interstitial
+UI  - D065167
+MN  - C13.703.733.703.500
+MS  - A type of ectopic pregnancy in which the extrauterine EMBRYO IMPLANTATION occurs in the portion of the FALLOPIAN TUBE that traverses the muscular wall of the uterus.
+HN  - 2015
+BX  - Interstitial Pregnancy
+
+MH  - Pregnancy, Ovarian
+UI  - D065172
+MN  - C13.703.733.661
+MS  - A type of pregnancy in which EMBRYO IMPLANTATION occurs in an OVARY instead of in the uterine cavity.
+HN  - 2015; use PREGNANCY, ECTOPIC 1980-2014
+BX  - Ovarian Pregnancy
+
+MH  - Premenstrual Dysphoric Disorder
+UI  - D065446
+MN  - C23.550.568.968.500
+MN  - F3.600.300.550
+MS  - A condition in which a woman suffers from severe depression, irritability, and tension before MENSTRUATION. Premenstrual dysphoric disorder (PMDD) may involve a wide range of physical or emotional symptoms, which are more severe and debilitating than those seen with premenstrual syndrome (PMS), and which include at least one mood-related symptom. Symptoms usually stop when, or shortly after, menstruation begins.
+HN  - 2015
+
+MH  - Prepulse Inhibition
+UI  - D065808
+MN  - G11.561.600.812.500
+MS  - A neurophysiological phenomenon in which the response to a startling stimulus (pulse) is decreased when a weaker prestimulus (prepulse) precedes it closely in time. It is used as an operational measure of sensorimotor gating.
+HN  - 2015
+FX  - Reflex, Startle
+
+MH  - Pretectal Region
+UI  - D066250
+MN  - A8.186.211.132.659.800.662
+MN  - A8.186.211.653.727.405
+MS  - Region of midbrain tectum located posterior to the THALAMUS and anterior to the SUPERIOR COLLICULUS.
+HN  - 2015
+
+MH  - Printing, Three-Dimensional
+UI  - D066330
+MN  - J1.897.564
+MN  - L1.224.108.150.500
+MN  - L1.296.110.150.500
+MS  - Process for making, building or constructing a physical object from a three-dimensional digital model by laying down many successive thin layers of building material.
+HN  - 2015
+
+MH  - Prophylactic Surgical Procedures
+UI  - D065286
+MN  - E4.625
+MS  - Surgical procedures done to prevent or reduce the risk of developing cancer or other disease conditions in persons who may be predisposed to such conditions.
+AN  - coordinate with specific surgical procedure and specific disease /prev
+HN  - 2015
+BX  - Surgical Procedures, Prophylactic
+FX  - Elective Surgical Procedures
+FX  - Primary Prevention
+
+MH  - Protective Factors
+UI  - D065840
+MN  - E5.318.740.600.800.582
+MN  - N5.715.350.200.675
+MN  - N5.715.360.750.625.700.570
+MN  - N6.850.490.625.625
+MN  - N6.850.520.830.600.800.582
+MS  - An aspect of personal behavior or lifestyle, environmental exposure, or inborn or inherited characteristic, which, on the basis of epidemiologic evidence, is known to be associated with prevention or mitigation of a health-related condition considered important to prevent.
+AN  - coordinate NIM with specific disease or other concept (IM)
+HN  - 2015
+
+MH  - Protein Aggregates
+UI  - D066329
+MN  - D5.875
+MS  - Any mixture of secondary, tertiary, or quaternary protein molecules which appear as clumps in or outside the cell.
+HN  - 2015
+FX  - Protein Aggregation, Pathological
+
+MH  - Protein Aggregation, Pathological
+UI  - D066263
+MN  - C23.550.770
+MN  - G2.111.668
+MS  - A biochemical phenomenon in which misfolded proteins aggregate either intra- or extracellularly. Triggered by factors such as MUTATION, POST-TRANSLATIONAL MODIFICATIONS, and environmental stress, it is generally associated with ALZHEIMER DISEASE; PARKINSON DISEASE; HUNTINGTON DISEASE; and TYPE 2 DIABETES MELLITUS.
+HN  - 2015
+FX  - Protein Aggregates
+
+MH  - Proton Magnetic Resonance Spectroscopy
+UI  - D066244
+MN  - E5.196.867.519.775
+MS  - Spectroscopy technique which measures changes in organic compounds by tracking the spectral energy of absorption of HYDROGEN atoms.
+HN  - 2015
+
+MH  - Psychology, Developmental
+UI  - D066233
+MN  - F4.96.628.270
+MS  - Field of study concerned with age-related changes in BEHAVIOR that occur in human beings over the course of life, from birth to death. It includes all aspects of human growth, including emotional, intellectual, social, perceptual and personality development. 
+AN  - use for the specialty only
+HN  - 2015
+BX  - Developmental Psychology
+FX  - Human Development
+FX  - Psychology, Adolescent
+FX  - Psychology, Child
+
+MH  - Pulmonary Elimination
+UI  - D066232
+MN  - G3.787.395
+MN  - G7.690.725.561
+MN  - G9.772.770.723
+MS  - The discharge of substances from the pulmonary capillary blood into the alveolar space to be exhaled or removed by MUCOCILIARY CLEARANCE.
+HN  - 2015
+FX  - Exhalation
+
+MH  - Rainforest
+UI  - D065947
+MN  - G16.500.275.157.437.500
+MN  - N6.230.124.343.500
+MS  - Forests with high average annual rainfall.
+HN  - 2015
+
+MH  - Raw Foods
+UI  - D066256
+MN  - J2.500.737
+MS  - Food prepared for consumption without exposure to heat.
+HN  - 2015
+
+MH  - Receptor, ErbB-4
+UI  - D066247
+MN  - D8.811.913.696.620.682.725.400.09.600
+MN  - D12.776.543.750.60.09.600
+MN  - D12.776.543.750.750.400.74.600
+MN  - D12.776.624.664.700.791
+MN  - D23.101.840.760
+MS  - A cell surface protein-tyrosine kinase receptor that has specificity for EPIREGULIN; BETACELLIN; NEUREGULINS; and HEPARIN-BINDING EGF-LIKE GROWTH-FACTOR.
+HN  - 2015
+
+MH  - Rectal Absorption
+UI  - D065590
+MN  - G3.495.23.500.374.825
+MN  - G3.787.24.500.374.825
+MN  - G7.690.725.15.500.374.825
+MN  - G10.261.326.305.825
+MS  - Uptake of substances from the RECTUM.
+HN  - 2015
+FX  - Administration, Rectal
+FX  - Suppositories
+
+MH  - Religious Personnel
+UI  - D065834
+MN  - M1.526.799
+MS  - Persons that live and work according to a religious vocation, or calling, to a consecrated or ordained life.
+HN  - 2015
+
+MH  - Renal Elimination
+UI  - D065667
+MN  - G3.787.410
+MN  - G7.690.725.609
+MN  - G8.852.796.788
+MS  - The discharge of substances from the blood supply via the URINARY TRACT.
+HN  - 2015
+FX  - Metabolic Clearance Rate
+
+MH  - Renal Reabsorption
+UI  - D065608
+MN  - G3.495.23.500.679
+MN  - G3.787.24.500.679
+MN  - G7.690.725.15.500.679
+MN  - G8.852.536.500
+MS  - The reuptake of water, ELECTROLYTES, and other substances by the KIDNEY to the blood supply.
+HN  - 2015
+
+MH  - Renshaw Cells
+UI  - D066293
+MN  - A8.675.358.650
+MN  - A11.671.358.375
+MS  - Ipsilateral glycinergic inhibitory interneurons of the SPINAL CORD VENTRAL HORN which modulate recurrent firing of MOTOR NEURONS. They develop from embryonic progenitor domain V1. Ia inhibitory interneurons which also originate from V1 are responsible for reciprocal inhibition of MOTONEURONS.
+HN  - 2015
+
+MH  - Respiratory Sinus Arrhythmia
+UI  - D065809
+MN  - G9.330.380.500.715
+MS  - A naturally occurring variation in heart rate that occurs during a BREATHING cycle, where the time between heartbeats is shortened during inspiration and prolonged during expiration. It is not the same as SINUS ARRHYTHMIA, the disorder.
+HN  - 2015
+
+MH  - Respiratory Tract Absorption
+UI  - D065589
+MN  - G3.495.23.500.703
+MN  - G3.787.24.500.703
+MN  - G7.690.725.15.500.703
+MN  - G9.772.770.787
+MS  - Uptake of substances via the RESPIRATORY SYSTEM.
+HN  - 2015
+FX  - Administration, Inhalation
+
+MH  - Response Evaluation Criteria in Solid Tumors
+UI  - D066066
+MN  - E1.789.800.379
+MN  - N4.761.559.590.800.569
+MN  - N5.715.360.575.575.800.569
+MS  - An internationally recognized set of published rules used for evaluation of cancer treatment that define when tumors found in cancer patients improve, worsen, or remain stable during treatment. These criteria are based specifically on the response of the tumor(s) to treatment, and not on the overall health status of the patient resulting from treatment.
+HN  - 2015
+BX  - RECIST
+
+MH  - Rhinitis, Allergic
+UI  - D065631
+MN  - C8.460.799.315
+MN  - C8.674.453
+MN  - C9.603.799.315
+MN  - C20.543.480.680.443
+MS  - An inflammation of the NASAL MUCOSA triggered by ALLERGENS.
+HN  - 2015
+BX  - Allergic Rhinitis
+
+MH  - Robotic Surgical Procedures
+UI  - D065287
+MN  - E2.950.875.500
+MN  - E4.749.500
+MN  - L1.700.508.100.710.800.500
+MS  - Surgical procedures performed using a computer that remotely controls surgical instruments attached to mechanical arms designed to perform the tasks of the surgeon.
+HN  - 2015
+BX  - Surgical Procedures, Robotic
+FX  - Robotics
+
+MH  - Rubus
+UI  - D065856
+MN  - B1.650.940.800.575.100.842.500.764
+MS  - A plant genus of the family Rosaceae whose members include blackberries and raspberries.
+HN  - 2015
+
+MH  - Salivary Elimination
+UI  - D065787
+MN  - G3.787.440
+MN  - G7.690.725.705
+MS  - The discharge of substances from the blood supply via diffusion into the SALIVA from the ORAL MUCOSA or from the SALIVARY GLANDS.
+AN  - distinguish from SALIVATION, the discharge of saliva from the salivary glands
+HN  - 2015
+
+MH  - Schizencephaly
+UI  - D065707
+MN  - C10.500.507.500.750
+MN  - C16.131.666.507.500.750
+MS  - Cortical malformations characterized by grey matter-lined cleft or cyst that extends from the EPENDYMA often to the PIA MATER outer surface. The grey matter that lines the cleft is often POLYMICROGYRIA. It is associated with developmental delay, motor disturbance and seizures.
+HN  - 2015 (2008); use Malformations of Cortical Development 2008-2014
+
+MH  - Sensorimotor Cortex
+UI  - D066191
+MN  - A8.186.211.730.885.287.500.814
+MS  - A composite area of the cerebral cortex concerned with motor control and sensory perception comprising the motor cortex areas, the somatosensory areas, the gustatory cortex, the olfactory areas, the auditory cortex, and the visual cortex.
+HN  - 2015
+
+MH  - Seoul
+UI  - D066106
+MN  - Z1.252.474.557.750.500
+MN  - Z1.433.887
+MS  - The capital of SOUTH KOREA.
+HN  - 2015
+
+MH  - Sepsis-Associated Encephalopathy
+UI  - D065166
+MN  - C10.228.140.807
+MS  - Acute neurological dysfunction during severe SEPSIS in the absence of direct brain infection characterized by systemic inflammation and BLOOD BRAIN BARRIER perturbation.
+AN  - coordinate with SEPSIS or specifics
+HN  - 2015
+FX  - Systemic Inflammatory Response Syndrome
+
+MH  - Serogroup
+UI  - D065288
+MN  - G5.695.825
+MS  - A set of variants within a species of microorganisms that are antigenically, closely related. With bacteria, a serogroup refers to a group that shares a common antigen.
+AN  - SEROTYPING is also available
+HN  - 2015
+FX  - Serotyping
+
+MH  - Slit Lamp
+UI  - D066167
+MN  - E1.370.380.703
+MS  - A microscope with a light source that can be projected into a linear beam. It allows cross-sectional viewing of the AQUEOUS HUMOR; CONJUNCTEIVA; CORNEA; EYELIDS; IRIS; and lens (see LENS, EYE) of the eye.
+HN  - 2015
+
+MH  - Social Capital
+UI  - D066270
+MN  - I1.880.853.375
+MS  - The expected benefits derived from the cooperation between individuals and groups.
+HN  - 2015
+
+MH  - Social Norms
+UI  - D066262
+MN  - F1.829.750
+MN  - I1.880.853.903
+MS  - Customary standards that govern behavior in groups, cultures, or societies. They reflect what a group deems acceptable in a social context in terms of appropriate and inappropriate values, beliefs, attitudes, and behaviors.
+HN  - 2015
+FX  - Social Conformity
+FX  - Social Values
+
+MH  - Social Skills
+UI  - D066107
+MN  - F1.145.813.828
+MN  - F1.829.401.737
+MS  - The personal set of abilities required to successfully interact and communicate with others, both verbally and non-verbally through gestures, body language and personal appearance. 
+HN  - 2015
+
+MH  - Social Theory
+UI  - D066269
+MN  - I1.880.761
+MS  - Frameworks of empirical evidence used to study and interpret social phenomena.
+HN  - 2015
+
+MH  - Sociological Factors
+UI  - D066252
+MN  - I1.880.853
+MS  - Attributes and experiences that influence an individual's personality, attitudes, and lifestyle, which are derived from the social values and/or behavior of the groups to which an individual belongs, or aspires to belong.
+HN  - 2015; for SOCIAL CHARACTERISTICS use SOCIOLOGY 1981-2014
+BX  - Sociological Phenomena
+
+MH  - Spatial Learning
+UI  - D065853
+MN  - F1.145.875.730
+MN  - F2.463.425.874
+MN  - F2.784.629.529.775
+MS  - A process through which individuals encode information about their environmental CUES to facilitate SPATIAL NAVIGATION.
+HN  - 2015
+FX  - Space Perception
+FX  - Spatial Memory
+
+MH  - Spatial Memory
+UI  - D065852
+MN  - F2.463.425.540.886
+MS  - Memory related to spatial information.
+HN  - 2015
+FX  - Spatial Learning
+
+MH  - Spatial Navigation
+UI  - D065854
+MN  - F1.145.875.797
+MN  - F2.463.641
+MS  - Process by which organisms use various cues to develop a route to a destination and their ability to travel such a planned route.
+HN  - 2015
+
+MH  - Spatial Processing
+UI  - D065855
+MN  - F1.145.875.830
+MS  - Integration of spatial information perceived by visual and/or auditory CUES.
+HN  - 2015
+FX  - Spatial Memory
+
+MH  - Spinal Cord Dorsal Horn
+UI  - D066148
+MN  - A8.186.854.697
+MS  - One of three central columns of the spinal cord. It is composed of GRAY MATTER spinal laminae I-VI.
+HN  - 2015
+
+MH  - Spinal Cord Lateral Horn
+UI  - D066152
+MN  - A8.186.854.443
+MS  - One of three central columns of the spinal cord. It is composed of GRAY MATTER and is located laterally in lamina VII.
+HN  - 2015
+BX  - Lateral Gray Column
+
+MH  - Spinal Cord Ventral Horn
+UI  - D066151
+MN  - A8.186.854.729
+MS  - One of three central columns of the spinal cord. It is composed of GRAY MATTER spinal laminae VIII and IX.
+HN  - 2015
+
+MH  - Squamous Intraepithelial Lesions of the Cervix
+UI  - D065310
+MN  - C4.834.818.500
+MN  - C13.351.500.852.593.74.500
+MN  - C23.149.750
+MS  - A cytological test finding often from PAP SMEARS that shows abnormal lesions of SQUAMOUS EPITHELIAL CELLS of the CERVIX. It is a diagnostic criterion used in the Bethesda System for UTERINE CERVICAL NEOPLASMS and represents the PAP TEST result that is abnormal. Although squamous intraepithelial lesions test result does not mean UTERINE CERVICAL NEOPLASMS it requires follow-ups (e.g., HPV DNA TESTS; and COLPOSCOPY).
+HN  - 2015
+BX  - Squamous Intraepithelial Lesions
+FX  - Cervical Intraepithelial Neoplasia
+
+MH  - Steroid Synthesis Inhibitors
+UI  - D065088
+MN  - D27.505.519.389.870
+MN  - D27.505.696.399.450.855
+MS  - Compounds that bind to and inhibit enzymes involved in the synthesis of STEROIDS.
+HN  - 2015
+
+MH  - Subcutaneous Absorption
+UI  - D065566
+MN  - G3.495.23.500.875
+MN  - G3.787.24.500.875
+MN  - G7.690.725.15.500.875
+MS  - The uptake of substances via the SUBCUTANEOUS TISSUE.
+HN  - 2015
+FX  - Infusions, Subcutaneous
+FX  - Injections, Subcutaneous
+
+MH  - Subtractive Hybridization Techniques
+UI  - D066251
+MN  - E5.393.332.500
+MN  - E5.393.661.820
+MS  - Methods of studying differential GENE EXPRESSION of especially low-abundance, tissue-specific gene transcripts.
+HN  - 2015
+FX  - Gene Expression Profiling
+
+MH  - Superior Olivary Complex
+UI  - D065832
+MN  - A8.186.211.132.810.428.600.650.625
+MN  - A8.186.211.865.428.600.650.625
+MS  - An auditory brainstem structure in the pontine tegmentum that contains several nuclei associated with auditory localization and is component of ascending and descending auditory pathways.
+HN  - 2015
+FX  - Olivary Nucleus
+
+MH  - Surgeons
+UI  - D066231
+MN  - M1.526.485.810.910
+MN  - N2.360.810.910
+MS  - Medical practitioners qualified to practice surgery.
+HN  - 2015
+FX  - Barber Surgeons
+
+MH  - Taiga
+UI  - D066188
+MN  - G16.500.275.157.437.750
+MN  - N6.230.124.343.750
+MS  - An ecosystem dominated by coniferous forests including the tree line bordered by TUNDRA to the north and STEPPE to the south.
+HN  - 2015
+
+MH  - Tectospinal Fibers
+UI  - D065844
+MN  - A8.186.211.132.810.753
+MN  - A8.186.211.865.753
+MS  - A neural tract which connects the TECTUM MESENCEPHALI and the SPINAL CORD and is involved in head and eye movement coordination.
+HN  - 2015
+
+MH  - Telencephalic Commissures
+UI  - D066245
+MN  - A8.186.211.730.885.390
+MS  - Set of nerve fibers that cross the midline of the TELENCEPHALON. They include the ANTERIOR COMMISSURE; the CORPUS CALLOSUM; and the HIPPOCAMPAL COMMISSURE of the fornix.
+HN  - 2015
+BX  - Forebrain Commissures
+
+MH  - Thyroid Carcinoma, Anaplastic
+UI  - D065646
+MN  - C4.557.470.200.725
+MS  - An aggressive THYROID GLAND malignancy which generally occurs in IODINE-deficient areas in people with previous thyroid pathology such as GOITER. It is associated with CELL DEDIFFERENTIATION of THYROID CARCINOMA (e.g., FOLLICULAR THYROID CARCINOMA; PAPILLARY THYROID CANCER). Typical initial presentation is a rapidly growing neck mass which upon metastasis is associated with DYSPHAGIA; NECK PAIN; bone pain; DYSPNEA; and NEUROLOGIC DEFICITS.
+AN  - coordinate IM with THYROID NEOPLASMS (IM)
+HN  - 2015 (2010); use Thyroid Neoplasms 2010-2014
+
+MH  - Toxicokinetics
+UI  - D066007
+MN  - G3.787.958
+MN  - G7.690.725.974
+MS  - The pharmacokinetic mechanisms of the toxic effects of a substance.
+AN  - IM general only: coordinate NIM with specific drug / tox / pois or / adv eff
+HN  - 2015; use PHARMACOKINETICS 1996-2014
+
+MH  - Transcatheter Aortic Valve Replacement
+UI  - D065467
+MN  - E4.100.376.485.500
+MN  - E4.650.410.500
+MN  - E4.928.220.410.500
+MS  - Surgical treatment for severe AORTIC VALVE STENOSIS. Transcatheter aortic valve replacement (TAVR) is used as an alternative option in patients who are deemed at high risk or inoperable for traditional open-heart surgery.
+HN  - 2015
+
+MH  - Transcranial Direct Current Stimulation
+UI  - D065908
+MN  - E2.342.767
+MN  - F4.570.200.791
+MN  - F4.669.224.650
+MS  - A technique of brain electric stimulation therapy which uses constant, low current delivered via ELECTRODES placed on various locations on the scalp.
+HN  - 2015
+FX  - Transcranial Magnetic Stimulation
+FX  - Transcutaneous Electric Nerve Stimulation
+
+MH  - Transfusion Reaction
+UI  - D065227
+MN  - C15.378.962
+MN  - C20.920
+MS  - Complications of BLOOD TRANSFUSION.
+HN  - 2015 (2012)
+BX  - Delayed Hemolytic Transfusion Reaction
+
+MH  - Transplant Recipients
+UI  - D066027
+MN  - M1.925
+MS  - Individuals receiving tissues or organs transferred from another individual of the same or different species, or from within the same individual.
+HN  - 2015(1976); was indexed under TRANSPLANTATION 1976-2014
+
+MH  - Trapezoid Body
+UI  - D065833
+MN  - A8.186.211.132.810.428.600.650.687
+MN  - A8.186.211.865.428.600.650.687
+MS  - A region in the pontine tegmentum containing nuclei and fibers associated with AUDITORY PATHWAYS.
+HN  - 2015
+FX  - Auditory Pathways
+
+MH  - Travel Nursing
+UI  - D065099
+MN  - N4.452.758.377.968
+MS  - A type of nursing practice involving licensed professional nurses who travel to work in temporary nursing positions. 
+AN  - do not confuse with TRAVEL MEDICINE - a field focusing on disease prevention and safety of patients during international travel
+HN  - 2015
+
+MH  - Trigeminal Motor Nucleus
+UI  - D066266
+MN  - A8.186.211.132.810.428.600.650.718
+MN  - A8.186.211.132.931.459
+MN  - A8.186.211.865.428.600.650.718
+MS  - Nucleus located in the pontine tegmentum with motor neurons that innervate the muscles of the JAW through the motor portion of the TRIGEMINAL NERVE.
+HN  - 2015
+
+MH  - Tundra
+UI  - D065929
+MN  - G16.500.275.157.718
+MN  - N6.230.124.531
+MS  - An ecosystem dominated by grasses, lichens, mosses, sedges and shrubs in cold landscapes or at high elevations where a layer of the ground remains perennially frozen (PERMAFROST).
+HN  - 2015
+
+MH  - Vaginal Absorption
+UI  - D066228
+MN  - G3.495.23.500.937
+MN  - G3.787.24.500.937
+MN  - G7.690.725.15.500.937
+MS  - The uptake of substances from the VAGINA via the vaginal epithelium/mucosa.
+HN  - 2015
+FX  - Administration, Intravaginal
+
+MH  - Vancomycin-Resistant Enterococci
+UI  - D065507
+MN  - B3.510.550.250.250.650
+MS  - Strains of the genus Enterococcus that are resistant to the antibiotic VANCOMYCIN. The enterococci become resistant by acquiring plasmids carrying genes for VANCOMYCIN RESISTANCE.
+AN  - coordinate with species of Enterococcus if relevant
+HN  - 2015
+BX  - Vancomycin Resistant Enterococci
+FX  - Vancomycin Resistance
+
+MH  - Vascular Closure Devices
+UI  - D065506
+MN  - E7.858.690.930
+MS  - Products used to seal the openings in BLOOD VESSELS from incisions or punctures made during ENDOVASCULAR PROCEDURES.
+HN  - 2015
+FX  - Hemostatic Techniques
+FX  - Hemostatics
+
+MH  - Vascular Remodeling
+UI  - D066253
+MN  - C23.300.977
+MN  - C23.550.918
+MN  - G9.330.930
+MS  - The active alterations of vascular wall structures, often leading to elevated VASCULAR RESISTANCE. It is associated with AGING; ATHEROSCLEROSIS; DIABETES MELLITUS; HYPERTENSION; PREGNANCY; PULMONARY HYPERTENSION; and STROKE, but is also a normal part of EMBRYOGENESIS.
+HN  - 2015
+FX  - Neovascularization, Pathologic
+FX  - Neovascularization, Physiologic
+
+MH  - Ventral Striatum
+UI  - D066328
+MN  - A8.186.211.730.885.287.249.487.775
+MS  - A composite structure of the TELENCEPHALON that is defined by connectivity. It includes the NUCLEUS ACCUMBENS; the ISLANDS OF CALLEJA; and parts of the CAUDATE NUCLEUS; the PUTAMEN; and the SUBSTANTIA INNOMINATA.
+HN  - 2015; use BASAL FOREBRAIN 2000-2014
+
+MH  - Vincetoxicum
+UI  - D066047
+MN  - B1.650.940.800.575.100.99.937
+MS  - A plant genus of the dogbane family ASCLEPIADACEAE.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) + specific plant chemical /ther use (IM) if pertinent
+HN  - 2015
+BX  - Cynanchum atratum
+
+MH  - Viral Fusion Protein Inhibitors
+UI  - D065147
+MN  - D27.505.519.957
+MN  - D27.505.954.122.388.538
+MS  - Drugs that are designed to block the action of VIRAL FUSION PROTEINS and prevent VIRUSES from entering the cell.
+HN  - 2015
+
+MH  - Vitamin D3 24-Hydroxylase
+UI  - D065668
+MN  - D8.244.453.978
+MN  - D8.811.682.690.708.170.957
+MN  - D12.776.422.220.453.957
+MS  - A cytochrome P-450 enzyme that has specificity for CHOLECALCIFEROL (Vitamin D3). It hydroxylates the molecule at carbon position 24.
+HN  - 2015
+
+MH  - Voriconazole
+UI  - D065819
+MN  - D3.383.129.799.950
+MS  - A triazole antifungal agent that specifically inhibits STEROL 14-ALPHA-DEMETHYLASE and CYTOCHROME P-450 CYP3A.
+HN  - 2015
+
+MH  - Waist-Height Ratio
+UI  - D065927
+MN  - E1.370.600.115.100.160.780
+MN  - E5.41.124.160.937
+MS  - The ratio of WAIST CIRCUMFERENCE to BODY HEIGHT.
+HN  - 2015
+
+MH  - Wernicke Area
+UI  - D065813
+MN  - A8.186.211.730.885.287.500.670.837
+MN  - A8.186.211.730.885.287.500.863.850
+MS  - Functional region comprising posterior part of the SUPERIOR TEMPORAL GYRUS in the dominant cerebral hemisphere (see CEREBRAL DOMINANCE) and often portions of the PARIETAL LOBE. Along with BROCA AREA it is important in SPEECH and LANGUAGE processes. A lesion in the area is associated with WERNICKE APHASIA and CONDUCTION APHASIA.
+HN  - 2015 (1982); use TEMPORAL LOBE 1982-2014
+FX  - Broca Area
+
+MH  - White Matter
+UI  - D066127
+MN  - A8.186.211.204
+MN  - A8.186.854.880
+MS  - The region of CENTRAL NERVOUS SYSTEM that appears lighter in color than the other type, GRAY MATTER. It mainly consists of MYELINATED NERVE FIBERS and contains few neuronal cell bodies or DENDRITES.
+HN  - 2015
+BX  - Cerebellar White Matter
+FX  - Nerve Fibers, Myelinated
+
+MH  - Xenophobia
+UI  - D065806
+MN  - F1.145.813.550.875
+MN  - F1.145.813.629.875
+MN  - F1.829.595.875
+MS  - Intense or irrational dislike or fear of anything that is strange or foreign, particularly of people who are strangers or foreigners. It is an attitudinal orientation of hostility against non-natives in a given population that includes attitudes, prejudices and behavior that reject, exclude or vilify persons, based on the perception that they are outsiders or foreigners to the community, society or national identity.
+HN  - 2015
+
+MH  - Zeaxanthins
+UI  - D065146
+MN  - D2.455.326.271.665.202.868.750
+MN  - D2.455.426.392.368.367.379.249.887.750
+MN  - D2.455.849.131.868.750
+MN  - D23.767.261.887.750
+MS  - Carotenoids found in fruits and vegetables. Zeaxanthin accumulates in the MACULA LUTEA.
+HN  - 2015
+
+MH  - Zona Incerta
+UI  - D065820
+MN  - A8.186.211.730.317.800.900
+MS  - A region of the subthalamus located ventral to the THALAMUS and dorsal to the SUBTHALAMIC NUCLEUS.
+HN  - 2015; use SUBTHALAMUS 2000-2014

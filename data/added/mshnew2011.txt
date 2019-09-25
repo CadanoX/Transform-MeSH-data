@@ -1,0 +1,5686 @@
+﻿NEW (2011) MESH HEADINGS WITH SCOPE NOTES (UNIT RECORD FORMAT; 8/9/2010)
+
+TOTAL 2011 NEW DESCRIPTORS = 573
+
+
+MH  - 14-alpha Demethylase Inhibitors
+UI  - D058888
+MN  - D27.505.519.389.49
+MS  - Compounds that specifically inhibit STEROL 14-DEMETHYLASE. A variety
+      of azole-derived ANTIFUNGAL AGENTS act through this mechanism.
+HN  - 2011
+
+MH  - 22q11 Deletion Syndrome
+UI  - D058165
+MN  - C5.660.207.103
+MN  - C14.240.400.21
+MN  - C14.280.400.44
+MN  - C15.604.451.249
+MN  - C16.131.77.19
+MN  - C16.131.240.400.21
+MN  - C16.131.260.19
+MN  - C16.131.482.249
+MN  - C16.131.621.207.103
+MN  - C16.320.180.19
+MN  - C19.642.482.500
+MS  - Condition with a variable constellation of phenotypes due to deletion
+      polymorphisms at chromosome location 22q11. It encompasses several
+      syndromes with overlapping abnormalities including the DIGEORGE
+      SYNDROME, VELOCARDIOFACIAL SYNDROME, and CONOTRUNCAL AMOMALY FACE
+      SYNDROME. In addition, variable developmental problems and schizoid
+      features are also associated with this syndrome. (From BMC Med Genet.
+      2009 Feb 25;10:16) Not all deletions at 22q11 result in the
+      22q11deletion syndrome.
+HN  - 2011
+
+MH  - 46, XX Disorders of Sex Development
+UI  - D058489
+MN  - C12.706.316.64
+MN  - C13.351.875.253.64
+MN  - C16.131.939.316.64
+MN  - C19.391.119.64
+MN  - F3.800.399.500
+MS  - Congenital conditions in individuals with a female karyotype, in which
+      the development of the gonadal or anatomical sex is atypical.
+HN  - 2011; for FEMALE PSEUDOHERMAPHRODITISM use DISORDERS OF SEX
+      DEVELOPMENT 2006-2010
+
+MH  - 46, XX Testicular Disorders of Sex Development
+UI  - D058531
+MN  - C12.706.316.64.124
+MN  - C13.351.875.253.64.124
+MN  - C16.131.939.316.64.124
+MN  - C19.391.119.64.124
+MS  - Congenital conditions in individuals in which male GONADS develop in a
+      genetic female (female to male sex reversal).
+HN  - 2011
+
+MH  - 46, XY Disorders of Sex Development
+UI  - D058490
+MN  - C12.706.316.96
+MN  - C13.351.875.253.96
+MN  - C16.131.939.316.96
+MN  - C19.391.119.96
+MN  - F3.800.399.750
+MS  - Congenital conditions in individuals with a male karyotype, in which
+      the development of the gonadal or anatomical sex is atypical.
+HN  - 2011; for MALE PSEUDOHERMAPHRODITISM use DISORDERS OF SEX DEVELOPMENT
+      2006-2010
+
+MH  - 5-alpha Reductase Inhibitors
+UI  - D058891
+MN  - D27.505.519.389.74
+MS  - Drugs that inhibit 3-OXO-5-ALPHA-STEROID 4-DEHYDROGENASE. They are
+      commonly used to reduce the production of DIHYDROTESTOSTERONE.
+HN  - 2011
+
+MH  - 5-Lipoxygenase-Activating Protein Inhibitors
+UI  - D058946
+MN  - D27.505.519.389.86
+MS  - Compounds that bind to and inhibit the action of
+      5-LIPOXYGENASE-ACTIVATING PROTEINS.
+HN  - 2011
+
+MH  - 5-Lipoxygenase-Activating Proteins
+UI  - D058927
+MN  - D12.644.360.24.32
+MN  - D12.776.476.24.34
+MN  - D12.776.543.19
+MS  - Scaffolding proteins that play an important role in the localization
+      and activation of 5-LIPOXYGENASES.
+HN  - 2011
+
+MH  - Abdominal Wound Closure Techniques
+UI  - D058107
+MN  - E4.987.100
+MS  - Methods to repair breaks in abdominal tissues caused by trauma or to
+      close surgical incisions during abdominal surgery.
+HN  - 2011
+
+MH  - Aberrant Crypt Foci
+UI  - D058739
+MN  - C4.834.20
+MS  - Clusters of colonic crypts that appear different from the surrounding
+      mucosa when visualized after staining. They are of interest as
+      putative precursors to colorectal adenomas and potential biomarkers
+      for colorectal carcinoma.
+AN  - coordinate IM with COLORECTAL NEOPLASMS or specifics (IM)
+HN  - 2011
+
+MH  - Abiotrophia
+UI  - D058835
+MN  - B3.510.550.30.14
+MS  - A genus of gram-positive, facultatively anaerobic bacteria in the
+      family AEROCOCCACEAE. There is only one species, Abiotrophia
+      defectiva, in the genus.
+AN  - infection: coordinate IM with GRAM POSITIVE BACTERIAL INFECTIONS (IM)
+HN  - 2011; use AEROCOCCACEAE 2010-2011
+
+MH  - Accessory Atrioventricular Bundle
+UI  - D058606
+MN  - C23.300.190
+MS  - Extra impulse-conducting tissue in the heart that creates abnormal
+      impulse-conducting connections between HEART ATRIA and HEART
+      VENTRICLES.
+HN  - 2011; for BUNDLE OF KENT use HEART CONDUCTION SYSTEM 1986-2010
+BX  - Bundle of Kent
+
+MH  - Achaete-Scute Complex Genome Region
+UI  - D058145
+MN  - G5.360.340.24.380.124
+MS  - A genomic region found in DROSOPHILA. The region contains genes
+      encoding BASIC HELIX-LOOP-HELIX TRANSCRIPTION FACTORS that play a
+      critical role in the regulation of pattern formation during EMBRYONIC
+      DEVELOPMENT.
+HN  - 2011
+
+MH  - Acute Kidney Injury
+UI  - D058186
+MN  - C12.777.419.780.50
+MN  - C13.351.968.419.780.50
+MS  - Abrupt reduction in kidney function defined as an absolute increase in
+      serum CREATININE of more than or equal to 0.3. mg/dl, a percentage
+      increase in serum creatinine of more than or equal to 50%, or a
+      reduction in urine output. Acute kidney injury encompasses the entire
+      spectrum of the syndrome including acute kidney failure; ACUTE KIDNEY
+      TUBULAR NECROSIS; and other less severe conditions.
+AN  - traumatic kidney injury: index KIDNEY/ inj
+HN  - 2011
+
+MH  - Adenosine A1 Receptor Agonists
+UI  - D058907
+MN  - D27.505.519.625.725.200.100.100
+MN  - D27.505.696.577.725.200.100.100
+MS  - Compounds that bind to and stimulate ADENOSINE A1 RECEPTORS.
+HN  - 2011
+
+MH  - Adenosine A1 Receptor Antagonists
+UI  - D058916
+MN  - D27.505.519.625.725.400.100.100
+MN  - D27.505.696.577.725.400.100.100
+MS  - Compounds that bind to and block the stimulation of ADENOSINE A1
+      RECEPTORS.
+HN  - 2011
+
+MH  - Adenosine A2 Receptor Agonists
+UI  - D058908
+MN  - D27.505.519.625.725.200.100.200
+MN  - D27.505.696.577.725.200.100.200
+MS  - Compounds that selectively bind to and activate ADENOSINE A2
+      RECEPTORS.
+HN  - 2011
+
+MH  - Adenosine A2 Receptor Antagonists
+UI  - D058917
+MN  - D27.505.519.625.725.400.100.200
+MN  - D27.505.696.577.725.400.100.200
+MS  - Compounds that selectively bind to and block the activation of
+      ADENOSINE A2 RECEPTORS.
+HN  - 2011
+
+MH  - Adenosine A3 Receptor Agonists
+UI  - D058909
+MN  - D27.505.519.625.725.200.100.300
+MN  - D27.505.696.577.725.200.100.300
+MS  - Drugs that selectively bind to and activate ADENOSINE A3 RECEPTORS.
+HN  - 2011
+
+MH  - Adenosine A3 Receptor Antagonists
+UI  - D058918
+MN  - D27.505.519.625.725.400.100.300
+MN  - D27.505.696.577.725.400.100.300
+MS  - Compounds that selectively bind to and block the activation of
+      ADENOSINE A3 RECEPTORS.
+HN  - 2011
+
+MH  - Adenosine Deaminase Inhibitors
+UI  - D058892
+MN  - D27.505.519.389.92
+MS  - Drugs that inhibit ADENOSINE DEAMINASE activity.
+HN  - 2011
+
+MH  - Administration, Mucosal
+UI  - D058956
+MN  - E2.319.267.85
+MS  - Delivery of a drug or other substance into the body through the
+      epithelium lining of MUCOUS MEMBRANE involved with absorption and
+      secretion.
+AN  - NIM but only if discussed: do not index here routinely for every
+      mucosal administration of a drug
+HN  - 2011
+BX  - Mucosal Administration
+FX  - Mucous Membrane
+
+MH  - Adrenergic alpha-1 Receptor Agonists
+UI  - D058646
+MN  - D27.505.519.625.50.100.100.100
+MN  - D27.505.696.577.50.100.100.100
+MS  - Compounds that bind to and activate ADRENERGIC ALPHA-1 RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic alpha-1 Receptor Antagonists
+UI  - D058668
+MN  - D27.505.519.625.50.200.100.100
+MN  - D27.505.696.577.50.200.100.100
+MS  - Drugs that bind to and block the activation of ADRENERGIC ALPHA-1
+      RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic alpha-2 Receptor Agonists
+UI  - D058647
+MN  - D27.505.519.625.50.100.100.200
+MN  - D27.505.696.577.50.100.100.200
+MS  - Compounds that bind to and activate ADRENERGIC ALPHA-2 RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic alpha-2 Receptor Antagonists
+UI  - D058669
+MN  - D27.505.519.625.50.200.100.200
+MN  - D27.505.696.577.50.200.100.200
+MS  - Drugs that bind to and block the activation ADRENERGIC ALPHA-1
+      RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic beta-1 Receptor Agonists
+UI  - D058665
+MN  - D27.505.519.625.50.100.200.100
+MN  - D27.505.696.577.50.100.200.100
+MS  - Compounds that bind to and activate ADRENERGIC BETA-1 RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic beta-1 Receptor Antagonists
+UI  - D058671
+MN  - D27.505.519.625.50.200.200.100
+MN  - D27.505.696.577.50.200.200.100
+MS  - Drugs that bind to and block the activation of ADRENERGIC BETA-1
+      RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic beta-2 Receptor Agonists
+UI  - D058666
+MN  - D27.505.519.625.50.100.200.200
+MN  - D27.505.696.577.50.100.200.200
+MS  - Compounds bind to and activate ADRENERGIC BETA-2 RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic beta-2 Receptor Antagonists
+UI  - D058672
+MN  - D27.505.519.625.50.200.200.200
+MN  - D27.505.696.577.50.200.200.200
+MS  - Drugs that bind to and block the activation of ADRENERGIC BETA-2
+      RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic beta-3 Receptor Agonists
+UI  - D058667
+MN  - D27.505.519.625.50.100.200.300
+MN  - D27.505.696.577.50.100.200.300
+MS  - Compounds that bind to and activate ADRENERGIC BETA-3 RECEPTORS.
+HN  - 2011
+
+MH  - Adrenergic beta-3 Receptor Antagonists
+UI  - D058673
+MN  - D27.505.519.625.50.200.200.300
+MN  - D27.505.696.577.50.200.200.300
+MS  - Drugs that bind to and block the activation of ADRENERGIC BETA-3
+      RECEPTORS.
+HN  - 2011
+
+MH  - Aeromonas caviae
+UI  - D057585
+MN  - B3.440.450.19.25.150
+MN  - B3.660.250.17.25.150
+MS  - A species of gram-negative, facultatively anaerobic bacteria that is
+      found in domestic and wild animals including birds, and fish. In
+      humans it causes GASTROENTERITIS in young children and some adults.
+AN  - infection: coordinate IM with GRAM-NEGATIVE BACTERIAL INFECTIONS (IM)
+      and GASTROENTERITIS (IM) if pertinent
+HN  - 2011
+
+MH  - Agricultural Irrigation
+UI  - D057914
+MN  - J1.40.44
+MS  - The routing of water to open or closed areas where it is used for
+      agricultural purposes.
+HN  - 2011
+
+MH  - Aicardi Syndrome
+UI  - D058540
+MN  - C10.500.106
+MN  - C11.270.19
+MN  - C16.131.162
+MN  - C16.131.666.106
+MN  - C16.320.290.19
+MN  - C16.320.322.30
+MS  - A rare genetic disorder characterized by partial or complete absence
+      of the CORPUS CALLOSUM, resulting in infantile spasms, MENTAL
+      RETARDATION, and lesions of the RETINA or OPTIC NERVE.
+HN  - 2011
+
+MH  - Airports
+UI  - D059028
+MN  - J1.86.339.34
+MN  - N6.850.860.410.54
+MS  - Terminal facilities used for aircraft takeoff and landing and
+      including facilities for handling passengers. (from McGraw-Hill
+      Dictionary of Scientific and Technical Terms, 6th ed.)
+HN  - 2011
+BX  - Airport
+
+MH  - Airway Management
+UI  - D058109
+MN  - E2.41
+MS  - Evaluation, planning, and use of a range of procedures and airway
+      devices for the maintenance or restoration of a patient's ventilation.
+HN  - 2011
+FX  - Respiratory Therapy
+
+MH  - Amblycera
+UI  - D058325
+MN  - B1.50.500.131.617.690.50
+MS  - A suborder of chewing lice, in the order PHTHIRAPTERA, that are
+      ectoparasites of poultry and some mammals.
+AN  - infestation: coordinate IM with LICE INFESTATIONS (IM); for killing
+      Amblycera with insecticides, see note at INSECTICIDES
+HN  - 2011; use PHTHIRAPTERA 1999-2010
+
+MH  - Amyloidogenic Proteins
+UI  - D058227
+MN  - D12.776.49.407
+MS  - Proteins that form the core of amyloid fibrils. For example, the core
+      of amyloid A is formed from amyloid A protein, also known as serum
+      amyloid A protein or SAA protein.
+HN  - 2011; use AMYLOID 2004-2010
+
+MH  - Anastomotic Leak
+UI  - D057868
+MN  - C6.405.58
+MN  - C23.550.767.71
+MS  - Breakdown of the connection and subsequent leakage of digestive system
+      fluid from a SURGICAL ANASTOMOSIS of digestive system structures. Most
+      common leakages are from breakdown of the sutured lines in
+      gastrointestinal or bowel anastomosis.
+HN  - 2011
+FX  - Anastomosis, Surgical
+
+MH  - Androgen Receptor Antagonists
+UI  - D059002
+MN  - D6.347.65.249
+MN  - D27.505.696.399.450.65.249
+MS  - Compounds that bind to and inhibit the activation of ANDROGEN
+      RECEPTORS.
+HN  - 2011
+
+MH  - Angiotensin II Type 2 Receptor Blockers
+UI  - D057912
+MN  - D27.505.519.162.750
+MS  - Agents that antagonize the ANGIOTENSIN II TYPE 2 RECEPTOR.
+HN  - 2011
+
+MH  - Angiotensin Receptor Antagonists
+UI  - D057911
+MN  - D27.505.519.162
+MS  - Agents that antagonize ANGIOTENSIN RECEPTORS. Many drugs in this class
+      specifically target the ANGIOTENSIN TYPE 1 RECEPTOR.
+HN  - 2011
+
+MH  - Animal Fins
+UI  - D058500
+MN  - A13.77
+MS  - Membranous appendage of fish and other aquatic organisms used for
+      locomotion or balance.
+HN  - 2011
+
+MH  - Anoxybacillus
+UI  - D058677
+MN  - B3.300.390.400.158.108
+MN  - B3.510.100.100.108
+MN  - B3.510.415.400.158.108
+MN  - B3.510.460.410.158.108
+MS  - A genus of GRAM-POSITIVE ENDOSPORE-FORMING BACTERIA in the family
+      Bacillaceae. Most species have been isolated from HOT SPRINGS.
+HN  - 2011
+
+MH  - Anterior Capsular Rupture, Ocular
+UI  - D057971
+MN  - C11.297.249
+MS  - A breach in the continuity of the ANTERIOR CHAMBER of the eyeball.
+HN  - 2011
+
+MH  - Anterior Capsule of the Lens
+UI  - D057866
+MN  - A9.371.61
+MS  - The anterior aspect of the casing that surrounds the natural
+      CRYSTALLINE LENS.
+HN  - 2011
+
+MH  - Antibodies, Monoclonal, Murine-Derived
+UI  - D058846
+MN  - D12.776.124.486.485.114.224.75
+MN  - D12.776.124.790.651.114.224.75
+MN  - D12.776.377.715.548.114.224.284
+MS  - Antibodies obtained from a single clone of cells grown in mice or
+      rats.
+AN  - use when indicated in text; follow author's terminology
+HN  - 2011
+
+MH  - Anticipation, Psychological
+UI  - D059031
+MN  - F2.463.93
+MS  - The ability to foresee what is likely to happen on the basis of past
+      experience. It is largely a frontal lobe function.
+HN  - 2011
+
+MH  - Antipyretics
+UI  - D058633
+MN  - D27.505.696.68
+MS  - Drugs that are used to reduce body temperature in fever.
+HN  - 2011; use ANALGESICS, NON-NARCOTIC 1995-2010
+
+MH  - Antithrombin Proteins
+UI  - D058833
+MN  - D12.644.822.750.60
+MN  - D12.644.861.60
+MN  - D12.776.645.750.60
+MN  - D12.776.872.60
+MS  - An endogenous family of proteins belonging to the serpin superfamily
+      that neutralizes the action of thrombin. Six naturally occurring
+      antithrombins have been identified and are designated by Roman
+      numerals I to VI. Of these, Antithrombin I (see FIBRIN) and
+      ANTITHROMBIN III appear to be of major importance.
+AN  - ANTITHROMBINS is also available
+HN  - 2011
+
+MH  - Apathy
+UI  - D057565
+MN  - F1.470.137
+MS  - Lack of emotion or emotional expression; a disorder of motivation that
+      persists over time.
+HN  - 2011
+
+MH  - Aquatic Organisms
+UI  - D059001
+MN  - B5.80
+MN  - G16.500.275.810.650.75
+MS  - Organisms that live in water.
+AN  - general or unspecified; prefer specific organisms
+HN  - 2011
+FX  - Marine Biology
+FX  - Plankton
+
+MH  - Argon Plasma Coagulation
+UI  - D057908
+MN  - E2.520.425.500
+MN  - E2.520.490.500
+MN  - E4.14.170.402.54
+MN  - E4.350.500
+MS  - A method of tissue ablation and bleeding control that uses argon
+      plasma (ionized argon gas) to deliver a current of thermocoagulating
+      energy to the area of tissue to be coagulated.
+HN  - 2011
+
+MH  - Arthroplasty, Replacement, Ankle
+UI  - D058737
+MN  - E4.555.110.110.10
+MN  - E4.650.110.10
+MS  - Replacement of the ANKLE JOINT.
+HN  - 2011
+
+MH  - Arthroplasty, Replacement, Elbow
+UI  - D057929
+MN  - E4.555.110.110.45
+MN  - E4.650.110.45
+MS  - Replacement of the ELBOW JOINT.
+HN  - 2011
+
+MH  - Arthropod Antennae
+UI  - D057506
+MN  - A13.93
+MS  - Paired sense organs connected to the anterior segments of ARTHROPODS
+      that help them navigate through the environment.
+HN  - 2011
+
+MH  - Artificial Cells
+UI  - D058045
+MN  - J1.637.51.479.258
+MN  - J1.637.87.500.254
+MS  - Chemically synthesized structures which functionally resemble natural
+      cells.
+HN  - 2011
+FX  - Blood Substitutes
+
+MH  - Asymptomatic Diseases
+UI  - D058070
+MN  - C23.550.291.187
+MS  - Diseases that do not exhibit symptoms.
+AN  - ASYMPTOMATIC INFECTIONS is also available
+HN  - 2011
+
+MH  - Asymptomatic Infections
+UI  - D058345
+MN  - C23.550.291.187.500
+MS  - Infections that do not exhibit symptoms.
+HN  - 2011
+BX  - Subclinical Infections
+
+MH  - Axial Length, Eye
+UI  - D058452
+MN  - A9.371.199
+MN  - E1.370.600.115.100.660.500
+MS  - The distance between the anterior and posterior poles of the eye,
+      measured either by ULTRASONOGRAPHY or by partial coherence
+      interferometry.
+HN  - 2011
+
+MH  - Bacterial Load
+UI  - D058491
+MN  - E5.200.875.150.115
+MN  - E5.200.875.220.115
+MN  - G6.99.100
+MS  - Measurable quantity of bacteria in an object, organism, or organism
+      compartment.
+HN  - 2011; for BACTERIAL COUNT use COLONY COUNT, MICROBIAL 1992-2010
+BX  - Bacterial Count
+
+MH  - Bacterial Secretion Systems
+UI  - D058947
+MN  - G6.99.112.104
+MN  - G6.590.110.104
+MS  - Processes that translocate macromolecules across the cell envelope of
+      gram negative bacteria, often directly into the host. These effectors
+      modulate the defense response and thereby facilitate survival of the
+      pathogen.
+HN  - 2011
+
+MH  - Balanced Anesthesia
+UI  - D058126
+MN  - E3.155.197.682
+MS  - The use of several ANESTHETICS together in small amounts, as opposed
+      to a larger amount of one drug, to induce loss of sensation and loss
+      of consciousness.
+HN  - 2011
+FX  - Adjuvants, Anesthesia
+
+MH  - Biglycan
+UI  - D058578
+MN  - D12.776.395.650.750.562
+MS  - A small leucine-rich proteoglycan found in a variety of tissues
+      including CAPILLARY ENDOTHELIUM; SKELETAL MUSCLE; CARTILAGE; BONE; and
+      TENDONS. The protein contains two glycosaminoglycan chains and is
+      similar in structure to DECORIN.
+HN  - 2011
+
+MH  - Biological Oxygen Demand Analysis
+UI  - D057919
+MN  - N6.850.460.350.80.500
+MN  - N6.850.780.375.349
+MS  - Testing for the amount of biodegradable organic material in a water
+      sample by measuring the quantity of oxygen consumed by biodegradation
+      of those materials over a specific time period.
+HN  - 2011
+BX  - Biological Oxygen Demand
+BX  - Biological Oxygen Demand Analyses
+
+MH  - Biota
+UI  - D058448
+MN  - G16.500.275.157.49.100
+MN  - N6.230.124.49.100
+MS  - The spectrum of different living organisms inhabiting a particular
+      region, habitat, or biotope.
+HN  - 2011; use BIODIVERSITY 2004-2010
+BX  - Community Composition, Ecological
+BX  - Community Structure, Ecological
+FX  - Microbial Interactions
+
+MH  - Birt-Hogg-Dube Syndrome
+UI  - D058249
+MN  - C4.700.212
+MN  - C16.320.700.212
+MS  - Autosomal dominant neoplastic syndrome characterised by
+      genodermatosis, lung cysts, spontaneous and recurrent PNEUMOTHORAX;
+      and RENAL CANCER. It is associated with mutations in the folliculin
+      protein gene (FLCN protein).
+HN  - 2011
+BX  - Fibrofolliculomas with Trichodiscomas and Acrochordons
+
+MH  - Black Sea
+UI  - D059038
+MN  - Z1.756.217
+MS  - An inland sea between Europe and Asia. It is connected with the Aegean
+      Sea by the Bosporus, the Sea of Marmara, and the Dardanelles.
+HN  - 2011
+
+MH  - Blalock-Taussig Procedure
+UI  - D058366
+MN  - E4.35.137
+MN  - E4.100.814.868.374
+MS  - A cardiovascular procedure performed to create a blood supply to the
+      PULMONARY CIRCULATION. It involves making a connection between the
+      subclavian, or carotid branch of the AORTA, or the AORTIC ARCH to the
+      PULMONARY ARTERY.
+HN  - 2011
+
+MH  - Bleaching Agents
+UI  - D057886
+MN  - D27.720.642.315
+MS  - Chemicals that are used to oxidize pigments and thus effect whitening.
+HN  - 2011
+
+MH  - Blood Buffy Coat
+UI  - D058621
+MN  - A15.145.229.93
+MS  - The fraction of a blood sample, following CENTRIFUGATION, that is
+      distinguished as a thin light-colored layer between the RED BLOOD
+      CELLS, underneath it, and the PLASMA, above it. It is composed mostly
+      of WHITE BLOOD CELLS and PLATELETS.
+HN  - 2011
+
+MH  - Blood Safety
+UI  - D058731
+MN  - E1.450.865.366.833.230.500
+MN  - E5.760.833.230.500
+MN  - N6.850.780.200.450.325
+MS  - The degree to which the blood supply for BLOOD TRANSFUSIONS is free of
+      harmful substances or infectious agents, and properly typed and
+      crossmatched (BLOOD GROUPING AND CROSSMATCHING) to insure serological
+      compatibility between BLOOD DONORS and recipients.
+HN  - 2011
+BX  - Hemovigilance
+
+MH  - Bloodless Medical and Surgical Procedures
+UI  - D057668
+MN  - E2.760.148
+MN  - E4.79
+MN  - N2.421.585.148
+MS  - The treatment of patients without the use of allogeneic BLOOD
+      TRANSFUSIONS or blood products.
+HN  - 2011
+BX  - Bloodless Medicine and Surgery Programs
+FX  - Blood Substitutes
+FX  - Operative Blood Salvage
+
+MH  - Brachypodium
+UI  - D058431
+MN  - B1.650.940.800.575.100.822.72
+MS  - A plant genus in the family POACEAE. Brachypodium distachyon is a
+      model species for functional genomics studies.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Brain Waves
+UI  - D058256
+MN  - E1.370.376.300.150
+MN  - E1.370.405.245.287
+MN  - G7.265.87
+MN  - G11.561.127
+MS  - Wave-like oscillations of electric potential between parts of the
+      brain recorded by EEG.
+HN  - 2011
+
+MH  - Brevibacillus
+UI  - D058675
+MN  - B3.300.390.400.160
+MN  - B3.510.100.117
+MN  - B3.510.415.400.179
+MN  - B3.510.460.410.165
+MS  - A genus of GRAM-POSITIVE ENDOSPORE-FORMING RODS in the family
+      Paenibacillaceae. Most strains have been isolated from the natural
+      environment, particularly soils.
+HN  - 2011
+
+MH  - Brevican
+UI  - D058581
+MN  - D12.776.395.650.750.687.275
+MN  - D12.776.503.280.437.275
+MS  - A BRAIN-specific hyalectin that may play a role in terminally
+      differentiating NEURONS. It is found highly overexpressed in primary
+      BRAIN TUMORS and in experimental models of GLIOMA.
+HN  - 2011
+
+MH  - Brochothrix
+UI  - D058640
+MN  - B3.510.100.120
+MN  - B3.510.460.400.410.120
+MS  - A genus of gram-positive bacteria in the family Listeriaceae. It has
+      93% homology to LISTERIA and shares with it many phenotypic
+      properties.
+HN  - 2011
+
+MH  - Bullying
+UI  - D058445
+MN  - F1.145.126.125.550
+MS  - Aggressive behavior intended to cause harm or distress. The behavior
+      may be physical or verbal. There is typically an imbalance of power,
+      strength, or status between the target and the aggressor.
+HN  - 2011
+
+MH  - Burkholderia cenocepacia
+UI  - D057508
+MN  - B3.440.400.425.251.100.110.490
+MN  - B3.660.75.77.100.110.490
+MS  - A species of gram-negative bacteria that causes disease in plants. It
+      is found commonly in the environment and is an opportunistic pathogen
+      in humans.
+AN  - infection: coordinate IM with BURKHOLDERIA INFECTIONS (IM)
+HN  - 2011
+
+MH  - Calcimimetic Agents
+UI  - D057966
+MN  - D6.347.230
+MN  - D27.505.696.399.450.230
+MS  - Small organic molecules that act as allosteric activators of the
+      calcium sensing receptor (CaSR) in the PARATHYROID GLANDS and other
+      tissues. They lower the threshold for CaSR activation by extracellular
+      calcium ions and diminish PARATHYROID HORMONE (PTH) release from
+      parathyroid cells.
+HN  - 2011
+
+MH  - Calcitonin Receptor-Like Protein
+UI  - D058286
+MN  - D12.776.543.750.100.11
+MS  - A receptor protein that is associated with RECEPTOR ACTIVITY-MODIFYING
+      PROTEINS.  When bound to RECEPTOR ACTIVITY-MODIFYING PROTEIN 1 it
+      forms the CALCITONIN GENE-RELATED RECEPTOR. When bound to RECEPTOR
+      ACTIVITY-MODIFYING PROTEIN 2 or RECEPTOR ACTIVITY-MODIFYING PROTEIN 3
+      it forms the ADRENOMEDULLIN RECEPTOR.
+HN  - 2011
+BX  - Calcitonin Receptor-Like Receptor
+
+MH  - Cambium
+UI  - D058506
+MN  - A18.24.875.875.500
+MN  - A18.400.500.299
+MS  - A layer of living cells between the bark and hardwood that each year
+      produces additional wood and bark cells, forming concentric growth
+      rings.
+HN  - 2011
+
+MH  - Candidemia
+UI  - D058387
+MN  - C1.539.757.360.150
+MN  - C1.703.160.175.150
+MN  - C1.703.360.150
+MN  - C23.550.470.790.500.360.150
+MS  - A form of invasive candidiasis where species of CANDIDA are present in
+      the blood.
+HN  - 2011
+
+MH  - Candidiasis, Invasive
+UI  - D058365
+MN  - C1.703.160.175
+MS  - An important nosocomial fungal infection with species of the genus
+      CANDIDA, most frequently CANDIDA ALBICANS. Invasive candidiasis occurs
+      when candidiasis goes beyond a superficial infection and manifests as
+      CANDIDEMIA, deep tissue infection, or disseminated disease with deep
+      organ involvement.
+HN  - 2011
+
+MH  - Capsule Opacification
+UI  - D058442
+MN  - C11.510.245.500
+MS  - Clouding or loss of transparency of the posterior lens capsule,
+      usually following CATARACT extraction.
+HN  - 2011
+
+MH  - Carbon Cycle
+UI  - D057486
+MN  - G2.607.750.120
+MN  - G2.842.750.270
+MN  - G16.500.240.118
+MS  - The cycle by which the element carbon is exchanged between organic
+      matter and the earth's physical environment.
+HN  - 2011
+
+MH  - Carbon Footprint
+UI  - D058572
+MN  - G16.500.275.66
+MN  - N6.230.63
+MS  - A measure of the total greenhouse gas emissions produced by an
+      individual, organization, event, or product. It is measured in units
+      of equivalent kilograms of CARBON DIOXIDE generated in a given time
+      frame.
+HN  - 2011
+FX  - Global Warming
+FX  - Greenhouse Effect
+
+MH  - Carbon Sequestration
+UI  - D057965
+MN  - G2.842.750.270.500
+MS  - Any of several processes for the permanent or long-term artificial or
+      natural capture or removal and storage of carbon dioxide and other
+      forms of carbon, through biological, chemical or physical processes,
+      in a manner that prevents it from being released into the atmosphere.
+HN  - 2011
+
+MH  - Cardiac Imaging Techniques
+UI  - D057791
+MN  - E1.370.350.130
+MS  - Visualization of the heart structure and cardiac blood flow for
+      diagnostic evaluation or to guide cardiac procedures via techniques
+      including ENDOSCOPY (cardiac endoscopy, sometimes refered to as
+      cardioscopy), RADIONUCLIDE IMAGING; MAGNETIC RESONANCE IMAGING;
+      TOMOGRAPHY; or ULTRASONOGRAPHY.
+AN  - cardioscopy: coordinate CARDIAC IMAGING TECHNIQUES with ENDOSCOPY
+HN  - 2011
+
+MH  - Cardiac Resynchronization Therapy
+UI  - D058406
+MN  - E2.342.124.500
+MS  - The restoration of the sequential order of contraction and relaxation
+      of the HEART ATRIA and HEART VENTRICLES by atrio-biventricular pacing.
+HN  - 2011
+FX  - Cardiac Resynchronization Therapy Devices
+
+MH  - Cardiac Resynchronization Therapy Devices
+UI  - D058409
+MN  - E7.305.250.750.500
+MS  - Types of artificial pacemakers with implantable leads to be placed at
+      multiple intracardial sites. They are used to treat various cardiac
+      conduction disturbances which interfere with the timing of contraction
+      of the ventricles. They may or may not include defibrillating
+      electrodes (IMPLANTABLE DEFIBRILLATORS) as well.
+HN  - 2011
+FX  - Cardiac Resynchronization Therapy
+
+MH  - Cardiac Valve Annuloplasty
+UI  - D058385
+MN  - E4.100.376.62
+MN  - E4.928.220.109
+MS  - A type of heart valve surgery that involves the repair, replacement,
+      or reconstruction of the annuli of HEART VALVES. It includes
+      shortening the circumference of the annulus to improve valve closing
+      capacity and reinforcing the annulus as a step in more complex valve
+      repairs.
+HN  - 2011
+
+MH  - Catabolite Repression
+UI  - D057465
+MN  - G6.590.235
+MS  - Process by which micro-organisms adapt quickly to a preferred
+      rapidly-metabolizable intermediate through the inhibition or
+      repression of genes related to CATABOLISM of less preferred source(s).
+HN  - 2011
+
+MH  - Catastrophization
+UI  - D058443
+MN  - F1.100.575
+MN  - F1.470.132.225
+MS  - Cognitive and emotional processes encompassing magnification of
+      pain-related stimuli, feelings of helplessness, and a generally
+      pessimistic orientation.
+HN  - 2011
+BX  - Catastrophizing
+
+MH  - Catheters
+UI  - D057785
+MN  - E7.132
+MS  - A flexible, tubular device that is used to carry fluids into or from a
+      blood vessel, hollow organ, or body cavity.
+HN  - 2011
+BX  - Catheter
+
+MH  - Cell Tracking
+UI  - D058948
+MN  - E1.370.350.557.500
+MN  - E5.163
+MN  - E5.200.500.373
+MS  - Non-invasive imaging of cells that have been labeled
+      non-destructively, such as with nanoemulsions or reporter genes that
+      can be detected by molecular imaging, to monitor their location,
+      viability, cell lineage expansion, response to drugs, movement, or
+      other behaviors in vivo.
+HN  - 2011
+FX  - Cell Movement
+
+MH  - Cell-in-Cell Formation
+UI  - D057686
+MN  - G4.299.345
+MS  - The mechanisms by which a cell becomes internalized in another. The
+      host cell may engulf another as do PHAGOCYTIC CELLS, or the host cell
+      may be invaded by another cell (ENTOSIS), or internalization processes
+      may involve the cooperation of both the host cell and the cell being
+      internalized. Viable cells may remain in non-phagocytic cells
+      (EMPERIPOLESIS), undergo cell division, pass through and then out of
+      the host cell (TRANSCELLULAR CELL MIGRATION), or trigger APOPTOSIS of
+      the invaded cell.
+HN  - 2011
+
+MH  - Cell-Penetrating Peptides
+UI  - D057846
+MN  - D12.644.98
+MS  - Peptides that have the ability to enter cells by crossing the plasma
+      membrane directly, or through uptake by the endocytotic pathway.
+HN  - 2011
+
+MH  - Cercaria
+UI  - D058487
+MN  - B5.500.500.150
+MN  - G7.700.320.500.550.500.500.150
+MS  - The free-swimming larval forms of parasites found in an intermediate
+      host.
+AN  - do not use / embryol with reference to cercaria
+HN  - 2011
+
+MH  - Cerebral Ventriculitis
+UI  - D058565
+MN  - C10.228.140.430.249
+MN  - C10.228.228.245.169
+MS  - Inflammation of CEREBRAL VENTRICLES.
+HN  - 2011
+FX  - Hydrocephalus
+FX  - Macrocephaly
+FX  - Meningitis, Bacterial
+
+MH  - Cerumenolytic Agents
+UI  - D058113
+MN  - D27.720.877.383.500
+MS  - Compounds that disintegrate natural waxy exudates such as EAR WAX.
+HN  - 2011
+
+MH  - CHARGE Syndrome
+UI  - D058747
+MN  - C16.131.77.239
+MN  - C16.320.165
+MS  - Rare disease characterized by COLOBOMA; CHOANAL ATRESIA; and abnormal
+      SEMICIRCULAR CANALS. Mutations in CHD7 protein resulting in disturbed
+      neural crest development are associated with CHARGE Syndrome.
+HN  - 2011
+BX  - CHARGE Association
+BX  - Familial CHARGE Syndrome
+
+MH  - Charophyceae
+UI  - D057946
+MN  - B1.650.940.800.150
+MS  - A group (or class) of aquatic plants, including the streptophyte
+      algae, that are the closest relatives to land plants (EMBRYOPHYTA).
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011; for CHAROPHYTES and STONEWORTS use CHARACEAE 2004-2010
+BX  - Charophytes
+
+MH  - Chromosomal Puffs
+UI  - D059045
+MN  - A11.284.430.106.279.345.190.160.180.270.500
+MN  - A11.284.430.106.279.345.190.580.500
+MS  - Regions along polytene chromosomes that are uncondensed and active in
+      DNA REPLICATION or RNA transcription (GENETIC TRANSCRIPTION).
+HN  - 2011
+
+MH  - Chromosome Duplication
+UI  - D058674
+MN  - C23.550.210.182
+MN  - G5.355.600.164
+MN  - G5.365.590.175.183
+MS  - An aberration in which an extra chromosome or a chromosomal segment is
+      made.
+HN  - 2011
+BX  - Duplication, Chromosome
+FX  - Gene Duplication
+FX  - Segmental Duplications, Genomic
+
+MH  - Chromosomes, Insect
+UI  - D059006
+MN  - A11.284.187.440
+MN  - G5.360.162.440
+MS  - Structures within the CELL NUCLEUS of insect cells containing DNA.
+HN  - 2011
+
+MH  - Circadian Clocks
+UI  - D057906
+MN  - G7.180.562.94.500
+MS  - Biological mechanism that controls CIRCADIAN RHYTHM. Circadian clocks
+      exist in the simplest form in cyanobacteria and as more complex
+      systems in fungi, plants, and animals. In humans the system includes
+      photoresponsive RETINAL GANGLION CELLS and the SUPRACHIASMATIC NUCLEUS
+      that acts as the central oscillator.
+HN  - 2011
+FX  - Circadian Rhythm
+
+MH  - Class I Phosphatidylinositol 3-Kinases
+UI  - D058534
+MN  - D8.811.913.696.620.500.100.100
+MN  - D8.811.913.696.620.500.200.100
+MN  - D12.776.476.162
+MS  - A phosphatidylinositol 3-kinase subclass that includes enzymes with a
+      specificity for 1-phosphatidylinositol, 1-phosphatidylinositol
+      4-phosphate, and 1-phosphatidylinositol 4,5-bisphosphate. Members of
+      this enzyme subclass are activated by cell surface receptors and occur
+      as heterodimers of enzymatic and regulatory subunits.
+HN  - 2011
+BX  - Phosphatidylinositol 3-Kinase, Class I
+
+MH  - Class Ia Phosphatidylinositol 3-Kinase
+UI  - D058543
+MN  - D8.811.913.696.620.500.100.100.100
+MN  - D8.811.913.696.620.500.200.100.100
+MN  - D12.776.476.162.100
+MS  - A phosphatidylinositol 3-kinase subclass that includes enzymes formed
+      through the heterodimerization of a p110 catalytic and a p85, p55, or
+      p50 regulatory subunit. This subclass of enzymes is a downstream
+      target of TYROSINE KINASE RECEPTORS and G PROTEIN-COUPLED RECEPTORS.
+HN  - 2011; for ALPHA-P85 SUBUNIT, PI-3K use PHOSPHATIDYLINOSITOL 3-KINASES
+      1998-2010
+BX  - Class Ia Phosphatidylinositol 3-Kinases
+
+MH  - Class Ib Phosphatidylinositol 3-Kinase
+UI  - D058544
+MN  - D8.811.913.696.620.500.100.100.200
+MN  - D8.811.913.696.620.500.200.100.200
+MN  - D12.776.476.162.200
+MS  - A phosphatidylinositol 3-kinase subclass that includes enzymes formed
+      through the association of a p110gamma catalytic subunit and one of
+      the three regulatory subunits of 84, 87, and 101 kDa in size. This
+      subclass of enzymes is a downstream target of G PROTEIN-COUPLED
+      RECEPTORS.
+HN  - 2011
+BX  - Class Ib Phosphatidylinositol 3-Kinases
+
+MH  - Class II Phosphatidylinositol 3-Kinases
+UI  - D058541
+MN  - D8.811.913.696.620.500.100.200
+MN  - D8.811.913.696.620.500.200.200
+MN  - D12.776.476.168
+MS  - A subclass of phosphatidylinositol 3-kinases that have specificity for
+      1-phosphatidylinositol and 1-phosphatidylinositol 4-phosphate. Members
+      of this subclass consist of a single subunit structure and are
+      regulated by RECEPTOR TYROSINE KINASES; CYTOKINE RECEPTORS; and
+      INTEGRINS.
+HN  - 2011
+
+MH  - Class III Phosphatidylinositol 3-Kinases
+UI  - D058546
+MN  - D8.811.913.696.620.500.100.300
+MN  - D12.776.476.171
+MN  - D12.776.543.990.175
+MS  - A phosphatidylinositol 3-kinase subclass that includes enzymes whose
+      specificity is limited to 1-phosphatidylinositol. Members of this
+      class play a role in vesicular transport and in the regulation of TOR
+      KINASES.
+HN  - 2011; for VPS34 PHOSPHATIDYLINOSITOL 3-KINASE use PHOSPHATIDYLINOSITOL
+      3-KINASES 1998-2010
+BX  - Phosphatidylinositol 3-Kinase, Class III
+
+MH  - Click Chemistry
+UI  - D057930
+MN  - E5.198
+MN  - E5.916.79
+MN  - J1.897.836.500
+MS  - Organic chemistry methodology that mimics the modular nature of
+      various biosynthetic processes. It uses highly reliable and selective
+      reactions designed to "click" i.e., rapidly join small modular units
+      together in high yield, without offensive byproducts. In combination
+      with COMBINATORIAL CHEMISTRY TECHNIQUES, it is used for the synthesis
+      of new compounds and combinatorial libraries.
+HN  - 2011
+FX  - Combinatorial Chemistry Techniques
+FX  - Green Chemistry Technology
+
+MH  - Clinical Coding
+UI  - D059019
+MN  - N4.452.758.708.200.400.500
+MN  - N4.452.859.564.274
+MN  - N5.715.360.300.715.500.249
+MN  - N6.850.520.308.940.968.249
+MS  - Process of substituting a symbol or code for a term such as a
+      diagnosis or procedure.  (from Slee's Health Care Terms, 3d ed.)
+HN  - 2011; for CODING use FORMS AND RECORDS CONTROL 1978-2010
+
+MH  - Closterium
+UI  - D058119
+MN  - B1.650.940.800.150.200.150
+MS  - A genus of crescent-shaped algae in the family Closteriaceae, order
+      DESMIDIALES.
+AN  - coordinate  with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29; do
+      not confuse the genus Closterium with the species name closterium
+      (e.g. Cylindrotheca closterium or Nitzschia closterium), which are
+      DIATOMS
+HN  - 2011
+
+MH  - Cognitive Reserve
+UI  - D058245
+MN  - F2.463.188.331
+MS  - Capacity that enables an individual to cope with and/or recover from
+      the impact of a neural injury or a psychotic episode.
+HN  - 2011
+
+MH  - Cold Shock Proteins and Peptides
+UI  - D057773
+MN  - D12.644.360.175
+MN  - D12.776.476.175
+MS  - Cellular proteins and peptides that are induced in response to cold
+      stress. They are found in a broad variety of prokaryotic and
+      eukaryotic organisms.
+HN  - 2011
+FX  - Heat-Shock Proteins
+
+MH  - Cold-Shock Response
+UI  - D058639
+MN  - G7.700.830.249
+MS  - A constellation of responses that occur when an organism is exposed to
+      excessive cold. In humans, a fall in skin temperature triggers
+      gasping, hypertension, and hyperventilation.
+HN  - 2011
+FX  - Hypothermia
+
+MH  - Composite Lymphoma
+UI  - D058617
+MN  - C4.557.386.150
+MN  - C4.557.435.295
+MN  - C15.604.515.569.150
+MN  - C20.683.515.761.150
+MS  - Two or more distinct types of malignant lymphoid tumors occurring
+      within a single organ or tissue at the same time. It may contain
+      different types of non-Hodgkin lymphoma cells or both Hodgkin and
+      non-Hodgkin lymphoma cells.
+AN  - coordinate with specific types of lymphoma if pertinent
+HN  - 2011
+
+MH  - Compressed Air
+UI  - D058868
+MN  - E7.161
+MN  - G16.500.275.63.150.500
+MN  - N6.230.300.100.150.592
+MS  - Air that is reduced in volume by pressure.
+HN  - 2011
+
+MH  - Compression Bandages
+UI  - D058128
+MN  - E7.101.400
+MS  - Strips of elastic material used to apply pressure to body parts to
+      control EDEMA and aid circulation.
+HN  - 2011
+FX  - Stockings, Compression
+
+MH  - Conducted Energy Weapon Injuries
+UI  - D057667
+MN  - C26.324.436
+MS  - The injuries caused by conducted energy weapons such as stun guns,
+      shock batons, and cattle prods.
+HN  - 2011
+
+MH  - Confederate States of America
+UI  - D059009
+MN  - Z1.586.225
+MS  - The area of those states which seceded in 1861 from the union of the
+      United States of America. They include South Carolina, Mississippi,
+      Florida, Alabama, Georgia, Louisiana, Texas, Virginia, Arkansas, North
+      Carolina, and Tennessee.
+HN  - 2011
+
+MH  - Contactin 1
+UI  - D058967
+MN  - D12.776.395.550.200.250.325.100
+MN  - D12.776.395.550.448.250.100
+MN  - D12.776.543.484.500.250.100
+MN  - D12.776.543.550.200.250.325.100
+MN  - D12.776.543.550.418.250.100
+MN  - D23.50.301.350.250.325.100
+MS  - A contactin subtype that is predominantly expressed in the CEREBELLUM;
+      HIPPOCAMPUS; NEOCORTEX; and HYPOTHALAMUS.
+HN  - 2011
+
+MH  - Contactin 2
+UI  - D058969
+MN  - D12.776.395.550.200.250.325.200
+MN  - D12.776.395.550.448.250.200
+MN  - D12.776.543.484.500.250.200
+MN  - D12.776.543.550.200.250.325.200
+MN  - D12.776.543.550.418.250.200
+MN  - D23.50.301.350.250.325.200
+MS  - A contactin subtype that plays a role in axon outgrowth, axon
+      fasciculation, and neuronal migration.
+HN  - 2011
+
+MH  - Contactins
+UI  - D058966
+MN  - D12.776.395.550.200.250.325
+MN  - D12.776.395.550.448.250
+MN  - D12.776.543.484.500.250
+MN  - D12.776.543.550.200.250.325
+MN  - D12.776.543.550.418.250
+MN  - D23.50.301.350.250.325
+MS  - A family of immunoglobulin-related cell adhesion molecules that are
+      involved in NERVOUS SYSTEM patterning.
+HN  - 2011
+
+MH  - Coral Reefs
+UI  - D057894
+MN  - G16.500.275.157.130
+MN  - N6.230.124.130
+MS  - Marine ridges composed of living CORALS, coral skeletons, calcareous
+      algae, and other organisms, mixed with minerals and organic matter.
+      They are found most commonly in tropical waters and support other
+      animal and plant life.
+HN  - 2011
+FX  - Anthozoa
+
+MH  - Coronary-Subclavian Steal Syndrome
+UI  - D058686
+MN  - C14.280.647.250.647
+MN  - C14.907.585.250.647
+MN  - C23.550.767.115
+MS  - A complication of INTERNAL MAMMARY-CORONARY ARTERY ANASTOMOSIS whereby
+      an occlusion or stenosis of the proximal SUBCLAVIAN ARTERY causes a
+      reversal of the blood flow away from the CORONARY CIRCULATION, through
+      the grafted INTERNAL MAMMARY ARTERY (internal thoracic artery), and
+      back to the distal subclavian distribution.
+AN  - do not confuse with SUBCLAVIAN STEAL SYNDROME
+HN  - 2011
+FX  - Subclavian Steal Syndrome
+
+MH  - Coronavirus NL63, Human
+UI  - D058957
+MN  - B4.820.504.540.150.215
+MN  - B4.909.777.500.540.150.215
+MS  - A species in the genus CORONAVIRUS causing upper and lower RESPIRATORY
+      TRACT INFECTIONS. It shares the receptor used by the SARS VIRUS.
+AN  - infection: coordinate IM with CORONAVIRUS INFECTIONS (IM) and
+      RESPIRATORY TRACT INFECTIONS (IM)
+HN  - 2011
+
+MH  - Counterfeit Drugs
+UI  - D058110
+MN  - D26.99
+MS  - Drugs manufactured and sold with the intent to misrepresent its
+      origin, authenticity, chemical composition, and or efficacy. 
+      Counterfeit drugs may contain inappropriate quantities of ingredients
+      not listed on the label or package.  In order to further deceive the
+      consumer, the packaging, container, or labeling, may be inaccurate,
+      incorrect, or fake.
+AN  - entry term DRUG COUNTERFEITING: coordinate with FRAUD
+HN  - 2011
+
+MH  - Ctenocephalides
+UI  - D058251
+MN  - B1.50.500.131.617.750.200
+MS  - A genus of FLEAS in the family Pulicidae. It includes the cat flea
+      (Ctenocephalides felis), one of the most common species on earth.
+AN  - infestation: coordinate IM with FLEA INFESTATIONS (IM); for killing
+      Ctenocephalides with insecticides, see note at INSECTICIDES
+HN  - 2011
+
+MH  - Cysteine Loop Ligand-Gated Ion Channel Receptors
+UI  - D058466
+MN  - D12.776.157.530.400.400.100
+MN  - D12.776.543.550.425.500.100
+MN  - D12.776.543.585.400.500.100
+MN  - D12.776.543.750.51
+MS  - A subfamily of ligand-gated ion channel receptors that share a
+      characteristic loop which is formed by a disulfide bond between two
+      CYSTEINE residues. These receptors typically contain five subunits
+      with the cysteine-loop occurring near an N-terminal extracellular
+      domain.
+HN  - 2011
+
+MH  - Cystine-Knot Miniproteins
+UI  - D057771
+MN  - D12.644.132
+MN  - D12.776.217
+MS  - A structurally-related family of small proteins that form a stable
+      tertiary fold pattern which is supported by a series of disulfide
+      bonds. The arrangement of disulfide bonds between the CYSTEINE
+      moieties results in a knotted structure which is unique to this family
+      of proteins.
+HN  - 2011
+
+MH  - Cytophagocytosis
+UI  - D057899
+MN  - G4.299.345.249
+MN  - G4.299.482.350.545
+MN  - G9.188.124.780.500
+MN  - G12.425.899.500
+MN  - G12.450.564.809.500
+MS  - The engulfment and degradation of cells by other cells.
+HN  - 2011
+
+MH  - Datura metel
+UI  - D058530
+MN  - B1.650.940.800.575.100.905.188.550
+MS  - A plant species and perennial herb of the genus DATURA, family
+      SOLANACEAE, containing poisonous tropane ALKALOIDS.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Decorin
+UI  - D058575
+MN  - D12.776.395.650.750.625
+MS  - A small leucine-rich proteoglycan that interacts with FIBRILLAR
+      COLLAGENS and modifies the EXTRACELLULAR MATRIX structure of
+      CONNECTIVE TISSUE. Decorin has also been shown to play additional
+      roles in the regulation of cellular responses to GROWTH FACTORS. The
+      protein contains a single glycosaminoglycan chain and is similar in
+      structure to BIGLYCAN.
+HN  - 2011
+
+MH  - Deltoid Muscle
+UI  - D057645
+MN  - A2.633.567.300
+MS  - Thick triangular muscle in the SHOULDER whose function is to abduct,
+      flex, and extend the arm. It is a common site of INTRAMUSCULAR
+      INJECTIONS.
+AN  - / growth: coordinate with MUSCLE DEVELOPMENT; / embryol: coordinate
+      with MUSCLE DEVELOPMENT if pertinent
+HN  - 2011
+
+MH  - Denaturing Gradient Gel Electrophoresis
+UI  - D058645
+MN  - E5.196.401.402.117
+MN  - E5.301.300.319.201
+MS  - Electrophoresis in which various denaturant gradients are used to
+      induce nucleic acids to melt at various stages resulting in separation
+      of molecules based on small sequence differences including SNPs. The
+      denaturants used include heat, formamide, and urea.
+HN  - 2011
+
+MH  - Denitrification
+UI  - D058440
+MN  - G2.842.750.643.500
+MN  - G16.100.277
+MN  - G16.500.240.250
+MN  - G16.500.240.465.249
+MS  - Nitrate reduction process generally mediated by anaerobic bacteria by
+      which nitrogen available to plants is converted to a gaseous form and
+      lost from the soil or water column. It is a part of the nitrogen
+      cycle.
+HN  - 2011
+FX  - Nitrogen Cycle
+
+MH  - Dent Disease
+UI  - D057973
+MN  - C12.777.419.815.364
+MN  - C13.351.968.419.815.364
+MN  - C16.320.322.100
+MN  - C16.320.565.861.271
+MN  - C18.452.648.861.271
+MS  - X-linked recessive NEPHROLITHIASIS characterized by HYPERCALCIURIA;
+      HYPOPHOSPHATEMIA; NEPHROCALCINOSIS; and PROTEINURIA. It is associated
+      with mutations in the voltage-gated chloride channel, CLC-5 (Dent
+      Disease I). Another group of mutations associated with this disease is
+      in phosphatidylinositol 4,5-bisphosphate-5-phosphatase gene.
+HN  - 2011
+BX  - Dent's Disease
+FX  - Bartter Syndrome
+FX  - Fanconi Syndrome
+FX  - Gitelman Syndrome
+FX  - Oculocerebrorenal Syndrome
+
+MH  - Dental Restoration Repair
+UI  - D058250
+MN  - E6.323.428.187
+MN  - E6.780.345.737.112
+MN  - E7.695.190.190.250
+MS  - The process of repairing broken or worn parts of a PERMANENT DENTAL
+      RESTORATION.
+HN  - 2011
+
+MH  - Desmidiales
+UI  - D058114
+MN  - B1.650.940.800.150.200
+MS  - An order of mostly unicellular, microscopic, freshwater algae that
+      have highly symmetrical and varied shapes.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Desmoplastic Small Round Cell Tumor
+UI  - D058405
+MN  - C4.557.450.795.315
+MS  - A rare, aggressive soft tissue sarcoma that primarily affects
+      adolescents and young adults. It is most commonly found in the
+      abdomen.
+AN  - coordinate IM with precoordinated organ/neoplasm term (IM)
+HN  - 2011
+
+MH  - Diabetic Cardiomyopathies
+UI  - D058065
+MN  - C14.280.238.235
+MN  - C19.246.99.625
+MS  - Diabetes complications in which VENTRICULAR REMODELING in the absence
+      of CORONARY ATHEROSCLEROSIS and hypertension results in cardiac
+      dysfunctions, typically LEFT VENTRICULAR DYSFUNCTION. The changes also
+      result in myocardial hypertrophy, myocardial necrosis and fibrosis,
+      and collagen deposition due to impaired glucose tolerance.
+AN  - coordinate IM with specific heart disease (IM) + specific type of
+      diabetes mellitus (IM) if pertinent
+HN  - 2011
+
+MH  - Diagnostic Self Evaluation
+UI  - D059026
+MN  - E1.370.360
+MN  - F1.752.747.792.850
+AN  - do not confuse with SELF-ASSESSMENT, a psychological concept
+HN  - 2011
+BX  - Self-Evaluation
+
+MH  - Dielectric Spectroscopy
+UI  - D058266
+MN  - E5.196.867.335
+MS  - A technique of measuring the dielectric properties of materials, which
+      vary over a range of frequencies depending on the physical properties
+      of the material.  The technique involves measuring, over a range of
+      frequencies, ELECTRICAL IMPEDANCE and phase shift of an electric field
+      as it passes through the material.
+HN  - 2011
+
+MH  - Digital Dermatitis
+UI  - D058066
+MN  - C1.252.825.180
+MN  - C1.539.800.720.180
+MN  - C17.800.838.765.180
+MN  - C22.214
+MS  - Highly contagious infectious dermatitis with lesions near the
+      interdigital spaces usually in cattle. It causes discomfort and often
+      severe lameness (LAMENESS, ANIMAL). Lesions can be either erosive or
+      proliferative and wart-like with papillary growths and hypertrophied
+      hairs. DICHELOBACTER NODOSUS and TREPONEMA are the most commonly
+      associated causative agents for this mixed bacterial infection
+      disease.
+AN  - infection = TREPONEMAL INFECTIONS or its specifics but consider also
+      DIGITAL DERMATITIS; Treponema hyodysenteriae = BRACHYSPIRA
+      HYODYSENTERIAE, Treponema innocens = BRACHYSPIRA
+HN  - 2011
+BX  - Bovine Digital Dermatitis
+FX  - Dichelobacter nodosus
+FX  - Foot Rot
+FX  - Treponema
+
+MH  - DNA Barcoding, Taxonomic
+UI  - D058893
+MN  - E5.393.542.249
+MN  - E5.393.760.700.149
+MS  - Techniques for standardizing and expediting taxonomic identification
+      or classification of organisms that are based on deciphering the
+      sequence of one or a few regions of DNA known as the "DNA barcode".
+HN  - 2011
+
+MH  - DNA Contamination
+UI  - D059018
+MN  - E1.450.865.293
+MN  - E5.393.290.573
+MN  - E5.393.760.700.224
+MN  - I1.198.780.937.375.500
+MS  - The presence of DNA from a source foreign to the sample being
+      analysed.
+HN  - 2011
+FX  - Forensic Medicine
+
+MH  - Double-Balloon Enteroscopy
+UI  - D058582
+MN  - E1.370.388.250.250.250.180
+MN  - E4.800.250.250.250.180
+MS  - Endoscopy of the small intestines accomplished while advancing the
+      endoscope into the intestines from the stomach by alternating the
+      inflation of two balloons, one on an innertube of the endoscope and
+      the other on an overtube.
+HN  - 2011
+
+MH  - Doulas
+UI  - D059037
+MN  - M1.526.244
+MS  - Trained lay women who provide emotional support during obstetric labor
+      and the postpartum period for mothers and their partners.
+HN  - 2011
+
+MH  - Drug Repositioning
+UI  - D058492
+MN  - E2.319.307.124
+MN  - N2.421.668.778.500.124
+MS  - The deliberate and methodical practice of finding new applications for
+      existing drugs.
+AN  - do not confuse with OFF-LABEL USE
+HN  - 2011
+FX  - Off-Label Use
+
+MH  - Drug Substitution
+UI  - D057915
+MN  - E2.319.307.312
+MN  - N2.421.668.778.500.312
+MS  - The practice of replacing one prescribed drug with another that is
+      expected to have the same clinical or pyschological effect.
+HN  - 2011
+
+MH  - Drug-Seeking Behavior
+UI  - D058999
+MN  - F1.145.342
+MS  - Activities performed to obtain licit or illicit substances.
+HN  - 2011
+
+MH  - Dry Powder Inhalers
+UI  - D058995
+MN  - E7.605.249
+MS  - A device that delivers medication to the lungs in the form of a dry
+      powder.
+HN  - 2011
+
+MH  - Echogenic Bowel
+UI  - D058535
+MN  - C13.703.277.50
+MN  - C16.300.50
+MS  - A PRENATAL ULTRASONOGRAPHY finding of excessively dense fetal bowel
+      due to MECONIUM buildup.
+HN  - 2011
+BX  - Hyperechogenic Bowel
+
+MH  - El Nino-Southern Oscillation
+UI  - D059000
+MN  - G16.500.275.71.387
+MS  - El Nino-Southern Oscillation or ENSO is a cycle of extreme alternating
+      warm El Niño and cold La Nina events which is the dominant
+      year-to-year climate pattern on Earth. Both terms refer to large-scale
+      changes in sea-surface temperature across the eastern tropical
+      Pacific. ENSO is associated with a heightened risk of certain
+      vector-borne diseases.  (From
+      http://www.elnino.noaa.gov/lanina_new_faq.html, accessed 5/12/2020)
+HN  - 2011
+BX  - El Nino
+BX  - La Nina
+
+MH  - Elbow Prosthesis
+UI  - D058569
+MN  - E7.695.400.300
+MS  - Replacement for an elbow joint.
+HN  - 2011
+
+MH  - Elder Nutritional Physiological Phenomena
+UI  - D058620
+MN  - G7.610.315
+MS  - Nutritional physiology of adults aged 65 years of age and older.
+HN  - 2011
+
+MH  - Electroencephalography Phase Synchronization
+UI  - D058407
+MN  - E1.370.376.300.437
+MN  - E1.370.405.245.575
+MN  - G7.265.337.200
+MS  - Adjustment of BRAIN WAVES from two or more neuronal groups within or
+      across a brain structure (e.g., cortical and limbic brain structures)
+      to become uniform in EEG oscillation patterns in response to a
+      stimulus. It is interpreted as a brain integration sign during many
+      processes such as learning, memory, and perception and involves
+      reciprocal neural connections.
+HN  - 2011
+BX  - EEG Phase Desynchronization
+BX  - EEG Phase Synchronization
+BX  - Electroencephalography Phase Desynchronization
+BX  - Phase Desynchronization, EEG
+BX  - Phase Synchronization, EEG
+FX  - Evoked Potentials
+
+MH  - Electronic Supplementary Materials
+UI  - D058537
+MN  - V1.255
+MS  - Supporting content or information, such as animation, datasets,
+      multimedia files, video, movies, audio files, text files, or software,
+      which is submitted for publication in an online journal or an online
+      edition of a journal. This information may be referenced in the text
+      of the article with a link to the supplementary data provided.
+      CATALOG: do not use
+AN  - not used for indexing or cataloging
+HN  - 2011
+BX  - Electronic Supplementary Material
+BX  - Supplementary Material
+
+MH  - Electronic Waste
+UI  - D059029
+MN  - N6.850.460.710.189
+MS  - Discarded electronic devices containing valuable and sometimes
+      hazardous materials such as LEAD, NICKEL, CADMIUM, and MERCURY. (from
+      http://www.epa.gov/osw/conserve/materials/ecycling/faq.htm#impact
+      accessed 4/25/2010)
+HN  - 2011
+
+MH  - Electrowetting
+UI  - D058874
+MN  - E5.830.666.500
+MS  - Reducing the SURFACE TENSION at a liquid/solid interface by the
+      application of an electric current across the interface thereby
+      enhancing the WETTABILITY of the surface.
+AN  - for electrowetting agents coordinate with WETTING AGENTS
+HN  - 2011
+FX  - Wettability
+
+MH  - Embolic Protection Devices
+UI  - D057505
+MN  - E7.695.207
+MS  - Vascular filters or occlusive devices that provide mechanical
+      protection of the distal end organ from blood clots or
+      EMBOLISM-causing debri dislodged during ENDOVASCULAR PROCEDURES.
+HN  - 2011
+
+MH  - Embryoid Bodies
+UI  - D058732
+MN  - A11.872.190.260
+MS  - Spontaneous aggregations of human embryonic stem cells that occur in
+      vitro after culturing in a medium that lacks LEUKEMIC INHIBITORY
+      FACTOR. The embryoid bodies can further differentiate into cells that
+      represent different lineages.
+HN  - 2011
+
+MH  - Emmetropia
+UI  - D058453
+MN  - E1.370.380.850.950.750
+MN  - F2.463.593.932.901.750
+MN  - G14.940.750
+MS  - The condition of where images are correctly brought to a focus on the
+      retina.
+HN  - 2011
+
+MH  - Emperipolesis
+UI  - D057687
+MN  - G4.299.345.500
+MS  - The movement of one cell within another cell (non-phagocytic).
+HN  - 2011
+
+MH  - End Stage Liver Disease
+UI  - D058625
+MN  - C6.552.308.500.177
+MS  - Final stage of a liver disease when the liver failure is irreversible
+      and LIVER TRANSPLANTATION is needed.
+AN  - For "Model for End Stage Liver Disease (MELD)" and related "Pediatric
+      End Stage Liver Disease Model (PELD)" coordinate with SEVERITY OF
+      ILLNESS INDEX and probably LIVER TRANSPLANTATION
+HN  - 2011
+
+MH  - Endoleak
+UI  - D057867
+MN  - C14.907.55.501
+MN  - C23.550.414.941.500
+MN  - C23.550.767.850.500
+MS  - Postoperative hemorrhage from an endovascular AORTIC ANEURYSM repaired
+      with endoluminal placement of stent grafts (BLOOD VESSEL PROSTHESIS
+      IMPLANTATION).  It is associated with pressurization, expansion, and
+      eventual rupture of the aneurysm.
+HN  - 2011
+FX  - Capillary Leak Syndrome
+
+MH  - Endophenotypes
+UI  - D058068
+MN  - G5.695.224
+MS  - Measurable biological (physiological, biochemical, and anatomical
+      features), behavioral (psychometric pattern) or cognitive markers that
+      are found more often in individuals with a disease than in the general
+      population. Because many endophenotypes are present before the disease
+      onset and in individuals with heritable risk for disease such as
+      unaffected family members, they can be used to help diagnose and
+      search for causative genes.
+HN  - 2011
+FX  - Biological Markers
+
+MH  - Endotamponade
+UI  - D058450
+MN  - E2.393
+MN  - E2.520.392
+MN  - E4.540.342
+MS  - A method of stopping internal bleeding or blood flow, or the closure
+      of a wound or body cavity, achieved by applying pressure or
+      introducing an absorbent liquid, gel, or tampon.
+HN  - 2011
+
+MH  - Endovascular Procedures
+UI  - D057510
+MN  - E4.100.814.529
+MN  - E4.800.382
+MS  - Minimally invasive procedures, diagnostic or therapeutic, performed
+      within the BLOOD VESSELS. They may be perfomed via ANGIOSCOPY;
+      INTERVENTIONAL MAGNETIC RESONANCE IMAGING; INTERVENTIONAL RADIOGRAPHY;
+      or INTERVENTIONAL ULTRASONOGRAPHY.
+HN  - 2011
+
+MH  - Enteropathy-Associated T-Cell Lymphoma
+UI  - D058527
+MN  - C4.557.386.480.750.99
+MN  - C15.604.515.569.480.750.399
+MN  - C20.683.515.761.480.750.199
+MS  - A primary peripheral T-cell lymphoma in the gastrointestinal tract,
+      most often in the jejunum, associated with a history of CELIAC DISEASE
+      or other gastrointestinal diseases.
+HN  - 2011
+FX  - Celiac Disease
+
+MH  - Entosis
+UI  - D057691
+MN  - G4.299.345.750
+MS  - The processes by which one cell actively invades and becomes
+      internalized within another cell.
+HN  - 2011
+
+MH  - Environmental Policy
+UI  - D058735
+MN  - I1.655.500.608.180
+MN  - I1.880.604.825.608.180
+MN  - N3.623.500.608.180
+MN  - N6.230.204
+MS  - A course of action or principle adopted or proposed by a government,
+      party, business, or individual that concerns human interactions with
+      nature and natural resources.
+HN  - 2011; use ENVIRONMENT 1996-2010
+
+MH  - Enzyme Therapy
+UI  - D057487
+MN  - E2.319.353
+MS  - The use of enzymes to correct metabolic and physiological processes.
+AN  - coordinate with specific enzyme/ther use; ENZYME REPLACEMENT THERAPY
+      is also available.
+HN  - 2011
+
+MH  - Enzyme-Linked Immunospot Assay
+UI  - D058501
+MN  - E1.450.495.410.350.200.500
+MN  - E1.450.495.410.380.200.500
+MN  - E1.450.495.435.400.170.500
+MN  - E5.200.500.508
+MN  - E5.478.594.410.350.170.500
+MN  - E5.478.594.410.380.360.500
+MN  - E5.478.594.430.400.170.500
+MN  - E5.601.495.350.170.500
+MN  - E5.601.495.380.360.500
+MS  - A method of detection of the number of cells in a sample secreting a
+      specific molecule. Wtih this method a population of cells are plated
+      over top of the immunosorbent substrate that captures the secreted
+      molecules.
+HN  - 2011
+
+MH  - Eosinophilic Esophagitis
+UI  - D057765
+MN  - C6.405.117.620.209
+MN  - C6.405.205.663.209
+MN  - C15.378.553.231.341
+MN  - C20.543.480.356
+MS  - Chronic ESOPHAGITIS characterized by esophageal mucosal EOSINOPHILIA.
+      It is diagnosed when an increase in EOSINOPHILS are present over the
+      entire esophagus. The reflux symptoms fail to respond to PROTON PUMP
+      INHIBITORS treatment, unlike in GASTROESOPHAGEAL REFLUX DISEASE. The
+      symptoms are associated with IgE-mediated hypersensitivity to food or
+      inhalant allergens.
+HN  - 2011
+
+MH  - Epidemics
+UI  - D058872
+MN  - N6.850.290.200
+MS  - Sudden outbreaks of a disease in a country or region not previously
+      recognized in that area, or a rapid increase in the number of new
+      cases of a previous existing endemic disease. Epidemics can also refer
+      to outbreaks of disease in animal or plant populations.
+AN  - coordinate IM with specific disease / epidemiol (IM) & specify
+      geographic location if pertinent; differentiate from DISEASE
+      OUTBREAKS, follow terminology in text
+HN  - 2011; use DISEASE OUTBREAKS 1968-2010
+
+MH  - Epigenomics
+UI  - D057890
+MN  - H1.158.273.180.350.74
+MN  - H1.158.273.343.350.42
+MS  - The systematic study of the global gene expression changes due to
+      EPIGENETIC PROCESSES and not due to DNA base sequence changes.
+HN  - 2011
+
+MH  - Epithelial-Mesenchymal Transition
+UI  - D058750
+MN  - G4.299.335.500
+MN  - G7.700.320.500.325.180.781
+MN  - G8.686.785.760.170.104.812
+MS  - Phenotypic changes of EPITHELIAL CELLS to MESENCHYME type, which
+      increase cell mobility critical in many developmental processes such
+      as NEURAL TUBE development. NEOPLASM METASTASIS and DISEASE
+      PROGRESSION may also induce this transition.
+AN  - epithelial-mesenchymal transition may occur in the progression of both
+      neoplastic and non-neoplastic diseases
+HN  - 2011
+
+MH  - Examination Tables
+UI  - D058637
+MN  - E7.325.409
+MS  - A raised flat surface on which a patient is placed during a PHYSICAL
+      EXAMINATION.
+HN  - 2011
+
+MH  - Exsanguination
+UI  - D058734
+MN  - C23.550.414.734
+MS  - Rapid and extreme blood loss leading to HEMORRHAGIC SHOCK.
+HN  - 2011
+
+MH  - Eye Pain
+UI  - D058447
+MN  - C11.300.500
+MN  - C23.888.307.625
+MN  - C23.888.646.407
+MS  - A dull or sharp painful sensation associated with the outer or inner
+      structures of the eyeball, having different causes.
+HN  - 2011
+
+MH  - Femoracetabular Impingement
+UI  - D057925
+MN  - C5.550.384
+MN  - C23.550.347
+MS  - A pathologic mechanical process that can lead to hip failure. It is
+      caused by abnormalities of the ACETABULUM and/or femur combined with
+      rigorous hip motion, leading to repetitive collisions that damage the
+      soft tissue structures.
+HN  - 2011
+
+MH  - Fibric Acids
+UI  - D058607
+MN  - D2.241.81.160.700.500
+MN  - D2.355.726.305
+MN  - D2.755.654.305
+MS  - Compounds that either share the structure of fibric acid in their
+      molecular arrangement or are considered variants of the fibric acid
+      structure.
+HN  - 2011; for FIBRATES use CLOFIBRIC ACID 1991-2010
+BX  - Fibrates
+
+MH  - Fiducial Markers
+UI  - D057918
+MN  - E5.978.808.249
+MN  - E7.695.237
+MN  - E7.710.259
+MS  - Materials used as reference points on or implanted in the body to
+      position patients for radiotherapy.
+HN  - 2011
+
+MH  - Flea Infestations
+UI  - D058267
+MN  - C3.858.211.250
+MS  - Parasitic attack by members of the order SIPHONAPTERA.
+AN  - coordinate IM with specific flea (IM)
+HN  - 2011
+
+MH  - Folate Receptor 1
+UI  - D058975
+MN  - D12.776.157.530.450.74.500.299.500.500
+MN  - D12.776.395.550.448.370.500
+MN  - D12.776.543.484.500.370.500
+MN  - D12.776.543.550.418.370.500
+MN  - D12.776.543.585.450.74.500.224.500.500
+MN  - D12.776.543.750.52.500
+MN  - D23.50.285.384
+MS  - A subtype of GPI-anchored folate receptors that is expressed in
+      tissues of epithelial origin. This protein is also identified as an
+      ovarian-tumor-specific antigen.
+HN  - 2011
+
+MH  - Folate Receptor 2
+UI  - D058976
+MN  - D12.776.157.530.450.74.500.299.500.750
+MN  - D12.776.395.550.448.370.750
+MN  - D12.776.543.484.500.370.750
+MN  - D12.776.543.550.418.370.750
+MN  - D12.776.543.585.450.74.500.224.500.750
+MN  - D12.776.543.750.52.750
+MS  - A subtype of GPI-anchored folate receptors that is expressed in
+      PLACENTA and hematopoietic cells.
+HN  - 2011
+
+MH  - Folate Receptors, GPI-Anchored
+UI  - D058973
+MN  - D12.776.157.530.450.74.500.299.500
+MN  - D12.776.395.550.448.370
+MN  - D12.776.543.484.500.370
+MN  - D12.776.543.550.418.370
+MN  - D12.776.543.585.450.74.500.224.500
+MN  - D12.776.543.750.52
+MS  - Cell surface receptors that bind to and transport FOLIC ACID,
+      5-methyltetrahydrofolate, and a variety of folic acid derivatives. The
+      receptors are essential for normal NEURAL TUBE development and
+      transport folic acid via receptor-mediated endocytosis.
+HN  - 2011
+
+MH  - Folic Acid Transporters
+UI  - D058972
+MN  - D12.776.157.530.450.74.500.299
+MN  - D12.776.543.585.450.74.500.224
+MS  - Proteins involved in the transport of FOLIC ACID and folate
+      derivatives across the CELLULAR MEMBRANE.
+AN  - general or unspecified; prefer specifics
+HN  - 2011
+
+MH  - Food Safety
+UI  - D059022
+MN  - N6.850.617
+MS  - Activities involved in ensuring the safety of FOOD including avoidance
+      of bacterial and other contamination.
+HN  - 2011
+
+MH  - Food, Organic
+UI  - D058870
+MN  - J2.500.519
+MS  - Food that is grown or manufactured in accordance with nationally
+      regulated production standards that include restrictions on the use of
+      pesticides, non-organic fertilizers, genetic engineering, growth
+      hormones, irradiation, antibiotics, and non-organic ingredients.
+AN  - HEALTH FOOD is also available
+HN  - 2011; use HEALTH FOOD (1996-2010)
+BX  - Organic Food
+FX  - Health Food
+FX  - Organic Agriculture
+
+MH  - For-Profit Insurance Plans
+UI  - D059033
+MN  - N3.219.521.576.343.144
+MS  - Health insurance plans that are intended to be for profit.
+AN  - specify geographic term if possible
+HN  - 2011
+
+MH  - Fraser Syndrome
+UI  - D058497
+MN  - C11.250.390
+MN  - C16.131.77.371
+MN  - C16.131.384.442
+MS  - Rare autosomal recessive congenital malformation syndrome
+      characterized by cryptophthalmos, SYNDACTYLY and UROGENITAL
+      ABNORMALITIES. Other anomalies of bone, ear, lung, and nose are
+      common. Mutations on FRAS1 and FREM2 are associated with the syndrome.
+AN  - do not confuse with FRASIER SYNDROME
+HN  - 2011
+FX  - Frasier Syndrome
+
+MH  - Free Tissue Flaps
+UI  - D058752
+MN  - A10.850.710.500
+MN  - E7.862.710.500
+MS  - A mass of tissue that has been cut away from its surrounding areas to
+      be used in TISSUE TRANSPLANTATION.
+HN  - 2011
+BX  - Free Flaps
+
+MH  - GABA Uptake Inhibitors
+UI  - D058805
+MN  - D27.505.519.625.240.750
+MN  - D27.505.519.625.600.535
+MN  - D27.505.696.577.240.750
+MN  - D27.505.696.577.600.535
+MS  - Compounds that suppress or block the plasma membrane transport of
+      GAMMA-AMINOBUTYRIC ACID by GABA PLASMA MEMBRANE TRANSPORT PROTEINS.
+HN  - 2011
+
+MH  - GABA-A Receptor Agonists
+UI  - D058785
+MN  - D27.505.519.625.240.200.500
+MN  - D27.505.696.577.240.200.500
+MS  - Endogenous compounds and drugs that bind to and activate GABA-A
+      RECEPTORS.
+HN  - 2011
+
+MH  - GABA-A Receptor Antagonists
+UI  - D058787
+MN  - D27.505.519.625.240.300.500
+MN  - D27.505.696.577.240.300.500
+MS  - Drugs that bind to but do not activate GABA-A RECEPTORS thereby
+      blocking the actions of endogenous or exogenous GABA-A RECEPTOR
+      AGONISTS.
+HN  - 2011
+
+MH  - GABA-B Receptor Agonists
+UI  - D058786
+MN  - D27.505.519.625.240.200.750
+MN  - D27.505.696.577.240.200.750
+MS  - Endogenous compounds and drugs that bind to and activate GABA-B
+      RECEPTORS.
+HN  - 2011
+
+MH  - GABA-B Receptor Antagonists
+UI  - D058788
+MN  - D27.505.519.625.240.300.750
+MN  - D27.505.696.577.240.300.750
+MS  - Drugs that bind to but do not activate GABA-B RECEPTORS thereby
+      blocking the actions of endogenous or exogenous GABA-B RECEPTOR
+      AGONISTS.
+HN  - 2011
+
+MH  - Gemella
+UI  - D058834
+MN  - B3.510.100.310
+MS  - A genus that has been reclassified into BACILLALES incertae sedis
+      because of its ambiguous taxonomy. Previously it was considered part
+      of the Staphylococcaceae family.
+AN  - infection: coordinate IM with GRAM POSITIVE BACTERIAL INFECTIONS (IM)
+HN  - 2011; use STAPHYLOCOCCACEAE 2003-2010
+
+MH  - General Practice
+UI  - D058006
+MN  - H2.403.340
+MS  - Patient-based medical care provided across age and gender or specialty
+      boundaries.
+HN  - 2011; 1963-1977; use FAMILY PRACTICE 1978-2010
+FX  - General Practitioners
+
+MH  - General Practitioners
+UI  - D058005
+MN  - M1.526.485.810.485
+MN  - N2.360.810.485
+MS  - Physicians whose practice is not restricted to a specific field of
+      MEDICINE.
+HN  - 2011
+
+MH  - Genetic Pleiotropy
+UI  - D058685
+MN  - G5.420.556
+MN  - G5.695.550
+MS  - A phenomenon in which multiple and diverse phenotypic outcomes are
+      influenced by a single gene (or single gene product.)
+AN  - may appear in the literature spelled pleiotrophic, pleiotrophy or
+      pleiotrophism
+HN  - 2011
+
+MH  - Gestational Sac
+UI  - D058746
+MN  - A16.535
+MS  - Round-shaped structure usually located in the upper fundus of the
+      UTERUS in early pregnancy. It comprises EMBRYO; AMNIOTIC FLUID; and
+      YOLK SAC. It is visible in PRENATAL ULTRASONOGRAPHY by the fifth week
+      of pregnancy. Its size is often used to determine and monitor
+      GESTATIONAL AGE; FETAL GROWTH; and PREGNANCY COMPLICATIONS.
+HN  - 2011
+
+MH  - Glaucophyta
+UI  - D058108
+MN  - B1.650.232
+MS  - A phylum or class of freshwater microscopic EUKARYOTA considered to be
+      plants or MICROALGAE. Their CHLOROPLASTS (called cyanelles) are
+      believed to be derived from the direct endosymbiosis of CYANOBACTERIA.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Gnathostomiasis
+UI  - D058429
+MN  - C3.335.508.700.750.380
+MS  - Infections with nematodes of the genus GNATHOSTOMA, superfamily
+      THELAZIOIDEA. Gnathostomiasis is a food-borne zoonosis caused by
+      eating undercooked or raw fish or meat.
+HN  - 2011
+BX  - Gnathostoma Infection
+
+MH  - gp100 Melanoma Antigen
+UI  - D058951
+MN  - D12.776.543.306
+MN  - D12.776.624.301.500
+MN  - D23.50.285.439.500
+MS  - A melanosome-associated protein that plays a role in the maturation of
+      the MELANOSOME.
+HN  - 2011
+
+MH  - GPI-Linked Proteins
+UI  - D058851
+MN  - D12.776.395.550.448
+MN  - D12.776.543.484.500
+MN  - D12.776.543.550.418
+MS  - A subclass of lipid-linked proteins that contain a
+      GLYCOSYLPHOSPHATIDYLINOSITOL LINKAGE which holds them to the CELL
+      MEMBRANE.
+HN  - 2011
+
+MH  - Granulomatous Mastitis
+UI  - D058890
+MN  - C13.703.844.603.400
+MN  - C17.800.90.968.400
+MS  - A rare, benign, inflammatory breast disease occurring in premenopausal
+      women shortly after a recent pregnancy. The origin is unknown but it
+      is commonly mistaken for malignancy and sometimes associated with
+      BREAST FEEDING and the use of ORAL CONTRACEPTIVES.
+HN  - 2011
+
+MH  - Gross Domestic Product
+UI  - D059066
+MN  - I1.261.587
+MS  - Value of all final goods and services produced in a country in one
+      year.
+HN  - 2011
+
+MH  - Gynecological Examination
+UI  - D058869
+MN  - E1.370.600.293
+MS  - Inspection and PALPATATION of female breasts, abdomen, and GENITALIA,
+      as well as obtaining a gynecological history. (from Dictionary of
+      Obstetrics and Gynecology)
+HN  - 2011
+
+MH  - Hair Bleaching Agents
+UI  - D058206
+MN  - D27.720.269.430.214
+MN  - D27.720.642.315.249
+MS  - Chemicals that are used to oxidize pigments in HAIR.
+HN  - 2011
+
+MH  - Halobacillus
+UI  - D058678
+MN  - B3.300.390.400.158.600
+MN  - B3.510.100.100.425
+MN  - B3.510.415.400.158.425
+MN  - B3.510.460.410.158.425
+MS  - A genus of GRAM-POSITIVE ENDOSPORE-FORMING BACTERIA in the family
+      BACILLACEAE. Species are widely distributed in a variety of
+      hypersaline environments.
+HN  - 2011
+
+MH  - Hand-Assisted Laparoscopy
+UI  - D058733
+MN  - E1.370.388.250.520.500
+MN  - E4.800.250.520.580
+MS  - Placement of one of the surgeon's gloved hands into the ABDOMINAL
+      CAVITY to perform manual manipulations that facilitate the
+      laparoscopic procedures.
+HN  - 2011
+
+MH  - Haploinsufficiency
+UI  - D057895
+MN  - G5.365.590.29.530.587
+MN  - G5.380.350.500
+MS  - A copy number variation that results in reduced GENE DOSAGE due to any
+      loss-of-function mutation. The loss of heterozygosity is associated
+      with abnormal phenotypes or diseased states because the remaining gene
+      is insufficient.
+HN  - 2011
+
+MH  - Haptophyta
+UI  - D058087
+MN  - B1.400
+MS  - A group (or phylum) of unicellular EUKARYOTA (or algae) possessing
+      CHLOROPLASTS and FLAGELLA.
+HN  - 2011
+
+MH  - Health Communication
+UI  - D058015
+MN  - L1.143.350
+MN  - N2.208
+MS  - The transfer of information from experts in the medical and public
+      health fields to patients and the public. The study and use of
+      communication strategies to inform and influence individual and
+      community decisions that enhance health.
+HN  - 2011
+
+MH  - Health Facility Administration
+UI  - D058016
+MN  - N2.278.216
+MN  - N4.452.418
+MS  - Management of the organization of HEALTH FACILITIES.
+HN  - 2011
+
+MH  - HEK293 Cells
+UI  - D057809
+MN  - A11.251.210.172.750
+MN  - A11.436.334
+MS  - A cell line generated from human embryonic kidney cells that were
+      tranformed with human adenovirus type 5.
+AN  - almost always NIM with no qualifiers; check the tag HUMAN; do not
+      routinely add KIDNEY or EMBRYO, MAMMALIAN
+HN  - 2011
+
+MH  - Hemizygote
+UI  - D057898
+MN  - G5.380.371
+MS  - An individual having only one allele at a given locus because of the
+      loss of the other allele through a mutation (e.g., CHROMOSOME
+      DELETION).
+HN  - 2011
+FX  - Loss of Heterozygosity
+
+MH  - Hermaphroditic Organisms
+UI  - D057850
+MN  - B5.275
+MS  - Animals and plants which have, as their normal mode of reproduction,
+      both male and female sex organs in the same individual.
+AN  - natural sex reversal processes are indexed SEX DETERMINATION PROCESSES
+HN  - 2011
+
+MH  - High-Throughput Nucleotide Sequencing
+UI  - D059014
+MN  - E5.393.760.319
+MS  - Techniques of nucleotide sequence analysis that increase the range,
+      complexity, sensitivity, and accuracy of results by greatly increasing
+      the scale of operations and thus the number of nucleotides, and the
+      number of copies of each nucleotide sequenced. The sequencing may be
+      done by analysis of the synthesis or ligation products, hybridization
+      to preexisting sequences, etc.
+AN  - coordinate with SEQUENCE ANALYSIS, DNA or SEQUENCE ANALYSIS, RNA
+HN  - 2011
+
+MH  - Horticultural Therapy
+UI  - D058611
+MN  - E2.190.438
+MN  - F4.754.392
+MS  - A therapeutic approach in which horticultural artefacts are utilized
+      in improving an individual's social, emotional, educational,
+      psychological, and physical well-being.
+HN  - 2011
+
+MH  - Host Specificity
+UI  - D058507
+MN  - G6.590.470.380
+MN  - G16.100.380.380
+MN  - G16.100.380.400.400
+MS  - The properties of a pathogen that makes it capable of infecting one or
+      more specific hosts. The pathogen can include PARASITES as well as
+      VIRUSES; BACTERIA; FUNGI; or PLANTS.
+HN  - 2011
+
+MH  - Host-Derived Cellular Factors
+UI  - D058605
+MN  - D23.297
+MS  - A broad category of endogenous cellular factors that are used by
+      VIRUSES for essential functions such as VIRUS REPLICATION. Many
+      host-derived factors play normal cellular roles in non-infected cells.
+AN  - coordinate with specific factor; do not confuse with INTEGRATION HOST
+      FACTORS
+HN  - 2011
+
+MH  - Human papillomavirus 31
+UI  - D058952
+MN  - B4.280.535.50.631
+MS  - A type of ALPHAPAPILLOMAVIRUS associated with high risk for anogenital
+      neoplasms.
+AN  - infection: coordinate IM with PAPILLOMAVIRUS INFECTIONS (IM)
+HN  - 2011
+
+MH  - Humeral Head
+UI  - D058430
+MN  - A2.835.232.87.90.400.400
+MS  - The portion of the upper rounded extremity fitting into the glenoid
+      cavity of the SCAPULA. (from Stedman, 27th ed)
+HN  - 2011
+
+MH  - Hyalectins
+UI  - D058579
+MN  - D12.776.395.650.750.687
+MN  - D12.776.503.280.437
+MS  - A group of high molecular weight chondroitin sulfate proteoglycans
+      that form aggregates with HYALURONIC ACID.
+HN  - 2011
+
+MH  - Hyalinosis, Systemic
+UI  - D057770
+MN  - C16.320.850.368
+MS  - Autosomal recessive disorder characterized by HYALINE deposition in
+      the skin, bone, gastrointestinal tract, muscles and glands; multiple
+      subcutaneous skin nodules; GINGIVAL HYPERTROPHY; and joint
+      CONTRACTURES. It is comprised of two allelic disorders: infantile
+      systemic hyalinosis and juvenile hyaline fibromatosis. Mutations in
+      the capillary morphogenesis protein-2 are associated with the
+      disorder.
+AN  - do not confuse entry term INFANTILE SYSTEMIC HYALINOSIS with HYALINE
+      MEMBRANE DISEASE
+HN  - 2011
+FX  - Hyaline Membrane Disease
+FX  - Lipoid Proteinosis of Urbach and Wiethe
+
+MH  - Hydrodynamics
+UI  - D057446
+MN  - G1.342
+MS  - The motion of fluids, especially noncompressible liquids, under the
+      influence of internal and external forces.
+HN  - 2011
+
+MH  - Hydrophobic and Hydrophilic Interactions
+UI  - D057927
+MN  - G2.842.312
+MS  - The thermodynamic interaction between a substance and WATER.
+AN  - do not confuse entry term HYDROPHOBICITY with HYDROPHOBIA see RABIES
+HN  - 2011
+
+MH  - Hygroscopic Agents
+UI  - D058427
+MN  - D27.720.369
+MN  - D27.720.470.370
+MS  - Materials that readily absorb moisture from their surroundings.
+HN  - 2011
+BX  - Desiccants
+FX  - Desiccation
+
+MH  - Hypertensive Retinopathy
+UI  - D058437
+MN  - C11.768.346
+MN  - C14.907.489.815
+MS  - Degenerative changes to the RETINA due to HYPERTENSION.
+HN  - 2011
+FX  - Ocular Hypertension
+
+MH  - Iliotibial Band Syndrome
+UI  - D058745
+MN  - C26.558.554.425
+MN  - C26.844.150.425
+MS  - An overuse injury causing lateral knee pain that results from
+      repetitive friction of the iliotibial band over the lateral femoral
+      epicondyle.
+HN  - 2011
+
+MH  - Immediate Dental Implant Loading
+UI  - D057893
+MN  - E4.545.550.280.280.350
+MN  - E6.231.310.450
+MN  - E6.645.550.280.280.450
+MN  - E6.780.314.310.450
+MS  - Endosseous dental implantation where implants are fitted with an
+      abutment or where an implant with a transmucosal coronal portion is
+      used immediately (within 1 week) after the initial extraction.
+      Conventionally, the implantation is performed in two stages with more
+      than two months in between the stages.
+HN  - 2011
+BX  - Dental Implant Loading, Immediate
+
+MH  - Implant Capsular Contracture
+UI  - D057910
+MN  - C23.550.470.251.500
+MN  - C23.550.767.865.500
+MS  - The shrinkage of the foreign body encapsulation scar tissue that forms
+      around artificial implants imbedded in body tissues.
+HN  - 2011
+FX  - Contracture
+
+MH  - Implantable Neurostimulators
+UI  - D058542
+MN  - E7.305.250.319.381
+MN  - E7.695.202.381
+MS  - Surgically placed electric conductors through which ELECTRIC
+      STIMULATION of nerve tissue is delivered.
+HN  - 2011
+
+MH  - Inappropriate Prescribing
+UI  - D057970
+MN  - E2.319.490
+MS  - The practice of prescribing medications in a manner that poses more
+      risk than benefit, particularly where safer alternatives exist.
+HN  - 2011
+BX  - Inappropriate Prescriptions
+FX  - Medication Errors
+
+MH  - Infantile Apparent Life-Threatening Event
+UI  - D057768
+MN  - C8.618.846.600
+MN  - C23.888.248.500
+MN  - C23.888.852.700
+MS  - An event experienced by an infant or a child that is characterized by
+      some combination of apnea, color change, change in muscle tone,
+      choking, and gagging.
+AN  - not restricted to infants
+HN  - 2011
+
+MH  - Inflammasomes
+UI  - D058847
+MN  - D5.500.224
+MS  - Multiprotein complexes that mediate the activation of CASPASE-1.
+      Dysregulation of inflammasomes has also been linked to a number of
+      autoinflammatory and autoimmune disorders.
+HN  - 2011
+FX  - Immunity, Innate
+FX  - Inflammation Mediators
+
+MH  - Inflammatory Breast Neoplasms
+UI  - D058922
+MN  - C4.588.180.576
+MN  - C17.800.90.500.576
+MS  - Metastatic breast cancer characterized by EDEMA and ERYTHEMA of the
+      affected breast due to LYMPHATIC METASTASIS and eventual obstruction
+      of LYMPHATIC VESSELS by the cancer cells.
+AN  - coordinate IM with histological type of neoplasm (IM)
+HN  - 2011
+BX  - Inflammatory Breast Cancer
+
+MH  - Influenza A Virus, H10N7 Subtype
+UI  - D057921
+MN  - B4.820.545.405.400.920
+MN  - B4.909.777.545.405.400.920
+MS  - A subtype of INFLUENZA A VIRUS comprised of the surface proteins
+      hemagglutinin 10 and neuraminidase 7. It has been isolated from a
+      variety of wild and domestic animals including ducks, emu, and mink.
+      It was found for the first time in humans in 2004.
+AN  - infection: coordinate IM with INFLUENZA, HUMAN (IM) in humans, or
+      INFLUENZA IN BIRDS (IM) in birds, or ORTHOMYXOVIRIDAE INFECTIONS (IM)
+      in other animals
+HN  - 2011
+
+MH  - Influenza A Virus, H7N1 Subtype
+UI  - D057916
+MN  - B4.820.545.405.400.690
+MN  - B4.909.777.545.405.400.690
+MS  - A subtype of INFLUENZA A VIRUS comprised of the surface proteins
+      hemagglutinin 7 and neuraminidase 1. This subtype has demonstrated the
+      ability to mutate from a low pathogenic form to a highly pathogenic
+      form in birds. It was responsible for a 1999 outbreak in turkeys in
+      Italy.
+AN  - infection: coordinate IM with INFLUENZA, HUMAN (IM) in humans, or
+      INFLUENZA IN BIRDS (IM) in birds, or ORTHOMYXOVIRIDAE INFECTIONS (IM)
+      in other animals
+HN  - 2011
+BX  - H7N1 Virus
+
+MH  - Influenza A Virus, H7N2 Subtype
+UI  - D057917
+MN  - B4.820.545.405.400.692
+MN  - B4.909.777.545.405.400.692
+MS  - A subtype of INFLUENZA A VIRUS comprised of the surface proteins
+      hemagglutinin 7 and neuraminidase 2. It has been involved in a number
+      of outbreaks in the 21st century on poultry farms and has been
+      isolated a few times in humans.
+AN  - infection: coordinate IM with INFLUENZA, HUMAN (IM) in humans, or
+      INFLUENZA IN BIRDS (IM) in birds, or ORTHOMYXOVIRIDAE INFECTIONS (IM)
+      in other animals
+HN  - 2011
+
+MH  - Influenza A Virus, H7N3 Subtype
+UI  - D057920
+MN  - B4.820.545.405.400.694
+MN  - B4.909.777.545.405.400.694
+MS  - A subtype of INFLUENZA A VIRUS comprised of the surface proteins
+      hemagglutinin 7 and neuraminidase 3. It was first detected in turkeys
+      in Britain in 1963 and there have been several outbreaks on poultry
+      farms since that time. A couple cases of human infections have been
+      reported.
+AN  - infection: coordinate IM with INFLUENZA, HUMAN (IM) in humans, or
+      INFLUENZA IN BIRDS (IM) in birds, or ORTHOMYXOVIRIDAE INFECTIONS (IM)
+      in other animals
+HN  - 2011
+
+MH  - Information Literacy
+UI  - D058980
+MN  - L1.143.450
+MS  - The ability to recognize when information is needed and to locate,
+      evaluate, and use the needed information effectively.
+HN  - 2011
+FX  - Computer Literacy
+FX  - Information Seeking Behavior
+
+MH  - Informed Consent By Minors
+UI  - D057828
+MN  - I1.880.604.473.650.718.500
+MN  - I1.880.604.583.427.384
+MN  - N3.706.437.650.312.500
+MN  - N3.706.535.489.384
+MS  - Voluntary authorization by a person not of usual legal age for
+      diagnostic or investigative procedures, or for medical and surgical
+      treatment.  (from English A, Shaw FE, McCauley MM, Fishbein DB
+      Pediatrics 121:Suppl Jan 2008 pp S85-7).
+HN  - 2011
+FX  - Coercion
+
+MH  - Infusions, Intraventricular
+UI  - D057967
+MN  - E2.319.267.510.692
+MS  - The delivery of a drug into a fluid-filled cavity of the brain.
+HN  - 2011
+
+MH  - Inhalant Abuse
+UI  - D058545
+MN  - C25.467
+MN  - F3.900.467
+MS  - Illicit use of chemicals and products whose vapors can be inhaled to
+      produce a rapid mind-altering effect. Inhalants include aerosols,
+      gases, and volatile solvents that are often inhaled repeatedly to
+      achieve the short-lived intoxicating effect.
+HN  - 2011; for Glue Sniffing, use Substance-Related Disorders 1981-2010;
+      Glue Sniffing was a heading 1969-1980
+BX  - Glue Sniffing
+
+MH  - Integrin-Binding Sialoprotein
+UI  - D058574
+MN  - D12.776.395.700.675
+MN  - D12.776.744.527
+MN  - D12.776.860.300.562
+MS  - A highly glycosylated and sulfated phosphoprotein that is found almost
+      exclusively in mineralized connective tissues. It is an extracellular
+      matrix protein that binds to hydroxyapatite through polyglutamic acid
+      sequences and mediates cell attachment through an RGD sequence.
+HN  - 2011
+
+MH  - Interdisciplinary Studies
+UI  - D058025
+MN  - I2.158.405
+MS  - Programs of study which span the traditional boundaries of academic
+      scholarship.
+HN  - 2011
+
+MH  - Intermittent Urethral Catheterization
+UI  - D057928
+MN  - E2.148.947.500
+MS  - Insertion of a catheter into the urethra to drain the urine from the
+      bladder at intervals as needed.
+HN  - 2011
+
+MH  - Intraoperative Awareness
+UI  - D058926
+MN  - C23.550.505.400
+MS  - Occurence of a patient becoming conscious during a procedure performed
+      under GENERAL ANESTHESIA and subsequently having recall of these
+      events. (From Anesthesiology 2006, 104(4): 847-64.)
+HN  - 2011
+BX  - Anesthesia Awareness
+
+MH  - Intrauterine Device Migration
+UI  - D058736
+MN  - C26.392.500.500
+MN  - E5.325.578
+MS  - The shifting in position or location of an INTRAUTERINE DEVICE from
+      its original placement.
+HN  - 2011; use INTRAUTERINE DEVICE 1996-2010; for IUD  MIGRATION use
+      INTRAUTERINE DEVICE 1994-2010
+
+MH  - Intravitreal Injections
+UI  - D058449
+MN  - E2.319.267.530.475.500
+MS  - The administration of substances into the VITREOUS BODY of the eye
+      with a hypodermic syringe.
+HN  - 2011
+
+MH  - Introduced Species
+UI  - D058865
+MN  - B1.50.50.580
+MN  - G16.500.275.157.49.400
+MN  - N6.230.124.49.400
+MS  - Non-native organisms brought into a region, habitat, or ECOSYSTEM by
+      human activity.
+HN  - 2011
+BX  - Invasive Species
+
+MH  - Iridoid Glucosides
+UI  - D057888
+MN  - D2.455.849.575.500.500.500
+MN  - D3.383.663.491.500.500
+MN  - D3.830.491.500.500
+MN  - D9.408.348.387
+MN  - D9.408.423.500
+MS  - A subclass of iridoid compounds that include a glucoside moiety,
+      usually found at the C-1 position.
+HN  - 2011; use IRIDOIDS 2003-2010; for SECOIRIDOID GLUCOSIDES use IRIDOIDS
+      2003-2010
+
+MH  - Iridoid Glycosides
+UI  - D057889
+MN  - D2.455.849.575.500.500
+MN  - D3.383.663.491.500
+MN  - D3.830.491.500
+MN  - D9.408.423
+MS  - A subclass of iridoid compounds that include a glycoside moiety,
+      usually found at the C-1 position.
+HN  - 2011
+
+MH  - Iron Compounds
+UI  - D058085
+MN  - D1.490
+MN  - D1.632.550
+MN  - D2.691.550
+MS  - Organic and inorganic compounds that contain iron as an integral part
+      of the molecule.
+AN  - GEN or unspecified; prefer specifics; DF: IRON CPDS
+HN  - 2011
+
+MH  - Ischemic Postconditioning
+UI  - D057775
+MN  - E2.587
+MS  - The application of repeated, brief periods of vascular occlusion at
+      the onset of REPERFUSION to reduce REPERFUSION INJURY that follows a
+      prolonged ischemic event. The techniques are similar to ISCHEMIC
+      PRECONDITIONING but the time of application is after the ischemic
+      event instead of before.
+AN  - coordinate IM with tissue / blood supply (IM)
+HN  - 2011
+FX  - Ischemic Preconditioning
+
+MH  - Ischnocera
+UI  - D058326
+MN  - B1.50.500.131.617.690.450
+MS  - A suborder of chewing lice, in the order PHTHIRAPTERA, that are
+      parasites of birds and mammals.
+AN  - infestation: coordinate IM with LICE INFESTATIONS (IM); for killing
+      Ischnocera with insecticides, see note at INSECTICIDES
+HN  - 2011; use PHTHIRAPTERA 1999-2010
+
+MH  - Islet Amyloid Polypeptide
+UI  - D058228
+MN  - D12.644.548.586.234
+MN  - D12.776.49.407.500
+MS  - A pancreatic beta-cell hormone that is co-secreted with INSULIN. It
+      displays an anorectic effect on nutrient metabolism by inhibiting
+      gastric acid secretion, gastric emptying and postprandial GLUCAGON
+      secretion. Islet amyloid polypeptide can fold into AMYLOID FIBRILS
+      that have been found as a major constituent of pancreatic AMYLOID
+      DEPOSITS.
+HN  - 2011
+
+MH  - Isobutyric Acids
+UI  - D058610
+MN  - D2.241.81.160.700
+MN  - D10.251.400.241.700
+MS  - Aliphatic acids that contain four carbons in a branched-chain
+      configuration.
+HN  - 2011
+
+MH  - Isotachophoresis
+UI  - D057625
+MN  - E5.196.401.831
+MN  - E5.301.300.831
+MS  - A nonlinear electrophoretic technique used to separate a variety of
+      ionic compounds, ranging from small metal ions to large molecules like
+      proteins. Unlike "linear" zone electrophoresis in which separating
+      solute bands continually spread by diffusion or dispersion,
+      isotachophoresis forms self-sharpening, adjacent zones of
+      substantially pure solute whose concentrations often exceed several
+      mgs/ml. In isotachophoresis a multianalyte sample is introduced
+      between the leading electrolyte and the terminating electrolyte where
+      the sample ions have lower electrophoretic mobilities than the leading
+      ion but larger than the terminating ion. (From "Isotachophoresis" on
+      the AES Web Site [Internet]. Madison, WI: The American Electrophoresis
+      Society; c2000-2008 [cited 2009 Aug 20]. Available from
+      http://www.aesociety.org/areas/isotachophoresis.php)
+HN  - 2011; use Electrophoresis 1985-2010
+
+MH  - Joint Capsule Release
+UI  - D057913
+MN  - E4.555.113.500
+MN  - E4.555.350
+MN  - E4.800.250.70.500
+MS  - Surgical procedure to relax the JOINT CAPSULE tissues in a joint that
+      has a reduced range of motion due to CONTRACTURE or TISSUE ADHESIONS
+      or joint deformities.
+HN  - 2011
+BX  - Capsular Release
+
+MH  - Kashin-Beck Disease
+UI  - D057767
+MN  - C5.116.99.708.534
+MS  - Disabling osteochondrodysplasia with OSTEOSCLEROSIS, cone-shaped
+      METAPHYSIS, and shortening of the DIAPHYSIS. It is endemic in parts of
+      Siberia and northern China. Mineral deficiencies (e.g., selenium,
+      iodine), fungal cereal contamination, and water contamination may be
+      contributing factors in its etiology.
+HN  - 2011
+
+MH  - Knowledge Management
+UI  - D058436
+MN  - N4.452.480
+MS  - The leveraging of collective wisdom within an organization as a
+      catalyst to increase responsiveness and innovation.
+HN  - 2011
+
+MH  - Kyphoplasty
+UI  - D058498
+MN  - E2.718.750.500
+MN  - E4.555.860.500
+MS  - Procedures to restore vertebrae to their original shape following
+      vertebral compression fractures by inflating a balloon inserted into
+      the vertebrae, followed by removal of the balloon and injection of
+      BONE CEMENTS to fill the cavity.
+HN  - 2011
+
+MH  - Laboratory Proficiency Testing
+UI  - D059021
+MN  - J1.897.608.500
+MN  - N4.761.700.512
+MS  - Assessments aimed at determining agreement in diagnostic test results
+      among laboratories. Identical survey samples are distributed to
+      participating laboratories, with results stratified according to
+      testing methodologies.
+HN  - 2011
+
+MH  - Laryngoplasty
+UI  - D058753
+MN  - E4.580.371
+MS  - Restoration, reconstruction, or improvement of a defective or damaged
+      LARYNX.
+HN  - 2011
+
+MH  - Learning Curve
+UI  - D059032
+MN  - F2.784.629.529.274
+MS  - The course of learning of an individual or a group. It is a measure of
+      performance plotted over time.
+HN  - 2011
+
+MH  - Lemierre Syndrome
+UI  - D057831
+MN  - C1.252.400.388.350.700
+MN  - C7.550.174
+MN  - C9.775.262
+MN  - C14.907.355.830.925.770.500
+MN  - C14.907.617.718.788.500
+MN  - C14.907.940.740.910.500
+MS  - A superinfection of the damaged oropharyngeal mucosa by FUSOBACTERIUM
+      NECROPHORUM leading to the secondary septic THROMBOPHLEBITIS of the
+      internal jugular vein.
+HN  - 2011
+
+MH  - Lesser Pelvis
+UI  - D057892
+MN  - A1.673.500
+MS  - The part of the pelvis, inferior to the pelvic brim, that comprises
+      both the pelvic cavity and the part of the PERINEUM lying inferior to
+      the PELVIC DIAPHRAGM.
+HN  - 2011
+BX  - True Pelvis
+
+MH  - Levoleucovorin
+UI  - D058766
+MN  - D3.438.733.631.400.800.350.450.500
+MS  - A folate analog consisting of the pharmacologically active isomer of
+      LEUCOVORIN.
+HN  - 2011; Use LEUCOVORIN 1998-2010: Use LEUCOVORIN, (S)-Isomer 1998-2010:
+      Use LEUCOVORIN, Calcium (1:1) Salt, (S)-Isomer 1998-2010: Use
+      LEUCOVORIN, Monopotassium Salt, (S)-Isomer 1998-2010: Use LEUCOVORIN,
+      Monosodium Salt, (S)-Isomer 1998-2010
+
+MH  - Lewis Acids
+UI  - D058116
+MN  - D1.29.630
+MN  - D2.561
+MS  - Any chemical species which accepts an electron-pair from a LEWIS BASE
+      in a chemical bonding reaction.
+HN  - 2011
+
+MH  - Lewis Bases
+UI  - D058115
+MN  - D1.45.625
+MN  - D2.572
+MS  - Any chemical species which acts as an electron-pair donor in a
+      chemical bonding reaction with a LEWIS ACID.
+HN  - 2011
+
+MH  - Ligand-Gated Ion Channels
+UI  - D058446
+MN  - D12.776.157.530.400.400
+MN  - D12.776.543.550.425.500
+MN  - D12.776.543.585.400.500
+MS  - A subclass of ion channels that open or close in response to the
+      binding of specific LIGANDS.
+HN  - 2011
+
+MH  - Lipid Regulating Agents
+UI  - D057847
+MN  - D27.505.954.557
+MS  - Substances that alter the metabolism of LIPIDS.
+HN  - 2011
+BX  - Lipid Regulating Drugs
+
+MH  - Lipid-Linked Proteins
+UI  - D058635
+MN  - D12.776.543.484
+MS  - Proteins that are covalently-linked to lipid molecules or hydrophobic
+      molecules such as those that contain prenyl groups. The lipid moieties
+      aid in the association of the proteins with CELL MEMBRANES.
+AN  - do not confuse with PROTEOLIPIDS or LIPOPROTEINS
+HN  - 2011
+FX  - Lipoproteins
+FX  - Lipoylation
+FX  - Proteolipids
+
+MH  - Lipoprotein Lipase Activators
+UI  - D058867
+MN  - D27.505.519.374.600
+MN  - D27.505.954.557.500.601.500
+MS  - Compounds that increase the enzymatic activity of LIPOPROTEIN LIPASE.
+      Lipoprotein lipase activators have a potential role in the treatment
+      of OBESITY by increasing LIPID METABOLISM. Note that substances that
+      increase the synthesis of lipoprotein lipase are not included here.
+HN  - 2011
+BX  - Lipoprotein Lipase Activating Agents
+
+MH  - Lipoxygenases
+UI  - D058945
+MN  - D8.811.682.690.416.583
+MN  - D12.776.556.579.374.568
+MS  - Dioxygenases that catalyze the peroxidation of methylene-interrupted
+      UNSATURATED FATTY ACIDS.
+AN  - LIPOXYGENASE is also available
+HN  - 2011; use LIPOXYGENASE 1992-2010
+
+MH  - Livestock
+UI  - D058751
+MN  - B1.50.50.116.500
+MS  - Domesticated farm animals raised for home use or profit but excluding
+      POULTRY. Typically livestock includes CATTLE; SHEEP; HORSES; SWINE;
+      GOATS; and others.
+AN  - prefer specific domestic animals like CATTLE; SHEEP; HORSES; etc.;
+      excludes POULTRY
+HN  - 2011; use ANIMALS, DOMESTIC 1993-2010
+
+MH  - Loose Anagen Hair Syndrome
+UI  - D058247
+MN  - C17.800.329.937.122.348
+MN  - C23.300.35.500
+MS  - Benign childhood alopecia that improves spontaneously with aging. It
+      is characterized by anagen hairs (misshapen hair bulbs and absent
+      inner and outer root sheaths), thin, and sparse hairs that pulls out
+      easily.
+HN  - 2011
+
+MH  - Lost to Follow-Up
+UI  - D059012
+MN  - E5.318.780.438
+MS  - Study subjects in COHORT STUDIES whose outcomes are unknown e.g.,
+      because they could not or did not wish to attend follow-up
+      visits.(from Dictionary of Epidemiology, 5th ed.)
+HN  - 2011
+
+MH  - Macrocephaly
+UI  - D058627
+MN  - C5.660.207.536
+MN  - C10.500.507.374
+MN  - C16.131.621.207.532
+MN  - C16.131.666.507.343
+MS  - A congenital abnormality in which the occipitofrontal circumference is
+      greater than two standard deviations above the mean for a given age.
+      It is associated with HYDROCEPHALUS; SUBDURAL EFFUSION; ARACHNOID
+      CYSTS; or is part of a genetic condition (e.g., ALEXANDER DISEASE;
+      SOTOS SYNDROME).
+HN  - 2011
+FX  - Hydrocephalus
+
+MH  - Magnetite Nanoparticles
+UI  - D058185
+MN  - D1.490.100.375.500
+MN  - D1.490.200.350.500
+MN  - D1.578.285.500
+MN  - J1.637.512.600.500.287
+MS  - Synthesized magnetic particles under 100 nanometers possessing many
+      biomedical applications including DRUG DELIVERY SYSTEMS and CONTRAST
+      AGENTS. The particles are usually coated with a variety of polymeric
+      compounds.
+HN  - 2011; use FERROSOFERRIC OXIDE 2010
+
+MH  - Maltose-Binding Proteins
+UI  - D058619
+MN  - D12.776.97.577.500.500
+MS  - Periplasmic proteins that bind MALTOSE and maltodextrin. They take
+      part in the maltose transport system of BACTERIA.
+HN  - 2011
+
+MH  - MART-1 Antigen
+UI  - D058965
+MN  - D12.776.624.301.750
+MN  - D23.50.285.439.750
+MS  - A melanosome-specific protein that plays a role in the expression,
+      stability, trafficking, and processing of GP100 MELANOMA ANTIGEN,
+      which is critical to the formation of Stage II MELANOSOMES. The
+      protein is used as an antigen marker for MELANOMA cells.
+HN  - 2011
+BX  - MART1 Antigens
+BX  - Melanoma Antigen Recognized by T-Cells 1
+
+MH  - Medial Tibial Stress Syndrome
+UI  - D058923
+MN  - C5.651.426
+MN  - C10.668.491.87
+MN  - C26.558.705
+MS  - SKELETAL MUSCLE pain and tenderness along the posteromedial TIBIA
+      resulting from exercise such as running and other physical activity.
+HN  - 2011
+
+MH  - Medication Reconciliation
+UI  - D059065
+MN  - E2.319.529.500
+MN  - N2.421.450.500.500
+MN  - N4.452.528.460
+MN  - N4.590.656
+MS  - The formal process of obtaining a complete and accurate list of each
+      patient's current home medications including name, dosage, frequency,
+      and route of administration, and comparing admission, transfer, and/or
+      discharge medication orders to that list. The reconciliation is done
+      to avoid medication errors.
+HN  - 2011
+
+MH  - Melanoma-Specific Antigens
+UI  - D058950
+MN  - D12.776.624.301
+MN  - D23.50.285.439
+MS  - Cellular antigens that are specific for MELANOMA cells.
+HN  - 2011
+BX  - Melanoma Antigens
+
+MH  - Melinis repens
+UI  - D057665
+MN  - B1.650.940.800.575.100.822.558
+MS  - Formerly known as Rhynchelytrum repens, a member of the perennial
+      grass family native to South Africa, widely distributed and known by
+      different common names. It is used as a diabetes cure in folk medicine
+      and actively studied for its hypoglycemic properties.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ther use (IM or NIM) +
+      specific plant chemical/ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Memory, Long-Term
+UI  - D057567
+MN  - F2.463.425.540.305
+MS  - Remembrance of information from 3 or more years previously.
+HN  - 2011
+BX  - Long-term Memory
+
+MH  - Mesophyll Cells
+UI  - D058503
+MN  - A11.590
+MN  - A18.24.812.324
+MS  - Large and highly vacuolated cells possessing many chloroplasts
+      occuring in the interior cross-section of leaves, juxtaposed between
+      the epidermal layers.
+HN  - 2011
+
+MH  - Mesotherapy
+UI  - D057748
+MN  - E2.190.506
+MN  - E2.218.660
+MN  - E2.319.267.530.620.785
+MS  - The application of medicine, vitamins, extracts, or other bioactive
+      substances for a localized effect via multiple subcutaneous injections
+      or perfusion of substances into the various layers of the skin below
+      the EPIDERMIS.
+HN  - 2011
+
+MH  - Metacercariae
+UI  - D058488
+MN  - B5.500.500.150.500
+MN  - G7.700.320.500.550.500.500.150.500
+MS  - Encysted cercaria which house the intermediate stages of trematode
+      parasites in tissues of an intermediate host.
+AN  - do not use / embryol with reference to metacercariae
+HN  - 2011
+
+MH  - Metalloids
+UI  - D058955
+MN  - D1.268.513
+MS  - A class of nonmetals such as arsenic that have some of the chemical
+      properties of a metal.
+HN  - 2011
+
+MH  - Mice, 129 Strain
+UI  - D057507
+MN  - B1.50.150.900.649.865.635.505.500.400.25
+MN  - B1.50.150.900.649.865.635.505.500.550.25
+MN  - B1.50.150.900.649.865.635.505.500.800.500.25
+MS  - Strains of mice arising from a parental inbred stock that was
+      subsequently used to produce substrains of knockout and other mutant
+      mice with targeted mutations.
+AN  - NIM with no qualifiers when experimental animal; check the tag MICE
+HN  - 2011
+
+MH  - Micrasterias
+UI  - D058120
+MN  - B1.650.940.800.150.200.500
+MS  - A genus of unicellular streptophyte algae in the family Desmidiaceae,
+      order DESMIDIALES.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Microalgae
+UI  - D058086
+MN  - B5.650.600.500
+MS  - A non-taxonomic term for unicellular microscopic algae which are found
+      in both freshwater and marine environments. Some authors consider
+      DIATOMS; CYANOBACTERIA; HAPTOPHYTA; and DINOFLAGELLATES as part of
+      microalgae, even though they are not algae.
+AN  - coordinate with specific organism if pertinent
+HN  - 2011
+
+MH  - Microbial Consortia
+UI  - D059013
+MN  - G6.550
+MS  - A group of different species of microorganisms that act together as a
+      community.
+HN  - 2011
+FX  - Biota
+FX  - Microbial Interactions
+
+MH  - Military Facilities
+UI  - D058749
+MN  - J1.86.339.445
+MS  - Areas designated for use by the armed forces personnel.
+HN  - 2011
+
+MH  - Millon Clinical Multiaxial Inventory
+UI  - D058010
+MN  - F4.711.647.513.535
+MS  - A psychological test consisting of true/false items. It is used as a
+      diagnostic screening or clinical assessment of adults who evidence
+      problematic emotional and interpersonal symptoms or who are undergoing
+      PSYCHOTHERAPY or a psychodiagnostic evaluation.
+HN  - 2011
+
+MH  - Mirizzi Syndrome
+UI  - D057792
+MN  - C6.130.120.135.812
+MS  - Complication of CHOLELITHIASIS characterized by OBSTRUCTIVE JAUNDICE;
+      abdominal pain, and fever.
+HN  - 2011
+FX  - Jaundice, Obstructive
+
+MH  - Mitral Valve Annuloplasty
+UI  - D058386
+MN  - E4.100.376.62.500
+MN  - E4.928.220.109.500
+MS  - A type of heart valve surgery that involves the repair, replacement,
+      or reconstruction of the annulus of the MITRAL VALVE. It includes
+      shortening the circumference of the annulus to improve valve closing
+      capacity and reinforcing the annulus as a step in more complex valve
+      repairs.
+AN  - mitral ring annuloplasty (where "ring" refers to a prosthesis): 
+      coordinate MITRAL VALVE ANNULOPLASTY with HEART VALVE PROSTHESIS
+      IMPLANTATION
+HN  - 2011
+
+MH  - Molecular Farming
+UI  - D058634
+MN  - J1.40.790
+MN  - J1.897.836.750
+MS  - The large scale production of pharmaceutically important and
+      commercially valuable RECOMBINANT PROTEINS.
+HN  - 2011
+FX  - Animals, Genetically Modified
+FX  - Plants, Genetically Modified
+
+MH  - Molecular Sequence Annotation
+UI  - D058977
+MN  - E5.393.760.479
+MN  - L1.453.245.667.580
+MS  - The addition of descriptive information about the function or
+      structure of a molecular sequence to its MOLECULAR SEQUENCE DATA
+      record.
+HN  - 2011
+BX  - Gene Annotation
+FX  - Sequence Analysis, DNA
+FX  - Sequence Analysis, Protein
+FX  - Sequence Analysis, RNA
+
+MH  - Molecular Targeted Therapy
+UI  - D058990
+MN  - E2.319.574
+MS  - Treatments with drugs which interact with or block synthesis of
+      specific cellular components characteristic of the individual's
+      disease in order to stop or interrupt the specific biochemical
+      dysfunction involved in progression of the disease.
+AN  - do not confuse with DRUG TARGETING see DRUG DELIVERY SYSTEMS
+HN  - 2011
+
+MH  - Molecular Typing
+UI  - D058889
+MN  - E5.200.875.150.125.457
+MN  - E5.393.542
+MS  - Using MOLECULAR BIOLOGY techniques, such as DNA SEQUENCE ANALYSIS;
+      PULSED-FIELD GEL ELECTROPHORESIS; and DNA FINGERPRINTING, to identify,
+      classify, and compare organisms and their subtypes.
+AN  - for molecular typing of fungi, coordinate with MYCOLOGICAL TYPING
+      TECHNIQUES
+HN  - 2011
+FX  - Molecular Epidemiology
+
+MH  - Molineoidae
+UI  - D057807
+MN  - B1.50.500.500.294.700.775.600
+MS  - A superfamily of roundworms in the order STRONGYLIDA. It comprises the
+      single family Molineidae and subfamily Nematodirinae.
+AN  - infection: coordinate IM with STRONGYLIDA INFECTIONS (IM)
+HN  - 2011
+
+MH  - Moorella
+UI  - D058845
+MN  - B3.300.390.400.525
+MN  - B3.510.415.400.525
+MN  - B3.510.460.410.525
+MS  - A genus of gram positive, acetogenic, thermophilic bacteria in the
+      family Thermoanaerobacteraceae. Known habitats include HOT SPRINGS,
+      horse manure, emu droppings, and sewage SLUDGE.
+HN  - 2011
+
+MH  - Mougeotia
+UI  - D058130
+MN  - B1.650.940.800.150.990.550
+MS  - A genus of filamentous algae in the order ZYGNEMATALES, family
+      Zygnemataceae, that possess CHLOROPLASTS that can orient to the
+      direction of light.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Multi-Ingredient Cold, Flu, and Allergy Medications
+UI  - D057985
+MN  - D26.310.500
+MS  - A broad category of multi-ingredient preparations that are marketed
+      for the relief of upper respiratory symptoms resulting from the COMMON
+      COLD; ALLERGIES; or HUMAN INFLUENZA. While the majority of these
+      medications are available as OVER-THE-COUNTER DRUGS some of them
+      contain ingredients that require them to be sold as PRESCRIPTION DRUGS
+      or as BEHIND-THE COUNTER DRUGS.
+AN  - IM general only; coordinate NIM with specific ingredients
+HN  - 2011
+BX  - Multi-Ingredient Cold Medications
+
+MH  - Multifactor Dimensionality Reduction
+UI  - D058011
+MN  - L1.470.625.500
+MN  - L1.700.508.280.199.500
+MS  - A statistical tool for detecting and modeling gene-gene interactions.
+      It is a non-parametric and model-free approach.
+HN  - 2011
+
+MH  - Multilocus Sequence Typing
+UI  - D058885
+MN  - E5.200.875.150.125.457.500
+MN  - E5.393.542.500
+MN  - E5.393.760.700.650
+MS  - Direct nucleotide sequencing of gene fragments from multiple
+      housekeeping genes for the purpose of phylogenetic analysis, organism
+      identification, and typing of species, strain, serovar, or other
+      distinguishable phylogenetic level.
+AN  - coordinate with BACTERIAL TYPING TECHNIQUES or MYCOLOGICAL TYPING
+      TECHNIQUES if pertinent
+HN  - 2011
+
+MH  - Myofibroblasts
+UI  - D058628
+MN  - A11.329.228.975
+MN  - A11.620.520.500
+MS  - Spindle-shaped cells with characteristic CONTRACTILE PROTEINS and
+      structures that contribute to the WOUND HEALING process. They occur in
+      GRANULATION TISSUE and also in pathological processes such as
+      FIBROSIS.
+HN  - 2011
+
+MH  - Nanoconjugates
+UI  - D058726
+MN  - D26.255.260.600
+MN  - D27.720.280.260.600
+MN  - E2.319.300.380.600
+MN  - J1.637.512.600.577
+MS  - Tailored macromolecules harboring covalently-bound biologically active
+      modules that target specific tissues and cells. The active modules or
+      functional groups can include drugs, prodrugs, antibodies, and
+      oligonucleotides, which can act synergistically and be multitargeting.
+HN  - 2011
+
+MH  - Nanodiamonds
+UI  - D058612
+MN  - D1.268.150.200.550
+MN  - J1.637.512.600.580
+MS  - Diamond nanoparticles that exhibit unique biological, thermal,
+      mechanical, and optoelectronic properties. They have important
+      NANOMEDICINE applications including DRUG DELIVERY SYSTEMS; DIAGNOSTIC
+      IMAGING; protein separation; and BIOSENSING TECHNIQUES.
+HN  - 2011
+
+MH  - Nanopores
+UI  - D058608
+MN  - J1.637.512.650
+MS  - Small holes of nanometer dimensions in a membrane, that can be used as
+      single molecule detectors. The pores can be biological or synthetic.
+HN  - 2011
+FX  - Nuclear Pore
+
+MH  - Nasal Sprays
+UI  - D059085
+MN  - D20.280.55.500
+MS  - Agents delivered into the nostrils in the form of a mist or spray.
+HN  - 2011
+BX  - Nasal Aerosol
+
+MH  - Natural Orifice Endoscopic Surgery
+UI  - D057605
+MN  - E1.370.388.250.630
+MN  - E4.800.250.630
+MS  - Surgical procedures performed through a natural opening in the body
+      such as the mouth, nose, urethra, or anus, and along the natural body
+      cavities with which they are continuous.
+HN  - 2011
+BX  - Natural Orifice Transluminal Endoscopic Surgery
+BX  - Natural Orifice Transluminal Endoscopy
+
+MH  - Necrobiotic Xanthogranuloma
+UI  - D058252
+MN  - C15.604.515.292.507
+MN  - C17.300.200.495.772
+MN  - C17.800.550.772
+MN  - C18.452.584.750.487
+MN  - C23.550.382.984
+MS  - A cutaneous necrobiotic disorder characterized by firm, yellow plaques
+      or nodules, often in a periorbital distribution. It is often
+      accompanied by an elevated ERYTHROCYTE SEDIMENTATION RATE; LEUKOPENIA;
+      and MONOCLONAL GAMMOPATHY (IgG-kappa type) and systemic involvement.
+HN  - 2011
+
+MH  - Necrolytic Migratory Erythema
+UI  - D058568
+MN  - C17.800.551
+MN  - C23.888.885.468
+MS  - Recurrent cutaneous manifestation of GLUCAGONOMA characterized by
+      necrolytic polycyclic migratory lesions with scaling borders. It is
+      associated with elevated secretion of GLUCAGON by the tumor. Other
+      conditions with elevated serum glucagon levels such as HEPATIC
+      CIRRHOSIS may also result in similar skin lesions, which are referred
+      to as pseudoglucagonoma syndrome.
+AN  - for glucagonoma syndrome, coordinate with GLUCAGONOMA and PANCREATIC
+      NEOPLASMS
+HN  - 2011
+BX  - Pseudoglucagonoma Syndrome
+FX  - Glucagonoma
+
+MH  - Neglected Diseases
+UI  - D058069
+MN  - C23.550.291.890
+MS  - Diseases that are underfunded and have low name recognition but are
+      major burdens in less developed countries. The World Health
+      Organization has designated six tropical infectious diseases as being
+      neglected in industrialized countries that are endemic in many
+      developing countries (HELMINTHIASIS; LEPROSY; LYMPHATIC FILARIASIS;
+      ONCHOCERCIASIS; SCHISTOSOMIASIS; and TRACHOMA).
+HN  - 2011
+FX  - Rare Diseases
+
+MH  - Nematocyst
+UI  - D058894
+MN  - A13.655
+MS  - A double-walled capsule found in jellyfish and other CNIDARIA whose
+      functions include prey capture, defense, locomotion, and attachment.
+      Nematocysts contain toxic CNIDARIAN VENOMS which are injected into the
+      victim via a barbed tubule.
+HN  - 2011
+FX  - Cnidarian Venoms
+
+MH  - Nematodirus
+UI  - D057808
+MN  - B1.50.500.500.294.700.775.600.550
+MS  - A genus of roundworms in the family MOLINIEIDAE, whose species are
+      important gastrointestinal parasites of RUMINANTS, especially CATTLE;
+      SHEEP; and GOATS.
+AN  - infection: coordinate IM with STRONGYLIDA INFECTIONS (IM)
+HN  - 2011
+
+MH  - Neointima
+UI  - D058426
+MN  - C23.550.722
+MS  - The new and thickened layer of scar tissue that forms on a PROSTHESIS,
+      or as a result of vessel injury especially following ANGIOPLASTY or
+      stent placement.
+HN  - 2011
+FX  - Tunica Intima
+
+MH  - Neural Prostheses
+UI  - D058117
+MN  - E7.305.250.319.381.500
+MN  - E7.695.202.381.500
+MS  - Medical devices which substitute for a nervous system function by
+      electrically stimulating the nerves directly and monitoring the
+      response to the electrical stimulation.
+HN  - 2011
+
+MH  - Neural Stem Cells
+UI  - D058953
+MN  - A11.872.653
+MS  - Self-renewing cells that generate the main phenotypes of the nervous
+      system in both the embryo and adult. Neural stem cells are precursors
+      to both NEURONS and NEUROGLIA.
+HN  - 2011
+
+MH  - Neurocan
+UI  - D058580
+MN  - D12.776.395.550.200.250.520.789
+MN  - D12.776.395.650.750.687.450
+MN  - D12.776.503.280.437.450
+MN  - D12.776.543.550.200.250.520.789
+MN  - D23.50.301.350.250.520.789
+MS  - A hyalectin family member that is expressed in neuronal tissue and
+      plays a role in neuronal CELL ADHESION.
+HN  - 2011
+
+MH  - Neurofeedback
+UI  - D058765
+MN  - E2.190.525.123.500
+MN  - F2.830.131.500
+MN  - F4.754.137.301.750
+MN  - F4.754.308.500.750
+MN  - L1.143.283.425.624.500.500
+MS  - A technique to self-regulate brain activities provided as a feedback
+      in order to better control or enhance one's own performance, control
+      or function. This is done by trying to bring brain activities into a
+      range associated with a desired brain function or status.
+HN  - 2011
+BX  - Alpha Biofeedback
+BX  - Alpha Feedback
+BX  - Brainwave Biofeedback
+BX  - Brainwave Feedback
+
+MH  - Neuroprostanes
+UI  - D058632
+MN  - D10.251.355.337.250.500
+MN  - D10.251.355.411.750
+MS  - Prostaglandin-like compounds produced by free radical-induced
+      peroxidation of DOCOSAHEXAENOIC ACIDS, which are highly enriched in
+      the brain. Formation is analogous to ISOPROSTANES formation from
+      ARACHIDONIC ACID.
+HN  - 2011; use DOCOSAHEXAENOIC ACIDS 2006-2010
+
+MH  - Neuropsychiatry
+UI  - D058027
+MN  - F4.96.544.504
+MN  - H2.403.690.754
+MS  - A subfield of psychiatry that emphasizes the somatic substructure on
+      which mental operations and emotions are based, and the functional or
+      organic disturbances of the central nervous system that give rise to,
+      contribute to, or are associated with mental and emotional disorders.
+      (From Campbell's Psychiatric Dictionary, 8th ed.)
+AN  - specialty only
+HN  - 2011
+FX  - Neuropsychology
+
+MH  - Nitrification
+UI  - D058465
+MN  - G16.500.240.465.500
+MS  - A process facilitated by specialized bacteria involving the oxidation
+      of ammonium to nitrite and nitrate.
+HN  - 2011
+
+MH  - Nitrogen Cycle
+UI  - D058458
+MN  - G2.111.87.599
+MN  - G2.149.115.599
+MN  - G2.607.750.560
+MN  - G2.842.750.643
+MN  - G16.500.240.465
+MS  - The circulation of nitrogen in nature, consisting of a cycle of
+      biochemical reactions in which atmospheric nitrogen is compounded,
+      dissolved in rain, and deposited in the soil, where it is assimilated
+      and metabolized by bacteria and plants, eventually returning to the
+      atmosphere by bacterial decomposition of organic matter.
+HN  - 2011
+
+MH  - Nonsteroidal Anti-Androgens
+UI  - D057466
+MN  - D6.347.65.500
+MN  - D27.505.696.399.450.65.500
+MS  - Nonsteroidal agents which block the action or downregulate the
+      synthesis of ANDROGENS.
+HN  - 2011
+
+MH  - Norwood Procedures
+UI  - D058327
+MN  - E4.100.376.724
+MN  - E4.928.220.560
+MS  - A set of surgical procedures performed to establish sufficient outflow
+      to the systemic circulation in individuals with univentricular
+      congenital heart malformations, such as HYPOPLASTIC LEFT HEART
+      SYNDROME, and MITRAL VALVE atresia, associated with systemic outflow
+      obstruction. Follow-on surgeries may be performed and consist of a
+      HEMI-FONTAN PROCEDURE as the stage 2 Norwood procedure and a FONTAN
+      PROCEDURE as the stage 3 Norwood procedure.
+AN  - NORWOOD PROCEDURE, STAGE 2 and NORWOOD PROCEDURE, STAGE 3 see FONTAN
+      PROCEDURE are also available
+HN  - 2011
+BX  - Norwood Procedure
+
+MH  - Not-For-Profit Insurance Plans
+UI  - D059034
+MN  - N3.219.521.576.343.912
+MS  - Health insurance plans that are not intended to generate profit.
+AN  - specify geographic term if possible
+HN  - 2011
+
+MH  - Operating Tables
+UI  - D058638
+MN  - E7.325.662
+MN  - E7.858.421
+MS  - A raised flat surface on which a patient is placed during surgical
+      procedures.
+HN  - 2011
+BX  - Operating Room Tables
+
+MH  - Operative Blood Salvage
+UI  - D057725
+MN  - E4.932.687
+MS  - Recovery of blood lost from surgical procedures for reuse by the same
+      patient in AUTOLOGOUS BLOOD TRANSFUSIONS. It is collected during
+      (intraoperatively) or after completion of (postoperatively) the
+      surgical procedures.
+HN  - 2011
+FX  - Blood Transfusion, Autologous
+FX  - Bloodless Medical and Surgical Procedures
+
+MH  - Opiate Substitution Treatment
+UI  - D058850
+MN  - E2.319.620
+MS  - Medical treatment for opioid dependence using a substitute opiate such
+      as METHADONE or BUPRENORPHINE.
+AN  - coordinate with specific opioid dependence /rehabil or /drug ther and
+      specific substituted opioid /ther use
+HN  - 2011
+BX  - Opiate Replacement Therapy
+FX  - Buprenorphine
+FX  - Methadone
+
+MH  - Optic Flow
+UI  - D057849
+MN  - F2.463.593.932.594
+MN  - G14.700
+MS  - The continuous visual field seen by a subject through space and time.
+HN  - 2011
+
+MH  - Oral Sprays
+UI  - D058993
+MN  - E7.605.750
+MS  - Pharmacologic agents in the form of a mist or spray delivered into the
+      body through the mouth.
+HN  - 2011
+
+MH  - Organic Agriculture
+UI  - D058871
+MN  - J1.40.895
+MS  - Systems of agriculture which adhere to nationally regulated standards
+      that restrict the use of pesticides, non-organic fertilizers, genetic
+      engineering, growth hormones, irradiation, antibiotics, and
+      non-organic ANIMAL FEED.
+HN  - 2011
+FX  - Food, Organic
+
+MH  - Organs at Risk
+UI  - D058958
+MN  - A1.635
+MS  - Organs which might be damaged during exposure to a toxin or to some
+      form of therapy. It most frequently refers to healthy organs located
+      in the radiation field during radiation therapy.
+HN  - 2011
+FX  - Risk Factors
+
+MH  - Orthognathic Surgery
+UI  - D057909
+MN  - E6.892.500
+MN  - H2.163.876.886.500
+MN  - H2.403.810.481
+MS  - A surgical specialty concerned with correcting conditions related to
+      malposition of the jawbones and other related MAXILLOFACIAL
+      ABNORMALITIES (e.g., CLEFT PALATE; RETROGNATHISM).
+AN  - do not confuse with ORTHOGNATHIC SURGICAL PROCEDURES
+HN  - 2011
+
+MH  - Osteoporotic Fractures
+UI  - D058866
+MN  - C26.404.545
+MS  - Breaks in bones resulting from low bone mass and microarchitectural
+      deterioration characteristic of OSTEOPOROSIS.
+HN  - 2011
+
+MH  - Out-of-Hospital Cardiac Arrest
+UI  - D058687
+MN  - C14.280.383.610
+MS  - Occurrence of heart arrest in an individual when there is no immediate
+      access to medical personnel or equipment.
+HN  - 2011
+
+MH  - Overbite
+UI  - D057887
+MN  - C7.793.494.630.500
+MS  - A malocclusion in which maxillary incisor and canine teeth project
+      over the mandiblar teeth excessively. The overlap is measured
+      perpendicular to the occlusal plane and is also called vertical
+      overlap. When the overlap is measured parallel to the occlusal plane
+      it is referred to as overjet.
+HN  - 2011
+
+MH  - Oxidative Coupling
+UI  - D058451
+MN  - G2.607.750.660
+MN  - G2.842.750.650.500
+MS  - The reaction of two molecular entities via oxidation usually catalyzed
+      by a transition metal compound and involving dioxygen as the oxidant.
+HN  - 2011
+
+MH  - Pain Perception
+UI  - D058748
+MN  - F2.463.593.504
+MS  - The process by which PAIN is recognized and interpreted by the brain.
+AN  - differentiate from PAIN; PAIN PERCEPTION takes place in the brain
+HN  - 2011
+
+MH  - Pancreatic Stellate Cells
+UI  - D058954
+MN  - A11.700
+MS  - Star-shaped, myofibroblast-like cells located in the periacinar,
+      perivascular, and periductal regions of the EXOCRINE PANCREAS. They
+      play a key role in the pathobiology of FIBROSIS; PANCREATITIS; and
+      PANCREATIC CANCER.
+HN  - 2011
+
+MH  - Pandemics
+UI  - D058873
+MN  - N6.850.290.200.600
+MS  - Epidemics of infectious disease that have spread to many countries,
+      often more than one continent, and usually affecting a large number of
+      people.
+AN  - coordinate IM with specific disease / epidemiol (IM) & specify
+      geographic location if pertinent
+HN  - 2011; use DISEASE OUTBREAKS 2006-2010
+
+MH  - Parenteral Nutrition Solutions
+UI  - D057947
+MN  - D26.776.708.733
+MN  - D27.720.280.775.733
+MS  - Specialized solutions for PARENTERAL NUTRITION. They may contain a
+      variety of MICRONUTRIENTS; VITAMINS; AMINO ACIDS; CARBOHYDRATES;
+      LIPIDS; and SALTS.
+HN  - 2011
+FX  - Food, Formulated
+FX  - Parenteral Nutrition
+
+MH  - Pasteuria
+UI  - D058676
+MN  - B3.300.390.650
+MN  - B3.510.100.650
+MN  - B3.510.415.650
+MS  - A genus of GRAM-POSITIVE ENDOSPORE-FORMING BACTERIA in the family
+      Pasteuriaceae. It is transmitted via soil or waterborne SPORES.
+HN  - 2011
+
+MH  - Patient Protection and Affordable Care Act
+UI  - D058991
+MN  - N3.219.521.576.343.918
+MN  - N3.706.615.806
+MS  - An Act prohibiting a health plan from establishing lifetime limits or
+      annual limits on the dollar value of benefits for any participant or
+      beneficiary after January 1, 2014. It permits a restricted annual
+      limit for plan years beginning prior to January 1, 2014. It provides
+      that a health plan shall not be prevented from placing annual or
+      lifetime per-beneficiary limits on covered benefits. The Act sets up a
+      new competitive health insurance market giving tens of millions of
+      Americans the same choices of insurance that members of Congress will
+      have. It aims to bring greater accountability to health care and to
+      control cost of health insurance premiums.
+AN  - add UNITED STATES; CATALOG: use NAF entry
+HN  - 2011
+
+MH  - Pentalogy of Cantrell
+UI  - D058502
+MN  - C10.500.680.705
+MN  - C16.131.77.696
+MN  - C16.131.666.680.705
+MS  - Rare congenital deformity syndrome characterized by a combination of
+      five anomalies as a result of neural tube defect. The five anomalies
+      are a midline supraumbilical abdominal wall defect (e.g.,
+      OMPHALOCELE), a lower STERNUM defect, a congenital intracardiac
+      defect, an anterior DIAPHRAGM defect, and a diaphragmatic PERICARDIUM
+      defect (e.g., PERICARDIAL EFFUSION). Variants with incomplete and
+      variable combinations of the defects are known. ECTOPIA CORDIS; CLEFT
+      LIP; and CLEFT PALATE are often associated with the syndrome.
+HN  - 2011
+BX  - Cantrell Haller Ravitch syndrome
+BX  - Cantrell Pentalogy
+BX  - Thoracoabdominal Syndrome
+FX  - Tetralogy of Fallot
+
+MH  - Peptidomimetics
+UI  - D057786
+MN  - D27.505.519.828
+MS  - Compounds that are designed to mimic the 3D structure of a natural
+      peptide or protein.
+HN  - 2011
+
+MH  - Performance-Enhancing Substances
+UI  - D058573
+MN  - D27.505.696.620
+MS  - Agents that improve the ability to carry out activities such as
+      athletics, mental endurance, work, and resistance to stress. The
+      substances can include PRESCRIPTION DRUGS; DIETARY SUPPLEMENTS;
+      phytochemicals; and ILLICIT DRUGS.
+HN  - 2011
+BX  - Performance-Enhancing Drugs
+FX  - Doping in Sports
+
+MH  - Peri-Implantitis
+UI  - D057873
+MN  - C7.465.693
+MN  - C7.465.714.282
+MS  - An inflammatory process with loss of supporting bone in the tissues
+      surrounding functioning DENTAL IMPLANTS.
+AN  - Peri-implant mucositis (a reversible inflammation localized to the
+      soft tissues): index DENTAL IMPLANTS + STOMATITIS
+HN  - 2011
+
+MH  - Periodontal Debridement
+UI  - D057747
+MN  - E6.721.189.675
+MS  - Removal or disruption of DENTAL DEPOSITS and plaque-retentive DENTAL
+      CALCULUS from tooth surfaces and within the periodontal pocket space
+      without deliberate removal of CEMENTUM as done in ROOT PLANING and
+      often in DENTAL SCALING. The goal is to conserve dental cementum to
+      help maintain or re-establish healthy periodontal environment and
+      eliminate PERIODONTITIS by using light instrumentation strokes and
+      nonsurgical techniques (e.g., ultrasonic, laser instruments).
+HN  - 2011
+BX  - Nonsurgical Periodontal Debridement
+FX  - Subgingival Curettage
+
+MH  - Perioperative Period
+UI  - D059035
+MN  - E4.614
+MN  - N2.421.585.753
+MS  - The time periods immediately before, during and following a surgical
+      operation.
+HN  - 2011
+
+MH  - Peripartum Period
+UI  - D058725
+MN  - G8.686.701
+MS  - The period shortly before, during, and immediately after giving birth.
+HN  - 2011
+
+MH  - Peripheral Arterial Disease
+UI  - D058729
+MN  - C14.907.137.126.307.500
+MN  - C14.907.617.671
+MS  - Lack of perfusion in the EXTREMITIES resulting from atherosclerosis.
+      It is characterized by INTERMITTENT CLAUDICATION, and an ANKLE
+      BRACHIAL INDEX of 0.9 or less.
+AN  - coordinate IM with specific peripheral artery IM if pertinent
+HN  - 2011; for PERIPHERAL ARTERIAL DISEASES use PERIPHERAL VASCULAR
+      DISEASES 2007-2010
+
+MH  - Pets
+UI  - D057805
+MN  - B1.50.50.116.600
+MS  - Animals kept by humans for companionship and enjoyment, as opposed to
+      DOMESTIC ANIMALS such as livestock or farm animals, which are kept for
+      economic reasons.
+AN  - coordinate with specific animal if pertinent
+HN  - 2011; use ANIMALS, DOMESTIC 1983-2010
+BX  - Companion Animals
+FX  - Bonding, Human-Pet
+
+MH  - Phosphatidylinositol 3-Kinase
+UI  - D058539
+MN  - D8.811.913.696.620.500.100
+MS  - A phosphatidylinositol 3-kinase that catalyzes the conversion of
+      1-phosphatidylinositol into 1-phosphatidylinositol 3-phosphate.
+AN  - PHOSPHATIDYLINOSITOL 3-KINASES is also available
+HN  - 2011; use PHOSPHATIDYLINOSITOL 3-KINASES 1998-2010
+BX  - 1-Phosphatidylinositol 3-Kinase
+
+MH  - Phosphatidylinositol-4-Phosphate 3-Kinase
+UI  - D058538
+MN  - D8.811.913.696.620.500.200
+MS  - A phosphatidylinositol 3-kinase that catalyzes the conversion of
+      1-phosphatidylinositol 4-phosphate into phosphatidylinositol
+      3,4-bisphosphate.
+HN  - 2011
+
+MH  - Phosphodiesterase 3 Inhibitors
+UI  - D058987
+MN  - D27.505.519.389.735.249
+MS  - Compounds that specifically inhibit PHOSPHODIESTERASE 3.
+HN  - 2011
+
+MH  - Phosphodiesterase 4 Inhibitors
+UI  - D058988
+MN  - D27.505.519.389.735.374
+MS  - Compounds that specifically inhibit PHOSPHODIESTERASE 4.
+HN  - 2011
+
+MH  - Phosphodiesterase 5 Inhibitors
+UI  - D058986
+MN  - D27.505.519.389.735.500
+MS  - Compounds that specifically inhibit PHOSPHODIESTERASE 5.
+HN  - 2011
+
+MH  - Photobioreactors
+UI  - D058433
+MN  - E7.115.600
+MN  - J1.897.120.115.600
+MS  - Devices for generating biological products that use light as the
+      energy source. They are used for controlled BIOMASS production such as
+      growing cyanobacteria, mosses, or algae.
+HN  - 2011
+
+MH  - Photographs
+UI  - D059036
+MN  - V2.697
+MS  - Still images produced from radiation-sensitive materials (sensitive to
+      light, electron beams, or nuclear radiation), generally by means of
+      the chemical action of light on a sensitive film, paper, glass, or
+      metal. Photographs may be positive or negative, opaque or transparent.
+AN  - this heading is used as a Publication Type. used by catalogers only;
+      photographs as a subject are indexed under the main heading
+      PHOTOGRAPHY
+HN  - 2011
+
+MH  - Photoinitiators, Dental
+UI  - D058567
+MN  - D25.339.574
+MN  - D27.720.102.339.249
+MN  - J1.637.51.339.574
+MS  - Chemical compound used to initiate polymerization of dental resins by
+      the use of DENTAL CURING LIGHTS. It absorbs UV light and undergoes
+      decomposition into free radicals that initiate polymerization process
+      of the resins in the mix. Each photoinitiator has optimum emission
+      spectrum and intensity for proper curing of dental materials.
+HN  - 2011
+BX  - Resin Photoinitiators, Dental
+FX  - Curing Lights, Dental
+FX  - Light-Curing of Dental Adhesives
+
+MH  - Phylogeography
+UI  - D058974
+MN  - H1.158.273.343.335.500
+MN  - H1.277.500.589
+MS  - A field of study concerned with the principles and processes governing
+      the geographic distributions of genealogical lineages, especially
+      those within and among closely related species. (Avise, J.C.,
+      Phylogeography: The History and Formation of Species. Harvard
+      University Press, 2000)
+AN  - IM for the discipline (education, history, etc); NIM as a coordinate
+      for phylogeographic studies of populations
+HN  - 2011
+FX  - Paleontology
+FX  - Phylogeny
+
+MH  - Physicians, Primary Care
+UI  - D058007
+MN  - M1.526.485.810.910
+MN  - N2.360.810.795
+MS  - Providers of initial care for patients. These PHYSICIANS refer
+      patients when appropriate for secondary or specialist care.
+HN  - 2011
+BX  - Primary Care Physicians
+
+MH  - Plagiocephaly
+UI  - D059041
+MN  - C5.660.207.707
+MN  - C16.131.621.207.707
+MS  - The condition characterized by uneven or irregular shape of the head
+      often in parallelogram shape with a flat spot on the back or one side
+      of the head. It can either result from the premature CRANIAL SUTURE
+      closure (CRANIOSYNOSTOSIS) or from external forces (NONSYNOSTOTIC
+      PLAGIOCEPHALY).
+HN  - 2011
+
+MH  - Planococcaceae
+UI  - D058641
+MN  - B3.510.100.100.600
+MN  - B3.510.400.630
+MS  - A family of gram-positive bacteria in the order BACILLALES. Most are
+      strict aerobic heterotrophs.
+HN  - 2011
+BX  - Caryophanon
+
+MH  - Planococcus Bacteria
+UI  - D058642
+MN  - B3.510.400.630.600
+MS  - A genus of coccoid bacteria in the family PLANOCOCCACEAE. They are
+      widely distributed in various habitats including sea water, freshwater
+      ponds, cyanobacterial mats, and in marine animals.
+AN  - do not confuse with the insect genus Planococcus: see PLANOCOCCUS
+      INSECT
+HN  - 2011
+
+MH  - Planococcus Insect
+UI  - D058643
+MN  - B1.50.500.131.617.412.600
+MS  - A genus of insect in the mealybug family Pseudococcidae.
+AN  - do not confuse with the bacteria genus Planococcus: see PLANOCOCCUS
+      BACTERIA
+HN  - 2011
+
+MH  - Plant Immunity
+UI  - D057865
+MN  - G12.450.50.750
+MN  - G12.450.192.500
+MN  - G15.602
+MS  - The inherent or induced capacity of plants to withstand or ward off
+      biological attack by pathogens.
+HN  - 2011
+
+MH  - Plant Somatic Embryogenesis Techniques
+UI  - D058439
+MN  - E5.200.249.550
+MN  - G15.744.749
+MS  - The process of embryo initiation in culture from vegetative,
+      non-gametic, sporophytic, or somatic plant cells.
+HN  - 2011
+
+MH  - Plant Vascular Bundle
+UI  - D058526
+MN  - A18.24.812.675
+MN  - A18.24.937.625
+MN  - A18.400.687
+MN  - A18.450
+MS  - A strand of primary conductive plant tissue consisting essentially of
+      XYLEM, PHLOEM, and CAMBIUM.
+HN  - 2011
+
+MH  - Plant Weeds
+UI  - D057685
+MN  - B1.650.449
+MS  - A plant growing in a location where it is not wanted, often competing
+      with cultivated plants.
+AN  - coordinate with specific plant if pertinent
+HN  - 2011
+FX  - Weed Control
+
+MH  - Plaque, Amyloid
+UI  - D058225
+MN  - C23.300.821
+MS  - Accumulations of extracellularly deposited AMYLOID FIBRILS within
+      tissues.
+AN  - coordinate with anatomical heading/ pathol for location of plaque
+      deposit
+HN  - 2011
+BX  - Amyloid Deposits
+BX  - Plaques, Amyloid
+FX  - Amyloidosis
+
+MH  - Plaque, Atherosclerotic
+UI  - D058226
+MN  - C23.300.823
+MS  - Lesions formed within the walls of ARTERIES.
+HN  - 2011; for FATTY STREAK, ARTERIAL use ATHEROSCLEROSIS 1963-2010; for
+      ATHEROMA use ATHEROSCLEROSIS 1984-2010
+FX  - Atherosclerosis
+FX  - Carotid Artery Diseases
+FX  - Coronary Artery Disease
+
+MH  - Plasma Gases
+UI  - D058626
+MN  - D1.362.740
+MS  - Ionized gases, consisting of free electrons and ionized atoms or
+      molecules which collectively behave differently than gas, solid, or
+      liquid. Plasma gases are used in biomedical fields in surface
+      modification; biological decontamination; dentistry (e.g., PLASMA ARC
+      DENTAL CURING LIGHTS); and in other treatments (e.g., ARGON PLASMA
+      COAGULATION).
+AN  - do not use for blood gases or blood plasma
+HN  - 2011
+
+MH  - Plasma Skin Regeneration
+UI  - D058629
+MN  - E2.218.707
+MS  - A cosmetic technique that uses PLASMA GASES in therapeutic treatment
+      to help achieve skin REJUVENATION or REGENERATION and delay SKIN
+      AGING.
+HN  - 2011
+BX  - Plasma Skin Rejuvenation
+BX  - Plasma Skin Resurfacing
+
+MH  - Policy
+UI  - D057766
+MN  - I1.655
+MN  - N3.623
+MS  - A course or method of action selected to guide and determine present
+      and future decisions.
+HN  - 2011
+
+MH  - Polymerization
+UI  - D058105
+MN  - G2.149.883
+MS  - Chemical reaction in which monomeric components are combined to form
+      POLYMERS (e.g., POLYMETHYLMETHACRYLATE).
+HN  - 2011
+
+MH  - Polytene Chromosome
+UI  - D059007
+MN  - A11.284.187.440.500
+MN  - A11.284.430.106.279.345.190.580
+MN  - G5.360.162.440.500
+MS  - An extra large chromosome consisting of many identical copies of a
+      chromosome lying next to each other in parallel.
+HN  - 2011
+
+MH  - Pontine Glioma
+UI  - D058887
+MN  - C4.557.465.625.600.380.80.680
+MN  - C4.557.465.625.600.380.810
+MN  - C4.557.470.670.380.80.680
+MN  - C4.557.470.670.380.810
+MN  - C4.557.580.625.600.380.80.680
+MN  - C4.557.580.625.600.380.810
+MS  - A malignant BRAINSTEM neoplasm of the PONS. They are more commonly
+      found in children than adults.
+AN  - coordinate IM with BRAIN STEM NEOPLASMS (IM) + PONS (IM)
+HN  - 2011
+
+MH  - Post-Exercise Hypotension
+UI  - D057774
+MN  - C10.177.575.600.537
+MN  - C14.907.514.611
+MS  - Transient reduction in blood pressure levels immediately after
+      exercises that lasts 2-12 hours. The reduction varies but is typically
+      5-20 mm Hg when compared to pre-exercise levels. It exists both in
+      normotensive and hypertensive individuals and may play a role in
+      excercise related PHYSIOLOGIC ADAPTATION.
+HN  - 2011
+
+MH  - Post-Synaptic Density
+UI  - D057907
+MN  - A8.850.800.500
+MN  - A11.284.149.165.420.780.800.500
+MS  - Cytoskeleton specialization at the cytoplasmic side of postsynaptic
+      membrane in SYNAPSES. It is involved in neuronal signaling and
+      NEURONAL PLASTICITY and comprised of GLUTAMATE RECEPTORS; scaffolding
+      molecules (e.g., PSD95, PSD93), and other proteins (e.g., CaCMKII).
+HN  - 2011
+
+MH  - Posterior Capsular Rupture, Ocular
+UI  - D057851
+MN  - C11.297.500
+MS  - A breach in the continuity of the posterior chamber of the eyeball.
+HN  - 2011
+
+MH  - Posterior Capsule of the Lens
+UI  - D057852
+MN  - A9.371.60.500.155.500
+MS  - The posterior aspect of the casing that surrounds the natural
+      CRYSTALLINE LENS.
+HN  - 2011
+BX  - Posterior Capsule, Lens
+
+MH  - Posterior Eye Segment
+UI  - D057972
+MN  - A9.371.714
+MS  - The back two-thirds of the eye that includes the anterior hyaloid
+      membrane and all of the optical structures behind it: the VITREOUS
+      HUMOR; RETINA; CHOROID; and OPTIC NERVE.
+HN  - 2011
+
+MH  - Prehypertension
+UI  - D058246
+MN  - C14.907.653
+MS  - Blood pressure levels that are between normotension and hypertension.
+      Individuals with prehypertension are at a higher risk for developing
+      cardiovascular diseases. Generally, prehypertension is defined as
+      SYSTOLIC PRESSURE of 131-139 mm Hg and/or DIASTOLIC PRESSURE of 81-89
+      when the optimal is 120/80 mm Hg. For diabetics and other metabolism
+      diseases the prehypertension is around 110-129/70-79 mm Hg.
+HN  - 2011
+BX  - Pre-Hypertension
+
+MH  - Primary Care Nursing
+UI  - D059017
+MN  - E2.760.611.735
+MS  - Techniques or methods of patient care used by nurses as primary
+      careproviders.
+AN  - do not confuse with PRIMARY NURSING which refers to the responsibility
+      of one nurse in the planning evaluation and care of a patient
+      throughout the course of an illness.
+HN  - 2011
+
+MH  - Protease Nexins
+UI  - D058255
+MN  - D12.644.822.468
+MN  - D12.776.645.468
+MS  - Extracellular protease inhibitors that are secreted from FIBROBLASTS.
+      They form a covalent complex with SERINE PROTEASES and can mediate
+      their cellular internalization and degradation.
+HN  - 2011
+
+MH  - Protein Refolding
+UI  - D058849
+MN  - E5.790
+MN  - G1.154.100.640.501
+MN  - G1.595.100.640.501
+MN  - G2.111.87.690.501
+MN  - G2.149.115.690.501
+MS  - Conformational transitions of a protein from unfolded states to a more
+      folded state.
+HN  - 2011
+
+MH  - Protein Unfolding
+UI  - D058767
+MN  - E5.793
+MN  - G1.154.100.640.750
+MN  - G1.595.100.640.750
+MN  - G2.111.87.690.750
+MN  - G2.149.115.690.750
+MS  - Conformational transitions of the shape of a protein to various
+      unfolded states.
+HN  - 2011
+FX  - Protein Stability
+FX  - Unfolded Protein Response
+
+MH  - Proton-Coupled Folate Transporter
+UI  - D058979
+MN  - D12.776.157.530.450.74.500.299.625
+MN  - D12.776.157.530.450.625.217
+MN  - D12.776.543.585.450.74.500.224.625
+MN  - D12.776.543.585.450.625.217
+MS  - A symporter protein that couples the transport of FOLIC ACID with
+      HYDROGEN IONS. The transporter functions most effectively under acidic
+      conditions.
+HN  - 2011
+
+MH  - Pulp Capping and Pulpectomy Agents
+UI  - D057872
+MN  - D25.339.788
+MN  - D27.720.102.339.500
+MN  - J1.637.51.339.788
+MS  - Materials used in DENTAL PULP CAPPING or PULPECTOMY.
+AN  - coordinate with specific material if pertinent
+HN  - 2011
+
+MH  - Purinergic Agents
+UI  - D058905
+MN  - D27.505.519.625.725
+MN  - D27.505.696.577.725
+MS  - Compounds that act on PURINERGIC RECEPTORS or influence the synthesis,
+      storage, uptake, metabolism, or release of purinergic transmitters.
+AN  - general or unspecified; prefer specifics
+HN  - 2011
+
+MH  - Purinergic Agonists
+UI  - D058913
+MN  - D27.505.519.625.725.200
+MN  - D27.505.696.577.725.200
+MS  - Compounds that bind to and activate PURINERGIC RECEPTORS.
+HN  - 2011
+
+MH  - Purinergic Antagonists
+UI  - D058914
+MN  - D27.505.519.625.725.400
+MN  - D27.505.696.577.725.400
+MS  - Drugs that bind to and block the activation of PURINERGIC RECEPTORS.
+AN  - general or unspecified; prefer specifics
+HN  - 2011
+
+MH  - Purinergic P1 Receptor Agonists
+UI  - D058906
+MN  - D27.505.519.625.725.200.100
+MN  - D27.505.696.577.725.200.100
+MS  - Compounds that bind to and stimulate PURINERGIC P1 RECEPTORS.
+HN  - 2011
+
+MH  - Purinergic P1 Receptor Antagonists
+UI  - D058915
+MN  - D27.505.519.625.725.400.100
+MN  - D27.505.696.577.725.400.100
+MS  - Compounds that bind to and block the stimulation of PURINERGIC P1
+      RECEPTORS.
+HN  - 2011
+
+MH  - Purinergic P2 Receptor Agonists
+UI  - D058910
+MN  - D27.505.519.625.725.200.200
+MN  - D27.505.696.577.725.200.200
+MS  - Compounds that bind to and stimulate PURINERGIC P2 RECEPTORS.
+HN  - 2011
+
+MH  - Purinergic P2 Receptor Antagonists
+UI  - D058919
+MN  - D27.505.519.625.725.400.200
+MN  - D27.505.696.577.725.400.200
+MS  - Compounds that bind to and block the stimulation of PURINERGIC P2
+      RECEPTORS.
+HN  - 2011
+
+MH  - Purinergic P2X Receptor Agonists
+UI  - D058911
+MN  - D27.505.519.625.725.200.200.100
+MN  - D27.505.696.577.725.200.200.100
+MS  - Compounds that bind to and stimulate PURINERGIC P2X RECEPTORS.
+      Included under this heading are agonists for specific P2X receptor
+      subtypes.
+HN  - 2011
+
+MH  - Purinergic P2X Receptor Antagonists
+UI  - D058920
+MN  - D27.505.519.625.725.400.200.100
+MN  - D27.505.696.577.725.400.200.100
+MS  - Compounds that bind to and block the stimulation of PURINERGIC P2X
+      RECEPTORS. Included under this heading are antagonists for specific
+      P2X receptor subtypes.
+HN  - 2011
+
+MH  - Purinergic P2Y Receptor Agonists
+UI  - D058912
+MN  - D27.505.519.625.725.200.200.200
+MN  - D27.505.696.577.725.200.200.200
+MS  - Compounds that bind to and stimulate PURINERGIC P2Y RECEPTORS.
+      Included under this heading are agonists for specific P2Y receptor
+      subtypes.
+HN  - 2011
+
+MH  - Purinergic P2Y Receptor Antagonists
+UI  - D058921
+MN  - D27.505.519.625.725.400.200.200
+MN  - D27.505.696.577.725.400.200.200
+MS  - Compounds that bind to and block the stimulation of PURINERGIC P2Y
+      RECEPTORS. Included under this heading are antagonists for specific
+      P2Y receptor subtypes.
+HN  - 2011
+
+MH  - Pycnodysostosis
+UI  - D058631
+MN  - C5.116.99.708.779
+MN  - C16.320.565.595.800
+MN  - C16.320.812
+MN  - C18.452.648.595.800
+MS  - Rare autosomal recessive syndrome characterized by delayed closing of
+      CRANIAL SUTURES, short stature, ACRO-OSTEOLYSIS of distal phalanges,
+      dental and MAXILLOFACIAL ABNORMALITIES and an increase in bone density
+      that results in frequent BONE FRACTURES. It is associated with BONE
+      RESORPTION defect due to mutations in the lysosomal cysteine protease
+      CATHEPSIN K.
+HN  - 2011
+BX  - Pyknodysostosis
+
+MH  - Pyelectasis
+UI  - D058536
+MN  - C13.703.277.838
+MN  - C16.131.939.831
+MN  - C16.300.895
+MS  - Dilation of fetal KIDNEY PELVIS. It is a common PRENATAL
+      ULTRASONOGRAPHY finding with no significant long-term sequelae.
+HN  - 2011
+
+MH  - Pyrimidine Phosphorylases
+UI  - D057845
+MN  - D8.811.913.400.725.850
+MS  - Pentosyltransferases that catalyze the reaction between a pyrimidine
+      nucleoside and orthophosphate to form a free pyrimidine and
+      ribose-5-phosphate.
+HN  - 2011
+
+MH  - Pythiosis
+UI  - D058968
+MN  - C3.908.650
+MN  - C22.761
+MS  - A granulomatous disease caused by the aquatic organism PYTHIUM
+      insidiosum and occurring primarily in horses, cattle, dogs, cats,
+      fishes, and rarely in humans. It is classified into three forms:
+      ocular, cutaneous, and arterial.
+HN  - 2011
+
+MH  - Quality Improvement
+UI  - D058996
+MN  - J1.293.754
+MN  - N4.761.744
+MS  - The attainment or process of attaining a new level of performance or
+      quality.
+HN  - 2011
+
+MH  - Quartz Crystal Microbalance Techniques
+UI  - D058525
+MN  - E5.196.778
+MN  - E5.978.673
+MS  - The use of a quartz crystal microbalance for measuring weights and
+      forces in the micro- to nanogram range. It is used to study the
+      chemical and mechanical properties of thin layers, such as polymer
+      coatings and lipid membranes; and interactions between molecues.
+HN  - 2011
+
+MH  - Receptor Activity-Modifying Protein 1
+UI  - D058262
+MN  - D12.776.476.24.412.100
+MN  - D12.776.543.725.100
+MS  - A receptor activity-modifying protein that is a subunit of specific
+      G-PROTEIN COUPLED RECEPTORS. The CALCITONIN GENE-RELATED PEPTIDE
+      RECEPTOR is formed from a dimer of this protein and CALCITONIN
+      RECEPTOR-LIKE PROTEIN, while an isoform of the ISLET AMYLOID
+      POLYPEPTIDE RECEPTOR is formed from this protein dimerizing with the
+      CALCITONIN RECEPTOR.
+HN  - 2011
+
+MH  - Receptor Activity-Modifying Protein 2
+UI  - D058263
+MN  - D12.776.476.24.412.200
+MN  - D12.776.543.725.200
+MS  - A receptor activity-modifying protein that heterodimerizes with
+      CALCITONIN RECEPTOR-LIKE PROTEIN to form the ADRENOMEDULLIN RECEPTOR.
+      In addition, an isoform of the ISLET AMYLOID POLYPEPTIDE RECEPTOR is
+      formed from this protein dimerizing with the CALCITONIN RECEPTOR.
+HN  - 2011
+
+MH  - Receptor Activity-Modifying Protein 3
+UI  - D058264
+MN  - D12.776.476.24.412.300
+MN  - D12.776.543.725.300
+MS  - A receptor activity-modifying protein that heterodimerizes with
+      CALCITONIN RECEPTOR-LIKE PROTEIN to form the ADRENOMEDULLIN RECEPTOR.
+      In addition, an isoform of the ISLET AMYLOID POLYPEPTIDE RECEPTOR is
+      formed from this protein dimerizing with the CALCITONIN RECEPTOR.
+HN  - 2011
+
+MH  - Receptor Activity-Modifying Proteins
+UI  - D058261
+MN  - D12.776.476.24.412
+MN  - D12.776.543.725
+MS  - A family of proteins that bind to CELL SURFACE RECEPTORS and alter
+      their specificity, signaling mechanism, or mode of intracellular
+      transport.
+HN  - 2011
+
+MH  - Receptors, Adrenomedullin
+UI  - D058265
+MN  - D12.776.543.750.100.41
+MN  - D12.776.543.750.750.49
+MS  - G-protein-coupled cell surface receptors for ADRENOMEDULLIN. They are
+      formed by the heterodimerization of CALCITONIN RECEPTOR-LIKE PROTEIN
+      and either RECEPTOR ACTIVITY-MODIFYING PROTEIN 2 or RECEPTOR
+      ACTIVITY-MODIFYING PROTEIN 3.
+HN  - 2011
+
+MH  - Receptors, Ionotropic Glutamate
+UI  - D058468
+MN  - D12.776.157.530.400.400.500
+MN  - D12.776.543.550.425.500.200
+MN  - D12.776.543.585.400.500.200
+MN  - D12.776.543.750.720.200.450.400
+MS  - A class of ligand-gated ion channel receptors that have specificity
+      for GLUTAMATE. They are distinct from METABOTROPIC GLUTAMATE RECEPTORS
+      which act through a G-protein-coupled mechanism.
+HN  - 2011
+
+MH  - Receptors, Islet Amyloid Polypeptide
+UI  - D058287
+MN  - D12.776.543.750.100.360
+MS  - G-protein coupled receptors that are formed through the dimerization
+      of the CALCITONIN RECEPTOR with a RECEPTOR ACTIVITY-MODIFYING PROTEIN.
+      Their affinity for ISLET AMYLOID POLYPEPTIDE is dependent upon which
+      of several receptor activity-modifying protein subtypes they are bound
+      to.
+HN  - 2011
+
+MH  - Receptors, Prostaglandin E, EP1 Subtype
+UI  - D058306
+MN  - D12.776.543.750.100.200.700.600.100
+MS  - A subtype of prostaglandin E receptors that specifically couples to
+      GTP-BINDING PROTEIN ALPHA SUBUNIT, GQ and the subsequently activates
+      TYPE C PHOSPHOLIPASES. Additional evidence has shown that the receptor
+      can act through a calcium-dependent signaling pathway.
+HN  - 2011
+
+MH  - Receptors, Prostaglandin E, EP2 Subtype
+UI  - D058307
+MN  - D12.776.543.750.100.200.700.600.200
+MS  - A subtype of prostaglandin E receptors that specifically couples to GS
+      ALPHA GTP-BINDING PROTEIN SUBUNITS and subsequently activates
+      ADENYLATE CYCLASE.
+HN  - 2011
+
+MH  - Receptors, Prostaglandin E, EP3 Subtype
+UI  - D058308
+MN  - D12.776.543.750.100.200.700.600.300
+MS  - A subtype of prostaglandin E receptors that specifically couples to
+      GTP-BINDING PROTEIN ALPHA SUBUNIT, GI and subsequently inhibits
+      ADENYLATE CYCLASE.
+HN  - 2011
+
+MH  - Receptors, Prostaglandin E, EP4 Subtype
+UI  - D058309
+MN  - D12.776.543.750.100.200.700.600.400
+MS  - A subtype of prostaglandin E receptors that specifically couples to GS
+      ALPHA GTP-BINDING PROTEIN SUBUNITS and subsequently activates
+      ADENYLATE CYCLASE. The receptor may also signal through the activation
+      of PHOSPHATIDYLINOSITOL 3-KINASE.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2X
+UI  - D058469
+MN  - D12.776.157.530.400.400.750
+MN  - D12.776.543.550.425.500.600
+MN  - D12.776.543.585.400.500.600
+MN  - D12.776.543.750.720.700.720.500
+MN  - D12.776.543.750.810.720.500
+MS  - A subclass of purinergic P2 receptors that signal by means of a
+      ligand-gated ion channel. They are comprised of three P2X subunits
+      which can be identical (homotrimeric form) or dissimilar
+      (heterotrimeric form).
+HN  - 2011
+
+MH  - Receptors, Purinergic P2X1
+UI  - D058474
+MN  - D12.776.157.530.400.400.750.100
+MN  - D12.776.543.550.425.500.600.100
+MN  - D12.776.543.585.400.500.600.100
+MN  - D12.776.543.750.720.700.720.500.100
+MN  - D12.776.543.750.810.720.500.100
+MS  - A purinergic P2X neurotransmitter receptor found at sympathetically
+      innervated SMOOTH MUSCLE. It may play a functional role regulating the
+      juxtoglomerular apparatus of the KIDNEY.
+HN  - 2011; for P2X1 PURINOCEPTOR use RECEPTORS, PURINERGIC P2X 1996-2010
+
+MH  - Receptors, Purinergic P2X2
+UI  - D058476
+MN  - D12.776.157.530.400.400.750.200
+MN  - D12.776.543.550.425.500.600.200
+MN  - D12.776.543.585.400.500.600.200
+MN  - D12.776.543.750.720.700.720.500.200
+MN  - D12.776.543.750.810.720.500.200
+MS  - A purinergic P2X neurotransmitter receptor involved in sensory
+      signaling of TASTE PERCEPTION, chemoreception, visceral distension and
+      NEUROPATHIC PAIN. The receptor comprises three P2X2 subunits. The P2X2
+      subunits also have been found associated with P2X3 RECEPTOR subunits
+      in a heterotrimeric receptor variant.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2X3
+UI  - D058477
+MN  - D12.776.157.530.400.400.750.300
+MN  - D12.776.543.550.425.500.600.300
+MN  - D12.776.543.585.400.500.600.300
+MN  - D12.776.543.750.720.700.720.500.300
+MN  - D12.776.543.750.810.720.500.300
+MS  - A purinergic P2X neurotransmitter receptor involved in sensory
+      signaling of TASTE PERCEPTION, chemoreception, visceral distension,
+      and NEUROPATHIC PAIN. The receptor comprises three P2X3 subunits. The
+      P2X3 subunits are also associated with P2X2 RECEPTOR subunits in a
+      heterotrimeric receptor variant.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2X4
+UI  - D058848
+MN  - D12.776.157.530.400.400.750.400
+MN  - D12.776.543.550.425.500.600.400
+MN  - D12.776.543.585.400.500.600.400
+MN  - D12.776.543.750.720.700.720.500.400
+MN  - D12.776.543.750.810.720.500.400
+MS  - A widely distributed purinergic P2X receptor subtype that plays a role
+      in pain sensation. P2X4 receptors found on MICROGLIA cells may also
+      play a role in the mediation of allodynia-related NEUROPATHIC PAIN.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2X5
+UI  - D058485
+MN  - D12.776.157.530.400.400.750.500
+MN  - D12.776.543.550.425.500.600.500
+MN  - D12.776.543.585.400.500.600.500
+MN  - D12.776.543.750.720.700.720.500.500
+MN  - D12.776.543.750.810.720.500.500
+MS  - A purinergic P2X neurotransmitter receptor found at high levels in the
+      BRAIN and IMMUNE SYSTEM.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2X7
+UI  - D058486
+MN  - D12.776.157.530.400.400.750.700
+MN  - D12.776.543.550.425.500.600.700
+MN  - D12.776.543.585.400.500.600.700
+MN  - D12.776.543.750.720.700.720.500.700
+MN  - D12.776.543.750.810.720.500.700
+MS  - A purinergic P2X neurotransmitter receptor that plays a role in pain
+      sensation signaling and regulation of inflammatory processes.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2Y
+UI  - D058470
+MN  - D12.776.543.750.100.700.720.500
+MN  - D12.776.543.750.720.700.720.750
+MN  - D12.776.543.750.810.720.750
+MS  - A subclass of purinergic P2 receptors whose signaling is coupled
+      through a G-PROTEIN signaling mechanism.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2Y1
+UI  - D058472
+MN  - D12.776.543.750.100.700.720.500.100
+MN  - D12.776.543.750.720.700.720.750.100
+MN  - D12.776.543.750.810.720.750.100
+MS  - A subclass of purinergic P2Y receptors that have a preference for ATP
+      and ADP. The activated P2Y1 receptor signals through the
+      G-PROTEIN-coupled activation of PHOSPHOLIPASE C and mobilization of
+      intracellular CALCIUM.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2Y12
+UI  - D058925
+MN  - D12.776.543.750.100.700.720.500.300
+MN  - D12.776.543.750.720.700.720.750.300
+MN  - D12.776.543.750.810.720.750.300
+MS  - A subclass of purinergic P2Y receptors that have a preference for ADP
+      binding and are coupled to GTP-BINDING PROTEIN ALPHA SUBUNIT, GI. The
+      P2Y12 purinergic receptors are found in PLATELETS where they play an
+      important role regulating PLATELET ACTIVATION.
+HN  - 2011
+
+MH  - Receptors, Purinergic P2Y2
+UI  - D058473
+MN  - D12.776.543.750.100.700.720.500.200
+MN  - D12.776.543.750.720.700.720.750.200
+MN  - D12.776.543.750.810.720.750.200
+MS  - A subclass of purinergic P2Y receptors that have a preference for ATP
+      and UTP. The activated P2Y2 receptor acts through a G-PROTEIN-coupled
+      PHOSPHATIDYLINOSITOL and intracellular CALCIUM SIGNALING pathway.
+HN  - 2011
+
+MH  - Recycling
+UI  - D059027
+MN  - J1.256.675
+MN  - N6.850.780.200.800.800.525
+MN  - N6.850.860.510.244
+MS  - The extraction and recovery of usable or valuable material from scrap
+      or other discarded materials. (from McGraw-Hill Dictionary of
+      Scientific and Technical Terms, 6th ed.)
+HN  - 2011; use CONSERVATION OF NATURAL RESOURCES 1996-2010
+
+MH  - Reduced Folate Carrier Protein
+UI  - D058978
+MN  - D12.776.157.530.450.74.500.299.750
+MN  - D12.776.157.530.450.162.359
+MN  - D12.776.543.550.190.608
+MN  - D12.776.543.585.450.74.500.224.750
+MN  - D12.776.543.585.450.162.359
+MS  - A ubiquitously expressed folic acid transporter that functions via an
+      antiporter mechanism which is coupled to the transport of organic
+      phosphates.
+HN  - 2011
+
+MH  - Reflex, Righting
+UI  - D057897
+MN  - E1.370.376.550.650.695
+MN  - E1.370.600.550.650.695
+MN  - G11.561.600.765.745
+MS  - The instinctive tendency (or ability) to assume a normal position of
+      the body in space when it has been displaced.
+HN  - 2011
+
+MH  - Remote Sensing Technology
+UI  - D058998
+MN  - E1.370.520.750.500
+MN  - E5.925.500
+MN  - L1.178.847.675.500
+MS  - Observation and aquisition of physical data from a distance by viewing
+      and making measurements from a distance or receiving transmitted data
+      from observations made at distant location.
+HN  - 2011
+FX  - Geographic Information Systems
+FX  - Radio Frequency Identification Device
+
+MH  - Research Report
+UI  - D058028
+MN  - H1.770.644.864
+MN  - L1.143.506.423.906.769
+MS  - Detailed account or statement or formal record of data resulting from
+      empirical inquiry.
+HN  - 2011
+BX  - Report
+
+MH  - Research Support, U.S. Government
+UI  - D057689
+MN  - V4.750
+MS  - For publications noted as supported by US Government.
+AN  - not used for indexing or cataloging
+HN  - 2011
+
+MH  - Retinal Dystrophies
+UI  - D058499
+MN  - C11.768.585.658
+MS  - A group of disorders involving predominantly the posterior portion of
+      the ocular fundus, due to degeneration in the sensory layer of the
+      RETINA; RETINAL PIGMENT EPITHELIUM; BRUCH MEMBRANE; CHOROID; or a
+      combination of these tissues.
+AN  - CONE-ROD DYSTROPHY see RETINITIS PIGMENTOSA is also available
+HN  - 2011
+
+MH  - Retinal Telangiectasis
+UI  - D058456
+MN  - C11.768.748
+MN  - C14.907.823.502
+MS  - A group of rare, idiopathic, congenital retinal vascular anomalies
+      affecting the retinal capillaries. It is characterized by dilation and
+      tortuosity of retinal vessels and formation of multiple aneurysms,
+      with different degrees of leakage and exudates emanating from the
+      blood vessels.
+HN  - 2011
+
+MH  - Rhizosphere
+UI  - D058441
+MN  - G16.500.240.630
+MN  - G16.500.275.157.625
+MN  - N6.230.124.437
+MS  - The immediate physical zone surrounding plant roots that include the
+      plant roots. It is an area of intense and complex biological activity
+      involving plants, microorganisms, other soil organisms, and the soil.
+HN  - 2011
+
+MH  - Riboswitch
+UI  - D058928
+MN  - D13.444.735.544.427
+MN  - D13.444.735.790.878.942.500
+MN  - G2.111.570.80.689.687.124
+MN  - G5.360.80.689.687.124
+MS  - Part of a MESSENGER RNA molecule that undergoes a conformation change
+      upon binding a specific metabolite or other small molecule thereby
+      regulating the messenger RNA's transcription, post-transcriptional
+      processing, transport, translation, or stability in response to
+      varying levels of the metabolite or other small molecule.
+HN  - 2011
+BX  - Riboswitches
+
+MH  - RNA, Small Untranslated
+UI  - D058727
+MN  - D13.444.735.790.552
+MS  - Short RNA, about 200 base pairs in length or shorter, that does not
+      code for protein.
+HN  - 2011
+
+MH  - Sacroiliitis
+UI  - D058566
+MN  - C5.550.114.854
+MS  - Inflammation of the SACROILIAC JOINT. It is characterized by lower
+      back pain, especially upon walking, fever, UVEITIS; PSORIASIS; and
+      decreased range of motion. Many factors are associated with and cause
+      sacroiliitis including infection; injury to spine, lower back, and
+      pelvis; DEGENERATIVE ARTHRITIS; and pregnancy.
+HN  - 2011
+FX  - Sacroiliac Joint
+
+MH  - Salpingectomy
+UI  - D058994
+MN  - E4.950.300.715
+MS  - Excision of one or both of the FALLOPIAN TUBES.
+HN  - 2011
+
+MH  - Sarcoglycanopathies
+UI  - D058088
+MN  - C5.651.534.500.280.500
+MN  - C8.618.923
+MN  - C10.668.491.175.500.149.500
+MN  - C14.280.238.812
+MN  - C16.320.577.280.500
+MS  - Deficiencies or mutations in the genes for the SARCOGLYCAN COMPLEX
+      subunits. A variety of phenotypes are associated with these mutations
+      including a subgroup of autosomal recessive limb girdle muscular
+      dystrophies, cardiomyopathies, and respiratory deficiency.
+HN  - 2011
+
+MH  - Sarcophagidae
+UI  - D058493
+MN  - B1.50.500.131.617.289.797
+MS  - Family of flies in the order DIPTERA, commonly known as flesh flies.
+      They lay their eggs in dead or decaying matter or open wounds.
+AN  - for killing Sarcophagidae with insecticides, see note at INSECTICIDES
+HN  - 2011
+BX  - Sarcophaga
+
+MH  - Seed Dispersal
+UI  - D058614
+MN  - G1.154.767
+MN  - G15.744.825
+MN  - G15.808
+MS  - The various physical methods which include wind, insects, animals,
+      tension, and water, by which a plant scatters its seeds away from the
+      parent plant.
+HN  - 2011
+
+MH  - Seed Dormancy
+UI  - D057445
+MN  - G15.744.300.500
+MN  - G15.872
+MS  - The state of failure to complete the process of GERMINATION of an
+      intact viable seed, due to intrinsic physical, molecular, genetic, or
+      physiological parameters under otherwise favourable prevailing
+      conditions.
+HN  - 2011
+
+MH  - Self Report
+UI  - D057566
+MN  - E5.318.308.750.500
+MN  - L1.280.800.655
+MN  - N5.715.360.300.695.500
+MN  - N6.850.520.308.750.500
+MS  - Method for obtaining information through verbal responses, written or
+      oral, from subjects.
+HN  - 2011
+
+MH  - Self-Fertilization
+UI  - D057945
+MN  - G5.355.90.403.590
+MN  - G8.686.785.760.277.560
+MN  - G15.744.850
+MS  - The fusion of a male gamete with a female gamete from the same
+      individual animal or plant.
+AN  - self pollination: index POLLINATION + SELF-FERTILIZATION
+HN  - 2011; use INBREEDING 1998-2010
+
+MH  - Sensilla
+UI  - D058618
+MN  - A13.825
+MS  - Collective name for a group of external MECHANORECEPTORS and
+      chemoreceptors manifesting as sensory structures in ARTHROPODS. They
+      include cuticular projections (setae, hairs, bristles), pores, and
+      slits.
+HN  - 2011
+FX  - Chemoreceptor Cells
+FX  - Mechanoreceptors
+
+MH  - Septins
+UI  - D058112
+MN  - D8.811.277.40.330.300.700
+MN  - D12.776.157.325.757
+MN  - D12.776.220.932
+MS  - A family of GTP-binding proteins that were initially identified in
+      YEASTS where they were shown to initiate the process of septation and
+      bud formation. Septins form into hetero-oligomeric complexes that are
+      comprised of several distinct septin subunits. These complexes can act
+      as cytoskeletal elements that play important roles in CYTOKINESIS,
+      cytoskeletal reorganization, BIOLOGICAL TRANSPORT, and membrane
+      dynamics.
+HN  - 2011
+
+MH  - Serotonin 5-HT1 Receptor Agonists
+UI  - D058825
+MN  - D27.505.519.625.850.800.100
+MN  - D27.505.696.577.850.800.100
+MS  - Endogenous compounds and drugs that specifically stimulate SEROTONIN
+      5-HT1 RECEPTORS. Included under this heading are agonists for one or
+      more of the specific 5-HT1 receptor subtypes.
+HN  - 2011; use SEROTONIN AGONISTS 1992-2010
+BX  - 5-HT1 Agonists
+
+MH  - Serotonin 5-HT1 Receptor Antagonists
+UI  - D058829
+MN  - D27.505.519.625.850.850.100
+MN  - D27.505.696.577.850.850.100
+MS  - Drugs that bind to but do not activate SEROTONIN 5-HT1 RECEPTORS,
+      thereby blocking the actions of SEROTONIN 5-HT1 RECEPTOR AGONISTS.
+      Included under this heading are antagonists for one or more of the
+      specific 5-HT1 receptor subtypes.
+HN  - 2011
+
+MH  - Serotonin 5-HT2 Receptor Agonists
+UI  - D058826
+MN  - D27.505.519.625.850.800.200
+MN  - D27.505.696.577.850.800.200
+MS  - Endogenous compounds and drugs that specifically stimulate SEROTONIN
+      5-HT2 RECEPTORS. Included under this heading are agonists for one or
+      more of the specific 5-HT2 receptor subtypes.
+HN  - 2011; use SEROTONIN AGONISTS 1993-2010
+
+MH  - Serotonin 5-HT2 Receptor Antagonists
+UI  - D058830
+MN  - D27.505.519.625.850.850.200
+MN  - D27.505.696.577.850.850.200
+MS  - Drugs that bind to but do not activate SEROTONIN 5-HT2 RECEPTORS,
+      thereby blocking the actions of SEROTONIN or SEROTONIN 5-HT2 RECEPTOR
+      AGONISTS. Included under this heading are antagonists for one or more
+      specific 5-HT2 receptor subtypes.
+HN  - 2011
+
+MH  - Serotonin 5-HT3 Receptor Agonists
+UI  - D058827
+MN  - D27.505.519.625.850.800.300
+MN  - D27.505.696.577.850.800.300
+MS  - Endogenous compounds and drugs that specifically stimulate SEROTONIN
+      5-HT3 RECEPTORS.
+HN  - 2011; use SEROTONIN AGONISTS 1993-2010
+
+MH  - Serotonin 5-HT3 Receptor Antagonists
+UI  - D058831
+MN  - D27.505.519.625.850.850.300
+MN  - D27.505.696.577.850.850.300
+MS  - Drugs that bind to but do not activate SEROTONIN 5-HT3 RECEPTORS,
+      thereby blocking the actions of SEROTONIN or SEROTONIN 5-HT3 RECEPTOR
+      AGONISTS.
+HN  - 2011
+
+MH  - Serotonin 5-HT4 Receptor Agonists
+UI  - D058828
+MN  - D27.505.519.625.850.800.400
+MN  - D27.505.696.577.850.800.400
+MS  - Endogenous compounds and drugs that specifically stimulate SEROTONIN
+      5-HT4 RECEPTORS.
+HN  - 2011
+
+MH  - Serotonin 5-HT4 Receptor Antagonists
+UI  - D058832
+MN  - D27.505.519.625.850.850.400
+MN  - D27.505.696.577.850.850.400
+MS  - Drugs that bind to but do not activate SEROTONIN 5-HT4 RECEPTORS,
+      thereby blocking the actions of SEROTONIN or SEROTONIN RECEPTOR
+      AGONISTS.
+HN  - 2011
+
+MH  - Serpin E2
+UI  - D058258
+MN  - D12.644.822.468.750
+MN  - D12.644.822.750.695.850
+MN  - D12.776.645.468.750
+MN  - D12.776.645.750.695.850
+MN  - D12.776.872.695.850
+MS  - A protease nexin and serpin subtype that is specific for several
+      SERINE PROTEASES including UROKINASE; THROMBIN; TRYPSIN; and
+      PLASMINOGEN ACTIVATORS.
+HN  - 2011; use PROTEASE NEXINS 2004-2010
+
+MH  - Serum Bactericidal Antibody Assay
+UI  - D058248
+MN  - E1.450.495.735.845
+MN  - E5.478.594.760.845
+MS  - Procedures for identification and measurement of IMMUNOGLOBULINS in
+      the blood that initiate lysis of bacteria.
+AN  - do not confuse with SERUM BACTERICIDAL TEST (bactericidal activity in
+      serum after antimicrobial therapy) or BLOOD BACTERICIDAL ACTIVITY
+      (natural bactericidal property of blood)
+HN  - 2011
+FX  - Blood Bactericidal Activity
+
+MH  - Sex Chromosome Disorders of Sex Development
+UI  - D058533
+MN  - C12.706.316.795
+MN  - C13.351.875.253.795
+MN  - C16.131.260.830.835
+MN  - C16.131.939.316.795
+MN  - C16.320.180.830.835
+MN  - C19.391.119.795
+MS  - Congenital conditions of atypical sexual development associated with
+      abnormal sex chromosome constitutions including MONOSOMY; TRISOMY; and
+      MOSAICISM.
+HN  - 2011
+FX  - Sex Chromosome Aberrations
+
+MH  - Sex Reassignment Procedures
+UI  - D057829
+MN  - E2.906
+MS  - Clinical treatments used to change the physiological sexual
+      characteristics of an individual.
+HN  - 2011
+FX  - Transsexualism
+
+MH  - Sex Reassignment Surgery
+UI  - D057830
+MN  - E2.906.500
+MN  - E4.680.750
+MN  - E4.950.449
+MS  - Surgical treatments used to change the physiological sexual
+      characteristics of an individual.
+HN  - 2011
+FX  - Transsexualism
+
+MH  - Side-Population Cells
+UI  - D058985
+MN  - A11.872.785
+MS  - A group of cells identified on FLOW CYTOMETRY profiles as distinct
+      from the main group of cells by their ability to extrude the
+      fluorescent dye Hoechst 33342, often a characteristic property of less
+      differentiated progenitor and STEM CELLS.
+AN  - coordinate with specific progenitor cell type if pertinent
+HN  - 2011
+
+MH  - Silica Gel
+UI  - D058428
+MN  - D1.837.725.700.379
+MN  - D20.280.320.687
+MN  - D26.255.165.320.687
+MS  - A non-crystalline form of silicon oxide that has absorptive
+      properties. It is commonly used as a desiccating agent and as a
+      stationary phase for CHROMATOGRAPHY. The fully hydrated form of silica
+      gel has distinct properties and is referred to as SILICIC ACID.
+HN  - 2011
+
+MH  - Single Umbilical Artery
+UI  - D058529
+MN  - C14.240.850.976
+MN  - C16.131.240.850.952
+MS  - Congenital abnormality where one, instead of the usual two, UMBILICAL
+      ARTERY connects the fetus to the placenta.
+HN  - 2011
+
+MH  - Single-Cell Analysis
+UI  - D059010
+MN  - E5.200.500.900
+MS  - Assaying the products of or monitoring various biochemical processes
+      and reactions in an individual cell.
+AN  - permitted with microorganisms
+HN  - 2011
+
+MH  - Sister Mary Joseph's Nodule
+UI  - D058288
+MN  - C4.588.33.740
+MS  - Metastatic lesion of the UMBILICUS associated with intra-abdominal
+      neoplasms especially of the GASTROINTESTINAL TRACT or OVARY.
+HN  - 2011
+
+MH  - Small Business
+UI  - D058012
+MN  - J1.219.921
+MS  - For-profit enterprise with relatively few to moderate number of
+      employees and low to moderate volume of sales.
+HN  - 2011
+
+MH  - Smith-Magenis Syndrome
+UI  - D058496
+MN  - C10.281.900
+MN  - C16.131.77.879
+MN  - C16.131.260.887
+MN  - C16.320.180.887
+MS  - Complex neurobehavioral disorder characterized by distinctive facial
+      features (FACIES), developmental delay and mental retardation.
+      Behavioral phenotypes include sleep disturbance, maladaptive,
+      self-injurious and attention-seeking behaviors. The sleep disturbance
+      is linked to an abnormal circadian secretion pattern of MELATONIN. The
+      syndrome is associated with de novo deletion or mutation and
+      HAPLOINSUFFICIENCY of the retinoic acid-induced 1 protein on
+      chromosome 17p11.2.
+HN  - 2011
+FX  - Chronobiology Disorders
+
+MH  - Social Participation
+UI  - D058992
+MN  - I3.50.750
+MS  - Involvement in community activities or programs.
+HN  - 2011
+
+MH  - Social Stigma
+UI  - D057545
+MN  - F1.145.813.927
+MS  - A perceived attribute that is deeply discrediting and is considered to
+      be a violation of social norms.
+HN  - 2011
+FX  - Shame
+
+MH  - Sorting Nexins
+UI  - D058305
+MN  - D12.776.543.990.150.875
+MS  - A large family of phosphatidylinositol phosphate-binding proteins that
+      are involved in mediating intracellular transport and sorting of
+      proteins via a variety of endocytic pathways.
+HN  - 2011
+
+MH  - Sotos Syndrome
+UI  - D058495
+MN  - C16.131.77.889
+MN  - C16.131.260.905
+MN  - C16.320.180.905
+MS  - Congenital or postnatal overgrowth syndrome most often in height and
+      occipitofrontal circumference with variable delayed motor and
+      cognitive development. Other associated features include advanced bone
+      age, seizures, NEONATAL JAUNDICE; HYPOTONIA; and SCOLIOSIS. It is also
+      associated with increased risk of developing neoplasms in adulthood.
+      Mutations in the NSD1 protein and its HAPLOINSUFFICIENCY are
+      associated with the syndrome.
+HN  - 2011
+FX  - Fetal Macrosomia
+FX  - Gigantism
+
+MH  - Spinal Cord Regeneration
+UI  - D058630
+MN  - G11.561.600.615.500
+MN  - G16.100.856.611.500
+MS  - Repair of the damaged neuron function after SPINAL CORD INJURY or
+      SPINAL CORD DISEASES.
+HN  - 2011
+FX  - Spinal Cord Injuries
+
+MH  - Spirogyra
+UI  - D058131
+MN  - B1.650.940.800.150.990.800
+MS  - A genus of filamentous algae in the order ZYGNEMATALES, family
+      Zygnemataceae, named for the helical arrangement of its CHLOROPLASTS.
+      It is commonly found in freshwater habitats.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Sporangia
+UI  - D058432
+MN  - A18.560
+MN  - A19.800
+MS  - A structure found in plants, fungi, and algae, that produces and
+      contains spores.
+HN  - 2011
+BX  - Sporangium
+
+MH  - Sporosarcina
+UI  - D058644
+MN  - B3.300.390.825
+MN  - B3.510.100.100.600.700
+MN  - B3.510.400.630.700
+MN  - B3.510.415.700
+MS  - A genus of endospore-forming bacteria in the family PLANOCOCCACEAE.
+      The species are strict or facultative anerobes.
+HN  - 2011
+
+MH  - Standard of Care
+UI  - D059039
+MN  - N4.761.789.900
+MN  - N5.715.840
+MS  - The minimum acceptable patient care, based on statutes, court
+      decisions, policies, or professional guidelines.
+HN  - 2011
+
+MH  - Staphylococcus hyicus
+UI  - D057788
+MN  - B3.300.390.400.800.750.435
+MN  - B3.510.100.750.750.435
+MN  - B3.510.400.790.750.435
+MS  - A species of gram-positive bacteria in the family STAPHYLOCOCCACEAE.
+      It is an important opportunistic pathogen in swine.
+AN  - infection: coordinate IM with STAPHYLOCOCCAL INFECTIONS (IM)
+HN  - 2011
+
+MH  - Staphylococcus intermedius
+UI  - D057789
+MN  - B3.300.390.400.800.750.445
+MN  - B3.510.100.750.750.445
+MN  - B3.510.400.790.750.445
+MS  - A species of gram-positive bacteria in the family STAPHYLOCOCCACEAE.
+      It is a zoonotic organism and common commensal in dogs, but can cause
+      disease in dogs and other animals. It also can be associated with
+      human disease.
+AN  - infection: coordinate IM with STAPHYLOCOCCAL INFECTIONS (IM)
+HN  - 2011
+
+MH  - Staphylococcus lugdunensis
+UI  - D057787
+MN  - B3.300.390.400.800.750.500
+MN  - B3.510.100.750.750.500
+MN  - B3.510.400.790.750.500
+MS  - A species of gram-positive bacteria in the family STAPHYLOCOCCACEAE.
+      It is responsible for skin and soft-tissue infections among others,
+      and is part of the normal human skin flora.
+AN  - infection: coordinate IM with STAPHYLOCOCCAL INFECTIONS (IM)
+HN  - 2011
+
+MH  - Staphylococcus saprophyticus
+UI  - D057790
+MN  - B3.300.390.400.800.750.750
+MN  - B3.510.100.750.750.750
+MN  - B3.510.400.790.750.750
+MS  - A species of gram-positive bacteria in the family STAPHYLOCOCCACEAE.
+      It commonly causes urinary tract infections in humans.
+AN  - infection: coordinate IM with STAPHYLOCOCCAL INFECTIONS (IM)
+HN  - 2011
+
+MH  - Stem Cell Research
+UI  - D057905
+MN  - E5.864
+MN  - H1.770.644.145.512
+MS  - Experimentation on STEM CELLS and on the use of stem cells.
+AN  - IM for ethical, legal, moral, social, or religious aspects of research
+      on embryos; do not routinely add for research involving stem cells;
+      coordinate with specific type of stem cell if pertinent; note entry
+      term EMBRYONIC STEM CELL RESEARCH: coordinate with EMBRYONIC STEM
+      CELLS but not also with EMBRYO RESEARCH
+HN  - 2011
+FX  - Embryo Research
+FX  - Stem Cells
+
+MH  - Sterol 14-Demethylase
+UI  - D058886
+MN  - D8.244.453.915.880
+MN  - D8.811.682.690.708.170.915.880
+MN  - D8.811.682.690.708.783.880
+MN  - D12.776.422.220.453.915.880
+MS  - An NADPH-dependent P450 enzyme that plays an essential role in the
+      sterol biosynthetic pathway by catalyzing the demethylation of
+      14-methyl sterols such as lanosterol. The enzyme acts via the repeated
+      hydroxylation of the 14-methyl group, resulting in its stepwise
+      conversion into an alcohol, an aldehyde and then a carboxylate, which
+      is removed as formic acid. Sterol 14-demethylase is an unusual
+      cytochrome P450 enzyme in that it is found in a broad variety of
+      organisms including ANIMALS; PLANTS; FUNGI; and protozoa.
+HN  - 2011
+BX  - Sterol 14-Demethylases
+
+MH  - Stramenopiles
+UI  - D058009
+MN  - B1.750
+MS  - A common name (but used formally) for a group of organisms that are
+      mostly kinds of algae including BACILLARIOPHYTA; OOMYCETES;
+      PHAEOPHYCEAE; and CHRYSOPHYCEAE. They all contain CHLOROPLASTS that
+      are thought to have been derived from the endosymbiosis of ancient RED
+      ALGAE.
+AN  - general or unspecified; prefer specifics
+HN  - 2011
+BX  - Heterokonts
+
+MH  - Streptophyta
+UI  - D057949
+MN  - B1.650.940.800
+MS  - A phylum of green plants comprising CHAROPHYCEAE (streptophyte green
+      algae) and EMBRYOPHYTA (land plants).
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Stretchers
+UI  - D058254
+MN  - E7.325.220.500
+MN  - N2.421.297.879.550
+MS  - Bed-like structures for transporting or temporarily holding patients.
+HN  - 2011
+BX  - Patient Holding Stretchers
+FX  - Transportation of Patients
+
+MH  - Striae Distensae
+UI  - D057896
+MN  - C23.888.885.800
+MS  - Linear dermal scars accompanied by epidermal atrophy that affects skin
+      that is subjected to continuous stretching. They usually do not cause
+      any significant medical problems, only cosmetic problems.
+HN  - 2011
+
+MH  - Subretinal Fluid
+UI  - D058471
+MN  - A12.383.800
+MS  - An exudate between the RETINA and CHOROID from various sources
+      including the vitreous cavity, SUBARACHNOID SPACE, or abnormal
+      vessels.
+HN  - 2011
+
+MH  - Suicidal Ideation
+UI  - D059020
+MN  - F1.145.126.980.875.149
+MN  - I1.880.735.856.149
+MS  - A risk factor for suicide attempts and completions, it is the most
+      common of all suicidal behavior, but only a minority of ideators
+      engage in overt self-harm.
+HN  - 2011
+
+MH  - Sumoylation
+UI  - D058207
+MN  - G2.111.87.675.871.790.600.925.500
+MN  - G2.111.87.693.600.775.500
+MN  - G2.149.115.675.871.790.600.831.500
+MN  - G2.149.115.693.600.850.500
+MN  - G3.495.770.871.790.600.831.500
+MN  - G5.355.315.670.600.831.500
+MS  - A type of POST-TRANSLATIONAL PROTEIN MODIFICATION by SMALL
+      UBIQUITIN-RELATED MODIFIER PROTEINS (also known as SUMO proteins).
+HN  - 2011
+
+MH  - Surgical Attire
+UI  - D058257
+MN  - E7.325.877
+MN  - E7.858.594
+MS  - Sterile clothing worn during surgical procedures to protect the
+      surgical site from sources of contamination.
+HN  - 2011
+
+MH  - Surgical Drapes
+UI  - D058636
+MN  - E7.325.137.750
+MN  - E7.858.642
+MS  - Sterile fabric or fabric-like material used to isolate the surgical
+      site from the rest of the body and other possible sources of
+      contamination.
+HN  - 2011
+
+MH  - Synbiotics
+UI  - D058616
+MN  - J2.500.456.716
+MS  - Nutritional supplements combining PROBIOTICS (bacteria) and PREBIOTICS
+      (sugars).
+HN  - 2011
+
+MH  - Synthetic Biology
+UI  - D058615
+MN  - H1.158.273.904
+MN  - J1.293.69.500
+MS  - A field of biological research combining engineering in the
+      formulation, design, and building (synthesis) of novel biological
+      structures, functions, and systems.
+AN  - IM for the discipline (education, history, etc); NIM as a coordinate
+      for studies involving specific synthetic biology concepts and
+      applications
+HN  - 2011
+
+MH  - Tardigrada
+UI  - D058467
+MN  - B1.50.500.901
+MS  - A phylum of microscopic ecdysozoan invertebrates, closely related to
+      ARTHROPODS. Members exhibit anabiosis and cryptobiosis, dormant states
+      where metabolic activity is reduced or absent, thus making them
+      tolerant to extreme environmental conditions. They are distributed
+      worldwide and most are semi-aquatic.
+HN  - 2011
+
+MH  - Tenon Capsule
+UI  - D058475
+MN  - A2.340.800
+MN  - A9.371.839
+MS  - Sheath of the eyeball consisting of fascia extending from the OPTIC
+      NERVE to the corneal limbus.
+HN  - 2011
+
+MH  - Tenotomy
+UI  - D058971
+MN  - E4.555.712
+MS  - Surgical division of a tendon for relief of a deformity that is caused
+      by congenital or acquired shortening of a muscle (Stedman, 27th ed).
+      Tenotomy is performed in order to lengthen a muscle that has developed
+      improperly, or become shortened and is resistant to stretching.
+HN  - 2011
+
+MH  - Test Taking Skills
+UI  - D058013
+MN  - I2.399.890
+MS  - Skills and strategies, unrelated to the traits a test is intended to
+      measure, that may increase test takers' scores -- may include the
+      effects of coaching or experience in taking tests. (ERIC Thesaurus)
+HN  - 2011
+BX  - Test Wiseness
+BX  - Test-Taking
+
+MH  - Tetraploidy
+UI  - D057891
+MN  - C23.550.210.702.249
+MN  - G5.365.590.175.677.249
+MN  - G5.700.740.249
+MS  - The presence of four sets of chromosomes. It is associated with
+      ABNORMALITIES, MULTIPLE; and MISCARRAGES.
+HN  - 2011
+
+MH  - Tetrasomy
+UI  - D058670
+MN  - C23.550.210.50.625
+MN  - C23.550.210.182.249
+MN  - G5.365.590.175.50.625
+MN  - G5.365.590.175.183.249
+MN  - G5.700.131.625
+MS  - The possession of four chromosomes of any one type in an otherwise
+      diploid cell.
+AN  - coordinate IM with specific chromosome number (IM)
+HN  - 2011
+BX  - Partial Tetrasomy
+
+MH  - Th1-Th2 Balance
+UI  - D058408
+MN  - G2.111.840
+MS  - Homeostatic control of the immune system by secretion of different
+      cytokines by the Th1 and Th2 cells. The concentration dependent
+      binding of the various cytokines to specific receptors determines the
+      balance (or imbalance leading to disease).
+HN  - 2011
+FX  - CD4 Lymphocyte Count
+
+MH  - Th17 Cells
+UI  - D058504
+MN  - A11.118.637.555.567.569.200.400.915
+MN  - A15.145.229.637.555.567.569.200.400.770
+MN  - A15.382.490.555.567.569.200.400.915
+MS  - Subset of helper-effector T-lymphocytes which synthesize and secrete
+      IL-17, IL-17F, and IL-22. These cytokines are involved in host
+      defenses and tissue inflammation in autoimmune diseases.
+HN  - 2011
+
+MH  - Thienopyridines
+UI  - D058924
+MN  - D2.886.778.823
+MN  - D3.383.725.849
+MN  - D3.383.903.830
+MN  - D3.438.928
+MS  - Heterocyclic compounds that contain 4H,5H,6H,7H-thieno[2,3-c]pyridine
+      as part of their structure.
+HN  - 2011
+
+MH  - Time-Lapse Imaging
+UI  - D059008
+MN  - E1.370.350.600.817
+MN  - E5.712.657
+MN  - L1.240.960.399
+MS  - Recording serial images of a process at regular intervals spaced out
+      over a longer period of time than the time in which the recordings
+      will be played back.
+AN  - coordinate with specific imaging technique (MICROSCOPY, MOLECULAR
+      IMAGING, etc) if pertinent
+HN  - 2011
+
+MH  - Tooth Bleaching Agents
+UI  - D058205
+MN  - D27.720.642.315.500
+MS  - Chemicals that are used to oxidize pigments in TEETH and thus effect
+      whitening.
+HN  - 2011
+FX  - Tooth Bleaching
+
+MH  - Topoisomerase I Inhibitors
+UI  - D059004
+MN  - D27.505.519.389.892.500
+MN  - D27.505.954.248.794.500
+MS  - Compounds that inhibit the activity of DNA TOPOISOMERASE I.
+HN  - 2011
+BX  - Topoisomerase 1 Inhibitors
+
+MH  - Topoisomerase II Inhibitors
+UI  - D059005
+MN  - D27.505.519.389.892.750
+MN  - D27.505.954.248.794.750
+MS  - Compounds that inhibit the activity of DNA TOPOISOMERASE II.
+HN  - 2011
+BX  - Topoisomerase 2 Inhibitors
+
+MH  - Topoisomerase Inhibitors
+UI  - D059003
+MN  - D27.505.519.389.892
+MN  - D27.505.954.248.794
+MS  - Compounds that inhibit the activity of DNA TOPOISOMERASES.
+HN  - 2011
+
+MH  - TOR Serine-Threonine Kinases
+UI  - D058570
+MN  - D8.811.913.696.620.682.700.931
+MN  - D12.776.476.925
+MS  - A serine threonine kinase that controls a wide range of growth-related
+      cellular processes. The protein is referred to as the target of
+      RAPAMYCIN due to the discovery that TACROLIMUS (commonly known as
+      rapamycin) forms an inhibitory complex with TACROLIMUS BINDING PROTEIN
+      1A that blocks the action of its enzymatic activity.
+HN  - 2011
+BX  - mTOR Serine-Threonine Kinases
+BX  - TOR Kinases
+
+MH  - Transcellular Cell Migration
+UI  - D057688
+MN  - G3.495.166.962.500
+MN  - G4.299.283.900
+MN  - G4.299.345.500.500
+MN  - G4.299.482.685.500
+MN  - G4.299.490.790.500
+MS  - The movement of one cell into, through, and out of another cell.
+HN  - 2011
+FX  - Transendothelial and Transepithelial Migration
+
+MH  - Transcription Factor 3
+UI  - D058127
+MN  - D12.776.260.103.500.875
+MN  - D12.776.260.108.92.875
+MN  - D12.776.930.125.500.875
+MN  - D12.776.930.127.92.875
+MS  - A basic helix-loop-helix transcription factor that plays a role in
+      determining cell fate during embryogenesis. It forms a heterodimer
+      with TWIST TRANSCRIPTION FACTOR and ACHAETE-SCUTE GENE COMPLEX-related
+      TRANSCRIPTION FACTORS.
+HN  - 2011; use TRANSCRIPTION FACTOR 7 LIKE 1 PROTEIN 1996-2009
+BX  - Transcription Factor E2-alpha
+
+MH  - Transcription Factor 7-Like 1 Protein
+UI  - D058125
+MN  - D12.776.260.730.812
+MN  - D12.776.660.235.400.800.812
+MN  - D12.776.664.235.400.800.812
+MN  - D12.776.930.875.812
+MS  - A transcription factor that takes part in WNT signaling pathway where
+      it may play a role in the differentiation of KERATINOCYTES. The
+      transcriptional activity of this protein is regulated via its
+      interaction with BETA CATENIN.
+HN  - 2011
+
+MH  - Transcription Factor 7-Like 2 Protein
+UI  - D058118
+MN  - D12.776.260.730.875
+MN  - D12.776.660.235.400.800.875
+MN  - D12.776.664.235.400.800.875
+MN  - D12.776.930.875.875
+MS  - A transcription factor that takes part in WNT signaling pathway. The
+      activity of the protein is regulated via its interaction with BETA
+      CATENIN. Transcription factor 7-like 2 protein plays an important role
+      in the embryogenesis of the PANCREAS and ISLET CELLS.
+HN  - 2011
+
+MH  - Transcytosis
+UI  - D057900
+MN  - G3.495.166.962
+MN  - G4.299.482.685
+MN  - G4.299.490.790
+MS  - The transport of materials through a cell. It includes the uptake of
+      materials by the cell (ENDOCYTOSIS), the movement of those materials
+      through the cell, and the subsequent secretion of those materials
+      (EXOCYTOSIS).
+HN  - 2011
+
+MH  - Transdermal Patch
+UI  - D057968
+MN  - E2.319.267.120.60.500
+MS  - A medicated adhesive patch placed on the skin to deliver a specific
+      dose of medication into the bloodstream.
+HN  - 2011
+
+MH  - Transendothelial and Transepithelial Migration
+UI  - D057705
+MN  - G4.299.283.950
+MN  - G7.700.560.500.180.500
+MS  - The passage of cells across the layer of ENDOTHELIAL CELLS, i.e., the
+      ENDOTHELIUM; or across the layer of EPITHELIAL CELLS, i.e. the
+      EPITHELIUM.
+HN  - 2011
+BX  - Transendothelial Migration
+FX  - Capillary Permeability
+FX  - Transcellular Cell Migration
+
+MH  - Transmyocardial Laser Revascularization
+UI  - D057769
+MN  - E4.100.376.719.666
+MN  - E4.928.220.520.610
+MS  - A procedure to increase the flow of blood to the MYOCARDIUM by
+      creating transmural channels in the heart wall via the application of
+      laser pulses to epicardial or endocardial surfaces.
+HN  - 2011
+
+MH  - Trichiasis
+UI  - D058457
+MN  - C11.338.912
+MS  - A disease of the eye in which the eyelashes abnormally turn inwards
+      toward the eyeball producing constant irritation caused by motion of
+      the lids.
+HN  - 2011
+
+MH  - Triploidy
+UI  - D057885
+MN  - C23.550.210.702.500
+MN  - G5.365.590.175.677.500
+MN  - G5.700.740.500
+MS  - Polyploidy with three sets of chromosomes. Triploidy in humans are
+      69XXX, 69XXY, and 69XYY. It is associated with HOLOPROSENCEPHALY;
+      ABNORMALITIES, MULTIPLE; PARTIAL HYDATIDIFORM MOLE; and MISCARRAGES.
+HN  - 2011
+FX  - Trisomy
+
+MH  - Trypanosoma rangeli
+UI  - D057509
+MN  - B1.268.475.868.887.680
+MS  - A hemoflagellate parasite affecting domestic and wild animals, as well
+      as humans and invertebrates. Though it induces an immune response, it
+      is non-pathogenic in humans and other vertebrates. It is
+      cross-reactive with TRYPANOSOMA CRUZI and can thus cause false
+      positives for CHAGAS DISEASE.
+AN  - infection: coordinate IM with TRYPANOSOMIASIS (IM)
+HN  - 2011
+
+MH  - Tumor Microenvironment
+UI  - D059016
+MN  - G4.835
+MS  - The milieu surrounding neoplasms consisting of cells, vessels, soluble
+      factors, and molecules, that can influence and be influenced by, the
+      neoplasm's growth.
+HN  - 2011
+
+MH  - Tunga
+UI  - D058253
+MN  - B1.50.500.131.617.750.800
+MS  - A genus of parasitic fleas in the family Pulicidae. They are found
+      mainly in Africa, South America, and Central America.
+AN  - infestation = TUNGIASIS; for killing Tunga with insecticides, see note
+      at INSECTICIDES
+HN  - 2011
+BX  - Sand Flea
+BX  - Tunga penetrans
+
+MH  - Tungiasis
+UI  - D058285
+MN  - C3.858.211.250.800
+MS  - An infestation with the flea TUNGA PENETRANS causing inflammation,
+      pruritus, and pain, in both humans and other mammals. There is a high
+      incidence of secondary infections such as BACTEREMIA and TETANUS.
+HN  - 2011
+
+MH  - Two-Dimensional Difference Gel Electrophoresis
+UI  - D057825
+MN  - E5.196.401.250.500
+MN  - E5.196.401.402.250.500
+MN  - E5.301.300.230.500
+MN  - E5.301.300.319.450.500
+MS  - Methods of comparing two or more samples on the same two-dimensional
+      gel electrophoresis gel.
+HN  - 2011
+
+MH  - United States Department of Defense
+UI  - D059030
+MN  - I1.409.137.500.500
+MN  - N3.540.348.500.500.500
+MS  - A cabinet department in the Executive Branch of the United States
+      Government whose mission is to provide the military forces needed to
+      deter war and to protect the security of our country.
+AN  - add UNITED STATES; research support by this agency is checked as
+      RESEARCH SUPPORT, U.S. GOV'T, NON-P.H.S.; CATALOG: use NAF entry
+HN  - 2011
+
+MH  - Uromodulin
+UI  - D058949
+MN  - D12.776.395.550.448.850
+MN  - D12.776.395.560.912
+MN  - D12.776.543.484.500.850
+MN  - D12.776.543.550.418.850
+MS  - A glycosyl-phosphatidyl-inositol (GPI) - anchored membrane protein
+      found on the thick ascending limb of the LOOP OF HENLE. The cleaved
+      form of the protein is found abundantly in URINE.
+HN  - 2011
+
+MH  - Uterine Balloon Tamponade
+UI  - D058738
+MN  - E2.148.106.500
+MN  - E2.520.179.500
+MS  - Inflation of a balloon catheter within the uterine cavity to control
+      UTERINE HEMORRHAGE.
+HN  - 2011
+
+MH  - Vaccines, Virus-Like Particle
+UI  - D058425
+MN  - D12.776.828.868.955
+MN  - D20.215.894.865.955
+MN  - D23.50.865.955
+MS  - Vaccines using supra-molecular structures composed of multiple copies
+      of recombinantly expressed viral structural proteins. They are often
+      antigentically indistinguishable from the virus from which they were
+      derived.
+HN  - 2011
+BX  - Virus-Like Particle Vaccines
+
+MH  - Vacuolar Sorting Protein VPS15
+UI  - D058571
+MN  - D8.811.913.696.620.500.100.300.500
+MN  - D8.811.913.696.620.682.700.965
+MN  - D12.776.476.171.500
+MN  - D12.776.543.990.175.500
+MS  - A 150 kDa protein serine-threonine kinase that is found as a
+      regulatory subunit of the class III phosphatidylinositol 3-kinases.
+      The protein is believed to play an important role in the regulation of
+      vesicular trafficking with the cell.
+HN  - 2011
+
+MH  - Vascular Grafting
+UI  - D058017
+MN  - E4.100.814.868
+MS  - Surgical insertion of BLOOD VESSEL PROSTHESES, or transplanted BLOOD
+      VESSELS, or other biological material to repair injured or diseased
+      blood vessels.
+AN  - coordinate with specific blood vessel/transpl if pertinent
+HN  - 2011
+
+MH  - Vascular System Injuries
+UI  - D057772
+MN  - C14.907.937
+MN  - C26.940
+MS  - Injuries to blood vessels caused by laceration, contusion, puncture,
+      or crush and other types of injuries. Symptoms vary by site and mode
+      of injuries and may include bleeding, bruising, swelling, pain, and
+      numbness. It does not include injuries secondary to pathologic
+      function or diseases such as ATHEROSCLEROSIS.
+AN  - coordinate with ARTERIES / inj or VEINS /inj or specific artery or
+      vein / inj
+HN  - 2011
+BX  - Vascular Injuries
+
+MH  - Vestibular Evoked Myogenic Potentials
+UI  - D058585
+MN  - G7.265.500.385.500
+MN  - G7.265.500.712
+MS  - Recorded electrical responses from muscles, especially the neck
+      muscles or muscles around the eyes, following stimulation of the EAR
+      VESTIBULE.
+HN  - 2011
+FX  - Vestibular Function Tests
+
+MH  - Veterans Health
+UI  - D058014
+MN  - N1.400.850
+MS  - The concept covering the physical and mental conditions of VETERANS.
+HN  - 2011
+FX  - Veterans
+
+MH  - Video-Audio Media
+UI  - D059040
+MN  - V1.255.500
+MS  - Used with articles which include video files or clips, or for articles
+      which are entirely video.
+AN  - this heading is used as a Publication Type; CATALOG: do not use
+HN  - 2011
+
+MH  - Virgibacillus
+UI  - D058679
+MN  - B3.300.390.400.158.900
+MN  - B3.510.415.400.158.900
+MN  - B3.510.460.410.158.900
+MS  - A genus of GRAM-POSITIVE ENDOSPORE-FORMING RODS in the family
+      BACILLACEAE. They have been isolated from salty environments, food,
+      water, and clinical specimens.
+HN  - 2011
+
+MH  - Viridiplantae
+UI  - D057948
+MN  - B1.650.940
+MS  - A monophyletic group of green plants that includes all land plants
+      (EMBRYOPHYTA) and all green algae (CHLOROPHYTA and STREPTOPHYTA).
+AN  - general or unspecified; prefer specifics; coordinate with specific
+      PLANT STRUCTURES term if pertinent; for use in therapy coordinate IM
+      with PHYTOTHERAPY (IM) + disease/drug ther (IM) + PLANT PREPARATIONS
+      or its indentations/ ther use (IM or NIM) + specific plant chemical
+      /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011
+
+MH  - Virus Uncoating
+UI  - D057646
+MN  - G6.920.875.890
+MS  - Intracellular step that follows VIRUS INTERNALIZATION during which the
+      viral nucleic acid and CAPSID are separated.
+HN  - 2011
+
+MH  - Visual Field Tests
+UI  - D058609
+MN  - E1.370.380.850.962
+MS  - Method of measuring and mapping the scope of vision, from central to
+      peripheral of each eye.
+AN  - VISUAL FIELDS is also available
+HN  - 2011
+
+MH  - Visual Prosthesis
+UI  - D057488
+MN  - E7.695.950
+MS  - Artificial device such as an externally-worn camera attached to a
+      stimulator on the RETINA, OPTIC NERVE, or VISUAL CORTEX, intended to
+      restore or amplify vision.
+HN  - 2011
+
+MH  - Vitelliform Macular Dystrophy
+UI  - D057826
+MN  - C11.204.236.719
+MN  - C11.270.162.719
+MN  - C16.320.290.162.705
+MS  - Autosomal dominant hereditary maculopathy with childhood-onset
+      accumulation of LIPOFUSION in RETINAL PIGMENT EPITHELIUM. Affected
+      individuals develop progressive central acuity loss, and distorted
+      vision (METAMORPHOPSIA). It is associated with mutations in
+      bestrophin, a chloride channel.
+HN  - 2011
+FX  - Macular Degeneration
+
+MH  - Vitreoretinal Surgery
+UI  - D057586
+MN  - E4.540.980
+MS  - Specialized ophthalmic technique used in the surgical repair and or
+      treatment of disorders that include retinal tears or detachment;
+      MACULAR HOLES; hereditary retinal disease; AIDS-related retinal
+      infections; ocular tumors; MACULAR DEGENERATION; DIABETIC RETINOPATHY;
+      and UVEITIS.
+HN  - 2011
+
+MH  - Vitrification
+UI  - D058989
+MN  - G1.595.680.625
+MS  - The transformation of a liquid to a glassy solid i.e., without the
+      formation of crystals during the cooling process.
+HN  - 2011
+FX  - Cryopreservation
+
+MH  - Walker-Warburg Syndrome
+UI  - D058494
+MN  - C10.500.507.249.249.500
+MN  - C11.270.881
+MN  - C16.131.666.507.186.249.500
+MN  - C16.320.577.750
+MS  - Rare autosomal recessive lissencephaly type 2 associated with
+      congenital MUSCULAR DYSTROPHY and eye anomalies (e.g., RETINAL
+      DETACHMENT; CATARACT; MICROPHTHALMOS). It is often associated with
+      additional brain malformations such as HYDROCEPHALY and cerebellar
+      hypoplasia and is the most severe form of the group of related
+      syndromes (alpha-dystroglycanopathies) with common congenital
+      abnormalities in the brain, eye and muscle development.
+HN  - 2011
+BX  - alpha-Dystroglycanopathies
+BX  - Cerebromuscular Dystrophy, Fukuyama Type
+BX  - Chemke Syndrome
+BX  - Fukuyama Congenital Muscular Dystrophy
+BX  - Fukuyama Type Congenital Muscular Dystrophy
+BX  - Muscle-Eye-Brain Disease
+BX  - Muscular Dystrophy, Congenital, Fukuyama Type
+BX  - Warburg Syndrome
+FX  - Dystroglycans
+
+MH  - Watchful Waiting
+UI  - D057832
+MN  - N4.761.559.590.900
+MS  - Clinical management approach wherein immediate therapy is not provided
+      but there is a period of observation during which periodic tests
+      monitor patient and the progression of the illness.  (Driffield T,
+      Smith PC  Med Decis Making. 2007 Mar-Apr;27(2):178-88)
+AN  - do not confuse with WRITING or PUBLISHING
+HN  - 2011
+
+MH  - Water Cycle
+UI  - D058438
+MN  - G1.311.340.950
+MN  - G16.500.240.795
+MS  - Circulation of water among various ecological systems, in various
+      states, on, above, and below the surface of the earth.
+HN  - 2011
+FX  - Water Movements
+
+MH  - Wavelet Analysis
+UI  - D058067
+MN  - E5.959
+MN  - G17.915
+MN  - L1.224.800.750
+MS  - Signal and data processing method that uses decomposition of wavelets
+      to approximate, estimate, or compress signals with finite time and
+      frequency domains.  It represents a signal or data in terms of a fast
+      decaying wavelet series from the original prototype wavelet, called
+      the mother wavelet. This mathematical algorithm has been adopted
+      widely in biomedical disciplines for data and signal processing in
+      noise removal and audio/image compression (e.g., EEG and MRI).
+HN  - 2011
+FX  - Fourier Analysis
+
+MH  - Weed Control
+UI  - D058728
+MN  - J1.40.947
+MS  - The prevention of growth and or spread of unwanted plants.
+HN  - 2011
+FX  - Herbicides
+FX  - Pest Control
+FX  - Plant Weeds
+
+MH  - Weissella
+UI  - D058836
+MN  - B3.510.550.475.900
+MS  - A genus of gram-positive, asporogenous, lactic acid bacteria, in the
+      family LEUCONOSTOCACEAE.
+AN  - infection: coordinate IM with GRAM POSITIVE BACTERIAL INFECTIONS (IM)
+HN  - 2011
+
+MH  - Wireless Technology
+UI  - D059015
+MN  - L1.178.847.950
+MS  - Techniques using energy such as radio frequency, infrared light, laser
+      light, visible light, or acoustic energy to transfer information
+      without the use of wires, over both short and long distances.
+HN  - 2011
+
+MH  - Wound Closure Techniques
+UI  - D058106
+MN  - E4.987
+MS  - Methods to repair breaks in tissue caused by trauma or to close
+      surgical incisions.
+HN  - 2011
+
+MH  - Xenopsylla
+UI  - D058260
+MN  - B1.50.500.131.617.750.950
+MS  - A genus of fleas in the family Pulicidae which includes the species
+      that serves as the primary vector of BUBONIC PLAGUE, Xenopsylla
+      cheopis.
+AN  - infestation: coordinate IM with FLEA INFESTATIONS (IM); for killing
+      Xenopsylla with insecticides, see note at INSECTICIDES
+HN  - 2011
+
+MH  - Xenotropic murine leukemia virus-related virus
+UI  - D058008
+MN  - B4.820.650.375.930
+MS  - An endogenous GAMMARETROVIRUS from the germ line of mice but isolated
+      from humans. It has close similarity to xenotropic MURINE LEUKEMIA
+      VIRUS.
+AN  - infection: coordinate IM with RETROVIRIDAE INFECTIONS (IM)
+HN  - 2011
+BX  - Xenotropic MuLV-related virus
+BX  - XMRV Virus
+
+MH  - Zygnematales
+UI  - D058129
+MN  - B1.650.940.800.150.990
+MS  - An order of freshwater algae possessing unbranched filaments. Sexual
+      reproduction takes place via conjugation.
+AN  - coordinate with specific PLANT STRUCTURES term if pertinent; for use
+      in therapy coordinate IM with PHYTOTHERAPY (IM) + disease/drug ther
+      (IM) + PLANT PREPARATIONS or its indentations/ ther use (IM or NIM) +
+      specific plant chemical /ther use (IM) if pertinent; Manual 26.29
+HN  - 2011

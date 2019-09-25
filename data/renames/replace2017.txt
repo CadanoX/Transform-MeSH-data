@@ -1,0 +1,247 @@
+File write open                                                                                                
+MH Changes and deletes                                                                                         
+                                                                                                               
+# = delete                                                                                                     
+[] = new status of old term (P = EP; N = EN or PT; C = SCR term; M = MH; null = old term not in New MeSH)      
+* = old term in a different record than the new term                                                           
+                                                                                                               
+                                                                                                               
+MH OLD = Agavaceae # [P]                                                                                       
+MH NEW = Asparagaceae                                                                                          
+                                                                                                               
+MH OLD = Anoxia [P]                                                                                            
+MH NEW = Hypoxia                                                                                               
+                                                                                                               
+MH OLD = Astronomical Processes # [P]                                                                          
+MH NEW = Astronomical Phenomena                                                                                
+                                                                                                               
+MH OLD = B-Cell-Specific Activator Protein [P]                                                                 
+MH NEW = PAX5 Transcription Factor                                                                             
+                                                                                                               
+MH OLD = Bacterial Processes # [P]                                                                             
+MH NEW = Bacterial Physiological Phenomena                                                                     
+                                                                                                               
+MH OLD = Bicyclo Compounds [P]                                                                                 
+MH NEW = Bridged Bicyclo Compounds                                                                             
+                                                                                                               
+MH OLD = Bicyclo Compounds, Heterocyclic [P]                                                                   
+MH NEW = Bridged Bicyclo Compounds, Heterocyclic                                                               
+                                                                                                               
+MH OLD = Biochemical Processes # [P]                                                                           
+MH NEW = Biochemical Phenomena                                                                                 
+                                                                                                               
+MH OLD = Biological Processes # [P]                                                                            
+MH NEW = Biological Phenomena                                                                                  
+                                                                                                               
+MH OLD = Biophysical Processes # [P]                                                                           
+MH NEW = Biophysical Phenomena                                                                                 
+                                                                                                               
+MH OLD = Blood Physiological Processes # [P]                                                                   
+MH NEW = Blood Physiological Phenomena                                                                         
+                                                                                                               
+MH OLD = Blueberry Plant [P]                                                                                   
+MH NEW = Blueberry Plants                                                                                      
+                                                                                                               
+MH OLD = Body, Physical Appearance [N]                                                                         
+MH NEW = Physical Appearance, Body                                                                             
+                                                                                                               
+MH OLD = Bridged Compounds [P]                                                                                 
+MH NEW = Bridged-Ring Compounds                                                                                
+                                                                                                               
+MH OLD = Camels [P]                                                                                            
+MH NEW = Camelus                                                                                               
+                                                                                                               
+MH OLD = Cardiovascular Physiological Processes # [P]                                                          
+MH NEW = Cardiovascular Physiological Phenomena                                                                
+                                                                                                               
+MH OLD = Cell Physiological Processes # [P]                                                                    
+MH NEW = Cell Physiological Phenomena                                                                          
+                                                                                                               
+MH OLD = Chemical Processes # [P]                                                                              
+MH NEW = Chemical Phenomena                                                                                    
+                                                                                                               
+MH OLD = Chitinase [P]                                                                                         
+MH NEW = Chitinases                                                                                            
+                                                                                                               
+MH OLD = Consumer Participation [P]                                                                            
+MH NEW = Community Participation                                                                               
+                                                                                                               
+MH OLD = Dental Physiological Processes # [P]                                                                  
+MH NEW = Dental Physiological Phenomena                                                                        
+                                                                                                               
+MH OLD = Digestive System Processes # [P]                                                                      
+MH NEW = Digestive System Physiological Phenomena                                                              
+                                                                                                               
+MH OLD = Dislocations []                                                                                       
+MH NEW = Joint Dislocations                                                                                    
+                                                                                                               
+MH OLD = Drug-Induced Liver Injury [P]                                                                         
+MH NEW = Chemical and Drug Induced Liver Injury                                                                
+                                                                                                               
+MH OLD = Ecological and Environmental Processes # [P]                                                          
+MH NEW = Ecological and Environmental Phenomena                                                                
+                                                                                                               
+MH OLD = Electrophysiological Processes # [P]                                                                  
+MH NEW = Electrophysiological Phenomena                                                                        
+                                                                                                               
+MH OLD = Food Habits # [P]                                                                                     
+MH NEW = Feeding Behavior                                                                                      
+                                                                                                               
+MH OLD = Functional Behavior, Psychology # []                                                                  
+MH NEW = Behavior                                                                                              
+                                                                                                               
+MH OLD = G0 Phase [P]                                                                                          
+MH NEW = Resting Phase, Cell Cycle                                                                             
+                                                                                                               
+MH OLD = Genetic Processes # [P]                                                                               
+MH NEW = Genetic Phenomena                                                                                     
+                                                                                                               
+MH OLD = Geological Processes # [P]                                                                            
+MH NEW = Geological Phenomena                                                                                  
+                                                                                                               
+MH OLD = Gizzard [P]                                                                                           
+MH NEW = Gizzard, Avian                                                                                        
+                                                                                                               
+MH OLD = Great Britain [P]                                                                                     
+MH NEW = United Kingdom                                                                                        
+                                                                                                               
+MH OLD = Guanylate Kinase [P]                                                                                  
+MH NEW = Guanylate Kinases                                                                                     
+                                                                                                               
+MH OLD = Heterocyclic Compounds with 4 or More Rings [P]                                                       
+MH NEW = Heterocyclic Compounds, 4 or More Rings                                                               
+                                                                                                               
+MH OLD = Immune System Processes # [P]                                                                         
+MH NEW = Immune System Phenomena                                                                               
+                                                                                                               
+MH OLD = Immunogenetic Processes # [P]                                                                         
+MH NEW = Immunogenetic Phenomena                                                                               
+                                                                                                               
+MH OLD = Institute of Medicine (U.S.) [P]                                                                      
+MH NEW = National Academies of Science, Engineering, and Medicine (U.S.) Health and Medicine Division          
+                                                                                                               
+MH OLD = Lecithin Acyltransferase Deficiency []                                                                
+MH NEW = Lecithin Cholesterol Acyltransferase Deficiency                                                       
+                                                                                                               
+MH OLD = Lotus # []                                                                                            
+MH NEW = Loteae                                                                                                
+                                                                                                               
+MH OLD = Mechanical Processes # [P]                                                                            
+MH NEW = Mechanical Phenomena                                                                                  
+                                                                                                               
+MH OLD = Metabolic Phenomena # [P]                                                                             
+MH NEW = Metabolism                                                                                            
+                                                                                                               
+MH OLD = Microbiological Processes # [P]                                                                       
+MH NEW = Microbiological Phenomena                                                                             
+                                                                                                               
+MH OLD = Microfilaria [P]                                                                                      
+MH NEW = Microfilariae                                                                                         
+                                                                                                               
+MH OLD = Mild Cognitive Impairment [P]                                                                         
+MH NEW = Cognitive Dysfunction                                                                                 
+                                                                                                               
+MH OLD = Musculoskeletal Physiological Processes # [P]                                                         
+MH NEW = Musculoskeletal Physiological Phenomena                                                               
+                                                                                                               
+MH OLD = Nervous System Physiological Processes # [P]                                                          
+MH NEW = Nervous System Physiological Phenomena                                                                
+                                                                                                               
+MH OLD = Nutrition Processes # [P]                                                                             
+MH NEW = Nutritional Physiological Phenomena                                                                   
+                                                                                                               
+MH OLD = Obsessive Hoarding [P*]                                                                               
+MH NEW = Hoarding                                                                                              
+                                                                                                               
+MH OLD = Ocular Physiological Processes # [P]                                                                  
+MH NEW = Ocular Physiological Phenomena                                                                        
+                                                                                                               
+MH OLD = Odors [P]                                                                                             
+MH NEW = Odorants                                                                                              
+                                                                                                               
+MH OLD = Optical Processes # [P]                                                                               
+MH NEW = Optical Phenomena                                                                                     
+                                                                                                               
+MH OLD = Organic Anion Transport Polypeptide C [P]                                                             
+MH NEW = Solute Carrier Organic Anion Transporter Family Member 1b1                                            
+                                                                                                               
+MH OLD = Organic Chemistry Processes # [P]                                                                     
+MH NEW = Organic Chemistry Phenomena                                                                           
+                                                                                                               
+MH OLD = Pharmacists' Aides [P]                                                                                
+MH NEW = Pharmacy Technicians                                                                                  
+                                                                                                               
+MH OLD = Physical Processes # [P]                                                                              
+MH NEW = Physical Phenomena                                                                                    
+                                                                                                               
+MH OLD = Physicochemical Phenomena # [P]                                                                       
+MH NEW = Chemical Phenomena                                                                                    
+                                                                                                               
+MH OLD = Physicochemical Processes # [P]                                                                       
+MH NEW = Chemical Phenomena                                                                                    
+                                                                                                               
+MH OLD = Physiological Processes # [P]                                                                         
+MH NEW = Physiological Phenomena                                                                               
+                                                                                                               
+MH OLD = Plant Physiological Processes # [P]                                                                   
+MH NEW = Plant Physiological Phenomena                                                                         
+                                                                                                               
+MH OLD = Pneumocystis jirovecii # [P]                                                                          
+MH NEW = Pneumocystis carinii                                                                                  
+                                                                                                               
+MH OLD = Pneumocytes [P]                                                                                       
+MH NEW = Alveolar Epithelial Cells                                                                             
+                                                                                                               
+MH OLD = Polycyclic Hydrocarbons, Aromatic [P]                                                                 
+MH NEW = Polycyclic Aromatic Hydrocarbons                                                                      
+                                                                                                               
+MH OLD = Prostitution [P]                                                                                      
+MH NEW = Sex Work                                                                                              
+                                                                                                               
+MH OLD = Psilocybine [P]                                                                                       
+MH NEW = Psilocybin                                                                                            
+                                                                                                               
+MH OLD = Renal Osteodystrophy [P]                                                                              
+MH NEW = Chronic Kidney Disease-Mineral and Bone Disorder                                                      
+                                                                                                               
+MH OLD = Reproductive Physiological Processes # [P]                                                            
+MH NEW = Reproductive Physiological Phenomena                                                                  
+                                                                                                               
+MH OLD = Respiratory Physiological Processes # [P]                                                             
+MH NEW = Respiratory Physiological Phenomena                                                                   
+                                                                                                               
+MH OLD = RNA Recognition Motif (RRM) Proteins []                                                               
+MH NEW = RNA Recognition Motif Proteins                                                                        
+                                                                                                               
+MH OLD = Skin Physiological Processes # [P]                                                                    
+MH NEW = Skin Physiological Phenomena                                                                          
+                                                                                                               
+MH OLD = Smilacina [P]                                                                                         
+MH NEW = Maianthemum                                                                                           
+                                                                                                               
+MH OLD = Tetrachlorodibenzodioxin # [P]                                                                        
+MH NEW = Polychlorinated Dibenzodioxins                                                                        
+                                                                                                               
+MH OLD = Tooth Movement [P]                                                                                    
+MH NEW = Tooth Movement Techniques                                                                             
+                                                                                                               
+MH OLD = Twist Transcription Factor [P]                                                                        
+MH NEW = Twist-Related Protein 1                                                                               
+                                                                                                               
+MH OLD = Urginea [P]                                                                                           
+MH NEW = Drimia                                                                                                
+                                                                                                               
+MH OLD = Urinary Tract Physiological Processes # [P]                                                           
+MH NEW = Urinary Tract Physiological Phenomena                                                                 
+                                                                                                               
+MH OLD = Virus Physiological Processes # [P]                                                                   
+MH NEW = Virus Physiological Phenomena                                                                         
+                                                                                                               
+File write not open                                                                                            
+                                                                                                               
+Total replaced     = 35                                                                                        
+Total deleted      = 42                                                                                        
+Total without YE   = 0                                                                                         
+
+PL/SQL procedure successfully completed.
+
