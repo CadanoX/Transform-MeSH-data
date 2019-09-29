@@ -9,8 +9,7 @@ fs.mkdirSync(outputPath, { recursive: true });
 // read all input files
 fs.readdirSync(path).forEach(filename => {
   let data = readDataFile(path + filename);
-  if (!!data)
-    storeDataFile(outputPath + "new" + filename, data);
+  if (!!data) storeDataFile(outputPath + "new" + filename, data);
 });
 
 function readDataFile(filepath) {
@@ -19,18 +18,77 @@ function readDataFile(filepath) {
   let lines = content.split("\n");
 
   let contentStartRow = findContentStart(lines);
-  if (contentStartRow == -1) { console.error("No table found"); return; }
-  let columnStarts = getColumnStarts(lines[contentStartRow - 1])
+  if (contentStartRow == -1) {
+    console.error("No table found");
+    return;
+  }
+  let columnStarts = getColumnStarts(lines[contentStartRow - 1]);
 
   // go through the content lines
   let previousName;
+  let prevIdType;
   for (let row = contentStartRow; row < lines.length; row++) {
     let line = lines[row];
+    line = line.replace("\r", "");
     if (line == "") continue; // ignore blank lines
-    if (line.includes("(")) continue; // ignore comments in parantheses
+    if (line.includes("(Replaced")) continue; // ignore comments in parantheses
+    let columns = findColumns(line);
 
-    let content = findEntries(line, columnStarts);
-    data.push(content);
+    // the content should be "name, oldID, newID"
+    // if the name is missing, use the name of the previous row
+    // if the oldId is missing, it is a new node
+    // if the newId is missing, the node is deleted
+    let name, oldId, newId;
+    let firstIsName = false;
+    let onlyName = false;
+
+    if (!isId(columns[0].text)) {
+      previousName = name = columns[0].text;
+      firstIsName = true;
+      prevIdType = null;
+    } else name = previousName;
+
+    if (columns.length === 3) {
+      // all entries are given
+      oldId = columns[1].text;
+      newId = columns[2].text;
+    } else if (columns.length === 2) {
+      if (firstIsName) {
+        // only 1 id is given --> find out which
+        if (columns[1].start == columnStarts[1]) {
+          oldId = columns[1].text;
+          prevIdType = "old";
+        } else {
+          newId = columns[1].text;
+          prevIdType = "new";
+        }
+      } else {
+        // both entries are IDs
+        oldId = columns[0].text;
+        newId = columns[1].text;
+      }
+    } else {
+      // only 1 entry is given
+      if (firstIsName) onlyName = true;
+      // if the only entry is a name, the IDs stand on the next line
+      else {
+        // entry is id, find out which
+        if (columns[0].start == columnStarts[1]) oldId = columns[0].text;
+        else if (columns[0].start == columnStarts[2]) newId = columns[0].text;
+        else {
+          // format is screwed up
+          // id is in the next line in the column of the name
+          // we do not know if the id is old or new
+          // our best guess is that the id will be of the same type as the id on the previous line
+          if (prevIdType == "old") oldId = columns[0].text;
+          else if (prevIdType == "new") newId = columns[0].text;
+          // if there is no previous id for the given name, assume that the node got removed
+          else oldId = columns[0].text;
+        }
+      }
+    }
+
+    if (!onlyName) data.push([name, oldId, newId]);
   }
   return data;
 }
@@ -46,10 +104,8 @@ function storeDataFile(filepath, data) {
   file.end();
 }
 
-function isID(string) {
-  let chars = string.split("");
-  if (isDigit(chars[1]) && isDigit(chars[chars.length - 1])) return true;
-  return false;
+function isId(string) {
+  return /^[A-Z]\d+(.\d+)*$/.test(string);
 }
 
 function isDigit(char) {
@@ -60,8 +116,7 @@ function findContentStart(lines) {
   let tableStart = 0;
   for (let line of lines) {
     tableStart++;
-    if (line.startsWith("---"))
-      return tableStart;
+    if (line.startsWith("---")) return tableStart;
   }
   return -1;
 }
@@ -78,7 +133,7 @@ function getColumnStarts(line) {
   return columnStarts;
 }
 
-function findEntries(line, columnStarts) {
+function findColumns(line) {
   let contentRanges = { start: [], end: [] };
   let col = 0;
   let lastChar;
@@ -102,37 +157,12 @@ function findEntries(line, columnStarts) {
   //finish last column which does not end on double space
   contentRanges.end[col] = i;
 
-  let content = [];
+  let entries = [];
   for (let i = 0; i < contentRanges.start.length; i++)
-    content[i] = line.slice(contentRanges.start[i], contentRanges.end[i]);
+    entries.push({
+      start: contentRanges.start[i],
+      text: line.slice(contentRanges.start[i], contentRanges.end[i])
+    });
 
-  // the content should be "name, oldID, newID"
-  // if the name is missing, use the name of the previous row
-  // if the oldId is missing, it is a new node
-  // if the newId is missing, the node is deleted
-  let name, oldId, newId;
-  if (contentRanges.start.length === 3) {
-    previousName = name = content[0];
-    oldId = content[1];
-    newId = content[2];
-  } else if (contentRanges.start.length === 2) {
-    // if name is defined
-    if (contentRanges.start[0] == columnStarts[0]) {
-      previousName = name = content[0];
-      // only 1 id is given
-      if (contentRanges.start[1] == columnStarts[1]) oldId = content[1];
-      else newId = content[1];
-    } else {
-      name = previousName;
-      oldId = content[0];
-      newId = content[1];
-    }
-  } else {
-    // only 1 id is defined
-    name = previousName;
-    if (contentRanges.start[0] == columnStarts[1]) oldId = content[0];
-    else newId = content[0];
-  }
-
-  return [name, oldId, newId];
+  return entries;
 }
