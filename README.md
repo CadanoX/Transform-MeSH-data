@@ -20,6 +20,8 @@ Difficulties when parsing the data:
  - Includes empty columns
  - Includes blank lines
  - Includes random comments inbetween table rows (marked in parantheses) such as "(Replaced for 2001 by Aortic Stenosis, Subvalvular)"
+ - Table format can be broken, with a name exceeding its column and showing IDs in the next row outside their columns
+ - IDs are incorrectly stored without preceding zeros (G1.23 instead of G01.023)
 
 The output will be in a semicolon separated values format (because comma can be part of the name):
 ```Acanthocytes;A11.118.413.330.100;A11.118.290.330.100

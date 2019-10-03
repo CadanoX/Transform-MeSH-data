@@ -29,7 +29,7 @@ function readDataFile(filepath) {
   let prevIdType;
   for (let row = contentStartRow; row < lines.length; row++) {
     let line = lines[row];
-    line = line.replace("\r", "");
+    line = line.replace("\r", ""); // remove \r, otherwise we get non-empty lines only including that character
     if (line == "") continue; // ignore blank lines
     if (line.includes("(Replaced")) continue; // ignore comments in parantheses
     let columns = findColumns(line);
@@ -88,7 +88,11 @@ function readDataFile(filepath) {
       }
     }
 
-    if (!onlyName) data.push([name, oldId, newId]);
+    if (!onlyName) {
+      oldId = correctId(oldId);
+      newId = correctId(newId);
+      data.push([name, oldId, newId]);
+    }
   }
   return data;
 }
@@ -165,4 +169,22 @@ function findColumns(line) {
     });
 
   return entries;
+}
+
+// add preceding zeros to IDs to form groups of 3 characters (G1.23 --> G01.023)
+function correctId(id) {
+  if (id) {
+    let parts = id.split('.');
+
+    // correct first part of the ID which starts with a character
+    let chars = parts[0].split('');
+    if (chars.length == 2)
+      parts[0] = chars[0] + '0' + chars[1];
+    
+    // correct all other parts by adding preceding zeros and trimming to 3 digits
+    for (let i = 1; i < parts.length; i++)
+      parts[i] = ("000" + parts[i]).slice(-3);
+
+    return parts.join('.');
+  }
 }
