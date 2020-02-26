@@ -27,11 +27,16 @@ function readDataFile(filepath) {
   // go through the content lines
   let previousName;
   let prevIdType;
+  let prevOldId;
+
   for (let row = contentStartRow; row < lines.length; row++) {
     let line = lines[row];
-    line = line.replace("\r", ""); // remove \r, otherwise we get non-empty lines only including that character
-    if (line == "") continue; // ignore blank lines
-    if (line.includes("(Replaced")) continue; // ignore comments in parantheses
+	// remove \r, otherwise we get non-empty lines only including that character
+    line = line.replace("\r", "");
+	// ignore blank lines
+    if (line == "") continue;
+	// ignore comments in parantheses
+    if (line.includes("(Replaced")) continue;
     let columns = findColumns(line);
 
     // the content should be "name, oldID, newID"
@@ -46,13 +51,16 @@ function readDataFile(filepath) {
       previousName = name = columns[0].text;
       firstIsName = true;
       prevIdType = null;
+      prevOldId = null;
     } else name = previousName;
 
+    // if all entries are given
     if (columns.length === 3) {
-      // all entries are given
       oldId = columns[1].text;
       newId = columns[2].text;
-    } else if (columns.length === 2) {
+    }
+	// if 2 entries are given
+	else if (columns.length === 2) {
       if (firstIsName) {
         // only 1 id is given --> find out which
         if (columns[1].start == columnStarts[1]) {
@@ -67,8 +75,9 @@ function readDataFile(filepath) {
         oldId = columns[0].text;
         newId = columns[1].text;
       }
-    } else {
-      // only 1 entry is given
+    }
+	// if 1 entry is given
+	else {
       if (firstIsName) onlyName = true;
       // if the only entry is a name, the IDs stand on the next line
       else {
@@ -89,6 +98,13 @@ function readDataFile(filepath) {
     }
 
     if (!onlyName) {
+      // if a node moved, check if other nodes with the same name were added
+      // and include them as a split
+      if (!oldId)
+        oldId = prevOldId;
+      else
+        prevOldId = oldId;
+
       oldId = correctId(oldId);
       newId = correctId(newId);
       data.push([name, oldId, newId]);
